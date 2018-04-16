@@ -1,0 +1,47 @@
+'08 powershell how to make a special alias path':
+  '''
+    title
+        파워셸 컴퓨터 또는 드라이브에 독립적인 특수 실행파일 별칭 만들기
+
+    desc
+        make a computer/drive independent special alias without adding all PATH variables to system PATH by using special virtual drive p: and link it to c:\\paths then add that p: drive to do all the path import work.
+
+
+    ref
+
+
+    dep
+        Windows 10, powershell, fsutils
+
+    tag
+        #windows, #powershell, #tweak, #fsutils
+
+  '''
+
+'inst':
+    '''
+    1. make a folder "c:\\paths"
+      cd c:\\
+      mkdir paths
+    2. make virtual drive 'p:' of the folder
+      subst p: C:\\paths
+    3. make all hard links for executables. repeat
+      below is example
+
+      # fsutil.exe hardlink create c:\\paths\\pwsh.shim C:\\apps\\scoop\\shims\\pwsh.shim
+
+    3. or write a powershell script and run once.
+
+      $originalDir = Get-Location | Select -ExpandProperty Path
+
+      cd C:\\Apps\\Scoop\\shims
+      (Get-ChildItem -Path $path -Recurse -Filter "*") |% {fsutil.exe hardlink create "C:\\paths\\$($_.name)" $_.fullname}
+
+      cd $originalDir
+
+
+    4. add p: to system PATH
+
+
+
+    '''
