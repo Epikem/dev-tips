@@ -1,0 +1,23 @@
+'14 react js re export module':
+  '''
+    title
+      14 react js re export module
+
+    desc
+      자바스크립트 노드 리액트에서 다른 파일의 default export된 모듈을 읽어서 다시 내보낸다.
+
+    ref
+
+
+    dep
+      node, react, js
+
+    tag
+      #node, #react, #js, #javascript, #ecmascript
+
+  '''
+
+'.source.js':
+  'react js re export module':
+    'prefix': 'rem'
+    'body': 'export {default} from \'./$1\';$0'
