@@ -1,0 +1,30 @@
+'markdown-insert-code':
+  '''
+    title
+      markdown insert file code snippet
+
+    desc
+      inserts file code snippet
+
+    ref
+
+    dep
+
+    tag
+      #markdown, #md
+
+  '''
+
+# use below code if this is not 'how to' but a snippet.
+'.source.gfm, .text.md':
+  'markdown insert file code snippet':
+    'prefix': 'ic'
+    'body':
+      '''
+> :file_folder: ${1:filename}
+```${2:extension}
+${3:body}
+}
+```
+${0}
+'''
