@@ -1,0 +1,107 @@
+# Your snippets
+#
+# Atom snippets allow you to enter a simple prefix in the editor and hit tab to
+# expand the prefix into a larger code block with templated values.
+#
+# You can create a new snippet in this file by typing "snip" and then hitting
+# tab.
+#
+# An example CoffeeScript snippet to expand log to console.log:
+#
+# '.source.coffee':
+#   'Console log':
+#     'prefix': 'log'
+#     'body': 'console.log $1'
+#
+# Each scope (e.g. '.source.coffee' above) can only be declared once.
+#
+# This file uses CoffeeScript Object Notation (CSON).
+# If you are unfamiliar with CSON, you can read more about it in the
+# Atom Flight Manual:
+# http://flight-manual.atom.io/using-atom/sections/basic-customization/#_cson
+'03 git clone a repository':
+  '''
+    title
+        깃 저장소 복제
+
+    description
+        clones a git repository
+        깃 저장소 복제
+
+    tags
+        #git, #github
+
+  '''
+
+# body
+'command':
+    'git clone <repository url> <folder name>'
+'02 javascript console log':
+  '''
+  title
+    console log
+    콘솔 출력
+
+  description
+    logs an output to console
+    콘솔에 출력하기
+  '''
+
+# body
+'.source.js.jsx':
+  'Console log':
+    'prefix': 'log'
+    'body': 'console.log($1)$0'
+'markdown insert code':
+  '''
+    title
+      markdown insert file code snippet
+
+    desc
+      inserts file code snippet
+
+    ref
+
+    dep
+
+    tag
+      #markdown, #md
+
+  '''
+
+# use below code if this is not 'how to' but a snippet.
+'.source.gfm .text.md':
+  'markdown insert file code snippet':
+    'prefix': 'ic'
+    'body':
+      '''
+> :file_folder: ${1:filename}
+```${2:extension}
+${3:body}
+}
+```
+${0}
+'''
+'14 react js re export module':
+  '''
+    title
+      14 react js re export module
+
+    desc
+      자바스크립트 노드 리액트에서 다른 파일의 default export된 모듈을 읽어서 다시 내보낸다.
+
+    ref
+
+
+    dep
+      node, react, js
+
+    tag
+      #node, #react, #js, #javascript, #ecmascript
+
+  '''
+
+'.source.js':
+  'react js re export module':
+    'prefix': 'rem'
+    'body': 'export {default} from \'./$1\';$0'

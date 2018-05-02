@@ -1,0 +1,31 @@
+'99 how to template':
+  '''
+    title
+      99 how to template
+
+    desc
+      when is this needed, what does this do.
+
+    ref
+      reference site1
+      reference stie2
+
+    dep
+      dependency1, dependency2
+
+    tag
+      #tag1, #tag2
+
+  '''
+  
+# use below code if this is a 'how to'
+'inst':
+    '''
+    instruction to do what title says.
+    '''
+
+# use below code if this is not 'how to' but a snippet.
+'.source.js':
+  'example snippet name':
+    'prefix': 'example snippet shortcut'
+    'body': 'example snippet body$0'
