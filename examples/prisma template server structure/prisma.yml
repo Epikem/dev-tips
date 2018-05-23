@@ -1,0 +1,4 @@
+endpoint: https://eu1.prisma.sh/dltldls95-e747dc/hackernews-graphql-js/dev/
+datamodel: datamodel.graphql
+
+secret: mysecret123 # your API secret

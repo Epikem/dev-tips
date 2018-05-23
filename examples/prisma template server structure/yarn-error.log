@@ -1,0 +1,44 @@
+Arguments: 
+  C:\Apps\Scoop\apps\nvm\current\nodejs\nodejs\node.exe C:\Apps\Scoop\apps\yarn\current\Yarn\bin\yarn.js graphql
+
+PATH: 
+  C:\Apps\Scoop\apps\cmder\current\bin;C:\Apps\Scoop\apps\cmder\current\vendor\conemu-maximus5\ConEmu\Scripts;C:\Apps\Scoop\apps\cmder\current\vendor\conemu-maximus5;C:\Apps\Scoop\apps\cmder\current\vendor\conemu-maximus5\ConEmu;C:\Apps\Scoop\apps\pwsh\current;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Intel\iCLS Client\;C:\Program Files\Intel\iCLS Client\;C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v7.5\bin;C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v7.5\libnvvp;C:\ProgramData\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Users\siin\.dnx\bin;C:\Program Files\Microsoft DNX\Dnvm\;C:\Program Files\Microsoft SQL Server\120\Tools\Binn\;d:\Program Files\MATLAB\R2015b\bin;C:\Program Files\Microsoft\Web Platform Installer\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;C:\Program Files\dotnet\;C:\Apps\Scoop\apps\ruby\current\gems\bin;C:\Apps\Scoop\apps\ruby\current\bin;C:\Apps\Scoop\apps\python27\current\scripts;C:\Apps\Scoop\apps\python\current\scripts;C:\Apps\Scoop\apps\dotnet-sdk\current;C:\Apps\Scoop\apps\yarn\current\Yarn\bin;C:\Apps\Scoop\apps\yarn\current\bin;C:\Apps\Scoop\apps\latex\current\texmfs\install\miktex\bin;C:\Apps\Scoop\apps\ruby19\current\bin;C:\Apps\Scoop\apps\nvm\current\nodejs\nodejs;C:\Program Files (x86)\Java\jdk1.7.0_55\bin;C:\Program Files (x86)\Java\jre1.8.0_65;C:\Program Files (x86)\Java\jdk1.7.0_55;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;C:\Users\siin\AppData\Local\Yarn\Data\global\node_modules\.bin;C:\Apps\Scoop\shims;C:\Program Files (x86)\Microsoft Visual Studio\2017\BuildTools\MSBuild\15.0\Bin;C:\Apps\Scoop\apps\cmder\current
+
+Yarn version: 
+  1.6.0
+
+Node version: 
+  9.10.0
+
+Platform: 
+  win32 x64
+
+Trace: 
+  SyntaxError: C:\Users\siin\Source\Repos\Playground\reactql1\db\package.json: Unexpected token 
+   in JSON at position 131
+      at JSON.parse (<anonymous>)
+      at C:\Apps\Scoop\apps\yarn\1.6.0\Yarn\lib\cli.js:1130:59
+      at Generator.next (<anonymous>)
+      at step (C:\Apps\Scoop\apps\yarn\1.6.0\Yarn\lib\cli.js:98:30)
+      at C:\Apps\Scoop\apps\yarn\1.6.0\Yarn\lib\cli.js:109:13
+      at <anonymous>
+
+npm manifest: 
+  {
+    "name": "db",
+    "version": "1.0.0",
+    "main": "index.js",
+    "license": "MIT",
+    "scripts": {
+      "graphql": "graphql get-schema
+  --endpoint https://eu1.prisma.sh/public-lucksight-113/myservice/dev
+  --header Authorization=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkYXRhIjp7InNlcnZpY2UiOiJkYXRhYmFzZUBkZXYiLCJyb2xlcyI6WyJhZG1pbiJdfSwiaWF0IjoxNTI0NzUyNjQyLCJleHAiOjE1MjUzNTc0NDJ9.ricwDHJoHtmYN8ZD4ldjH3ek_YMIUJqervXZ0ApjYpU 
+  --output prisma.graphql"
+    }
+  }
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
