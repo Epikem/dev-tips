@@ -1,7 +1,7 @@
 # dev-tips
 
 Collection of dev tips by [epikem](www.github.com/epikem). Inspired by https://github.com/HomoEfficio/dev-tips and https://github.com/jbranchaud/til.
-
+ 
 
 ## table of contents
 - [dev-tips](#dev-tips)
