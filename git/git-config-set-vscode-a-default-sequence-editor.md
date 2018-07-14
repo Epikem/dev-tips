@@ -1,11 +1,14 @@
-# git config set vscode a default sequence editor
+# git-config-set-vscode-a-default-sequence-editor
 
-----
-[TOC]
+비주얼 스튜디오 코드를 깃의 기본 에디터로 설정하기
 
-## title
+--------------------------
 
- 비주얼 스튜디오 코드를 깃의 기본 에디터로 설정하기
+- [desc](#desc)
+- [inst](#inst)
+- [dep](#dep)
+- [ref](#ref)
+- [tags](#tags)
 
 ## desc
   깃 diff, commit message 등의 명령에서 vim 인터페이스 대신 vscode를 기본 에디터로 사용
@@ -26,14 +29,14 @@
 
 6. 끝.
 
-  This leverages the new `--diff` option you can pass to VS Code to compare two files side by side.
-
-  To summarize, here are some examples of where you can use Git with VS Code:
-
-  `git rebase HEAD~3 -i` allows to interactive rebase using VS Code
-  `git commit` allows to use VS Code for the commit message
-  `git add -p` followed by `e` for interactive add
-  `git difftool <commit>^ <commit>` allows to use VS Code as diff editor for changes
+>  This leverages the new `--diff` option you can pass to VS Code to compare two files side by side.
+>
+>  To summarize, here are some examples of where you can use Git with VS Code:
+>
+>  `git rebase HEAD~3 -i` allows to interactive rebase using VS Code
+>  `git commit` allows to use VS Code for the commit message
+>  `git add -p` followed by `e` for interactive add
+>  `git difftool <commit>^ <commit>` allows to use VS Code as diff editor for changes
 ## dep
   - git
   - vscode
@@ -42,7 +45,7 @@
   - [stackoverflow](https://stackoverflow.com/questions/30024353/how-to-use-visual-studio-code-as-default-editor-for-git/36644561)
 
 ## tags
-  [#git](#title), #github, #vscode, #howto
+  #git, #vscode
 
 
 ----
