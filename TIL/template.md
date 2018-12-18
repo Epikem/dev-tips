@@ -4,7 +4,12 @@
 
 --------------------------
 
-[TOC]
+
+- [desc](#desc)
+- [inst](#inst)
+- [dep](#dep)
+- [ref](#ref)
+- [tags](#tags)
 
 ## desc
 - description

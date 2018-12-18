@@ -1,8 +1,6 @@
 # git-config-set-vscode-a-default-sequence-editor
 
-비주얼 스튜디오 코드를 깃의 기본 에디터로 설정하기
-
---------------------------
+----
 
 - [desc](#desc)
 - [inst](#inst)
