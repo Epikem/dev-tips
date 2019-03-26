@@ -22,61 +22,61 @@ Collection of dev tips by [epikem](www.github.com/epikem). Inspired by https://g
 ## algorithm
 
 ## cloud
-- [gcp-basic-project-setup-tutorial-compute-engine-quick-start](cloud/gcp-basic-project-setup-tutorial-compute-engine-quick-start)
+- [gcp-basic-project-setup-tutorial-compute-engine-quick-start](cloud/gcp-basic-project-setup-tutorial-compute-engine-quick-start.md)
 
 ## docker
-- [docker-cheat-sheet](docker/docker-cheat-sheet)
-- [docker-copy-host-file-to-container](docker/docker-copy-host-file-to-container)
+- [docker-cheat-sheet](docker/docker-cheat-sheet.md)
+- [docker-copy-host-file-to-container](docker/docker-copy-host-file-to-container.md)
 
 ## graphql
-- [graphql-basics](graphql/graphql-basics)
+- [graphql-basics](graphql/graphql-basics.md)
 
 ## git
-- [git-backup-and-restore-branch-using-other-remote-repository](git/git-backup-and-restore-branch-using-other-remote-repository)
-- [git-config-set-vscode-a-default-sequence-editor](git/git-config-set-vscode-a-default-sequence-editor)
-- [git-config-set-default-origin-push-target-branch-to-current-branch](git/git-config-set-default-origin-push-target-branch-to-current-branch)
-- [git-log-prettify](git/git-log-prettify)
-- [git-checkout-to-undo-local-changes-of-a-file](git/git-checkout-to-undo-local-changes-of-a-file)
-- [git-exclude-files-locally-without-gitignore](git/git-exclude-files-locally-without-gitignore)
-- [git-merge](git/git-merge)
-- [git-push](git/git-push)
-- [git-pull](git/git-pull)
-- [git-pull-with-force](git/git-pull-with-force)
-- [git-subtree](git/git-subtree)
-- [git-subtree-split-folder-to-new-branch](git/git-subtree-split-folder-to-new-branch)
-- [git-subtree-push-from-parent-project-to-child](git/git-subtree-push-from-parent-project-to-child)
+- [git-backup-and-restore-branch-using-other-remote-repository](git/git-backup-and-restore-branch-using-other-remote-repository.md)
+- [git-config-set-vscode-a-default-sequence-editor](git/git-config-set-vscode-a-default-sequence-editor.md)
+- [git-config-set-default-origin-push-target-branch-to-current-branch](git/git-config-set-default-origin-push-target-branch-to-current-branch.md)
+- [git-log-prettify](git/git-log-prettify.md)
+- [git-checkout-to-undo-local-changes-of-a-file](git/git-checkout-to-undo-local-changes-of-a-file.md)
+- [git-exclude-files-locally-without-gitignore](git/git-exclude-files-locally-without-gitignore.md)
+- [git-merge](git/git-merge.md)
+- [git-push](git/git-push.md)
+- [git-pull](git/git-pull.md)
+- [git-pull-with-force](git/git-pull-with-force.md)
+- [git-subtree](git/git-subtree.md)
+- [git-subtree-split-folder-to-new-branch](git/git-subtree-split-folder-to-new-branch.md)
+- [git-subtree-push-from-parent-project-to-child](git/git-subtree-push-from-parent-project-to-child.md)
 
 ## javascript
-- [js-tips](javascript/js-tips)
+- [js-tips](javascript/js-tips.md)
 
 ### nodejs
-- [webpack-node-js-add-folder-alias-for-import](javascript/nodejs/webpack-node-js-add-folder-alias-for-import)
-- [node-js-babel-use-react-preset](javascript/nodejs/node-js-babel-use-react-preset)
-- [node-js-babel-use-latest-ecmascript-versions](javascript/nodejs/node-js-babel-use-latest-ecmascript-versions)
-- [windows-nodejs-resolving-node-gyp-related-problems](javascript/nodejs/windows-nodejs-resolving-node-gyp-related-problems)
-- [windows-nodejs-install-node-canvas](javascript/nodejs/windows-nodejs-install-node-canvas)
+- [webpack-node-js-add-folder-alias-for-import](javascript/nodejs/webpack-node-js-add-folder-alias-for-import.md)
+- [node-js-babel-use-react-preset](javascript/nodejs/node-js-babel-use-react-preset.md)
+- [node-js-babel-use-latest-ecmascript-versions](javascript/nodejs/node-js-babel-use-latest-ecmascript-versions.md)
+- [windows-nodejs-resolving-node-gyp-related-problems](javascript/nodejs/windows-nodejs-resolving-node-gyp-related-problems.md)
+- [windows-nodejs-install-node-canvas](javascript/nodejs/windows-nodejs-install-node-canvas.md)
 
 ### react
-- [react-node-js-set-routes](javascript/react/react-node-js-set-routes)
-- [react-node-js-install-styled-components](javascript/react/react-node-js-install-styled-components)
-- [react-node-js-use-styled-components-theme](javascript/react/react-node-js-use-styled-components-theme)
+- [react-node-js-set-routes](javascript/react/react-node-js-set-routes.md)
+- [react-node-js-install-styled-components](javascript/react/react-node-js-install-styled-components.md)
+- [react-node-js-use-styled-components-theme](javascript/react/react-node-js-use-styled-components-theme.md)
 
 ## python
-- [python-pip-virtualenv](python/python-pip-virtualenv)
-- [python-pip-set-mirror-url](python/python-pip-set-mirror-url)
+- [python-pip-virtualenv](python/python-pip-virtualenv.md)
+- [python-pip-set-mirror-url](python/python-pip-set-mirror-url.md)
 
 ## powershell
-- [powershell-get-file-list-of-a-directory](powershell/powershell-get-file-list-of-a-directory)
+- [powershell-get-file-list-of-a-directory](powershell/powershell-get-file-list-of-a-directory.md)
 
 ## polyglot
-- [array-initialization-and-manipulation](polyglot/array-initialization-and-manipulation)
-- [convert-between-string-and-int](polyglot/convert-between-string-and-int)
-- [switch-with-enum-or-iterable-type](polyglot/switch-with-enum-or-iterable-type)
+- [array-initialization-and-manipulation](polyglot/array-initialization-and-manipulation.md)
+- [convert-between-string-and-int](polyglot/convert-between-string-and-int.md)
+- [switch-with-enum-or-iterable-type](polyglot/switch-with-enum-or-iterable-type.md)
 
 ## environment setting
-- [visual-studio-code-setting-for-c-and-cpp-debugging](env/visual-studio-code-setting-for-c-and-cpp-debugging)
-- [visual-studio-c++-windows-targeting-the-windows-subsystem-for-linux-to-use-gnu-gcc-compilers](env/visual-studio-c++-windows-targeting-the-windows-subsystem-for-linux-to-use-gnu-gcc-compilers)
-- [linux-download-node-and-setup](env/linux-download-node-and-setup)
+- [visual-studio-code-setting-for-c-and-cpp-debugging](env/visual-studio-code-setting-for-c-and-cpp-debugging.md)
+- [visual-studio-c++-windows-targeting-the-windows-subsystem-for-linux-to-use-gnu-gcc-compilers](env/visual-studio-c++-windows-targeting-the-windows-subsystem-for-linux-to-use-gnu-gcc-compilers.md)
+- [linux-download-node-and-setup](env/linux-download-node-and-setup.md)
 
 ## snippets
 
