@@ -1,0 +1,25 @@
+{
+  "files.associations": {
+    "*.PBot": "javascript",
+    "random": "cpp",
+    "iostream": "cpp",
+    "*.tcc": "cpp",
+    "list": "cpp",
+    "array": "cpp",
+    "bitset": "cpp",
+    "string_view": "cpp",
+    "initializer_list": "cpp",
+    "regex": "cpp",
+    "utility": "cpp",
+    "valarray": "cpp",
+    "iosfwd": "cpp",
+    "fstream": "cpp",
+    "ios": "cpp",
+    "sstream": "cpp",
+    "xlocbuf": "cpp",
+    "xtree": "cpp",
+    "xiosbase": "cpp"
+  },
+  "C_Cpp.intelliSenseEngineFallback": "Enabled",
+  "cmake.configureOnOpen": false
+}
