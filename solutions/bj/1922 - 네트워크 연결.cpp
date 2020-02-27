@@ -119,58 +119,60 @@ void PrintVector(vector<T>& t){
     }
     cout<<'\n';
 }
-
-using namespace std;
-
-// https://www.acmicpc.net/problem/11657
+// https://www.acmicpc.net/problem/1922
 
 int TC,i,j,k,a,b,c,s,e,t;
 
-int counts[255][255]; // a->b 필요한 양방향 수
+int ans;
+
+vector<pair<int, ii> > roads;
+
+int groups[1005];
+int cnt=0;
+
+int find(int a){
+    if(a==groups[a]) return a;
+    groups[a]=find(groups[a]);
+    return groups[a];
+}
+
+void merge(int a, int b){
+    a=find(a);
+    b=find(b);
+    if(a>b){
+        int tmp=a;
+        a=b;
+        b=tmp;
+    }
+    groups[b]=groups[a];
+}
 
 void solve(){
     int n,m;
     cin>>n>>m;
-    int u,v,b;
-    rep1(250,i){
-        rep1(250, j){
-            counts[i][j]=BIG;
-        }
-    }
-    rep1(250,i){
-        counts[i][i]=0;
+    rep1(n, i){
+        groups[i]=i;
     }
     rep1(m, i){
-        
-        cin>>u>>v>>b;
-        counts[u][v]=0;
-        counts[v][u]=1;
-        
-        if(b==1){
-            counts[v][u]=0;
-        }
+        cin>>a>>b>>c;
+        roads.push_back({c, {a, b}});
     }
-    
-    rep1(n, k){
-        rep1(n, i){
-            rep1(n, j){
-                if(k==i || k==j) continue;
-                
-                if(counts[i][j] > counts[i][k]+counts[k][j]){
-                    counts[i][j]=counts[i][k]+counts[k][j];
-                }
-            }
+
+    sort(all(roads)+1);
+
+    rep1(m, i){
+        // cout<<roads[i].first << ' '<<'\n';
+        int x=roads[i].second.first,y=roads[i].second.second;
+        if(find(x)==find(y)) continue;
+        else{
+            ans+=roads[i].first;
+            cnt++;
+            merge(x,y);
+            if(cnt==n-1) break;
         }
     }
 
-    int k;cin>>k;
-    rep1(k, i){
-        int s,e;
-        cin>>s>>e;
-
-        cout<<counts[s][e]<<'\n';
-    }
-
+    cout<<ans<<endl;
 }
 
 int main(int argc, char* argv[]){

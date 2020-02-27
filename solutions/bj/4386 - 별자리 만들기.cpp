@@ -122,55 +122,72 @@ void PrintVector(vector<T>& t){
 
 using namespace std;
 
-// https://www.acmicpc.net/problem/11657
+// https://www.acmicpc.net/problem/4386
 
-int TC,i,j,k,a,b,c,s,e,t;
+float dists[105][105];
+pair<float, float> positions[105];
 
-int counts[255][255]; // a->b 필요한 양방향 수
+struct link{
+    int u,v;
+    float w;
+    link(): link(-1.0f,-1.0f,1000005.0f){};
+    link(int u1, int v1, float w1): u(u1), v(v1), w(w1){};
+
+    bool operator <(const link& e) const { return w<e.w; } 
+};
+
+int uf[105];
+
+int find(int a){
+    if(a==uf[a]) return a;
+    return uf[a]=find(uf[a]);
+}
+
+bool merge(int a, int b){
+    a=find(a);
+    b=find(b);
+    if(a==b) return false;
+    uf[a]=b;
+    // cout<<"merging "<<a<<' '<<b<<endl;
+    return true;
+}
 
 void solve(){
-    int n,m;
-    cin>>n>>m;
-    int u,v,b;
-    rep1(250,i){
-        rep1(250, j){
-            counts[i][j]=BIG;
+    link links[10300];
+    int n;
+    cin>>n;
+    int i; int j;
+    float x,y;
+    rep1(n, i){
+        cin>>x>>y;
+        positions[i]={x,y};
+        uf[i]=i;
+    }
+
+    rep1(n, i){
+        rep1(n, j){
+            float x1=positions[i].first,x2=positions[j].first;
+            float y1=positions[i].second,y2=positions[j].second;
+            dists[i][j]=(x1-x2)*(x1-x2)+(y1-y2)*(y1-y2);
+            links[i*n+j]={i, j, dists[i][j]};
         }
     }
-    rep1(250,i){
-        counts[i][i]=0;
-    }
-    rep1(m, i){
-        
-        cin>>u>>v>>b;
-        counts[u][v]=0;
-        counts[v][u]=1;
-        
-        if(b==1){
-            counts[v][u]=0;
-        }
+
+    sort(links, links+10300);
+
+    int cnt=0;
+    int a=0,b=0;
+    float cost=0.0f;
+    rep1(10300, i){
+        a=links[i].u,b=links[i].v;
+        if(!merge(a,b)) continue;
+        cost+=sqrtf(links[i].w);
+        cnt++;
+        // cout<<links[i].w<<endl;
+        if(cnt==n-1)break;
     }
     
-    rep1(n, k){
-        rep1(n, i){
-            rep1(n, j){
-                if(k==i || k==j) continue;
-                
-                if(counts[i][j] > counts[i][k]+counts[k][j]){
-                    counts[i][j]=counts[i][k]+counts[k][j];
-                }
-            }
-        }
-    }
-
-    int k;cin>>k;
-    rep1(k, i){
-        int s,e;
-        cin>>s>>e;
-
-        cout<<counts[s][e]<<'\n';
-    }
-
+    cout<<setprecision(8)<<cost<<endl;
 }
 
 int main(int argc, char* argv[]){

@@ -122,55 +122,75 @@ void PrintVector(vector<T>& t){
 
 using namespace std;
 
-// https://www.acmicpc.net/problem/11657
+// https://www.acmicpc.net/problem/6497
 
-int TC,i,j,k,a,b,c,s,e,t;
+ll TC,i,j,k,a,b,c,s,e,t;
 
-int counts[255][255]; // a->b 필요한 양방향 수
+int ans;
+
+int gs[200005];
+int cnt=0;
+
+int find(int node){
+    if(node==gs[node]) return node;
+    return gs[node]=find(gs[node]);
+}
+
+bool merge(int n1, int n2){
+    n1=find(n1);
+    n2=find(n2);
+    if(n1==n2) return false;
+    gs[n2]=n1;
+    return true;
+}
+
+struct edge{
+    ll u,v,w;
+    edge(): edge(-1,-1,0){}
+    edge(ll u1, ll v1, ll w1): u(u1),v(v1),w(w1){}
+    bool operator <(const edge& e) const {return w<e.w;}
+};
 
 void solve(){
-    int n,m;
-    cin>>n>>m;
-    int u,v,b;
-    rep1(250,i){
-        rep1(250, j){
-            counts[i][j]=BIG;
+    edge edges[200005];
+    while(true){
+        int n,m;
+        cin>>m>>n;
+        if(m==0&&n==0) {
+            break;
         }
-    }
-    rep1(250,i){
-        counts[i][i]=0;
-    }
-    rep1(m, i){
-        
-        cin>>u>>v>>b;
-        counts[u][v]=0;
-        counts[v][u]=1;
-        
-        if(b==1){
-            counts[v][u]=0;
+
+        ll total=0;
+        ll sub=0;
+        int cnt=0;
+
+        rep1(m, i){
+            gs[i]=i;
         }
-    }
-    
-    rep1(n, k){
+
         rep1(n, i){
-            rep1(n, j){
-                if(k==i || k==j) continue;
-                
-                if(counts[i][j] > counts[i][k]+counts[k][j]){
-                    counts[i][j]=counts[i][k]+counts[k][j];
-                }
+            cin>>a>>b;
+            a++;b++;
+            cin>>c;
+            total+=c;
+            edges[i]={a,b,c};
+        }
+
+        sort(edges, edges+n);
+
+        rep1(n, i){
+            a=edges[i].u, b=edges[i].v, c=edges[i].w;
+            if(find(a)==find(b))continue;
+            else {
+                merge(a,b);
+                cnt++;
+                sub+=c;
+                if(cnt==m-1) break;
             }
         }
+
+        cout<<total-sub<<'\n';
     }
-
-    int k;cin>>k;
-    rep1(k, i){
-        int s,e;
-        cin>>s>>e;
-
-        cout<<counts[s][e]<<'\n';
-    }
-
 }
 
 int main(int argc, char* argv[]){
