@@ -62,6 +62,7 @@ Collection of dev tips by [epikem](www.github.com/epikem). Inspired by https://g
 - [react-node-js-use-styled-components-theme](javascript/react/react-node-js-use-styled-components-theme.md)
 
 ## python
+- [python-conda](python/python-conda.md)
 - [python-pip-virtualenv](python/python-pip-virtualenv.md)
 - [python-pip-set-mirror-url](python/python-pip-set-mirror-url.md)
 
