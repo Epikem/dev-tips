@@ -16,6 +16,7 @@ Collection of dev tips by [epikem](www.github.com/epikem). Inspired by https://g
   - [python](#python)
   - [powershell](#powershell)
   - [polyglot](#polyglot)
+  - [study](#study)
   - [environment setting](#environment-setting)
   - [snippets](#snippets)
 
@@ -60,6 +61,9 @@ Collection of dev tips by [epikem](www.github.com/epikem). Inspired by https://g
 - [react-node-js-set-routes](javascript/react/react-node-js-set-routes.md)
 - [react-node-js-install-styled-components](javascript/react/react-node-js-install-styled-components.md)
 - [react-node-js-use-styled-components-theme](javascript/react/react-node-js-use-styled-components-theme.md)
+
+## study
+- [what-is-wrong-with-scene-text-recognition-model-comparisons](study/what-is-wrong-with-scene-text-recognition-model-comparisons.md)
 
 ## python
 - [python-conda](python/python-conda.md)
