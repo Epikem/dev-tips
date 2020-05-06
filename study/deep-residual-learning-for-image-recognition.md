@@ -127,7 +127,99 @@ VGG Net에 기반한 plain 망을 구성.(비교군?)
 
 1. residual learning에서 상황이 뒤집혔다. (34가 18보다 좋음, 검증 데이터에 대해서도)
 이것은 이 세팅에서 퇴화 문제가 잘 해결되었고 증가된 깊이로부터 정확도 상승을 얻는데 성공했음을 나타낸다.
-2. plain counterpart에 비해, 34 res-net은 top-1 에러가 3.5% 낮았다. 매우 깊은 시스템에서 
+2. plain counterpart에 비해, 34 res-net은 top-1 에러가 3.5% 낮았다. 이는 매우 깊은 시스템에서 residual learning의 효과성을 입증한다.
+
+마지막으로, 18층 일반/residual 넷이 상당히 정확한데, resNet버전의 수렴이 더 빠르다. 층이 너무 깊지 않으면 일반 넷에서도 학습 결과가 괜찮다. 그렇지만 ResNet을 쓰면 *초기 단계에 빠른 수렴을 가능하게 하여(구체적으로 어떻게?)* 최적화를 쉽게 만든다.
+
+**Identity vs. Projection Shortcuts** 
+
+매개변수 없는 항등 매핑이 학습을 돕는다는 것을 보였고, 다음으로 projection shortcuts를 조사함. Table 3에서 세 가지 옵션을 비교함. 
+- A. 차원을 늘리기 위해 제로 패딩 shortcut을 사용. 모든 숏컷에 매개변수 없음.
+- B. 차원을 늘리기 위해 projection shortcut을 사용. 다른 숏컷은 identity
+- C. 모든 숏컷이 projection
+
+테이블 3은 모든 세 가지 옵션이 일반 넷에 비해 상당히 나음을 보여준다.
+B가 A보다 약간 나은데, A에서 제로패딩된 차원이 실제로는 residual learning을 가지지 않기 때문이라고 추측한다. C는 B보다 marginally 나은데,많은 (13) projection shortcut들에 의한 추가적인 매개변수의 영향이라고 생각한다. 그러나 A/B/C간의 차이가 작다는 것은 퇴화 문제를 해결하는 데 projection shortcut들이 필수적이지 않음을 말한다. 그래서 메모리/시간 복잡도와 모델 사이즈를 줄이기 위해 논문의 나머지 부분에선 option C를 쓰지 않았다. 아래에 소개된 병목 구조의 복잡도를 증가하지 않으므로 항등 숏컷은 특별히 중요하다.
+
+**Deeper Bottleneck Architectures** 
+다음으로 ImageNet을 위한 더 깊은 넷을 서술한다. 현실적인 학습 시간을 위해 빌딩 블록을 *bottlenet* design으로 수정하였다. 각각의 residual function F에 대해 2층이 아닌 3층 스택을 사용하였다(fig 5). 세 층은 1x1, 3x3, 1x1 conv들이다. 1x1 층들은 차원을 줄이고 다시 늘리는(복원) 역할을 하고, 3x3층을 더 작은 입력/출력 차원에 대해 병목이 되도록 한다??
+앞서 언급한 대로 identity shortcut은 시간 복잡도와 모델 크기를 줄이는 데 중요하다. 만약 숏컷을 projection으로 바꾸면 시간 복잡도와 모델 사이즈가 두 배가 된다. 
+
+- [ ] marginally
+
+
+**50-layer ResNet**
+34층 넷의 각 2층마다 3층으로 바꾸어 50층 ResNet으로 만듬. 차원 증가를 위해 옵션 b를 사용. 3.8 bil FLOPS.
+
+**101층, 152층 ResNet**
+더 많은 3층 블록을 추가(표 1)하여 101층과 152층 ResNet을 만듬. 깊이가 엄청 깊어졌는데도 152층 ResNet이 VGG16/19넷보다 낮은 복잡도를 보임. 50/101/152층 ResNet들은 34층 ResNet보다 상당히 정확함(표 3,4). degradation problem이 생기지 않음을 관찰했고 그래서 깊어진 만큼 성능 향상을 보임. 
+
+**Comparisons with State-of-the-art Methods**
+표 4에서 이전 최고 단일 모델 결과와 비교함.
+베이스라인 34-ResNet은 매우 근접한 정확도를 보임. 152층 ResNet은 단일 모델 top-5 검증 에서 4.49%를 기록함. 이것은 이전의 모든 앙상블 모델을 능가함. 다른 깊이의 여섯 모델의 앙상블(제출시 152층짜리는 두개)을 테스트한 결과 top-5 에러 3.57%를 기록하여 ILSVRC 2015에서 1위를 함.
+
+### 4.2 CIFAR-10과 분석
+
+5만개 학습 이미지와 1만개 테스트 이미지를 가진 CIFAR-10 데이터셋에 대해 연구함. 최신 기록 갱신 목적이 아닌 깊은 망이 어떻게 학습되는지 알아보기 위해 의도적으로 간단한 구조를 사용함.
+
+Fig3에 일반/잔차 구조가 기술됨. 입력은 평균으로 뺄셈된 32x32이미지. 1층은 3x3 conv. 그 후 3x3 conv로 각각 (32,16,8) 피쳐 맵을 가지는 6n층 사용. 각 feature map 사이즈에 대해 2n층. 필터 개수는 각각 (16,32,64)개임.
+
+크기 2로 서브샘플링함.
+
+총 6n+2개의 가중치 있는 층으로 구성됨.
+
+예측:
+1층이 3x3 conv이면 
+
+- [ ] 구체적 구성이 어떻게 되는 거지??? cnn 구조, 필터, 채널, 피쳐 맵, 차원 상관관계.
+- [ ] feature map size,
+- [ ] number of filters
+- [ ] subsampling
+
+~실제 구성 방식 서술~
+
+plain 대상과 비교하여 층의 깊이도, 폭도, 파라미터 개수도 같음.
+
+가중치 decay 0.0001, 모멘텀 0.9, [13]의 가중치 초기화, BN 사용. 드롭아웃은 쓰지 않음.
+미니배치 사이즈 128로 두 개의 GPU로 학습함. 
+학습 속도 0.1로 시작하여 32k, 48k에서 10배씩 줄임. 64k에서 학습 정지.
+
+학습을 위해 데이터 증가를 [24]에 나온 방식을 사용. 4 픽셀을 각 사이드에 패딩함. 가로반전/무반전 이미지에서 32x32 crop으로 추출. 테스트를 위해서는 본래 이미지만 사용.
+
+We further explore n = 18 that leads to a 110-layer
+ResNet. In this case, we find that the initial learning rate
+of 0.1 is slightly too large to start converging5
+. So we use
+0.01 to warm up the training until the training error is below
+80% (about 400 iterations), and then go back to 0.1 and continue training. The rest of the learning schedule is as done
+previously. This 110-layer network converges well (Fig. 6,
+middle). It has fewer parameters than other deep and thin
+
+결론: ImageNet에서와 마찬가지로 ResNet의 망이 깊을 때 성능이 더 좋음.
+
+
+https://datascienceschool.net/view-notebook/958022040c544257aa7ba88643d6c032/
+
+**Analysis of Layer Responses**
+깊이에 따른 망 값의 표준 편차를 계산함. 깊을 수록 0에 가깝게 나옴.
+층이 많을 수록 개별 층이 신호를 덜 수정한다?
+
+**exploring over 1000 layers**
+n=200 즉 1202층 네트워크를 학습한 결과 최적화에서 어려움을 보이진 않았다: 학습 에러가 매우 작음.
+그러나 110층짜리 네트워크보다 높은 에러를 보임. 이는 오버피팅의 영향으로 보임. 작은 데이터셋에 비해 너무 크기 때문인 것으로 추측함.
+정규화를 하면 나아질 수 있으나 비교가 목적이므로 이 논문에서는 하지 않음.
+
+### 4.3 Object Detection on PASCAL and MS COCO
+
+다른 데이터셋들에 대해서도 잘 작동함(좋은 일반화 성능).
+
+물체 인식에서의 적용. FASTER-R-CNN 을 감지기 구현으로 유지하고 VGG-16을 ResNet으로 대체한 결과 성능이 향상됨.
+
+
+
+
+- [ ] FLOPs? 어떻게 계산되나.
+
 
 ## tags
 - \#study, \#paper, \#ai, \#vision
