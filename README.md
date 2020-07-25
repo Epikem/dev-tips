@@ -28,6 +28,7 @@ Collection of dev tips by [epikem](www.github.com/epikem). Inspired by https://g
 ## docker
 - [docker-cheat-sheet](docker/docker-cheat-sheet.md)
 - [docker-copy-host-file-to-container](docker/docker-copy-host-file-to-container.md)
+- [docker-commit-to-save-image](docker/docker-commit-to-save-image.md)
 
 ## graphql
 - [graphql-basics](graphql/graphql-basics.md)
