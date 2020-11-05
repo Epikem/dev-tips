@@ -8,3 +8,6 @@ brew cask install java
 brew cask install anaconda
 
 brew install graphviz
+brew install asciinema
+brew install gpg
+
