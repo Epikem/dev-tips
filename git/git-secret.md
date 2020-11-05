@@ -12,6 +12,7 @@ gpg와 깃 secret을 사용하여 비밀 파일 관리하기
 		- [방법 2](#방법-2)
 	- [다른 사용자 추가](#다른-사용자-추가)
 	- [키 서버로부터 다른 사용자 추가](#키-서버로부터-다른-사용자-추가)
+	- [보내는 부분 영상](#보내는-부분-영상)
 - [dep](#dep)
 - [ref](#ref)
 - [tags](#tags)
@@ -62,7 +63,9 @@ hide로 만들어진 `.secret` 파일을 git에 올려서 관리하면 된다. �
 ### 키 서버로부터 다른 사용자 추가
 1. `gpg --keyserver <url> --recv-keys <server-key-id>`
 
+### 보내는 부분 영상
 
+[![asciicast](https://asciinema.org/a/YLlEQ3IOgkc3I7OBA8kKgF8vL.png)](https://asciinema.org/a/YLlEQ3IOgkc3I7OBA8kKgF8vL)
 
 ## dep
 - git
