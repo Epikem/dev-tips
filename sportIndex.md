@@ -1,0 +1,1 @@
+sport study 인덱스 파일 for vscode fast file search
