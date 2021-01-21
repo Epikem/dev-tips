@@ -66,13 +66,21 @@ path.dirname('/foo/bar/baz/asdf/quux');
 ```
 
 ### path.extname(path)
+
 ### path.format(pathObject)
+
 ### path.isAbsolute(path)
+
 ### path.join([...paths])
+
 ### path.normalize(path)
+
 ### path.parse(path)
+
 ### path.posix
+
 ### path.relative(from, to)
+
 ### path.resolve([...paths])
 
 paths 배열로부터 계산된 절대 경로 반환. 절대 경로가 계산되지 않으면 현재 경로를 기준으로 계산.

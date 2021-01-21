@@ -9,7 +9,9 @@
     "module-package": "node ./modules/package-test.js",
     "process1": "node ./process/test1.js",
     "process2": "node ./process/test2.js",
-    "process3": "node ./process/test3.js"
+    "process3": "node ./process/test3.js",
+    "process4": "node ./process/test4.js",
+    "runner": "node ./process/runner.js"
   },
   "keywords": [],
   "author": "",
