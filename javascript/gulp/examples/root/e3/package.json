@@ -1,0 +1,38 @@
+{
+  "name": "e3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "g1": "gulp -f g1.js build",
+    "g2": "gulp -f g2.js build",
+    "g3": "gulp -f g3.js build",
+    "g4": "gulp -f g4.js build",
+    "g5": "gulp -f g5.js build",
+    "stream": "gulp -f tests.js stream",
+    "promise": "gulp -f tests.js promise",
+    "event": "gulp -f tests.js event",
+    "event2": "gulp -f tests.js event2",
+    "child": "gulp -f tests.js child",
+    "child2": "gulp -f tests.js child2",
+    "observable": "gulp -f tests.js observable",
+    "callback": "gulp -f tests.js callback",
+    "callbackError": "gulp -f tests.js callbackError",
+    "asyncAwaitTask": "gulp -f tests.js asyncAwaitTask",
+    "fs": "gulp -f tests.js fs",
+    "t1": "gulp -f t1.js build",
+    "t2": "gulp -f t2.js build",
+    "t3": "gulp -f t3.js build",
+    "t4": "gulp -f t4.js build",
+    "t5": "gulp -f t5.js build"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^4.0.2"
+  },
+  "dependencies": {
+    "rxjs": "^6.6.3"
+  }
+}
