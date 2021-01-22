@@ -7,6 +7,10 @@ gulp-usage
 - [title](#title)
 - [desc](#desc)
   - [소개](#소개)
+  - [사용법](#사용법)
+    - [1. 설치](#1-설치)
+    - [2. `gulp` 명령 실행](#2-gulp-명령-실행)
+    - [3. 작업 구성](#3-작업-구성)
   - [api](#api)
     - [태스크 선언](#태스크-선언)
     - [series, parallel](#series-parallel)
@@ -30,6 +34,72 @@ gulp-usage
   - 자바스크립트 작업 자동화 툴.
   - minify, style파일 컴파일, 파일 변경 감지 등 가능
   - 다양한 플러그인 제공
+
+### 사용법
+
+gulp는 `gulp` cli를 설치하고, 비동기 태스크들을 구성하여 실행할 수 있는 api를 제공하여 사용자가 자동화 스크립트를 쉽게 작성할 수 있도록 한다. 따라서 다음이 제공된다:
+- gulp cli
+  - gulpfile 실행
+  - 태스크 구조 확인
+  - ...
+- gulp api
+  - series, parallel : 태스크 실행 제어
+  - src, dest : 입출력 스트림 제어
+  - ...
+
+사용자는 다음을 하여:
+- cli 설치
+- api를 사용하여 `gulpfile.js` 작성
+다음을 할 수 있다:
+- `gulp` 명령으로 `gulpfile.js`의 작업 실행
+
+#### 1. 설치
+
+- gulp는 보통 실행 도구로서 사용한다. 따라서 cli를 설치해야 한다.
+
+- 다음 명령으로 gulp를 전역으로 설치한다:
+  `npm install --global gulp-cli`
+
+- 그러면 터미널에서 `gulp`명령으로 gulp를 실행할 수 있게 된다.
+
+#### 2. `gulp` 명령 실행
+  - `gulp` 명령을 실행하면 기본적으로 같은 폴더 내의 `gulpfile.js`를 찾아서 실행한다.
+  - 해당 `gulpfile.js`의 기본(default) 태스크가 있을 경우 그것을 실행하고, 여러 태스크가 있을 경우 `gulp <taskname>`식으로 해당 태스크만 실행 가능하다. 
+
+- 해당 `gulpfile.js`에 빌드 자동화 스크립트를 작성하게 된다.
+- `gulpfile.js`는 기본적으로 다음과 같은 형태를 가진다.
+- 기본 예제 폴더구조는 (e1) 참조
+
+<details><summary markdown="span">gulfile.js</summary>
+
+```js
+const { series } = require('gulp');
+
+// clean 함수는 내보내지 않았으므로 `gulp clean`으로 실행 불가 (private)
+function clean(cb) {
+  // body omitted
+  cb();
+}
+
+// build 함수는 export했으므로 `gulp build`로 실행 가능 (public)
+function build(cb) {
+  // body omitted
+  cb();
+}
+
+// `gulp build`로 실행
+exports.build = build;
+// 기본 `gulp`로 실행
+exports.default = series(clean, build);
+```
+
+- `gulp --tasks` 명령으로 태스크 구조를 확인할 수 있다.
+
+#### 3. 작업 구성
+
+- gulp의 `series()`, `parallel()` api로 여러 작업이 어떻게 실행될지 구성할 수 있다.
+- (e3-g1)처럼 임의 깊이로 작업을 구성할 수 있다.
+- 각각의 태스크는 참조될 때마다 실행되므로, 태스크를 (e3-g2)와 같이 구성해서는 안 된다.
 
 ### api
 
