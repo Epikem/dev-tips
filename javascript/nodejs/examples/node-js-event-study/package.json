@@ -1,0 +1,19 @@
+{
+  "name": "node-js-event-study",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "play": "node ./src/runner"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "manakin": "^0.5.2"
+  },
+  "devDependencies": {
+    "esm": "^3.2.25"
+  }
+}

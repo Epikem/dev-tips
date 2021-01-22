@@ -1,0 +1,22 @@
+dependencies:
+  manakin: 0.5.2
+devDependencies:
+  esm: 3.2.25
+lockfileVersion: 5.2
+packages:
+  /esm/3.2.25:
+    dev: true
+    engines:
+      node: '>=6'
+    resolution:
+      integrity: sha512-U1suiZ2oDVWv4zPO56S0NcR5QriEahGtdN2OR6FiOG4WJvcjBVFB0qI4+eKoWFH483PKGuLuu6V8Z4T5g63UVA==
+  /manakin/0.5.2:
+    dev: false
+    engines:
+      node: '>=0.12'
+      npm: '>=1.4'
+    resolution:
+      integrity: sha512-pfDSB7QYoVg0Io4KMV9hhPoXpj6p0uBscgtyUSKCOFZe8bqgbpStfgnKIbF/ulnr6U3ICu4OqdyxAqBgOhZwBQ==
+specifiers:
+  esm: ^3.2.25
+  manakin: ^0.5.2
