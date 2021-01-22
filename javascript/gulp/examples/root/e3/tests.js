@@ -90,3 +90,33 @@ async function asyncAwaitTask() {
 
 exports.asyncAwaitTask = asyncAwaitTask;
 
+const babel = require('gulp-babel');
+const uglify = require('gulp-uglify');
+const rename = require('gulp-rename');
+
+exports.doubleOutput = function() {
+  return src('src/*.js')
+    .pipe(babel({ presets: ['@babel/preset-env']}))
+    .pipe(src('vendor/*.js'))
+    .pipe(dest('output/'))
+    .pipe(uglify())
+    .pipe(rename({ extname: '.min.js' }))
+    .pipe(dest('output/'));
+}
+
+const uglifyjs = require('uglify-js');
+const through2 = require('through2');
+
+exports.inline = function() {
+  return src('src/*.js')
+    // Instead of using gulp-uglify, you can create an inline plugin
+    .pipe(babel({ presets: ['@babel/preset-env']}))
+    .pipe(through2.obj(function(file, _, cb) {
+      if (file.isBuffer()) {
+        const code = uglifyjs.minify(file.contents.toString())
+        file.contents = Buffer.from(code.code)
+      }
+      cb(null, file);
+    }))
+    .pipe(dest('output/'));
+}
