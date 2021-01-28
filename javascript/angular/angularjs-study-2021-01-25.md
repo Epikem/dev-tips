@@ -1,6 +1,6 @@
-# study-2021-01-25
+# angularjs-study-2021-01-25
 
-angular 사용법 공부
+angular js 사용법 공부
 
 ----
 
