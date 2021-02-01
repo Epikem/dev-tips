@@ -1,0 +1,48 @@
+<h1>example 2021-02-01</h1>
+<p>
+  Showing of 'interpolate' filter:
+  {{ 'Current version is v%VERSION%.' | interpolate }}
+</p>
+<h2>ng-class</h2>
+<div>
+  <div ng-controller="FilterController">
+    <h2>FilterController</h2>
+    <p>
+      checked
+      <input type="checkbox" name="checked" id="checked" ng-model="checked">
+    </p>
+    <p>
+      colored
+      <input type="checkbox" name="colored" id="colored" ng-model="colored">
+    </p>
+    checkmark filter: {{ checked | checkmark:colored }}
+  </div>
+  <div ng-controller="HTTPController">
+    <h2>HTTPController</h2>
+
+    <button ng-click="get()">request data</button>
+    <button ng-click="post()">send data</button>
+    <p>withCredentials
+      <input type="checkbox" name="withCredentials" id="withCredentials" ng-model="withCredentials">
+    </p>
+    <p>useCache
+      <input type="checkbox" name="useCache" id="useCache" ng-model="useCache">
+    </p>
+
+  </div>
+  <div ng-controller="ScopeInheritanceExampleController">
+    <h2>ScopeInheritanceExampleController</h2>
+    <p>nestedScopeValue : {{nestedScopeValue}}</p>
+    <p>parentScopeValue: {{parentScopeValue}}</p>
+    <p>notFoundScopeValue: {{notFoundScopeValue}}</p>
+
+    <div ng-controller="ScopeInheritanceExampleNestedController">
+      <h3>ScopeInheritanceExampleNestedController</h3>
+      <p>nestedScopeValue : {{nestedScopeValue}}</p>
+      <p>parentScopeValue: {{parentScopeValue}}</p>
+      <p>notFoundScopeValue: {{notFoundScopeValue}}</p>
+      <p>rootScopeValue: {{rootScopeValue}}</p>
+      <p>rootByRef: {{rootByRef}}</p>
+    </div>
+  </div>
+</div>

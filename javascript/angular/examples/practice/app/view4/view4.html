@@ -1,0 +1,21 @@
+<h1>example 2021-02-03</h1>
+<p>
+  Showing of 'interpolate' filter:
+  {{ 'Current version is v%VERSION%.' | interpolate }}
+</p>
+<h2>ng-class</h2>
+<div>
+  <button ng-click="open=!open">run service</button>
+  <div ng-if="open">
+    <h3>ng-if service</h3>
+    <div ng-controller="ServiceExampleController">ran service</div>
+
+    <div ng-controller="CycleService1ExampleController">cycle</div>
+  </div>
+
+  <div ng-show="open">
+    <h3>ng-show service</h3>
+    <div ng-controller="ServiceExampleControllerNgShow">service already loaded</div>
+
+  </div>
+</div>

@@ -24,17 +24,20 @@ angular.module('myApp.view1', ['ngRoute'])
 
 .controller('View1Ctrl', ['$scope', '$http', '$templateCache', function($scope, $http, $templateCache) {
     $scope.method = 'GET';
-    $scope.url = 'http://localhost:8080/api/pagination?page=1&perPage=10';
     $scope.data = [];
+    $scope.page=1;
+    $scope.perPage=10;
+    $scope.url = `http://localhost:8080/api/pagination?page=${$scope.page}&perPage=${$scope.perPage}`;
 
     $scope.fetch = function() {
       $scope.code = null;
       $scope.response = null;
+      $scope.url = `http://localhost:8080/api/pagination?page=${$scope.page}&perPage=${$scope.perPage}`;
 
       $http({method: $scope.method, url: $scope.url, cache: $templateCache}).
         then(function(response) {
           $scope.status = response.status;
-          $scope.data = response.data;
+          $scope.data = response.data.data.items;
           console.log($scope.data);
         }, function(response) {
           $scope.data = response.data || 'Request failed';
