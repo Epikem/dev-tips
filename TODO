@@ -1,0 +1,167 @@
+# @Memo
+
+## 문서:
+  - 깃 활용법: 
+  https://github.com/mobigen/B-IRIS-API-Gateway-Service/wiki/git%2C-github-사용-가이드#git
+  - js coding convention: 
+  https://github.com/mobigen/B-IRIS-API-Gateway-Service/wiki/JS-Coding-Convention
+  - angularjs coding convention: 
+  https://github.com/mobigen/B-IRIS-API-Gateway-Service/wiki/AngularJS-Coding-Convention
+  (사실 대부분 있는 구조 쓰므로 이거는 큰 상관 없음.)
+  - 라벨 설정 방법: 찾기! 까먹었다. @high
+
+
+1. 특정 커밋으로 가기
+해시 뿐 아니라 HEAD~2 같은 포인터, 브랜치 이름 등도 사용 가능
+
+2. 이슈 해결 절차
+  1. 원인 파악
+  2. 해결 시도
+  3. 실패시: 원인 분석이나 해결 방법이 잘못된 것. 바꾸어 재시도
+
+3. 실행 절차
+
+  INSTALL
+npm i -g 
+gulp@3.9.1
+pm2@3.5.2
+@vue/cli@4.0.5
+webpack@4.32.2
+webpack-cli@4.2.0
+
+  BRICK
+pm2 start process.js
+cd src/server
+npm i
+cd src/client
+npm i
+npm run build
+
+  META
+npm i
+gulp build
+mvn spring-boot:run
+
+  STUDIO
+npm i
+gulp build
+gulp dev3
+vs code에서 maven clean install 후 서버 실행
+
+other:
+  2017-05-08~2020-12-18
+  ☐ 북마크 정리하기 @low
+  ☐ 집에서: 2020-1학기 연구실심화실습 보고서 찾아서 준영이한테 보내주기 @in-week 
+  ☐ 도커파일로 분리 개발환경 만들기 (마운트 활용, 소스 sync 및 ssh 연동, 소리 활성화) 
+  ✔ 헤드폰 사기 @today @done(21-03-15 12:34)
+
+study:
+  js 학습:
+    ☐ js 언어 학습
+    : http://bonsaiden.github.io/JavaScript-Garden/ko/
+
+  
+sport:
+  ☐ sport: boj 14868 - 문명
+  
+pseudo:
+  ☐ api 통합 작업
+  ☐ use access/refresh token
+  ☐ add local @medium
+  ☐ add authorization (attach auth to existing user)
+  
+field:
+  ☐ TIL 기재가능여부 질문하기 @today
+  ☐ 기존 보고서 및 브랜치 삭제 @today
+  ~feat-#419-scatter-regression:~  @hold
+    https://github.com/mobigen/IRIS/issues/419
+    ☐ 그외 평균 계산 가능한것 있는지 찾아보기
+    가능 대안:1. 직접 구현, 2. stock 사용, 3. 데이터에 필드로 가져오기
+    현재 결론 - stock 라이선스 구매후 진행
+    ☐ 작업-2
+  feat-#386-rewording-object-connection: 
+    https://github.com/mobigen/IRIS/issues/386
+    ☐ (검토대기중) - 띄어쓰기?
+  fix-#438-editable-editor:
+    https://github.com/mobigen/IRIS/issues/438
+    ☐ (검토대기중)
+  feat-box-plot: @today
+    ✔ 1차 분석 @started(21-03-15 09:39) @done(21-03-15 12:34) @lasted(2h55m2s)
+    ✔ 상세 분석 (1차) @started(21-03-15 13:45) @done(21-03-15 18:02) @lasted(4h17m9s)
+    ☐ 기능 추가 작업 (1차)
+    ☐ 기능 추가 작업 (2차) ...
+  feat-bubble-chart: 
+    ☐ 상세 분석
+    ☐ 기능 추가 작업
+    
+  
+school:
+  ☐ 공학인증 졸업요건 확인 
+  http://icee.hanyang.ac.kr/xe/sub05_01/8473, https://portal.hanyang.ac.kr/port.do#!UDMxNDEzNyRAXmhha3NhLyRAXiRAXk0wMTAwMzgkQF7qs7Xsp4Dsgqztla0kQF5NMDAzNzk5JEBeNTgxOWVmMWVmZGVkOGNhNmIwN2JjNDYzNjdkZGRjZDg2ZDI0YjQ2Nzg2NWY5MTVkNDQ5MGUxOWEzODZiNDgxOA==
+  ☐ 공학인증 졸업요건 확인 - 문제풀기? @due(2021-08) 
+  ☐ 공학인증 졸업요건 확인 - 8월졸업자 문의하기
+
+job:
+  ☐ cv update @high
+  ☐ 메가존 클라우드 지원 @high
+  ☐ 스코페 2021 응시 @due(2021-03-20)
+  https://scofe2021.goorm.io/apply/assessment/25665/startup-coding-festival-2021
+  ☐ 카카오 클라우드 지원 @due(2021-03-30)
+  https://careers.kakao.com/jobs/P-11933
+  https://careers.kakao.com/jobs/P-11863
+  
+longterm:
+  ☐ cs 공부하기
+  ☐ 영어 공부하기
+
+Archive:
+  ✔ 케이스 주문하기 @today @high @estimate(15m) @done(21-03-15 09:21) @project(other)
+  ✔ 테스트하기 @today @critical @estimate(1h) @done(21-03-15 09:21) @project(capstone)
+  ✔ 카카오 api 분석 및 요청 만들기-2 @done(21-03-15 09:21) @project(capstone)
+  ✔ 요청 활용하여 서버 재작성 @done(21-03-15 09:21) @project(capstone)
+  ✔ 요청 활용하여 클라이언트 재작성 @done(21-03-15 09:21) @project(capstone)
+  ✔ 1차 분석 @started(21-03-11 11:18) @done(21-03-11 13:54) @lasted(2h36m26s) @project(field.fix-#438-editable-editor)
+  ✔ 작업 @today @started(21-03-11 13:54) @done(21-03-11 16:23) @lasted(2h29m12s) @project(field.fix-#438-editable-editor)
+  ✔ 책샀는지 확인 @today @done(21-03-11 11:14) @project(other)
+  ✔ 보험처리하기 @today @critical @estimate(30m) @done(21-03-10 16:07) @project(other)
+  ✔ 작업-1 @high @due(2021-03) @started(21-03-10 15:31) @done(21-03-10 17:58) @lasted(2h27m28s) @project(field.feat-#419-scatter-regression)
+  ✔ 상세 분석 @started(21-03-10 09:49) @done(21-03-10 15:31) @lasted(5h42m15s) @project(field.feat-#419-scatter-regression)
+  ✔ 처리 작업 @started(21-03-09 10:43) @done(21-03-09 14:03) @lasted(3h20m38s) @project(field.feat-#386-rewording-object-connection)
+  ✔ 일정 산정 @started(21-03-09 14:22) @done(21-03-09 16:46) @lasted(2h24m44s) @project(field.feat-box-plot)
+  ✔ 일정 산정 @today @started(21-03-08 10:06) @done(21-03-08 17:03) @lasted(6h57m20s) @project(field.feat-sankey-migration)
+  ✔ 1차 분석 @today @started(21-03-08 16:01) @done(21-03-08 17:03) @lasted(1h2m22s) @project(field.feat-sankey-migration)
+  ✔ 일정 산정 @today @started(21-03-08 17:03) @done(21-03-08 18:00) @lasted(57m22s) @project(field.feat-bubble-chart)
+  ✔ 1차 분석-1 @today @started(21-03-08 17:03) @done(21-03-08 18:00) @lasted(57m20s) @project(field.feat-bubble-chart)
+  ✔ 남은 이슈 처리 @today @high @started(21-03-05 14:20) @done(21-03-05 15:51) @lasted(1h31m29s) @project(field.feat-#367-gauge-font)
+  ✔ 일정 산정 @today @started(21-03-05 15:51) @done(21-03-05 17:57) @lasted(2h6m19s) @project(field.feat-#419-scatter-regression)
+  ✔ 일정 산정 @today @done(21-03-08 10:04) @project(field.feat-#386-rewording-object-connection)
+  ✔ programmers dev-matching 프로필 업데이트 및 신청하기 @done(21-03-05 14:38) @project(job)
+  ✔ stabilize redirect login @done(21-03-05 14:32) @project(pseudo)
+  ✔ pseudo-lab: google-oauth @done(21-03-05 14:32) @project(pseudo)
+  ✔ studio 분석하며 객체 추가해보기-2 @started(21-02-26 09:20) @done(21-03-05 11:19) @lasted(1w1h59m49s) @project(field)
+  ✔ 등록금 납부 @done(21-03-05 14:02) @project(school)
+  ✔ 실습보고서 작성 @due(2021-03-02) @done(21-03-05 11:19) @project(field)
+  ✔ 카카오 api 분석 및 요청 만들기-1 @started(21-02-25 13:03) @done(21-02-25 15:23) @lasted(2h20m49s) @project(capstone)
+  ✔ studio 분석하며 객체 추가해보기-1 @started(21-02-24 11:07) @done(21-02-24 16:02) @lasted(4h55m14s) @project(field)
+  ✔ 학기제 서류 작성하기 @due(2021-02-19) @done(21-02-23 16:24) @project(field)
+  ✔ ~제조업 중분류 데이터 추가하기~ @done(21-02-19 17:47) @project(field)
+  ✔ ~팝업 페이지 추가하기~ @done(21-02-19 17:47) @project(field)
+  ✔ ~보고서 페이지 마무리하기~ @started(21-02-18 12:08) @done(21-02-18 16:12) @lasted(4h4m26s) @project(field)
+  ✔ ~행정구별 경계 데이터 포맷 맞추기~ @done(21-02-17 17:02) @project(Field)
+  ✔ 행정구 용도별/옵션별 보여주기 @started(21-02-17 15:54) @done(21-02-17 17:01) @lasted(1h7m42s) @project(Field)
+  ✔ 용도별 사용량 표시용 쿼리 작성 @started(21-02-16 08:35) @done(21-02-16 09:16) @lasted(41m52s) @project(Field)
+  ✔ field: 2021-02-15 작업 @started(21-02-15 09:45) @done(21-02-15 17:01) @lasted(7h16m3s) @project(In Progress)ls
+  ✔ field: 기간으로 차트 만들었는데 x축 표시단위가 이상함. @done(21-02-15 13:29) @project(In Progress)
+  ✔ field: 가이드 문서에서는 shp를 활용한다는 식으로 나와있는데 해당 설명이 없음 (거기 나와있는 형태로 csv를 만들어야 하는것이 맞나??) - 보류 @started(21-02-15 10:58) @done(21-02-15 13:28) @lasted(2h30m50s) @project(In Progress)
+  ✔ field: 전력 데이터 행정구별로 표시가능하도록 전처리 또는 쿼리 작성 @started(21-02-15 14:54) @done(21-02-15 15:55) @lasted(1h1m40s) @project(In Progress)
+  ✔ field: 용도별 사용량 표시용 쿼리 작성 - WIP @started(21-02-15 16:25) @done(21-02-15 17:00) @lasted(35m54s) @project(In Progress)
+  ✔ sport: boj 1806 - 부분합 @started(21-02-14 13:55) @done(21-02-14 15:14) @lasted(1h19m24s)
+  ✔ sport: union-find - boj 1976 @done(21-02-14 09:27)
+  ✔ angularjs: issue-board porting @done(21-02-09 09:22)
+  ✔ angularjs-study-2021-02-02 @started(21-02-02 09:11) @done(21-02-04 10:22) @lasted(2d1h11m41s) @project(In Progress)
+  ✔ 사용자 정의 Directive @started(21-02-02 09:23) @done(21-02-02 11:06) @lasted(1h43m8s) @project(In Progress)
+  ✔ Service @started(21-02-02 14:00) @done(21-02-02 16:00) @lasted(2h48s) @project(In Progress)
+  ✔ Factory @done(21-02-04 10:22) @project(In Progress)
+  ✔ Router @done(21-02-04 10:22) @project(In Progress)
+  ✔ item2 @started(21-02-02 09:27) @done(21-02-02 09:27) @lasted(14s) @project(Finish)
+  ✔ item1 @done(21-02-02 09:26) @project(Finish)
