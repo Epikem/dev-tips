@@ -10,7 +10,6 @@
   (사실 대부분 있는 구조 쓰므로 이거는 큰 상관 없음.)
   - 라벨 설정 방법: 찾기! 까먹었다. @high
 
-
 1. 특정 커밋으로 가기
 해시 뿐 아니라 HEAD~2 같은 포인터, 브랜치 이름 등도 사용 가능
 
@@ -49,23 +48,27 @@ gulp dev3
 vs code에서 maven clean install 후 서버 실행
 
 other:
-  2017-05-08~2020-12-18
-  ☐ 북마크 정리하기 @low
+  ☐ 에티켓 브러쉬 구매 @today
   ☐ 집에서: 2020-1학기 연구실심화실습 보고서 찾아서 준영이한테 보내주기 @in-week 
+  ☐ 택배찾기 @in-week
+  ☐ 북마크 정리하기
   ☐ 도커파일로 분리 개발환경 만들기 (마운트 활용, 소스 sync 및 ssh 연동, 소리 활성화) 
-  ✔ 헤드폰 사기 @today @done(21-03-15 12:34)
+  ☐ 비밀번호 업데이트 @in-month
+  ☐ 백업하드 정리 @in-month
+  ☐ 여권 재발급
+  ☐ e-residency 발급
 
 study:
   js 학습:
     ☐ js 언어 학습
     : http://bonsaiden.github.io/JavaScript-Garden/ko/
 
-  
 sport:
   ☐ sport: boj 14868 - 문명
   
 pseudo:
-  ☐ api 통합 작업
+  ✔ api 통합 작업 @done(21-03-17 17:20)
+  ☐ api 통합 테스트
   ☐ use access/refresh token
   ☐ add local @medium
   ☐ add authorization (attach auth to existing user)
@@ -79,22 +82,13 @@ field:
     가능 대안:1. 직접 구현, 2. stock 사용, 3. 데이터에 필드로 가져오기
     현재 결론 - stock 라이선스 구매후 진행
     ☐ 작업-2
-  feat-#386-rewording-object-connection: 
-    https://github.com/mobigen/IRIS/issues/386
-    ☐ (검토대기중) - 띄어쓰기?
-  fix-#438-editable-editor:
-    https://github.com/mobigen/IRIS/issues/438
-    ☐ (검토대기중)
   feat-box-plot: @today
-    ✔ 1차 분석 @started(21-03-15 09:39) @done(21-03-15 12:34) @lasted(2h55m2s)
-    ✔ 상세 분석 (1차) @started(21-03-15 13:45) @done(21-03-15 18:02) @lasted(4h17m9s)
-    ☐ 기능 추가 작업 (1차)
-    ☐ 기능 추가 작업 (2차) ...
+    ✔ 기능 추가 작업 (3차) ... @started(21-03-17 10:07) @done(21-03-17 16:59) @lasted(6h52m44s)
+    ☐ 기능 추가 작업 (4차)
   feat-bubble-chart: 
     ☐ 상세 분석
     ☐ 기능 추가 작업
     
-  
 school:
   ☐ 공학인증 졸업요건 확인 
   http://icee.hanyang.ac.kr/xe/sub05_01/8473, https://portal.hanyang.ac.kr/port.do#!UDMxNDEzNyRAXmhha3NhLyRAXiRAXk0wMTAwMzgkQF7qs7Xsp4Dsgqztla0kQF5NMDAzNzk5JEBeNTgxOWVmMWVmZGVkOGNhNmIwN2JjNDYzNjdkZGRjZDg2ZDI0YjQ2Nzg2NWY5MTVkNDQ5MGUxOWEzODZiNDgxOA==
@@ -115,6 +109,12 @@ longterm:
   ☐ 영어 공부하기
 
 Archive:
+  ✔ (검토대기중) - 띄어쓰기? @today @done(21-03-17 10:04) @project(field.feat-#386-rewording-object-connection)
+  ✔ (검토대기중) @done(21-03-17 10:06) @project(field.fix-#438-editable-editor)
+  ✔ 헤드폰 사기 @today @done(21-03-15 12:34) @project(other)
+  ✔ 1차 분석 @started(21-03-15 09:39) @done(21-03-15 12:34) @lasted(2h55m2s) @project(field.feat-box-plot)
+  ✔ 상세 분석 (1차) @started(21-03-15 13:45) @done(21-03-15 18:02) @lasted(4h17m9s) @project(field.feat-box-plot)
+  ✔ 기능 추가 작업 (1차) @started(21-03-16 13:03) @done(21-03-16 16:57) @lasted(3h54m53s) @project(field.feat-box-plot)
   ✔ 케이스 주문하기 @today @high @estimate(15m) @done(21-03-15 09:21) @project(other)
   ✔ 테스트하기 @today @critical @estimate(1h) @done(21-03-15 09:21) @project(capstone)
   ✔ 카카오 api 분석 및 요청 만들기-2 @done(21-03-15 09:21) @project(capstone)
