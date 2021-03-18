@@ -69,12 +69,14 @@ sport:
 pseudo:
   ✔ api 통합 작업 @done(21-03-17 17:20)
   ☐ api 통합 테스트
+  ☐ 임시 서버에 인증 추가
+  ✔ 구글 scope 리스트 조사 @started(21-03-18 09:15) @done(21-03-18 13:37) @lasted(4h22m51s)
   ☐ use access/refresh token
   ☐ add local @medium
   ☐ add authorization (attach auth to existing user)
   
 field:
-  ☐ TIL 기재가능여부 질문하기 @today
+  ✔ TIL 기재가능여부 질문하기 @today @done(21-03-18 09:55)
   ☐ 기존 보고서 및 브랜치 삭제 @today
   ~feat-#419-scatter-regression:~  @hold
     https://github.com/mobigen/IRIS/issues/419
@@ -84,7 +86,15 @@ field:
     ☐ 작업-2
   feat-box-plot: @today
     ✔ 기능 추가 작업 (3차) ... @started(21-03-17 10:07) @done(21-03-17 16:59) @lasted(6h52m44s)
-    ☐ 기능 추가 작업 (4차)
+    ✔ 기능 추가 작업 (4일차) @started(21-03-18 14:07) @done(21-03-18 17:45) @lasted(3h38m46s)
+    ✔ 테스트 작업 @started(21-03-18 15:49) @done(21-03-18 16:23) @lasted(34m16s)
+    ☐ 중간 리뷰 - 툴팁 작업
+    ☐ 추가 시각화 옵션
+    ☐ 리뷰 반영
+    ☐ 기능 추가 작업 (5차)
+    ✔ 데이터 값 표시 문제 @started(21-03-18 14:18) @done(21-03-18 15:48) @lasted(1h30m38s)
+
+
   feat-bubble-chart: 
     ☐ 상세 분석
     ☐ 기능 추가 작업
