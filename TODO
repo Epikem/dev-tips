@@ -9,6 +9,7 @@
   https://github.com/mobigen/B-IRIS-API-Gateway-Service/wiki/AngularJS-Coding-Convention
   (사실 대부분 있는 구조 쓰므로 이거는 큰 상관 없음.)
   - 라벨 설정 방법: 찾기! 까먹었다. @high
+0. 로컬호스트는 http://192.168.102.112/#/ 데이터를 가리킨다.
 
 1. 특정 커밋으로 가기
 해시 뿐 아니라 HEAD~2 같은 포인터, 브랜치 이름 등도 사용 가능
@@ -48,36 +49,40 @@ gulp dev3
 vs code에서 maven clean install 후 서버 실행
 
 other:
-  ☐ 에티켓 브러쉬 구매 @today
   ☐ 집에서: 2020-1학기 연구실심화실습 보고서 찾아서 준영이한테 보내주기 @in-week 
-  ☐ 택배찾기 @in-week
   ☐ 북마크 정리하기
   ☐ 도커파일로 분리 개발환경 만들기 (마운트 활용, 소스 sync 및 ssh 연동, 소리 활성화) 
   ☐ 비밀번호 업데이트 @in-month
   ☐ 백업하드 정리 @in-month
   ☐ 여권 재발급
   ☐ e-residency 발급
+  ✔ key-test (part) @low @started(21-03-22 08:55) @done(21-03-22 14:27) @lasted(5h32m44s)
+
 
 study:
   js 학습:
     ☐ js 언어 학습
     : http://bonsaiden.github.io/JavaScript-Garden/ko/
+  math:
+    ✔ 선형대수 - 수학적벡터 @started(21-03-19 08:28) @done(21-03-19 09:05) @lasted(37m17s)
+    ☐ 선형대수 - 수학적벡터 문제풀이
 
 sport:
   ☐ sport: boj 14868 - 문명
-  
+  ✔ sport: boj 3078 @in-week @started(21-03-19 12:58) @done(21-03-19 15:04) @lasted(2h6m14s)
+  ☐ sport: boj 5397 @in-week 
+  ☐ sport: boj 1937 @in-week 
+
 pseudo:
-  ✔ api 통합 작업 @done(21-03-17 17:20)
   ☐ api 통합 테스트
-  ☐ 임시 서버에 인증 추가
-  ✔ 구글 scope 리스트 조사 @started(21-03-18 09:15) @done(21-03-18 13:37) @lasted(4h22m51s)
+  ✔ 임시 서버에 인증 추가 (fail) @started(21-03-19 09:15) @done(21-03-19 09:59) @lasted(44m36s)
+  ☐ 임시 서버에 인증 추가 (2차)
   ☐ use access/refresh token
   ☐ add local @medium
   ☐ add authorization (attach auth to existing user)
   
 field:
-  ✔ TIL 기재가능여부 질문하기 @today @done(21-03-18 09:55)
-  ☐ 기존 보고서 및 브랜치 삭제 @today
+  ☐ 기존 보고서 및 브랜치 삭제
   ~feat-#419-scatter-regression:~  @hold
     https://github.com/mobigen/IRIS/issues/419
     ☐ 그외 평균 계산 가능한것 있는지 찾아보기
@@ -85,15 +90,14 @@ field:
     현재 결론 - stock 라이선스 구매후 진행
     ☐ 작업-2
   feat-box-plot: @today
-    ✔ 기능 추가 작업 (3차) ... @started(21-03-17 10:07) @done(21-03-17 16:59) @lasted(6h52m44s)
-    ✔ 기능 추가 작업 (4일차) @started(21-03-18 14:07) @done(21-03-18 17:45) @lasted(3h38m46s)
-    ✔ 테스트 작업 @started(21-03-18 15:49) @done(21-03-18 16:23) @lasted(34m16s)
     ☐ 중간 리뷰 - 툴팁 작업
+    ✔ 중간 리뷰 - 필드 순서 바꿔주기 @done(21-03-22 15:13)
+    ✔ 중간 리뷰 - 데이터 필드값 선택 적용 - 1차 @started(21-03-19 10:00) @done(21-03-19 12:58) @lasted(2h58m43s)
+    ✔ 중간 리뷰 - 데이터 필드값 선택 적용 - 2차 @started(21-03-19 15:10) @done(21-03-19 16:19) @lasted(1h9m54s)
     ☐ 추가 시각화 옵션
     ☐ 리뷰 반영
-    ☐ 기능 추가 작업 (5차)
-    ✔ 데이터 값 표시 문제 @started(21-03-18 14:18) @done(21-03-18 15:48) @lasted(1h30m38s)
-
+    ✔ 기능 추가 작업 (6일차) @started(21-03-22 14:48) @done(21-03-22 18:11) @lasted(3h23m20s)
+    ☐ 기능 추가 작업 (7일차)
 
   feat-bubble-chart: 
     ☐ 상세 분석
@@ -108,7 +112,7 @@ school:
 job:
   ☐ cv update @high
   ☐ 메가존 클라우드 지원 @high
-  ☐ 스코페 2021 응시 @due(2021-03-20)
+  ☐ 스코페 2021 응시 @due(2021-03-20) @started(21-03-20 14:35)
   https://scofe2021.goorm.io/apply/assessment/25665/startup-coding-festival-2021
   ☐ 카카오 클라우드 지원 @due(2021-03-30)
   https://careers.kakao.com/jobs/P-11933
@@ -119,6 +123,15 @@ longterm:
   ☐ 영어 공부하기
 
 Archive:
+  ✔ 택배찾기 @in-week @done(21-03-18 18:01) @project(other)
+  ✔ 에티켓 브러쉬 구매 @today @done(21-03-18 17:49) @project(other)
+  ✔ api 통합 작업 @done(21-03-17 17:20) @project(pseudo)
+  ✔ 구글 scope 리스트 조사 @started(21-03-18 09:15) @done(21-03-18 13:37) @lasted(4h22m51s) @project(pseudo)
+  ✔ TIL 기재가능여부 질문하기 @today @done(21-03-18 09:55) @project(field)
+  ✔ 기능 추가 작업 (3차) ... @started(21-03-17 10:07) @done(21-03-17 16:59) @lasted(6h52m44s) @project(field.feat-box-plot)
+  ✔ 기능 추가 작업 (4일차) @started(21-03-18 14:07) @done(21-03-18 17:45) @lasted(3h38m46s) @project(field.feat-box-plot)
+  ✔ 테스트 작업 @started(21-03-18 15:49) @done(21-03-18 16:23) @lasted(34m16s) @project(field.feat-box-plot)
+  ✔ 데이터 값 표시 문제 @started(21-03-18 14:18) @done(21-03-18 15:48) @lasted(1h30m38s) @project(field.feat-box-plot)
   ✔ (검토대기중) - 띄어쓰기? @today @done(21-03-17 10:04) @project(field.feat-#386-rewording-object-connection)
   ✔ (검토대기중) @done(21-03-17 10:06) @project(field.fix-#438-editable-editor)
   ✔ 헤드폰 사기 @today @done(21-03-15 12:34) @project(other)
