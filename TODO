@@ -1,53 +1,3 @@
-# @Memo
-
-## 문서:
-  - 깃 활용법: 
-  https://github.com/mobigen/B-IRIS-API-Gateway-Service/wiki/git%2C-github-사용-가이드#git
-  - js coding convention: 
-  https://github.com/mobigen/B-IRIS-API-Gateway-Service/wiki/JS-Coding-Convention
-  - angularjs coding convention: 
-  https://github.com/mobigen/B-IRIS-API-Gateway-Service/wiki/AngularJS-Coding-Convention
-  (사실 대부분 있는 구조 쓰므로 이거는 큰 상관 없음.)
-  - 라벨 설정 방법: 찾기! 까먹었다. @high
-0. 로컬호스트는 http://192.168.102.112/#/ 데이터를 가리킨다.
-
-1. 특정 커밋으로 가기
-해시 뿐 아니라 HEAD~2 같은 포인터, 브랜치 이름 등도 사용 가능
-
-2. 이슈 해결 절차
-  1. 원인 파악
-  2. 해결 시도
-  3. 실패시: 원인 분석이나 해결 방법이 잘못된 것. 바꾸어 재시도
-
-3. 실행 절차
-
-  INSTALL
-npm i -g 
-gulp@3.9.1
-pm2@3.5.2
-@vue/cli@4.0.5
-webpack@4.32.2
-webpack-cli@4.2.0
-
-  BRICK
-pm2 start process.js
-cd src/server
-npm i
-cd src/client
-npm i
-npm run build
-
-  META
-npm i
-gulp build
-mvn spring-boot:run
-
-  STUDIO
-npm i
-gulp build
-gulp dev3
-vs code에서 maven clean install 후 서버 실행
-
 other:
   ☐ 집에서: 2020-1학기 연구실심화실습 보고서 찾아서 준영이한테 보내주기 @in-week 
   ☐ 북마크 정리하기
@@ -56,26 +6,21 @@ other:
   ☐ 백업하드 정리 @in-month
   ☐ 여권 재발급
   ☐ e-residency 발급
-  ✔ key-test (part) @low @started(21-03-22 08:55) @done(21-03-22 14:27) @lasted(5h32m44s)
-
 
 study:
   js 학습:
     ☐ js 언어 학습
     : http://bonsaiden.github.io/JavaScript-Garden/ko/
   math:
-    ✔ 선형대수 - 수학적벡터 @started(21-03-19 08:28) @done(21-03-19 09:05) @lasted(37m17s)
     ☐ 선형대수 - 수학적벡터 문제풀이
 
 sport:
   ☐ sport: boj 14868 - 문명
-  ✔ sport: boj 3078 @in-week @started(21-03-19 12:58) @done(21-03-19 15:04) @lasted(2h6m14s)
   ☐ sport: boj 5397 @in-week 
   ☐ sport: boj 1937 @in-week 
 
 pseudo:
   ☐ api 통합 테스트
-  ✔ 임시 서버에 인증 추가 (fail) @started(21-03-19 09:15) @done(21-03-19 09:59) @lasted(44m36s)
   ☐ 임시 서버에 인증 추가 (2차)
   ☐ use access/refresh token
   ☐ add local @medium
@@ -91,38 +36,93 @@ field:
     ☐ 작업-2
   feat-box-plot: @today
     ☐ 중간 리뷰 - 툴팁 작업
-    ✔ 중간 리뷰 - 필드 순서 바꿔주기 @done(21-03-22 15:13)
-    ✔ 중간 리뷰 - 데이터 필드값 선택 적용 - 1차 @started(21-03-19 10:00) @done(21-03-19 12:58) @lasted(2h58m43s)
-    ✔ 중간 리뷰 - 데이터 필드값 선택 적용 - 2차 @started(21-03-19 15:10) @done(21-03-19 16:19) @lasted(1h9m54s)
     ☐ 추가 시각화 옵션
     ☐ 리뷰 반영
-    ✔ 기능 추가 작업 (6일차) @started(21-03-22 14:48) @done(21-03-22 18:11) @lasted(3h23m20s)
     ☐ 기능 추가 작업 (7일차)
 
   feat-bubble-chart: 
     ☐ 상세 분석
     ☐ 기능 추가 작업
     
+job:
+  ☐ cv update @high
+  ☐ 메가존 클라우드 지원 @high
+  https://scofe2021.goorm.io/apply/assessment/25665/startup-coding-festival-2021
+  ☐ 카카오 클라우드 지원 @due(2021-03-30)
+  https://careers.kakao.com/jobs/P-11933
+  https://careers.kakao.com/jobs/P-11863
+   
 school:
   ☐ 공학인증 졸업요건 확인 
   http://icee.hanyang.ac.kr/xe/sub05_01/8473, https://portal.hanyang.ac.kr/port.do#!UDMxNDEzNyRAXmhha3NhLyRAXiRAXk0wMTAwMzgkQF7qs7Xsp4Dsgqztla0kQF5NMDAzNzk5JEBeNTgxOWVmMWVmZGVkOGNhNmIwN2JjNDYzNjdkZGRjZDg2ZDI0YjQ2Nzg2NWY5MTVkNDQ5MGUxOWEzODZiNDgxOA==
   ☐ 공학인증 졸업요건 확인 - 문제풀기? @due(2021-08) 
   ☐ 공학인증 졸업요건 확인 - 8월졸업자 문의하기
 
-job:
-  ☐ cv update @high
-  ☐ 메가존 클라우드 지원 @high
-  ☐ 스코페 2021 응시 @due(2021-03-20) @started(21-03-20 14:35)
-  https://scofe2021.goorm.io/apply/assessment/25665/startup-coding-festival-2021
-  ☐ 카카오 클라우드 지원 @due(2021-03-30)
-  https://careers.kakao.com/jobs/P-11933
-  https://careers.kakao.com/jobs/P-11863
-  
 longterm:
   ☐ cs 공부하기
   ☐ 영어 공부하기
 
+  # @Memo
+
+  ## 문서:
+    - 깃 활용법: 
+    https://github.com/mobigen/B-IRIS-API-Gateway-Service/wiki/git%2C-github-사용-가이드#git
+    - js coding convention: 
+    https://github.com/mobigen/B-IRIS-API-Gateway-Service/wiki/JS-Coding-Convention
+    - angularjs coding convention: 
+    https://github.com/mobigen/B-IRIS-API-Gateway-Service/wiki/AngularJS-Coding-Convention
+    (사실 대부분 있는 구조 쓰므로 이거는 큰 상관 없음.)
+    - 라벨 설정 방법: 찾기! 까먹었다. @high
+  0. 로컬호스트는 http://192.168.102.112/#/ 데이터를 가리킨다.
+  
+  1. 특정 커밋으로 가기
+  해시 뿐 아니라 HEAD~2 같은 포인터, 브랜치 이름 등도 사용 가능
+  
+  2. 이슈 해결 절차
+    1. 원인 파악
+    2. 해결 시도
+    3. 실패시: 원인 분석이나 해결 방법이 잘못된 것. 바꾸어 재시도
+  
+  3. 실행 절차
+  
+    INSTALL
+  npm i -g 
+  gulp@3.9.1
+  pm2@3.5.2
+  @vue/cli@4.0.5
+  webpack@4.32.2
+  webpack-cli@4.2.0
+  
+    BRICK
+  pm2 start process.js
+  cd src/server
+  npm i
+  cd src/client
+  npm i
+  npm run build
+  
+    META
+  npm i
+  gulp build
+  mvn spring-boot:run
+  
+    STUDIO
+  npm i
+  gulp build
+  gulp dev3
+  vs code에서 maven clean install 후 서버 실행
+  
+
 Archive:
+  ✔ 스코페 2021 응시 @due(2021-03-20) @done(21-03-22 18:16) @project(job)
+  ✔ key-test (part) @low @started(21-03-22 08:55) @done(21-03-22 14:27) @lasted(5h32m44s) @project(other)
+  ✔ 선형대수 - 수학적벡터 @started(21-03-19 08:28) @done(21-03-19 09:05) @lasted(37m17s) @project(study.math)
+  ✔ sport: boj 3078 @in-week @started(21-03-19 12:58) @done(21-03-19 15:04) @lasted(2h6m14s) @project(sport)
+  ✔ 임시 서버에 인증 추가 (fail) @started(21-03-19 09:15) @done(21-03-19 09:59) @lasted(44m36s) @project(pseudo)
+  ✔ 중간 리뷰 - 필드 순서 바꿔주기 @done(21-03-22 15:13) @project(field.feat-box-plot)
+  ✔ 중간 리뷰 - 데이터 필드값 선택 적용 - 1차 @started(21-03-19 10:00) @done(21-03-19 12:58) @lasted(2h58m43s) @project(field.feat-box-plot)
+  ✔ 중간 리뷰 - 데이터 필드값 선택 적용 - 2차 @started(21-03-19 15:10) @done(21-03-19 16:19) @lasted(1h9m54s) @project(field.feat-box-plot)
+  ✔ 기능 추가 작업 (6일차) @started(21-03-22 14:48) @done(21-03-22 18:11) @lasted(3h23m20s) @project(field.feat-box-plot)
   ✔ 택배찾기 @in-week @done(21-03-18 18:01) @project(other)
   ✔ 에티켓 브러쉬 구매 @today @done(21-03-18 17:49) @project(other)
   ✔ api 통합 작업 @done(21-03-17 17:20) @project(pseudo)
