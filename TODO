@@ -1,3 +1,6 @@
+daily:
+  ✔ 로그 정리하기 @started(21-03-24 16:25) @done(21-03-24 17:03) @lasted(38m7s)
+
 other:
   ☐ 집에서: 2020-1학기 연구실심화실습 보고서 찾아서 준영이한테 보내주기 @in-week 
   ☐ 북마크 정리하기
@@ -20,10 +23,11 @@ sport:
   ☐ sport: boj 1937 @in-week 
 
 pseudo:
-  ☐ api 통합 테스트
-  ☐ 임시 서버에 인증 추가 (2차)
+  ✔ api 통합 테스트 (1/2) @started(21-03-23 09:30) @done(21-03-23 10:33) @lasted(1h3m9s)
+  ✔ api 통합 테스트 (2/2) @done(21-03-24 10:48)
+  ✔ 임시 서버에 인증 추가 (2차) @done(21-03-24 11:06)
   ☐ use access/refresh token
-  ☐ add local @medium
+  ☐ add local
   ☐ add authorization (attach auth to existing user)
   
 field:
@@ -35,10 +39,11 @@ field:
     현재 결론 - stock 라이선스 구매후 진행
     ☐ 작업-2
   feat-box-plot: @today
-    ☐ 중간 리뷰 - 툴팁 작업
+    ✔ 중간 리뷰 - 툴팁 작업 @started(21-03-23 10:33) @done(21-03-23 16:54) @lasted(6h21m16s)
     ☐ 추가 시각화 옵션
     ☐ 리뷰 반영
-    ☐ 기능 추가 작업 (7일차)
+    ✔ 기능 추가 작업 (7일차) @started(21-03-23 10:33) @done(21-03-23 16:54) @lasted(6h21m20s)
+    ✔ 기능 추가 작업 (8일차 - 테스트) @started(21-03-24 11:16) @done(21-03-24 16:25) @lasted(5h9m3s)
 
   feat-bubble-chart: 
     ☐ 상세 분석
@@ -47,7 +52,6 @@ field:
 job:
   ☐ cv update @high
   ☐ 메가존 클라우드 지원 @high
-  https://scofe2021.goorm.io/apply/assessment/25665/startup-coding-festival-2021
   ☐ 카카오 클라우드 지원 @due(2021-03-30)
   https://careers.kakao.com/jobs/P-11933
   https://careers.kakao.com/jobs/P-11863
