@@ -1,5 +1,4 @@
 other:
-  ✔ tip-brew-install-rust-toolchain @today @est(15m) @started(21-03-25 10:15) @done(21-03-25 10:25) @lasted(10m13s)
   ☐ 집에서: 2020-1학기 연구실심화실습 보고서 찾아서 준영이한테 보내주기 @in-week 
   ☐ 북마크 정리하기
   ☐ 도커파일로 분리 개발환경 만들기 (마운트 활용, 소스 sync 및 ssh 연동, 소리 활성화) 
@@ -7,6 +6,9 @@ other:
   ☐ 백업하드 정리 @in-month
   ☐ 여권 재발급
   ☐ e-residency 발급
+daily:
+  ✔ 블로그 정리 @started(21-03-29 17:45) @done(21-03-29 17:53) @lasted(8m32s)
+  #☐ 블로그 정리 
 
 study:
   js 학습:
@@ -17,15 +19,17 @@ study:
 
 sport:
   ☐ sport: boj 14868 - 문명
-  ✔ sport: boj 5397 (1) @in-week @started(21-03-28 12:19) @done(21-03-28 13:35) @lasted(1h16m45s)
-  ✔ sport: boj 5397 @in-week @started(21-03-28 14:48) @done(21-03-28 15:26) @lasted(38m17s)
-  ✔ sport: boj 1937 @in-week @started(21-03-28 15:50) @done(21-03-28 16:49) @lasted(59m56s)
+  ☐ sport: boj 9466 - 문명
+  https://www.acmicpc.net/problem/9466
+  ☐ sport: boj 10026 - 문명
+  https://www.acmicpc.net/problem/10026
+  ☐ sport: boj 2098 - 문명
+  https://www.acmicpc.net/problem/2098
+
 
 pseudo:
   ☐ use access/refresh token @est(2h)
   ☐ customize scope @est(2h)
-  ✔ test auth @est(30m) @started(21-03-25 14:41) @done(21-03-25 14:56) @lasted(15m59s)
-  ✔ customize scope (try passport-google-oauth : FAIL) @est(1h) @started(21-03-25 13:54) @done(21-03-25 14:13) @lasted(19m34s)
   ☐ add local
   ☐ add authorization (attach auth to existing user)
   
@@ -38,26 +42,28 @@ field:
     현재 결론 - stock 라이선스 구매후 진행
     ☐ 작업-2
   feat-box-plot:
+    https://github.com/mobigen/B-IRIS-Studio-service/pull/813
+    ✔ 충돌 해결 @today @started(21-03-29 10:33) @done(21-03-29 13:12) @lasted(2h39m3s)
     ☐ 추가 시각화 옵션
     ☐ 리뷰 반영
 
   feat-bubble-chart: 
     https://github.com/mobigen/IRIS/issues/428
-
-    ☐ 상세 분석
+    ✔ 상세 분석 @today @started(21-03-29 14:30) @done(21-03-29 17:44) @lasted(3h14m26s)
+    ☐ 기능 추가 작업 - 2일차
     ☐ 기능 추가 작업
     
 job:
   ☐ cv update @high
   ☐ 메가존 클라우드 지원 @high
-  ☐ 카카오 클라우드 지원 @due(2021-03-30)
+  ☐ 카카오 클라우드 지원 @due(2021-03-30) @high
   https://careers.kakao.com/jobs/P-11933
   https://careers.kakao.com/jobs/P-11863
   ☐ aws
   https://account.amazon.jobs/en-US/jobs/1389968/apply
    
 school:
-  ☐ 공학인증 졸업요건 확인 
+  ✔ 공학인증 졸업요건 확인 @done(21-03-29 10:32)
   http://icee.hanyang.ac.kr/xe/sub05_01/8473, https://portal.hanyang.ac.kr/port.do#!UDMxNDEzNyRAXmhha3NhLyRAXiRAXk0wMTAwMzgkQF7qs7Xsp4Dsgqztla0kQF5NMDAzNzk5JEBeNTgxOWVmMWVmZGVkOGNhNmIwN2JjNDYzNjdkZGRjZDg2ZDI0YjQ2Nzg2NWY5MTVkNDQ5MGUxOWEzODZiNDgxOA==
   ☐ 공학인증 졸업요건 확인 - 문제풀기? @due(2021-08) 
   ☐ 공학인증 졸업요건 확인 - 8월졸업자 문의하기
@@ -117,6 +123,12 @@ longterm:
   vs code에서 maven clean install 후 서버 실행
   
 Archive:
+  ✔ tip-brew-install-rust-toolchain @today @est(15m) @started(21-03-25 10:15) @done(21-03-25 10:25) @lasted(10m13s) @project(other)
+  ✔ sport: boj 5397 (1) @in-week @started(21-03-28 12:19) @done(21-03-28 13:35) @lasted(1h16m45s) @project(sport)
+  ✔ sport: boj 5397 @in-week @started(21-03-28 14:48) @done(21-03-28 15:26) @lasted(38m17s) @project(sport)
+  ✔ sport: boj 1937 @in-week @started(21-03-28 15:50) @done(21-03-28 16:49) @lasted(59m56s) @project(sport)
+  ✔ test auth @est(30m) @started(21-03-25 14:41) @done(21-03-25 14:56) @lasted(15m59s) @project(pseudo)
+  ✔ customize scope (try passport-google-oauth : FAIL) @est(1h) @started(21-03-25 13:54) @done(21-03-25 14:13) @lasted(19m34s) @project(pseudo)
   ✔ 로그 정리하기 @started(21-03-24 16:25) @done(21-03-24 17:03) @lasted(38m7s) @project(daily)
   ✔ api 통합 테스트 (1/2) @started(21-03-23 09:30) @done(21-03-23 10:33) @lasted(1h3m9s) @project(pseudo)
   ✔ api 통합 테스트 (2/2) @done(21-03-24 10:48) @project(pseudo)
