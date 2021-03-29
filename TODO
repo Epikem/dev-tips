@@ -1,7 +1,5 @@
-daily:
-  ✔ 로그 정리하기 @started(21-03-24 16:25) @done(21-03-24 17:03) @lasted(38m7s)
-
 other:
+  ✔ tip-brew-install-rust-toolchain @today @est(15m) @started(21-03-25 10:15) @done(21-03-25 10:25) @lasted(10m13s)
   ☐ 집에서: 2020-1학기 연구실심화실습 보고서 찾아서 준영이한테 보내주기 @in-week 
   ☐ 북마크 정리하기
   ☐ 도커파일로 분리 개발환경 만들기 (마운트 활용, 소스 sync 및 ssh 연동, 소리 활성화) 
@@ -19,14 +17,15 @@ study:
 
 sport:
   ☐ sport: boj 14868 - 문명
-  ☐ sport: boj 5397 @in-week 
-  ☐ sport: boj 1937 @in-week 
+  ✔ sport: boj 5397 (1) @in-week @started(21-03-28 12:19) @done(21-03-28 13:35) @lasted(1h16m45s)
+  ✔ sport: boj 5397 @in-week @started(21-03-28 14:48) @done(21-03-28 15:26) @lasted(38m17s)
+  ✔ sport: boj 1937 @in-week @started(21-03-28 15:50) @done(21-03-28 16:49) @lasted(59m56s)
 
 pseudo:
-  ✔ api 통합 테스트 (1/2) @started(21-03-23 09:30) @done(21-03-23 10:33) @lasted(1h3m9s)
-  ✔ api 통합 테스트 (2/2) @done(21-03-24 10:48)
-  ✔ 임시 서버에 인증 추가 (2차) @done(21-03-24 11:06)
-  ☐ use access/refresh token
+  ☐ use access/refresh token @est(2h)
+  ☐ customize scope @est(2h)
+  ✔ test auth @est(30m) @started(21-03-25 14:41) @done(21-03-25 14:56) @lasted(15m59s)
+  ✔ customize scope (try passport-google-oauth : FAIL) @est(1h) @started(21-03-25 13:54) @done(21-03-25 14:13) @lasted(19m34s)
   ☐ add local
   ☐ add authorization (attach auth to existing user)
   
@@ -38,14 +37,13 @@ field:
     가능 대안:1. 직접 구현, 2. stock 사용, 3. 데이터에 필드로 가져오기
     현재 결론 - stock 라이선스 구매후 진행
     ☐ 작업-2
-  feat-box-plot: @today
-    ✔ 중간 리뷰 - 툴팁 작업 @started(21-03-23 10:33) @done(21-03-23 16:54) @lasted(6h21m16s)
+  feat-box-plot:
     ☐ 추가 시각화 옵션
     ☐ 리뷰 반영
-    ✔ 기능 추가 작업 (7일차) @started(21-03-23 10:33) @done(21-03-23 16:54) @lasted(6h21m20s)
-    ✔ 기능 추가 작업 (8일차 - 테스트) @started(21-03-24 11:16) @done(21-03-24 16:25) @lasted(5h9m3s)
 
   feat-bubble-chart: 
+    https://github.com/mobigen/IRIS/issues/428
+
     ☐ 상세 분석
     ☐ 기능 추가 작업
     
@@ -55,6 +53,8 @@ job:
   ☐ 카카오 클라우드 지원 @due(2021-03-30)
   https://careers.kakao.com/jobs/P-11933
   https://careers.kakao.com/jobs/P-11863
+  ☐ aws
+  https://account.amazon.jobs/en-US/jobs/1389968/apply
    
 school:
   ☐ 공학인증 졸업요건 확인 
@@ -116,8 +116,14 @@ longterm:
   gulp dev3
   vs code에서 maven clean install 후 서버 실행
   
-
 Archive:
+  ✔ 로그 정리하기 @started(21-03-24 16:25) @done(21-03-24 17:03) @lasted(38m7s) @project(daily)
+  ✔ api 통합 테스트 (1/2) @started(21-03-23 09:30) @done(21-03-23 10:33) @lasted(1h3m9s) @project(pseudo)
+  ✔ api 통합 테스트 (2/2) @done(21-03-24 10:48) @project(pseudo)
+  ✔ 임시 서버에 인증 추가 (2차) @done(21-03-24 11:06) @project(pseudo)
+  ✔ 중간 리뷰 - 툴팁 작업 @started(21-03-23 10:33) @done(21-03-23 16:54) @lasted(6h21m16s) @project(field.feat-box-plot)
+  ✔ 기능 추가 작업 (7일차) @started(21-03-23 10:33) @done(21-03-23 16:54) @lasted(6h21m20s) @project(field.feat-box-plot)
+  ✔ 기능 추가 작업 (8일차 - 테스트) @started(21-03-24 11:16) @done(21-03-24 16:25) @lasted(5h9m3s) @project(field.feat-box-plot)
   ✔ 스코페 2021 응시 @due(2021-03-20) @done(21-03-22 18:16) @project(job)
   ✔ key-test (part) @low @started(21-03-22 08:55) @done(21-03-22 14:27) @lasted(5h32m44s) @project(other)
   ✔ 선형대수 - 수학적벡터 @started(21-03-19 08:28) @done(21-03-19 09:05) @lasted(37m17s) @project(study.math)
