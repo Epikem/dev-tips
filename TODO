@@ -1,3 +1,6 @@
+daily:
+  ✔ 블로그 정리 @started(21-03-30 17:58) @done(21-03-30 18:05) @lasted(7m52s)
+
 other:
   ☐ 집에서: 2020-1학기 연구실심화실습 보고서 찾아서 준영이한테 보내주기 @in-week 
   ☐ 북마크 정리하기
@@ -6,9 +9,6 @@ other:
   ☐ 백업하드 정리 @in-month
   ☐ 여권 재발급
   ☐ e-residency 발급
-daily:
-  ✔ 블로그 정리 @started(21-03-29 17:45) @done(21-03-29 17:53) @lasted(8m32s)
-  #☐ 블로그 정리 
 
 study:
   js 학습:
@@ -26,7 +26,6 @@ sport:
   ☐ sport: boj 2098 - 문명
   https://www.acmicpc.net/problem/2098
 
-
 pseudo:
   ☐ use access/refresh token @est(2h)
   ☐ customize scope @est(2h)
@@ -43,27 +42,31 @@ field:
     ☐ 작업-2
   feat-box-plot:
     https://github.com/mobigen/B-IRIS-Studio-service/pull/813
-    ✔ 충돌 해결 @today @started(21-03-29 10:33) @done(21-03-29 13:12) @lasted(2h39m3s)
-    ☐ 추가 시각화 옵션
+    ~☐ 추가 시각화 옵션~
     ☐ 리뷰 반영
+    ☐ (개선) 툴팁 필드 순서 변경
+    ☐ (개선) 데이터 항목 ng-for 적용
+    ✔ 상수 순서 변경 (차트 관련성을 기준으로) @started(21-03-30 15:30) @done(21-03-30 15:58) @lasted(28m41s)
+    ✔ aggText 테스트 @started(21-03-30 14:41) @done(21-03-30 15:27) @lasted(46m33s)
 
-  feat-bubble-chart: 
+  feat-bubble-chart: @est(5d)
     https://github.com/mobigen/IRIS/issues/428
-    ✔ 상세 분석 @today @started(21-03-29 14:30) @done(21-03-29 17:44) @lasted(3h14m26s)
-    ☐ 기능 추가 작업 - 2일차
+    ✔ 기능 추가 작업 - 2일차 @started(21-03-30 15:58) @done(21-03-30 17:58) @lasted(2h13s)
+    ☐ 기능 추가 작업 - 3일차
     ☐ 기능 추가 작업
     
 job:
   ☐ cv update @high
   ☐ 메가존 클라우드 지원 @high
-  ☐ 카카오 클라우드 지원 @due(2021-03-30) @high
+  ✔ 카카오 클라우드 지원 @due(2021-03-30) @high @started(21-03-30 09:15) @done(21-03-30 10:39) @lasted(1h24m17s)
   https://careers.kakao.com/jobs/P-11933
   https://careers.kakao.com/jobs/P-11863
   ☐ aws
   https://account.amazon.jobs/en-US/jobs/1389968/apply
+  ✔ 프로그래머스 백엔드 데브매칭 지원 @due(2021-04-01) @high @started(21-03-30 10:41) @done(21-03-30 11:03) @lasted(22m50s)
+  https://programmers.co.kr/competitions/977?slug=2021-web-be-first&utm_campaign=competition977_introduce&utm_medium=banner&utm_source=programmers
    
 school:
-  ✔ 공학인증 졸업요건 확인 @done(21-03-29 10:32)
   http://icee.hanyang.ac.kr/xe/sub05_01/8473, https://portal.hanyang.ac.kr/port.do#!UDMxNDEzNyRAXmhha3NhLyRAXiRAXk0wMTAwMzgkQF7qs7Xsp4Dsgqztla0kQF5NMDAzNzk5JEBeNTgxOWVmMWVmZGVkOGNhNmIwN2JjNDYzNjdkZGRjZDg2ZDI0YjQ2Nzg2NWY5MTVkNDQ5MGUxOWEzODZiNDgxOA==
   ☐ 공학인증 졸업요건 확인 - 문제풀기? @due(2021-08) 
   ☐ 공학인증 졸업요건 확인 - 8월졸업자 문의하기
@@ -123,6 +126,10 @@ longterm:
   vs code에서 maven clean install 후 서버 실행
   
 Archive:
+  ✔ 블로그 정리 @started(21-03-29 17:45) @done(21-03-29 17:53) @lasted(8m32s) @project(daily)
+  ✔ 충돌 해결 @today @started(21-03-29 10:33) @done(21-03-29 13:12) @lasted(2h39m3s) @project(field.feat-box-plot)
+  ✔ 상세 분석 @today @started(21-03-29 14:30) @done(21-03-29 17:44) @lasted(3h14m26s) @project(field.feat-bubble-chart)
+  ✔ 공학인증 졸업요건 확인 @done(21-03-29 10:32) @project(school)
   ✔ tip-brew-install-rust-toolchain @today @est(15m) @started(21-03-25 10:15) @done(21-03-25 10:25) @lasted(10m13s) @project(other)
   ✔ sport: boj 5397 (1) @in-week @started(21-03-28 12:19) @done(21-03-28 13:35) @lasted(1h16m45s) @project(sport)
   ✔ sport: boj 5397 @in-week @started(21-03-28 14:48) @done(21-03-28 15:26) @lasted(38m17s) @project(sport)
