@@ -1,5 +1,6 @@
 daily:
-  ✔ 블로그 정리 @started(21-03-30 17:58) @done(21-03-30 18:05) @lasted(7m52s)
+  ✔ 블로그 정리 @started(21-03-31 16:11) @done(21-03-31 16:44) @lasted(33m32s)
+  블로그 정리
 
 other:
   ☐ 집에서: 2020-1학기 연구실심화실습 보고서 찾아서 준영이한테 보내주기 @in-week 
@@ -9,6 +10,7 @@ other:
   ☐ 백업하드 정리 @in-month
   ☐ 여권 재발급
   ☐ e-residency 발급
+  ☐ blog markdown parse @longterm
 
 study:
   js 학습:
@@ -19,17 +21,19 @@ study:
 
 sport:
   ☐ sport: boj 14868 - 문명
-  ☐ sport: boj 9466 - 문명
+  ☐ sport: boj 9466 - 텀 프로젝트 (골4)
   https://www.acmicpc.net/problem/9466
-  ☐ sport: boj 10026 - 문명
+  ☐ sport: boj 10026 - 적록색약 (골5)
   https://www.acmicpc.net/problem/10026
-  ☐ sport: boj 2098 - 문명
+  ☐ sport: boj 2098 - 외판원 순회 (골1)
   https://www.acmicpc.net/problem/2098
 
 pseudo:
   ☐ use access/refresh token @est(2h)
   ☐ customize scope @est(2h)
   ☐ add local
+  ✔ token based auth 1 @est(3h) @started(21-03-31 09:28) @done(21-03-31 12:58) @lasted(3h30m44s)
+  ☐ token based auth 2 @est(4h) @started(21-03-31 16:44)
   ☐ add authorization (attach auth to existing user)
   
 field:
@@ -49,10 +53,15 @@ field:
     ✔ 상수 순서 변경 (차트 관련성을 기준으로) @started(21-03-30 15:30) @done(21-03-30 15:58) @lasted(28m41s)
     ✔ aggText 테스트 @started(21-03-30 14:41) @done(21-03-30 15:27) @lasted(46m33s)
 
-  feat-bubble-chart: @est(5d)
+  feat-bubble-chart: @est-total(4d)
     https://github.com/mobigen/IRIS/issues/428
     ✔ 기능 추가 작업 - 2일차 @started(21-03-30 15:58) @done(21-03-30 17:58) @lasted(2h13s)
-    ☐ 기능 추가 작업 - 3일차
+    ✔ 기능 추가 작업 - 3일차 @started(21-03-31 13:08) @done(21-03-31 16:09) @lasted(3h1m20s)
+    ☐ 기능 추가 작업 - 4일차
+    ☐ 툴팁 사이즈 추가 @est(2h)
+    ☐ 드래그 버그 수정? @est(4h)
+    ☐ 이름 옵션 추가? @est(8h)
+    ☐ 크기 옵션 추가? @est(3h)
     ☐ 기능 추가 작업
     
 job:
