@@ -39,6 +39,7 @@ Collection of dev tips by [epikem](www.github.com/epikem). Inspired by https://g
 - [git-config-set-default-origin-push-target-branch-to-current-branch](git/git-config-set-default-origin-push-target-branch-to-current-branch.md)
 - [git-log-prettify](git/git-log-prettify.md)
 - [git-checkout-to-undo-local-changes-of-a-file](git/git-checkout-to-undo-local-changes-of-a-file.md)
+- [git-cherry-pick-range-of-commits](git/git-cherry-pick-range-of-commits.md)
 - [git-exclude-files-locally-without-gitignore](git/git-exclude-files-locally-without-gitignore.md)
 - [git-merge](git/git-merge.md)
 - [git-push](git/git-push.md)
