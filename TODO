@@ -1,6 +1,7 @@
 daily:
-  ✔ 블로그 정리 @started(21-03-31 16:11) @done(21-03-31 16:44) @lasted(33m32s)
-  블로그 정리
+  ✔ 블로그 정리 2021-04-01 @started(21-04-02 09:10) @done(21-04-02 09:16) @lasted(6m36s)
+  ☐ 블로그 정리
+  ☐ placeholder
 
 other:
   ☐ 집에서: 2020-1학기 연구실심화실습 보고서 찾아서 준영이한테 보내주기 @in-week 
@@ -32,33 +33,30 @@ pseudo:
   ☐ use access/refresh token @est(2h)
   ☐ customize scope @est(2h)
   ☐ add local
-  ✔ token based auth 1 @est(3h) @started(21-03-31 09:28) @done(21-03-31 12:58) @lasted(3h30m44s)
-  ☐ token based auth 2 @est(4h) @started(21-03-31 16:44)
+  ☐ token based auth 2 @est(4h)
   ☐ add authorization (attach auth to existing user)
   
 field:
   ☐ 기존 보고서 및 브랜치 삭제
   ~feat-#419-scatter-regression:~  @hold
     https://github.com/mobigen/IRIS/issues/419
-    ☐ 그외 평균 계산 가능한것 있는지 찾아보기
+  ☐ 그외 평균 계산 가능한것 있는지 찾아보기
     가능 대안:1. 직접 구현, 2. stock 사용, 3. 데이터에 필드로 가져오기
     현재 결론 - stock 라이선스 구매후 진행
-    ☐ 작업-2
+  ☐ 작업-2
   feat-box-plot:
     https://github.com/mobigen/B-IRIS-Studio-service/pull/813
     ~☐ 추가 시각화 옵션~
-    ☐ 리뷰 반영
-    ☐ (개선) 툴팁 필드 순서 변경
+    ✔ 리뷰 반영 (1) @started(21-04-01 15:08) @done(21-04-01 17:09) @lasted(2h1m44s)
+    ✔ 브랜치 업데이트 @est(2h) @started(21-04-01 10:31) @done(21-04-01 10:39) @lasted(8m5s)
+    ☐ (개선) 툴팁 필드 순서 변경 (내부)
     ☐ (개선) 데이터 항목 ng-for 적용
-    ✔ 상수 순서 변경 (차트 관련성을 기준으로) @started(21-03-30 15:30) @done(21-03-30 15:58) @lasted(28m41s)
-    ✔ aggText 테스트 @started(21-03-30 14:41) @done(21-03-30 15:27) @lasted(46m33s)
 
-  feat-bubble-chart: @est-total(4d)
+  feat-bubble-chart: 
     https://github.com/mobigen/IRIS/issues/428
-    ✔ 기능 추가 작업 - 2일차 @started(21-03-30 15:58) @done(21-03-30 17:58) @lasted(2h13s)
-    ✔ 기능 추가 작업 - 3일차 @started(21-03-31 13:08) @done(21-03-31 16:09) @lasted(3h1m20s)
     ☐ 기능 추가 작업 - 4일차
-    ☐ 툴팁 사이즈 추가 @est(2h)
+    ✔ 툴팁 사이즈 항목 추가 (1) @est(2h) @started(21-04-01 10:42) @done(21-04-01 11:33) @lasted(51m12s)
+    ✔ 툴팁 사이즈 항목 추가 (2) @started(21-04-01 13:13) @done(21-04-01 14:44) @lasted(1h31m33s)
     ☐ 드래그 버그 수정? @est(4h)
     ☐ 이름 옵션 추가? @est(8h)
     ☐ 크기 옵션 추가? @est(3h)
@@ -67,12 +65,10 @@ field:
 job:
   ☐ cv update @high
   ☐ 메가존 클라우드 지원 @high
-  ✔ 카카오 클라우드 지원 @due(2021-03-30) @high @started(21-03-30 09:15) @done(21-03-30 10:39) @lasted(1h24m17s)
   https://careers.kakao.com/jobs/P-11933
   https://careers.kakao.com/jobs/P-11863
   ☐ aws
   https://account.amazon.jobs/en-US/jobs/1389968/apply
-  ✔ 프로그래머스 백엔드 데브매칭 지원 @due(2021-04-01) @high @started(21-03-30 10:41) @done(21-03-30 11:03) @lasted(22m50s)
   https://programmers.co.kr/competitions/977?slug=2021-web-be-first&utm_campaign=competition977_introduce&utm_medium=banner&utm_source=programmers
    
 school:
@@ -135,6 +131,14 @@ longterm:
   vs code에서 maven clean install 후 서버 실행
   
 Archive:
+  ✔ 블로그 정리 @started(21-03-31 16:11) @done(21-03-31 16:44) @lasted(33m32s) @project(daily)
+  ✔ token based auth 1 @est(3h) @started(21-03-31 09:28) @done(21-03-31 12:58) @lasted(3h30m44s) @project(pseudo)
+  ✔ 상수 순서 변경 (차트 관련성을 기준으로) @started(21-03-30 15:30) @done(21-03-30 15:58) @lasted(28m41s) @project(field.feat-box-plot)
+  ✔ aggText 테스트 @started(21-03-30 14:41) @done(21-03-30 15:27) @lasted(46m33s) @project(field.feat-box-plot)
+  ✔ 기능 추가 작업 - 2일차 @started(21-03-30 15:58) @done(21-03-30 17:58) @lasted(2h13s) @project(field.feat-bubble-chart)
+  ✔ 기능 추가 작업 - 3일차 @started(21-03-31 13:08) @done(21-03-31 16:09) @lasted(3h1m20s) @project(field.feat-bubble-chart)
+  ✔ 카카오 클라우드 지원 @due(2021-03-30) @high @started(21-03-30 09:15) @done(21-03-30 10:39) @lasted(1h24m17s) @project(job)
+  ✔ 프로그래머스 백엔드 데브매칭 지원 @due(2021-04-01) @high @started(21-03-30 10:41) @done(21-03-30 11:03) @lasted(22m50s) @project(job)
   ✔ 블로그 정리 @started(21-03-29 17:45) @done(21-03-29 17:53) @lasted(8m32s) @project(daily)
   ✔ 충돌 해결 @today @started(21-03-29 10:33) @done(21-03-29 13:12) @lasted(2h39m3s) @project(field.feat-box-plot)
   ✔ 상세 분석 @today @started(21-03-29 14:30) @done(21-03-29 17:44) @lasted(3h14m26s) @project(field.feat-bubble-chart)
