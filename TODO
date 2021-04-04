@@ -1,6 +1,6 @@
 daily:
-  ✔ 블로그 정리 2021-04-01 @started(21-04-02 09:10) @done(21-04-02 09:16) @lasted(6m36s)
-  ☐ 블로그 정리
+  ✔ 블로그 정리 및 내일 할일 정리 2021-04-02 @started(21-04-03 12:27) @done(21-04-03 14:32) @lasted(2h5m8s)
+  ☐ 블로그 정리 2021-04-03
   ☐ placeholder
 
 other:
@@ -21,8 +21,10 @@ study:
     ☐ 선형대수 - 수학적벡터 문제풀이
 
 sport:
+  ✔ 카카오커머스 코테 @started(21-04-03 14:32) @done(21-04-03 16:06) @lasted(1h34m9s)
+  ✔ 데브매칭 @started(21-04-03 16:06) @done(21-04-03 18:06) @lasted(2h)
   ☐ sport: boj 14868 - 문명
-  ☐ sport: boj 9466 - 텀 프로젝트 (골4)
+  ☐ sport: boj 9466 - 텀 프로젝트 (골4) @est(2h) @today
   https://www.acmicpc.net/problem/9466
   ☐ sport: boj 10026 - 적록색약 (골5)
   https://www.acmicpc.net/problem/10026
@@ -43,25 +45,26 @@ field:
   ☐ 그외 평균 계산 가능한것 있는지 찾아보기
     가능 대안:1. 직접 구현, 2. stock 사용, 3. 데이터에 필드로 가져오기
     현재 결론 - stock 라이선스 구매후 진행
-  ☐ 작업-2
+  ✔ 494,433,482,452 일정산정 @today @est(2h) @started(21-04-02 16:09) @done(21-04-02 18:10) @lasted(2h1m43s)
+  ☐ 베이스 브랜치 만들기 @est(10m) @today 
   feat-box-plot:
     https://github.com/mobigen/B-IRIS-Studio-service/pull/813
     ~☐ 추가 시각화 옵션~
-    ✔ 리뷰 반영 (1) @started(21-04-01 15:08) @done(21-04-01 17:09) @lasted(2h1m44s)
-    ✔ 브랜치 업데이트 @est(2h) @started(21-04-01 10:31) @done(21-04-01 10:39) @lasted(8m5s)
     ☐ (개선) 툴팁 필드 순서 변경 (내부)
     ☐ (개선) 데이터 항목 ng-for 적용
+    ✔ 코드리뷰 반영 @today @est(4h) @started(21-04-02 09:35) @done(21-04-02 14:21) @lasted(4h46m17s)
 
   feat-bubble-chart: 
     https://github.com/mobigen/IRIS/issues/428
-    ☐ 기능 추가 작업 - 4일차
-    ✔ 툴팁 사이즈 항목 추가 (1) @est(2h) @started(21-04-01 10:42) @done(21-04-01 11:33) @lasted(51m12s)
-    ✔ 툴팁 사이즈 항목 추가 (2) @started(21-04-01 13:13) @done(21-04-01 14:44) @lasted(1h31m33s)
+    ✔ 코드리뷰 반영 @today @done(21-04-02 14:21)
+    ✔ 기능 추가 작업 - 4일차 - 기능 테스트 @est(2h) @started(21-04-02 14:43) @done(21-04-02 15:59) @lasted(1h16m3s)
+    ☐ `area.js` 차트옵션 조사
     ☐ 드래그 버그 수정? @est(4h)
     ☐ 이름 옵션 추가? @est(8h)
     ☐ 크기 옵션 추가? @est(3h)
     ☐ 기능 추가 작업
-    
+  
+  
 job:
   ☐ cv update @high
   ☐ 메가존 클라우드 지원 @high
@@ -131,6 +134,11 @@ longterm:
   vs code에서 maven clean install 후 서버 실행
   
 Archive:
+  ✔ 블로그 정리 2021-04-01 @started(21-04-02 09:10) @done(21-04-02 09:16) @lasted(6m36s) @project(daily)
+  ✔ 리뷰 반영 (1) @started(21-04-01 15:08) @done(21-04-01 17:09) @lasted(2h1m44s) @project(field.feat-box-plot)
+  ✔ 브랜치 업데이트 @est(2h) @started(21-04-01 10:31) @done(21-04-01 10:39) @lasted(8m5s) @project(field.feat-box-plot)
+  ✔ 툴팁 사이즈 항목 추가 (1) @est(2h) @started(21-04-01 10:42) @done(21-04-01 11:33) @lasted(51m12s) @project(field.feat-bubble-chart)
+  ✔ 툴팁 사이즈 항목 추가 (2) @started(21-04-01 13:13) @done(21-04-01 14:44) @lasted(1h31m33s) @project(field.feat-bubble-chart)
   ✔ 블로그 정리 @started(21-03-31 16:11) @done(21-03-31 16:44) @lasted(33m32s) @project(daily)
   ✔ token based auth 1 @est(3h) @started(21-03-31 09:28) @done(21-03-31 12:58) @lasted(3h30m44s) @project(pseudo)
   ✔ 상수 순서 변경 (차트 관련성을 기준으로) @started(21-03-30 15:30) @done(21-03-30 15:58) @lasted(28m41s) @project(field.feat-box-plot)
