@@ -1,7 +1,6 @@
 daily:
-  ✔ 블로그 정리 2021-04-03 @done(21-04-04 11:28)
-  ✔ 블로그 정리 2021-04-04 @started(21-04-05 09:09) @done(21-04-05 10:27) @lasted(1h18m17s)
-  ☐ 블로그 정리 2021-04-05
+  ☐ 블로그 정리 2021-04-05 @today @started(21-04-05 18:00)
+  ☐ 블로그 정리 2021-04-06
   ☐ placeholder
 
 blog:
@@ -9,10 +8,8 @@ blog:
 
 sport:
   ☐ sport: boj 14868 - 문명
-  ✔ sport: boj 9466 - 텀 프로젝트 (골4) @est(2h) @today @started(21-04-04 12:00) @done(21-04-04 14:08) @lasted(2h8m37s) @fail
   ☐ sport: boj 9466 - 텀 프로젝트 (re1-골4) @est(2h)
   https://www.acmicpc.net/problem/9466
-  ✔ sport: boj 10026 - 적록색약 (골5) @today @est(1h 30m) @started(21-04-04 19:18) @done(21-04-04 20:05) @lasted(47m24s)
   https://www.acmicpc.net/problem/10026
   ☐ sport: boj 2098 - 외판원 순회 (골1) @today @est(2h)
   https://www.acmicpc.net/problem/2098
@@ -32,15 +29,19 @@ field:
     가능 대안:1. 직접 구현, 2. stock 사용, 3. 데이터에 필드로 가져오기
     현재 결론 - stock 라이선스 구매후 진행
   ☐ 베이스 브랜치 만들기 @est(10m) @today 
-  ☐ todo 정리하기 @today @est(30m) @started(21-04-05 09:37)
+  ✔ todo 정리하기 @today @est(30m) @started(21-04-05 09:37) @done(21-04-05 11:12) @lasted(1h35m37s)
   fix-map-side-panel-issue-433:
     https://github.com/Epikem/B-IRIS-Studio-service/issues/7
-    ☐ 전수조사 @today @est(4h)
+    ✔ 전수조사 @today @est(4h) @started(21-04-05 13:20) @done(21-04-05 16:54) @lasted(3h34m4s)
+    ☐ 추가조사 +0.5 : 데이터까지 사용 (필요한가??)
+    ☐ 코드분석 0.5
+    ☐ 수정 반영
+    ☐ 발견사항마다 +0.2
   feat-chart-datalabel-display-option-494:
     https://github.com/Epikem/B-IRIS-Studio-service/issues/6
     ☐ 옵션 관련 코드 분석 @est(4h)
     ☐ 기본 옵션 추가 및 차트 적용 @est(4h)
-    ☐ 테스트 및 리뷰 반영 @est(4h)
+    ☐ 테스트 및 리뷰 반영 @est(2h)
   fix-table-header-applyall-option-482:
     https://github.com/Epikem/B-IRIS-Studio-service/issues/8
     ☐ 그리드 객체 분석 @est(4h)
@@ -59,6 +60,7 @@ field:
     ~☐ 추가 시각화 옵션~
     ☐ (개선) 툴팁 필드 순서 변경 (내부)
     ☐ (개선) 데이터 항목 ng-for 적용
+    ✔ 리뷰 사항 반영: 커밋 정리 @today @started(21-04-05 17:26) @done(21-04-05 17:56) @lasted(30m22s)
 
   feat-bubble-chart: 
     https://github.com/mobigen/IRIS/issues/428
@@ -66,11 +68,12 @@ field:
     ☐ 드래그 버그 수정? @est(4h)
     ☐ 이름 옵션 추가? @est(8h)
     ☐ 크기 옵션 추가? @est(3h)
+    ✔ 리뷰 사항 반영: 커밋 정리 @today @started(21-04-05 17:56) @done(21-04-05 17:59) @lasted(3m34s)
     ☐ 기능 추가 작업
   
 job:
   ☐ cv update @high
-  ☐ 네이버 공채 지원 @high @in-week
+  ☐ 네이버 공채 지원 @high @in-week @due(2021-04-11)
   https://www.naver-recruit.com/?utm_source=gdn&utm_medium=cpc&utm_campaign=gdn_cpc&gclid=EAIaIQobChMIp5mGtq7k7wIVLcNMAh2mbQxwEAEYASAAEgJaSvD_BwE
   ☐ 메가존 클라우드 지원 @high
   https://careers.kakao.com/jobs/P-11933
@@ -87,7 +90,6 @@ study:
     ☐ 선형대수 - 수학적벡터 문제풀이
 
 other:
-  ✔ ~☐ 집에서: 2020-1학기 연구실심화실습 보고서 찾아서 준영이한테 보내주기~ @in-week  @done(21-04-05 09:55)
   ☐ 북마크 정리하기
   ☐ 도커파일로 분리 개발환경 만들기 (마운트 활용, 소스 sync 및 ssh 연동, 소리 활성화) 
   ☐ 비밀번호 업데이트 @in-month
