@@ -1,6 +1,6 @@
 daily:
-  ☐ 블로그 정리 2021-04-06 @started(21-04-07 08:22)
-  ☐ 블로그 정리 2021-04-06
+  ✔ 블로그 정리 2021-04-07 @started(21-04-07 16:58) @done(21-04-07 17:00) @lasted(2m28s)
+  ☐ 블로그 정리 2021-04-08
   ☐ placeholder
 
 blog:
@@ -11,14 +11,13 @@ sport:
   ☐ sport: boj 9466 - 텀 프로젝트 (re1-골4) @est(2h)
   https://www.acmicpc.net/problem/9466
   https://www.acmicpc.net/problem/10026
-  ✔ sport: boj 2098 - 외판원 순회 (골1) @today @est(2h) @started(21-04-06 08:28) @done(21-04-06 10:41) @lasted(2h13m35s) @fail
+  ☐ sport: boj 2098 - 외판원 순회 (골1) @est(2h)
   https://www.acmicpc.net/problem/2098
 
 pseudo:
   ☐ use access/refresh token @est(2h)
   ☐ customize scope @est(2h)
   ☐ add local
-  ✔ token based auth 2 @est(4h) @started(21-04-06 15:57) @done(21-04-06 18:40) @lasted(2h43m55s) @fail
   ☐ token based auth 3 @est(3h)
   ☐ add authorization (attach auth to existing user)
   
@@ -29,19 +28,16 @@ field:
   ☐ 그외 평균 계산 가능한것 있는지 찾아보기
     가능 대안:1. 직접 구현, 2. stock 사용, 3. 데이터에 필드로 가져오기
     현재 결론 - stock 라이선스 구매후 진행
-  ✔ 베이스 브랜치 만들기 @est(10m) @today @done(21-04-06 15:55)
   fix-map-side-panel-issue-433:
     https://github.com/Epikem/B-IRIS-Studio-service/issues/7
-    ☐ 추가조사 +0.5 : 데이터까지 사용 (필요한가??)
-    ☐ 코드분석 0.5
-    ☐ 수정 반영
+    ✔ ~추가조사 +0.5 : 데이터까지 사용 (필요한가??)~
+    ✔ 코드분석 @est(4h) @started(21-04-07 13:40) @done(21-04-07 16:58) @lasted(3h18m41s)
+    ☐ 수정 반영 @est(8h)
     ☐ 발견사항마다 +0.2
   feat-chart-datalabel-display-option-494:
     https://github.com/Epikem/B-IRIS-Studio-service/issues/6
-    ✔ 옵션 관련 코드 분석 @est(4h) @started(21-04-06 11:13) @done(21-04-06 15:15) @lasted(4h2m23s)
-    ✔ 기본 옵션 추가 및 차트 적용 @est(4h) @done(21-04-06 15:15)
-    ✔ 테스트 - ml모델 차트 조사 @est(1h) @done(21-04-06 18:41)
-    ☐ 재적용 안되는 문제 조사 @est(3h)
+    ✔ 재적용 안되는 문제 조사 @est(3h) @started(21-04-07 08:28) @done(21-04-07 10:32) @lasted(2h4m47s)
+    ✔ PR 및 이슈정리 @est(2h) @started(21-04-07 10:32) @done(21-04-07 13:19) @lasted(2h47m36s)
     ☐ 리뷰 반영 @est(2h)
   fix-table-header-applyall-option-482:
     https://github.com/Epikem/B-IRIS-Studio-service/issues/8
@@ -157,6 +153,13 @@ longterm:
   vs code에서 maven clean install 후 서버 실행
 
 Archive:  ✔ 블로그 정리 2021-04-05 @today @started(21-04-05 18:00) @done(21-04-05 18:02) @lasted(2m36s) @project(daily)
+  ✔ 블로그 정리 2021-04-06 @started(21-04-07 08:22) @done(21-04-07 08:28) @lasted(6m34s) @project(daily)
+  ✔ sport: boj 2098 - 외판원 순회 (골1) @today @est(2h) @started(21-04-06 08:28) @done(21-04-06 10:41) @lasted(2h13m35s) @fail @project(sport)
+  ✔ token based auth 2 @est(4h) @started(21-04-06 15:57) @done(21-04-06 18:40) @lasted(2h43m55s) @fail @project(pseudo)
+  ✔ 베이스 브랜치 만들기 @est(10m) @today @done(21-04-06 15:55) @project(field)
+  ✔ 옵션 관련 코드 분석 @est(4h) @started(21-04-06 11:13) @done(21-04-06 15:15) @lasted(4h2m23s) @project(field.feat-chart-datalabel-display-option-494)
+  ✔ 기본 옵션 추가 및 차트 적용 @est(4h) @done(21-04-06 15:15) @project(field.feat-chart-datalabel-display-option-494)
+  ✔ 테스트 - ml모델 차트 조사 @est(1h) @done(21-04-06 18:41) @project(field.feat-chart-datalabel-display-option-494)
   ✔ todo 정리하기 @today @est(30m) @started(21-04-05 09:37) @done(21-04-05 11:12) @lasted(1h35m37s) @project(field)
   ✔ 전수조사 @today @est(4h) @started(21-04-05 13:20) @done(21-04-05 16:54) @lasted(3h34m4s) @project(field.fix-map-side-panel-issue-433)
   ✔ 리뷰 사항 반영: 커밋 정리 @today @started(21-04-05 17:26) @done(21-04-05 17:56) @lasted(30m22s) @project(field.feat-box-plot)
