@@ -1,16 +1,17 @@
-important:
-  job:
-    ☐ 네이버 공채 지원 @critical @in-week @due(2021-04-11)
 
 TODO-2021-04-12:
   ☐ 넓은 모니터 받침대 가져오기 @high
-  ☐ bubble 차트 리뷰반영 @est(4h)
-  ☐ boxplot 차트 리뷰반영 @est(2h)
-  ☐ 구분자 입력 이슈 리뷰반영 @est(2h)
+  ✔ bubble 차트 리뷰반영 @est(4h) @started(21-04-12 15:48) @done(21-04-12 17:54) @lasted(2h6m49s)
+  ✔ boxplot 차트 리뷰반영 @est(2h) @started(21-04-12 10:09) @done(21-04-12 15:48) @lasted(5h39m3s)
+  ✔ ~구분자 입력 이슈 리뷰반영 @est(2h) @done(21-04-12 15:48)~ @cancelled
+
+TODO-2021-04-13:
+  ☐ boxplot 차트 리뷰반영 - 3차 @est(1h)
+  ☐ fix-table-header-applyall-option-482 - 1일차, 코드분석 @est(6h)
 
 daily:
-  ✔ 블로그 정리 2021-04-09 @started(21-04-09 17:53) @done(21-04-09 17:55) @lasted(2m13s)
-  ☐ 블로그 정리 2021-04-10
+  ✔ 블로그 정리 2021-04-12 @started(21-04-12 17:56) @done(21-04-12 18:10) @lasted(14m52s)
+  ☐ 블로그 정리 2021-04-13
   ☐ placeholder
 
 blog:
@@ -38,8 +39,6 @@ field:
     ☐ 리뷰 반영 @est(2h)
   feat-show-checkbox-sep-alert-452:
     https://github.com/Epikem/B-IRIS-Studio-service/issues/9
-    ✔ 체크박스 관련 코드 분석 @est(2h) @started(21-04-09 09:10) @done(21-04-09 10:26) @lasted(1h16m42s)
-    ✔ 기능 추가 @est(2h) @done(21-04-09 10:26)
     ☐ 테스트 @est(1.6h)
     ☐ 리뷰 반영 @est(2.4h)
   fix-table-header-applyall-option-482:
@@ -59,10 +58,8 @@ field:
     ☐ `area.js` 차트옵션 조사
     ☐ 이름 옵션 추가? @est(8h)
     ☐ PR 리뷰 사항: 크기 옵션 추가? @est(3h)
-    ✔ PR 리뷰 사항 반영 @est(4h) @started(21-04-09 14:17) @done(21-04-09 16:04) @lasted(1h47m14s) @partial-done
     ☐ 기능 추가 작업
   fix-side-panel-option-display:
-    ✔ 일정 산정 마무리 @est(2h) @today @started(21-04-09 10:38) @done(21-04-09 14:16) @lasted(3h38m55s)
     ☐ 수정 반영
     ☐ 테스트 @est(2h)
     ☐ PR 반영 @est(3h)
@@ -73,7 +70,7 @@ pseudo:
   ☐ add local
   ☐ token based auth 3 @est(3h)
   ☐ add authorization (attach auth to existing user)
-  ☐ test client side auth @est(3h) @in-week
+  ☐ share current auth flow @est(1h) @in-week
   
 job:
   ☐ cv update @high
@@ -163,5 +160,13 @@ longterm:
   vs code에서 maven clean install 후 서버 실행
 
 Archive:  ✔ 블로그 정리 2021-04-08 @started(21-04-08 17:19) @done(21-04-08 17:41) @lasted(22m20s) @project(daily)
+  ✔ 네이버 공채 지원 @critical @in-week @due(2021-04-11) @started(21-04-12 09:17) @done(21-04-12 10:02) @lasted(45m33s) @project(important.job)
+  ✔ 블로그 정리 2021-04-10 @started(21-04-12 10:04) @done(21-04-12 10:07) @lasted(3m28s) @project(daily)
+  ✔ test client side auth @est(3h) @in-week @done(21-04-12 10:03) @project(pseudo)
+  ✔ 블로그 정리 2021-04-09 @started(21-04-09 17:53) @done(21-04-09 17:55) @lasted(2m13s) @project(daily)
+  ✔ 체크박스 관련 코드 분석 @est(2h) @started(21-04-09 09:10) @done(21-04-09 10:26) @lasted(1h16m42s) @project(field.feat-show-checkbox-sep-alert-452)
+  ✔ 기능 추가 @est(2h) @done(21-04-09 10:26) @project(field.feat-show-checkbox-sep-alert-452)
+  ✔ PR 리뷰 사항 반영 @est(4h) @started(21-04-09 14:17) @done(21-04-09 16:04) @lasted(1h47m14s) @partial-done @project(field.feat-bubble-chart)
+  ✔ 일정 산정 마무리 @est(2h) @today @started(21-04-09 10:38) @done(21-04-09 14:16) @lasted(3h38m55s) @project(field.fix-side-panel-option-display)
   ✔ 그외 평균 계산 가능한것 있는지 찾아보기 @done(21-04-08 13:47) @hold @project(field)
   ✔ 수정 반영 @est(8h) @started(21-04-08 09:37) @done(21-04-08 17:13) @lasted(7h36m7s) @project(field.fix-map-side-panel-issue-433)
