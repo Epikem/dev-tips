@@ -1,18 +1,20 @@
-TODO-2021-04-13:
-  ✔ boxplot 차트 리뷰반영 - 3차 @est(1h) @done(21-04-13 13:38)
-  ✔ 변경사항 재검사후 re-request https://github.com/mobigen/B-IRIS-Studio-service/pull/841 @est(30m) @started(21-04-13 13:43) @done(21-04-13 13:50) @lasted(7m35s)
-  ✔ fix-482-table-header-applyall-option - 1일차, 코드분석 @est(6h) @started(21-04-13 13:50) @done(21-04-13 19:03) @lasted(5h13m43s)
 
 TODO-2021-04-14:
   ☐ 넓은 모니터 받침대 가져오기 @high
-  ☐ boxplot 차트 리뷰반영 - 4차: wordcloud 변경 되돌리기 @est(15m)
-  ☐ bubble 차트 리뷰반영 - 3차: 크기 옵션 추가 커밋 분리 @est(30m)
-  ☐ fix-482-table-header-applyall-option - 2일차, 버그잡기 @est(6h)
+  ✔ boxplot 차트 리뷰반영 - 4차: wordcloud 변경 되돌리기 @est(15m) @done(21-04-14 10:15)
+  ✔ bubble 차트 리뷰반영 - 3차: 크기 옵션 추가 커밋 분리 @est(30m) @started(21-04-14 10:15) @done(21-04-14 10:24) @lasted(9m34s)
+  ✔ fix-482-table-header-applyall-option - 2일차, 버그잡기 @est(6h) @started(21-04-14 10:24) @done(21-04-14 15:51) @lasted(5h27m23s)
+  fix-side-panel-option-display:
+  ✔ 증감률 컴포넌트 일정산정 @started(21-04-14 15:53) @done(21-04-14 16:42) @lasted(49m14s)
+  pseudo:
+    ✔ share current auth flow @est(1h) @in-week @started(21-04-14 16:42) @done(21-04-14 17:49) @lasted(1h7m54s)
+
+
 
 
 daily:
-  ✔ 블로그 정리 2021-04-13 @started(21-04-13 19:03) @done(21-04-13 19:04) @lasted(1m55s)
-  ☐ 블로그 정리 2021-04-14
+  ✔ 블로그 정리 2021-04-14 @started(21-04-14 17:50) @done(21-04-14 17:51) @lasted(1m11s)
+  ☐ 블로그 정리 2021-04-15
   ☐ placeholder
 
 blog:
@@ -161,6 +163,10 @@ longterm:
   vs code에서 maven clean install 후 서버 실행
 
 Archive:  ✔ 블로그 정리 2021-04-08 @started(21-04-08 17:19) @done(21-04-08 17:41) @lasted(22m20s) @project(daily)
+  ✔ boxplot 차트 리뷰반영 - 3차 @est(1h) @done(21-04-13 13:38) @project(TODO-2021-04-13)
+  ✔ 변경사항 재검사후 re-request https://github.com/mobigen/B-IRIS-Studio-service/pull/841 @est(30m) @started(21-04-13 13:43) @done(21-04-13 13:50) @lasted(7m35s) @project(TODO-2021-04-13)
+  ✔ fix-482-table-header-applyall-option - 1일차, 코드분석 @est(6h) @started(21-04-13 13:50) @done(21-04-13 19:03) @lasted(5h13m43s) @project(TODO-2021-04-13)
+  ✔ 블로그 정리 2021-04-13 @started(21-04-13 19:03) @done(21-04-13 19:04) @lasted(1m55s) @project(daily)
   ✔ bubble 차트 리뷰반영 @est(4h) @started(21-04-12 15:48) @done(21-04-12 17:54) @lasted(2h6m49s) @project(TODO-2021-04-12)
   ✔ boxplot 차트 리뷰반영 @est(2h) @started(21-04-12 10:09) @done(21-04-12 15:48) @lasted(5h39m3s) @project(TODO-2021-04-12)
   ✔ ~구분자 입력 이슈 리뷰반영 @est(2h) @done(21-04-12 15:48)~ @cancelled @project(TODO-2021-04-12)
