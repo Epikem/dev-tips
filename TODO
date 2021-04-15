@@ -1,20 +1,18 @@
 
-TODO-2021-04-14:
-  ☐ 넓은 모니터 받침대 가져오기 @high
-  ✔ boxplot 차트 리뷰반영 - 4차: wordcloud 변경 되돌리기 @est(15m) @done(21-04-14 10:15)
-  ✔ bubble 차트 리뷰반영 - 3차: 크기 옵션 추가 커밋 분리 @est(30m) @started(21-04-14 10:15) @done(21-04-14 10:24) @lasted(9m34s)
-  ✔ fix-482-table-header-applyall-option - 2일차, 버그잡기 @est(6h) @started(21-04-14 10:24) @done(21-04-14 15:51) @lasted(5h27m23s)
+
+TODAY-2021-04-15:
+  ✔ ~넓은 모니터 받침대 가져오기~ @done(21-04-15 18:01)
   fix-side-panel-option-display:
-  ✔ 증감률 컴포넌트 일정산정 @started(21-04-14 15:53) @done(21-04-14 16:42) @lasted(49m14s)
-  pseudo:
-    ✔ share current auth flow @est(1h) @in-week @started(21-04-14 16:42) @done(21-04-14 17:49) @lasted(1h7m54s)
-
-
-
+    ✔ 줌 적용 문제 해결 @est(4h) @started(21-04-15 10:37) @done(21-04-15 17:18) @lasted(6h41m8s)
+    ✔ 다중축 출력 문제 해결 @est(4h) @done(21-04-15 17:18)
+    
+TODAY-2021-04-16:
+  ☐ 히트맵 정렬 코드값 문제 해결 @est(4h)
+  ☐ 원형 차트 단위 미표기 문제 해결 @est(4h)
 
 daily:
-  ✔ 블로그 정리 2021-04-14 @started(21-04-14 17:50) @done(21-04-14 17:51) @lasted(1m11s)
-  ☐ 블로그 정리 2021-04-15
+  ✔ 블로그 정리 및 내일 할일 정리 2021-04-15 @started(21-04-15 18:00) @done(21-04-15 18:02) @lasted(2m55s)
+  ☐ 블로그 정리 및 내일 할일 정리 2021-04-16
   ☐ placeholder
 
 blog:
@@ -42,25 +40,19 @@ field:
     ☐ 리뷰 반영 @est(2h)
   feat-show-checkbox-sep-alert-452:
     https://github.com/Epikem/B-IRIS-Studio-service/issues/9
-    ☐ 테스트 @est(1.6h)
     ☐ 리뷰 반영 @est(2.4h)
   fix-482-table-header-applyall-option:
     https://github.com/Epikem/B-IRIS-Studio-service/issues/8
-    ☐ 그리드 객체 분석 @est(4h)
-    ☐ 버그 수정 @est(8h)
-    ☐ 테스트 @est(1.6h)
     ☐ 리뷰 반영 @est(2.4h)
   feat-box-plot:
     https://github.com/mobigen/B-IRIS-Studio-service/pull/813
     ~☐ 추가 시각화 옵션~
     ☐ (개선) 툴팁 필드 순서 변경 (내부)
     ☐ (개선) 데이터 항목 ng-for 적용
-    ☐ PR 리뷰 사항 반영 @est(2h)
   feat-bubble-chart: 
     https://github.com/mobigen/IRIS/issues/428
     ☐ `area.js` 차트옵션 조사
     ☐ 이름 옵션 추가? @est(8h)
-    ☐ PR 리뷰 사항: 크기 옵션 추가? @est(3h)
     ☐ 기능 추가 작업
   fix-side-panel-option-display:
     ☐ 수정 반영
@@ -72,10 +64,12 @@ pseudo:
   ☐ customize scope @est(2h)
   ☐ add local
   ☐ token based auth 3 @est(3h)
+  ref - https://developers.google.com/identity/sign-in/web/backend-auth
   ☐ add authorization (attach auth to existing user)
-  ☐ share current auth flow @est(1h) @in-week
   
 job:
+  ☐ 카카오인턴 @high
+  ☐ 프로그래머스 - 여름인턴 @high
   ☐ cv update @high
   https://www.naver-recruit.com/?utm_source=gdn&utm_medium=cpc&utm_campaign=gdn_cpc&gclid=EAIaIQobChMIp5mGtq7k7wIVLcNMAh2mbQxwEAEYASAAEgJaSvD_BwE
   ☐ 메가존 클라우드 지원 @high
@@ -84,7 +78,8 @@ job:
   ☐ aws
   https://account.amazon.jobs/en-US/jobs/1389968/apply
   https://programmers.co.kr/competitions/977?slug=2021-web-be-first&utm_campaign=competition977_introduce&utm_medium=banner&utm_source=programmers
-   
+
+
 study:
   js 학습:
     ☐ js 언어 학습
@@ -163,6 +158,19 @@ longterm:
   vs code에서 maven clean install 후 서버 실행
 
 Archive:  ✔ 블로그 정리 2021-04-08 @started(21-04-08 17:19) @done(21-04-08 17:41) @lasted(22m20s) @project(daily)
+  ✔ boxplot 차트 리뷰반영 - 4차: wordcloud 변경 되돌리기 @est(15m) @done(21-04-14 10:15) @project(TODO-2021-04-14)
+  ✔ bubble 차트 리뷰반영 - 3차: 크기 옵션 추가 커밋 분리 @est(30m) @started(21-04-14 10:15) @done(21-04-14 10:24) @lasted(9m34s) @project(TODO-2021-04-14)
+  ✔ fix-482-table-header-applyall-option - 2일차, 버그잡기 @est(6h) @started(21-04-14 10:24) @done(21-04-14 15:51) @lasted(5h27m23s) @project(TODO-2021-04-14)
+  ✔ 증감률 컴포넌트 일정산정 @started(21-04-14 15:53) @done(21-04-14 16:42) @lasted(49m14s) @project(TODO-2021-04-14)
+  ✔ share current auth flow @est(1h) @in-week @started(21-04-14 16:42) @done(21-04-14 17:49) @lasted(1h7m54s) @project(TODO-2021-04-14.pseudo)
+  ✔ 블로그 정리 2021-04-14 @started(21-04-14 17:50) @done(21-04-14 17:51) @lasted(1m11s) @project(daily)
+  ✔ 테스트 @est(1.6h) @done(21-04-14 18:03) @project(field.feat-show-checkbox-sep-alert-452)
+  ✔ 그리드 객체 분석 @est(4h) @done(21-04-14 18:03) @project(field.fix-482-table-header-applyall-option)
+  ✔ 버그 수정 @est(8h) @done(21-04-14 18:02) @project(field.fix-482-table-header-applyall-option)
+  ✔ 테스트 @est(1.6h) @done(21-04-14 18:03) @project(field.fix-482-table-header-applyall-option)
+  ✔ PR 리뷰 사항 반영 @est(2h) @done(21-04-14 18:02) @project(field.feat-box-plot)
+  ✔ PR 리뷰 사항: 크기 옵션 추가? @est(3h) @done(21-04-14 18:03) @project(field.feat-bubble-chart)
+  ✔ share current auth flow @est(1h) @in-week @done(21-04-14 18:11) @project(pseudo)
   ✔ boxplot 차트 리뷰반영 - 3차 @est(1h) @done(21-04-13 13:38) @project(TODO-2021-04-13)
   ✔ 변경사항 재검사후 re-request https://github.com/mobigen/B-IRIS-Studio-service/pull/841 @est(30m) @started(21-04-13 13:43) @done(21-04-13 13:50) @lasted(7m35s) @project(TODO-2021-04-13)
   ✔ fix-482-table-header-applyall-option - 1일차, 코드분석 @est(6h) @started(21-04-13 13:50) @done(21-04-13 19:03) @lasted(5h13m43s) @project(TODO-2021-04-13)
