@@ -2,6 +2,14 @@
 
 Collection of dev tips by [epikem](www.github.com/epikem). Inspired by https://github.com/HomoEfficio/dev-tips and https://github.com/jbranchaud/til.
  
+## recommended usage
+
+This repository can be used as a store of tips/code snippets.
+
+1. IDE: install [vscode](https://code.visualstudio.com/) and search code tip/snippet with search feature
+2. Browser: install [octotree](https://www.octotree.io/) and navigate on tips
+
+![picture 1](http://file.epikem.com/image/295f40c93279b1f42cf1d10ae8bdd5a3e31050ddf73d6f3cab52d26757c5e302.png)  
 
 ## table of contents
   - [table of contents](#table-of-contents)
