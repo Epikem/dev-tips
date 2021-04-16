@@ -1,18 +1,26 @@
-
-
-TODAY-2021-04-15:
-  ✔ ~넓은 모니터 받침대 가져오기~ @done(21-04-15 18:01)
-  fix-side-panel-option-display:
-    ✔ 줌 적용 문제 해결 @est(4h) @started(21-04-15 10:37) @done(21-04-15 17:18) @lasted(6h41m8s)
-    ✔ 다중축 출력 문제 해결 @est(4h) @done(21-04-15 17:18)
-    
 TODAY-2021-04-16:
-  ☐ 히트맵 정렬 코드값 문제 해결 @est(4h)
-  ☐ 원형 차트 단위 미표기 문제 해결 @est(4h)
+  fix-side-panel-option-display:
+    ✔ 히트맵 정렬 코드값 문제 해결 @est(2h) @done(21-04-16 11:11)
+    ✔ 원형 차트 단위 미표기 문제 해결 @est(2h) @done(21-04-16 11:11)
+  fix-map-side-panel-issue-433:
+    ✔ 변경사항 작성 @est(2h) @started(21-04-16 15:47) @done(21-04-16 17:02) @lasted(1h15m10s)
+  fix-482-table-header-applyall-option:
+    ✔ 리뷰사항 반영 - 순서 고려 및 기타 반영 - 1차 @est(4h) @started(21-04-16 17:32) @done(21-04-16 17:54) @lasted(22m24s)
 
+TODAY-2021-04-17:
+  ☐ 알고리즘 문제풀이 @est(4h)
+
+TODAY-2021-04-19:
+  feat-show-checkbox-sep-alert-452:
+    ☐ 리뷰사항 반영 - 세군데 추가반영 @est(3h)
+  fix-482-table-header-applyall-option:
+    ☐ 리뷰사항 반영 - 순서 고려 및 기타 반영 - 2차 @est(4h)
+  feat-bubble-chart: 
+    ☐ 리뷰사항 반영 - 크기 커밋 분리 및 백업 @est(30m)
+  
 daily:
-  ✔ 블로그 정리 및 내일 할일 정리 2021-04-15 @started(21-04-15 18:00) @done(21-04-15 18:02) @lasted(2m55s)
-  ☐ 블로그 정리 및 내일 할일 정리 2021-04-16
+  ☐ 블로그 정리 및 내일 할일 정리 2021-04-16 @started(21-04-16 17:55)
+  ☐ 블로그 정리 및 내일 할일 정리 2021-04-17
   ☐ placeholder
 
 blog:
@@ -34,7 +42,7 @@ field:
     https://github.com/mobigen/IRIS/issues/419
   fix-map-side-panel-issue-433:
     https://github.com/Epikem/B-IRIS-Studio-service/issues/7
-    ☐ 리뷰 반영 @est(2h)
+    ✔ 리뷰 반영 @est(2h) @done(21-04-16 17:56)
   feat-chart-datalabel-display-option-494:
     https://github.com/Epikem/B-IRIS-Studio-service/issues/6
     ☐ 리뷰 반영 @est(2h)
@@ -78,7 +86,6 @@ job:
   ☐ aws
   https://account.amazon.jobs/en-US/jobs/1389968/apply
   https://programmers.co.kr/competitions/977?slug=2021-web-be-first&utm_campaign=competition977_introduce&utm_medium=banner&utm_source=programmers
-
 
 study:
   js 학습:
@@ -158,6 +165,10 @@ longterm:
   vs code에서 maven clean install 후 서버 실행
 
 Archive:  ✔ 블로그 정리 2021-04-08 @started(21-04-08 17:19) @done(21-04-08 17:41) @lasted(22m20s) @project(daily)
+  ✔ ~넓은 모니터 받침대 가져오기~ @done(21-04-15 18:01) @project(TODAY-2021-04-15)
+  ✔ 줌 적용 문제 해결 @est(4h) @started(21-04-15 10:37) @done(21-04-15 17:18) @lasted(6h41m8s) @project(TODAY-2021-04-15.fix-side-panel-option-display)
+  ✔ 다중축 출력 문제 해결 @est(4h) @done(21-04-15 17:18) @project(TODAY-2021-04-15.fix-side-panel-option-display)
+  ✔ 블로그 정리 및 내일 할일 정리 2021-04-15 @started(21-04-15 18:00) @done(21-04-15 18:02) @lasted(2m55s) @project(daily)
   ✔ boxplot 차트 리뷰반영 - 4차: wordcloud 변경 되돌리기 @est(15m) @done(21-04-14 10:15) @project(TODO-2021-04-14)
   ✔ bubble 차트 리뷰반영 - 3차: 크기 옵션 추가 커밋 분리 @est(30m) @started(21-04-14 10:15) @done(21-04-14 10:24) @lasted(9m34s) @project(TODO-2021-04-14)
   ✔ fix-482-table-header-applyall-option - 2일차, 버그잡기 @est(6h) @started(21-04-14 10:24) @done(21-04-14 15:51) @lasted(5h27m23s) @project(TODO-2021-04-14)
