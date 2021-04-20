@@ -1,20 +1,18 @@
-
-TODAY-2021-04-19:
-  feat-show-checkbox-sep-alert-452:
-    ✔ 리뷰사항 반영 - 세군데 추가반영 @est(3h) @started(21-04-19 13:31) @done(21-04-19 16:29) @lasted(2h58m23s)
-  fix-482-table-header-applyall-option:
-    ✔ 리뷰사항 반영 - 순서 고려 및 기타 반영 - 2차 @est(4h) @started(21-04-19 09:15) @done(21-04-19 13:12) @lasted(3h57m39s)
-    ✔ 리뷰사항 반영 - 순서 고려 및 기타 반영 - 3차 @est(4h) @done(21-04-19 17:31)
-  feat-bubble-chart: 
-    ✔ 리뷰사항 반영 - 크기 커밋 분리 및 백업 @est(30m) @started(21-04-19 13:12) @done(21-04-19 13:26) @lasted(14m15s)
-
 TODAY-2021-04-20:
   feat-430-sankey-chart-migration: 
-    ☐ 기능 추가 작업 - 1일차 @est(8h)
+    ✔ 기능 추가 작업 - 1일차 @est(8h) @started(21-04-20 09:25) @done(21-04-20 17:41) @lasted(8h16m10s)
+  pseudo:
+    ☐ token based auth 4 @est(4h)
 
+TODAY-2021-04-21:
+  feat-430-sankey-chart-migration: 
+    ☐ 기능 추가 작업 - 2일차 @est(8h)
+  pseudo:
+    ☐ token based auth 4 @est(4h)
+    
 daily:
   ☐ ~블로그 정리 및 내일 할일 정리 2021-04-17~
-  ✔ 블로그 정리 및 내일 할일 정리 2021-04-19 @started(21-04-19 17:42) @done(21-04-19 17:51) @lasted(9m37s)
+  ✔ 블로그 정리 및 내일 할일 정리 2021-04-20 @done(21-04-20 17:41)
   ☐ 블로그 정리 및 내일 할일 정리 2021-04-20
   ☐ placeholder
 
@@ -36,22 +34,17 @@ field:
   ~feat-#419-scatter-regression:~  @hold
     https://github.com/mobigen/IRIS/issues/419
   feat-430-sankey-chart-migration: 
-    ☐ 기능 추가 작업 - 1일차 @est(8h)
+    ✔ 기능 추가 작업 - 1일차 @est(8h) @done(21-04-20 17:42)
     ☐ 기능 추가 작업 - 2일차 @est(8h)
     ☐ 기능 추가 작업 - 3일차 @est(8h)
   
-  feat-chart-datalabel-display-option-494:
-    https://github.com/Epikem/B-IRIS-Studio-service/issues/6
-    ✔ 리뷰 반영 @est(2h) @done(21-04-19 17:32)
 
   feat-show-checkbox-sep-alert-452:
     https://github.com/Epikem/B-IRIS-Studio-service/issues/9
-    ✔ 리뷰 반영 - 1 @est(2.4h) @done(21-04-19 17:31)
     ☐ 리뷰 반영 - 2 @est(2.4h)
 
   fix-482-table-header-applyall-option:
     https://github.com/Epikem/B-IRIS-Studio-service/issues/8
-    ✔ 리뷰 반영 - 1 @est(2.4h) @done(21-04-19 17:32)
     ☐ 리뷰 반영 - 2 @est(2.4h)
 
   feat-box-plot:
@@ -67,7 +60,6 @@ field:
     ☐ 기능 추가 작업
 
   fix-side-panel-option-display:
-    ✔ 수정 반영 @done(21-04-19 17:39)
     ☐ 테스트 @est(2h)
     ☐ PR 반영 @est(3h)
 
@@ -170,6 +162,15 @@ longterm:
   vs code에서 maven clean install 후 서버 실행
 
 Archive:  ✔ 블로그 정리 2021-04-08 @started(21-04-08 17:19) @done(21-04-08 17:41) @lasted(22m20s) @project(daily)
+  ✔ 리뷰사항 반영 - 세군데 추가반영 @est(3h) @started(21-04-19 13:31) @done(21-04-19 16:29) @lasted(2h58m23s) @project(TODAY-2021-04-19.feat-show-checkbox-sep-alert-452)
+  ✔ 리뷰사항 반영 - 순서 고려 및 기타 반영 - 2차 @est(4h) @started(21-04-19 09:15) @done(21-04-19 13:12) @lasted(3h57m39s) @project(TODAY-2021-04-19.fix-482-table-header-applyall-option)
+  ✔ 리뷰사항 반영 - 순서 고려 및 기타 반영 - 3차 @est(4h) @done(21-04-19 17:31) @project(TODAY-2021-04-19.fix-482-table-header-applyall-option)
+  ✔ 리뷰사항 반영 - 크기 커밋 분리 및 백업 @est(30m) @started(21-04-19 13:12) @done(21-04-19 13:26) @lasted(14m15s) @project(TODAY-2021-04-19.feat-bubble-chart)
+  ✔ 블로그 정리 및 내일 할일 정리 2021-04-19 @started(21-04-19 17:42) @done(21-04-19 17:51) @lasted(9m37s) @project(daily)
+  ✔ 리뷰 반영 @est(2h) @done(21-04-19 17:32) @project(field.feat-chart-datalabel-display-option-494)
+  ✔ 리뷰 반영 - 1 @est(2.4h) @done(21-04-19 17:31) @project(field.feat-show-checkbox-sep-alert-452)
+  ✔ 리뷰 반영 - 1 @est(2.4h) @done(21-04-19 17:32) @project(field.fix-482-table-header-applyall-option)
+  ✔ 수정 반영 @done(21-04-19 17:39) @project(field.fix-side-panel-option-display)
   ✔ 블로그 정리 및 내일 할일 정리 2021-04-18 @started(21-04-19 09:06) @done(21-04-19 09:08) @lasted(3m) @project(daily)
   ✔ token based auth 3 @est(6h) @started(21-04-18 15:17) @done(21-04-18 16:29) @lasted(1h12m17s) @project(TODAY-2021-04-18.pseudo)
   ✔ 히트맵 정렬 코드값 문제 해결 @est(2h) @done(21-04-16 11:11) @project(TODAY-2021-04-16.fix-side-panel-option-display)
