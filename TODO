@@ -1,19 +1,22 @@
-TODAY-2021-04-20:
+TODAY-2021-04-22:
   feat-430-sankey-chart-migration: 
-    ✔ 기능 추가 작업 - 1일차 @est(8h) @started(21-04-20 09:25) @done(21-04-20 17:41) @lasted(8h16m10s)
+    ✔ 기능 추가 작업 2일차 - 데이터 호환 작업 @est(8h) @started(21-04-22 15:14) @done(21-04-22 17:56) @lasted(2h42m27s)
   pseudo:
-    ☐ token based auth 4 @est(4h)
+    ☐ ~token based auth 4 @est(4h)~
+  fix-521-side-panel-option-display:
+    ✔ PR 리뷰 반영 @est(1h) @started(21-04-22 09:36) @done(21-04-22 13:41) @lasted(4h5m26s)
+  feat-show-checkbox-sep-alert-452:
+    ✔ 리뷰 반영 - 2 @est(2.4h) @started(21-04-22 13:41) @done(21-04-22 15:14) @lasted(1h33m30s)
 
-TODAY-2021-04-21:
+TODAY-2021-04-23:
   feat-430-sankey-chart-migration: 
-    ☐ 기능 추가 작업 - 2일차 @est(8h)
+    ☐ 기능 추가 작업 3일차 - 데이터 호환 작업 마무리, 버그수정 @est(4h)
   pseudo:
     ☐ token based auth 4 @est(4h)
     
 daily:
-  ☐ ~블로그 정리 및 내일 할일 정리 2021-04-17~
-  ✔ 블로그 정리 및 내일 할일 정리 2021-04-20 @done(21-04-20 17:41)
-  ☐ 블로그 정리 및 내일 할일 정리 2021-04-20
+  ☐ ~블로그 정리 및 내일 할일 정리 2021-04-21~
+  ✔ 블로그 정리 및 내일 할일 정리 2021-04-22 @done(21-04-22 17:56)
   ☐ placeholder
 
 blog:
@@ -34,11 +37,9 @@ field:
   ~feat-#419-scatter-regression:~  @hold
     https://github.com/mobigen/IRIS/issues/419
   feat-430-sankey-chart-migration: 
-    ✔ 기능 추가 작업 - 1일차 @est(8h) @done(21-04-20 17:42)
     ☐ 기능 추가 작업 - 2일차 @est(8h)
     ☐ 기능 추가 작업 - 3일차 @est(8h)
   
-
   feat-show-checkbox-sep-alert-452:
     https://github.com/Epikem/B-IRIS-Studio-service/issues/9
     ☐ 리뷰 반영 - 2 @est(2.4h)
@@ -59,7 +60,7 @@ field:
     ☐ 이름 옵션 추가? @est(8h)
     ☐ 기능 추가 작업
 
-  fix-side-panel-option-display:
+  fix-521-side-panel-option-display:
     ☐ 테스트 @est(2h)
     ☐ PR 반영 @est(3h)
 
@@ -162,6 +163,9 @@ longterm:
   vs code에서 maven clean install 후 서버 실행
 
 Archive:  ✔ 블로그 정리 2021-04-08 @started(21-04-08 17:19) @done(21-04-08 17:41) @lasted(22m20s) @project(daily)
+  ✔ 기능 추가 작업 - 1일차 @est(8h) @started(21-04-20 09:25) @done(21-04-20 17:41) @lasted(8h16m10s) @project(TODAY-2021-04-20.feat-430-sankey-chart-migration)
+  ✔ 블로그 정리 및 내일 할일 정리 2021-04-20 @done(21-04-20 17:41) @project(daily)
+  ✔ 기능 추가 작업 - 1일차 @est(8h) @done(21-04-20 17:42) @project(field.feat-430-sankey-chart-migration)
   ✔ 리뷰사항 반영 - 세군데 추가반영 @est(3h) @started(21-04-19 13:31) @done(21-04-19 16:29) @lasted(2h58m23s) @project(TODAY-2021-04-19.feat-show-checkbox-sep-alert-452)
   ✔ 리뷰사항 반영 - 순서 고려 및 기타 반영 - 2차 @est(4h) @started(21-04-19 09:15) @done(21-04-19 13:12) @lasted(3h57m39s) @project(TODAY-2021-04-19.fix-482-table-header-applyall-option)
   ✔ 리뷰사항 반영 - 순서 고려 및 기타 반영 - 3차 @est(4h) @done(21-04-19 17:31) @project(TODAY-2021-04-19.fix-482-table-header-applyall-option)
