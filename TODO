@@ -1,22 +1,13 @@
-TODAY-2021-04-22:
-  feat-430-sankey-chart-migration: 
-    ✔ 기능 추가 작업 2일차 - 데이터 호환 작업 @est(8h) @started(21-04-22 15:14) @done(21-04-22 17:56) @lasted(2h42m27s)
-  pseudo:
-    ☐ ~token based auth 4 @est(4h)~
-  fix-521-side-panel-option-display:
-    ✔ PR 리뷰 반영 @est(1h) @started(21-04-22 09:36) @done(21-04-22 13:41) @lasted(4h5m26s)
-  feat-show-checkbox-sep-alert-452:
-    ✔ 리뷰 반영 - 2 @est(2.4h) @started(21-04-22 13:41) @done(21-04-22 15:14) @lasted(1h33m30s)
-
-TODAY-2021-04-23:
-  feat-430-sankey-chart-migration: 
-    ☐ 기능 추가 작업 3일차 - 데이터 호환 작업 마무리, 버그수정 @est(4h)
-  pseudo:
-    ☐ token based auth 4 @est(4h)
     
+TODAY-2021-04-24:
+  ☐ 증감률 컴포넌트 작업 착수 @est(4h)
+  feat-430-sankey-chart-migration: 
+    ☐ 기능 추가 작업 4일차 - 마무리 작업 @est(4h)
+  pseudo:
+    ☐ token based auth 4 @est(2h)
+
 daily:
-  ☐ ~블로그 정리 및 내일 할일 정리 2021-04-21~
-  ✔ 블로그 정리 및 내일 할일 정리 2021-04-22 @done(21-04-22 17:56)
+  ☐ 블로그 정리 및 내일 할일 정리 2021-04-24
   ☐ placeholder
 
 blog:
@@ -163,6 +154,13 @@ longterm:
   vs code에서 maven clean install 후 서버 실행
 
 Archive:  ✔ 블로그 정리 2021-04-08 @started(21-04-08 17:19) @done(21-04-08 17:41) @lasted(22m20s) @project(daily)
+  ✔ 기능 추가 작업 3일차 - 데이터 호환 작업 마무리, 버그수정 @est(4h) @started(21-04-23 09:07) @done(21-04-23 18:02) @lasted(8h55m26s) @project(TODAY-2021-04-23.feat-430-sankey-chart-migration)
+  ✔ ~token based auth 4 @est(4h) @done(21-04-23 18:07)~ @fail @project(TODAY-2021-04-23.pseudo)
+  ✔ 블로그 정리 및 내일 할일 정리 2021-04-23 @started(21-04-23 18:02) @done(21-04-23 18:07) @lasted(5m38s) @project(daily)
+  ✔ 기능 추가 작업 2일차 - 데이터 호환 작업 @est(8h) @started(21-04-22 15:14) @done(21-04-22 17:56) @lasted(2h42m27s) @project(TODAY-2021-04-22.feat-430-sankey-chart-migration)
+  ✔ PR 리뷰 반영 @est(1h) @started(21-04-22 09:36) @done(21-04-22 13:41) @lasted(4h5m26s) @project(TODAY-2021-04-22.fix-521-side-panel-option-display)
+  ✔ 리뷰 반영 - 2 @est(2.4h) @started(21-04-22 13:41) @done(21-04-22 15:14) @lasted(1h33m30s) @project(TODAY-2021-04-22.feat-show-checkbox-sep-alert-452)
+  ✔ 블로그 정리 및 내일 할일 정리 2021-04-22 @done(21-04-22 17:56) @project(daily)
   ✔ 기능 추가 작업 - 1일차 @est(8h) @started(21-04-20 09:25) @done(21-04-20 17:41) @lasted(8h16m10s) @project(TODAY-2021-04-20.feat-430-sankey-chart-migration)
   ✔ 블로그 정리 및 내일 할일 정리 2021-04-20 @done(21-04-20 17:41) @project(daily)
   ✔ 기능 추가 작업 - 1일차 @est(8h) @done(21-04-20 17:42) @project(field.feat-430-sankey-chart-migration)
