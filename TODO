@@ -1,13 +1,31 @@
     
 TODAY-2021-04-24:
+  ✔ 청소 @est(2h) @started(21-04-24 12:27) @done(21-04-24 14:01) @lasted(1h34m53s)
+  ✔ 네이버 코테 @est(2h) @started(21-04-24 14:01) @done(21-04-24 16:08) @lasted(2h7m58s)
+  ✔ 운동 @est(2h) @daily @done(21-04-25 12:07)
+  pseudo:
+    ✔ ~token based auth 4 @est(2h) @done(21-04-25 12:11)~ @fail
+
+TODAY-2021-04-25:
+  pseudo:
+    ☐ token based auth 4 @est(2h)
+  sport:
+    ☐ sport: boj 9466 - 텀 프로젝트 (re1-골4) @est(2h)
+    https://www.acmicpc.net/problem/9466
+    https://www.acmicpc.net/problem/10026
+    ☐ sport: boj 2098 - 외판원 순회 (골1) @est(2h)
+    https://www.acmicpc.net/problem/2098
+    
+
+TODAY-2021-04-26:
   ☐ 증감률 컴포넌트 작업 착수 @est(4h)
   feat-430-sankey-chart-migration: 
     ☐ 기능 추가 작업 4일차 - 마무리 작업 @est(4h)
-  pseudo:
-    ☐ token based auth 4 @est(2h)
+
 
 daily:
-  ☐ 블로그 정리 및 내일 할일 정리 2021-04-24
+  ✔ 블로그 정리 및 내일 할일 정리 2021-04-24 @started(21-04-25 12:07) @late @done(21-04-25 12:26) @lasted(19m28s)
+  ☐ 블로그 정리 및 내일 할일 정리 2021-04-25
   ☐ placeholder
 
 blog:
