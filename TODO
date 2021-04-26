@@ -1,22 +1,18 @@
-TODAY-2021-04-25:
-  pseudo:
-    ✔ token based auth 4 @est(2h) @started(21-04-25 14:41) @done(21-04-25 20:45) @lasted(6h4m3s)
-  sport:
-    ☐ sport: boj 9466 - 텀 프로젝트 (re1-골4) @est(2h)
-    https://www.acmicpc.net/problem/9466
-    https://www.acmicpc.net/problem/10026
-    ☐ sport: boj 2098 - 외판원 순회 (골1) @est(2h)
-    https://www.acmicpc.net/problem/2098
-  daily:
-    ✔ 블로그 정리 및 내일 할일 정리 2021-04-25 @started(21-04-26 09:11) @done(21-04-26 09:12) @lasted(1m37s)
-
-
 TODAY-2021-04-26:
-  ☐ 증감률 컴포넌트 작업 착수 @est(4h)
+  daily:
+    ✔ 블로그 정리 및 내일 할일 정리 2021-04-26 @started(21-04-26 17:55) @done(21-04-26 17:59) @lasted(4m49s)
+  ✔ 증감률 컴포넌트 작업 착수 @est(4h) @started(21-04-26 13:12) @done(21-04-26 17:54) @lasted(4h42m48s)
   feat-430-sankey-chart-migration: 
-    ☐ 기능 추가 작업 4일차 - 마무리 작업 @est(4h)
+    ✔ 기능 추가 작업 4일차 - 마무리 작업 @est(4h) @started(21-04-26 09:15) @done(21-04-26 13:12) @lasted(3h57m46s)
   pseudo:
     ☐ token based auth 5 @est(3h)
+
+TODAY-2021-04-27:
+  daily:
+    ☐ 블로그 정리 및 내일 할일 정리 2021-04-26
+  feat-318-growth-rate-component:
+    ☐ 증감률 컴포넌트 작업 착수 2일차 - 기본 컴포넌트 추가 커밋 @est(4h)
+    ☐ 증감률 컴포넌트 작업 착수 2일차 - 필요 데이터, 함수 추가 @est(4h)
 
 blog:
   ☐ tips 정리하기 @in-month
@@ -162,6 +158,8 @@ longterm:
   vs code에서 maven clean install 후 서버 실행
 
 Archive:  ✔ 블로그 정리 2021-04-08 @started(21-04-08 17:19) @done(21-04-08 17:41) @lasted(22m20s) @project(daily)
+  ✔ token based auth 4 @est(2h) @started(21-04-25 14:41) @done(21-04-25 20:45) @lasted(6h4m3s) @project(TODAY-2021-04-25.pseudo)
+  ✔ 블로그 정리 및 내일 할일 정리 2021-04-25 @started(21-04-26 09:11) @done(21-04-26 09:12) @lasted(1m37s) @project(TODAY-2021-04-25.daily)
   ✔ 블로그 정리 및 내일 할일 정리 2021-04-24 @started(21-04-25 12:07) @late @done(21-04-25 12:26) @lasted(19m28s) @project(daily)
   ✔ 기능 추가 작업 3일차 - 데이터 호환 작업 마무리, 버그수정 @est(4h) @started(21-04-23 09:07) @done(21-04-23 18:02) @lasted(8h55m26s) @project(TODAY-2021-04-23.feat-430-sankey-chart-migration)
   ✔ ~token based auth 4 @est(4h) @done(21-04-23 18:07)~ @fail @project(TODAY-2021-04-23.pseudo)
