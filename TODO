@@ -1,33 +1,32 @@
-29일 할 일: 개발 문서 정리, 계획& 절차 
-금요일 회의 확인 (2~3시)
-
-TODAY-2021-04-29:
-  ✔ 이벤트 일정 정리 @high @started(21-04-29 15:12) @done(21-04-29 15:48) @lasted(36m1s)
-  daily:
-    ✔ 블로그 정리 및 내일 할일 정리 2021-04-29 @started(21-04-29 17:52) @done(21-04-29 18:07) @lasted(15m58s)
-  feat-318-growth-rate-component:
-    ✔ 증감률 컴포넌트 작업 착수 4일차 - 개발 문서 정리 @est(4h) @started(21-04-29 09:29) @done(21-04-29 15:12) @lasted(5h43m21s)
-    ✔ 증감률 컴포넌트 작업 착수 4일차 - 필요 데이터, 함수 추가 @est(4h) @started(21-04-29 15:48) @done(21-04-29 17:52) @lasted(2h4m8s)
-
-    참고 https://github.com/mobigen/B-IRIS-Studio-service/wiki/Input-Box
-  pseudo:
-    ✘ token based auth 5 @est(3h) @cancelled(21-04-29 17:56)
-
 TODAY-2021-04-30:
   daily:
-    ☐ 블로그 정리 및 내일 할일 정리 2021-04-30
+    ✔ 블로그 정리 및 내일 할일 정리 2021-04-30 @done(21-05-02 15:40)
   feat-318-growth-rate-component:
-    ☐ 증감률 컴포넌트 작업 착수 5일차 - 개발 문서 회의 @est(1h)
-    ☐ 증감률 컴포넌트 작업 착수 5일차 - 필요 옵션 추가 @est(4h)
-    ☐ 증감률 컴포넌트 작업 착수 5일차 - 임시 데이터 그리기 @est(3h)
+    ✔ 증감률 컴포넌트 작업 착수 5일차 - 개발 문서 회의 @est(1h) @done(21-04-30 10:55)
+    ✘ 증감률 컴포넌트 작업 착수 5일차 - 필요 옵션 추가 @est(4h) @cancelled(21-04-30 11:22)
+    ✔ 증감률 컴포넌트 작업 착수 5일차 - 디렉티브 추가 @est(4h) @started(21-04-30 13:03) @done(21-04-30 18:07) @lasted(5h4m54s)
+    ✔ 증감률 컴포넌트 작업 착수 5일차 - 임시 데이터 그리기 (1) @est(3h) @started(21-04-30 18:08) @done(21-04-30 19:04) @lasted(56m34s)
 
 TODAY-2021-05-01:
+  pseudo:
+    ✘ token based auth 5 @est(3h) @cancelled(21-05-02 15:44)
+  rust-lec:
+    ✘ 과제하기 @est(2h) @cancelled(21-05-02 15:44)
+
+TODAY-2021-05-02:
   pseudo:
     ☐ token based auth 5 @est(3h)
   rust-lec:
     ☐ 과제하기 @est(2h)
 
-
+day-2021-05-03:
+  feat-318-growth-rate-component:
+    ☐ 증감률 컴포넌트 작업 착수 5일차 - 임시 데이터 그리기 (2) @est(3h)
+  feat-430-sankey-chart-migration: 
+    https://github.com/mobigen/B-IRIS-Studio-service/pull/858
+    ☐ PR 리뷰 논의 @est(10m)
+    ☐ PR 리뷰 반영 @est(2h)
+  
 blog:
   ☐ tips 정리하기 @in-month
 
@@ -46,13 +45,11 @@ field:
   ~feat-#419-scatter-regression:~  @hold
     https://github.com/mobigen/IRIS/issues/419
   feat-430-sankey-chart-migration: 
-    ☐ 기능 추가 작업 - 2일차 @est(8h)
     ☐ 기능 추가 작업 - 3일차 @est(8h)
   
   feat-show-checkbox-sep-alert-452:
     https://github.com/Epikem/B-IRIS-Studio-service/issues/9
     ☐ 리뷰 반영 - 2 @est(2.4h)
-
 
   feat-box-plot:
     https://github.com/mobigen/B-IRIS-Studio-service/pull/813
@@ -164,6 +161,11 @@ longterm:
   vs code에서 maven clean install 후 서버 실행
 
 Archive:  
+  ✔ 이벤트 일정 정리 @high @started(21-04-29 15:12) @done(21-04-29 15:48) @lasted(36m1s) @project(TODAY-2021-04-29)
+  ✔ 블로그 정리 및 내일 할일 정리 2021-04-29 @started(21-04-29 17:52) @done(21-04-29 18:07) @lasted(15m58s) @project(TODAY-2021-04-29.daily)
+  ✔ 증감률 컴포넌트 작업 착수 4일차 - 개발 문서 정리 @est(4h) @started(21-04-29 09:29) @done(21-04-29 15:12) @lasted(5h43m21s) @project(TODAY-2021-04-29.feat-318-growth-rate-component)
+  ✔ 증감률 컴포넌트 작업 착수 4일차 - 필요 데이터, 함수 추가 @est(4h) @started(21-04-29 15:48) @done(21-04-29 17:52) @lasted(2h4m8s) @project(TODAY-2021-04-29.feat-318-growth-rate-component)
+  ✘ token based auth 5 @est(3h) @cancelled(21-04-29 17:56) @project(TODAY-2021-04-29.pseudo)
   ✔ 블로그 정리 및 내일 할일 정리 (1) 2021-04-28 @started(21-04-28 15:51) @done(21-04-28 15:57) @lasted(6m18s) @project(TODAY-2021-04-28.daily)
   ✔ 블로그 정리 및 내일 할일 정리 (2) 2021-04-28 @started(21-04-29 09:14) @done(21-04-29 09:17) @lasted(3m34s) @project(TODAY-2021-04-28.daily)
   ✔ 리뷰 반영 - 2차 @est(2h) @started(21-04-28 09:10) @done(21-04-28 09:43) @lasted(33m24s) @project(TODAY-2021-04-28.feat-show-checkbox-sep-alert-452)
