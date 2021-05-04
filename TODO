@@ -1,17 +1,12 @@
-day-2021-05-03:
-  ✔ 블로그 정리 및 내일 할일 정리 2021-05-03 @started(21-05-03 18:00) @done(21-05-03 18:05) @lasted(5m36s)
-  feat-318-growth-rate-component:
-    ✔ 증감률 컴포넌트 작업 착수 5일차 - 임시 데이터 그리기 (2) @est(3h) @started(21-05-03 10:19) @done(21-05-03 18:00) @lasted(7h41m52s)
-  feat-430-sankey-chart-migration: 
-    https://github.com/mobigen/B-IRIS-Studio-service/pull/858
-    ✔ PR 리뷰 논의 @est(10m) @done(21-05-03 10:07)
-    ✔ PR 리뷰 반영 @est(2h) @done(21-05-03 10:07) @lasted(15m)
-  
 day-2021-05-04:
-  ☐ 블로그 정리 및 내일 할일 정리 2021-05-04
+  ✔ 블로그 정리 및 내일 할일 정리 2021-05-04 @started(21-05-04 17:58) @done(21-05-04 18:01) @lasted(3m19s)
   ☐ 우테캠지원 @high @due(2021-05-05)
   feat-318-growth-rate-component:
-    ☐ 증감률 컴포넌트 작업 착수 6일차 - 데이터 모델로 그리기 (2) @est(8h)
+    ✔ 증감률 컴포넌트 작업 착수 6일차 - 데이터 모델로 그리기 (2) @est(8h) @started(21-05-04 09:03) @done(21-05-04 17:58) @lasted(8h55m50s)
+
+day-2021-05-05:
+  ☐ 블로그 정리 및 내일 할일 정리 2021-05-05
+  ☐ 우테캠지원 @high @due(2021-05-05)
 
 rust-lec:
   ☐ 과제하기 (2) @est(2h)
@@ -149,6 +144,10 @@ longterm:
   vs code에서 maven clean install 후 서버 실행
 
 Archive:  
+  ✔ 블로그 정리 및 내일 할일 정리 2021-05-03 @started(21-05-03 18:00) @done(21-05-03 18:05) @lasted(5m36s) @project(day-2021-05-03)
+  ✔ 증감률 컴포넌트 작업 착수 5일차 - 임시 데이터 그리기 (2) @est(3h) @started(21-05-03 10:19) @done(21-05-03 18:00) @lasted(7h41m52s) @project(day-2021-05-03.feat-318-growth-rate-component)
+  ✔ PR 리뷰 논의 @est(10m) @done(21-05-03 10:07) @project(day-2021-05-03.feat-430-sankey-chart-migration)
+  ✔ PR 리뷰 반영 @est(2h) @done(21-05-03 10:07) @lasted(15m) @project(day-2021-05-03.feat-430-sankey-chart-migration)
   ✔ 블로그 정리 및 내일 할일 정리 2021-05-02 @started(21-05-03 03:00) @done(21-05-03 03:01) @lasted(1m31s) @project(TODAY-2021-05-02)
   ✔ token based auth 5 @est(3h) @started(21-05-02 15:51) @done(21-05-02 19:10) @lasted(3h19m15s) @project(TODAY-2021-05-02.pseudo)
   ✔ 과제하기 (1) @est(2h) @started(21-05-03 01:44) @done(21-05-03 03:00) @lasted(1h16m2s) @project(TODAY-2021-05-02.rust-lec)
