@@ -1,11 +1,22 @@
 
-day-2021-05-06:
-  ☐ 블로그 정리 및 내일 할일 정리 2021-05-06 @started(21-05-06 19:05)
-  ✔ 증감률 컴포넌트 작업 착수 7일차 - 데이터 모델로 그리기 (2) @est(8h) @started(21-05-06 10:15) @done(21-05-06 19:04) @lasted(8h49m42s)
+day-2021-05-07:
+  ✔ 블로그 정리 및 내일 할일 정리 2021-05-07 @started(21-05-07 19:29) @done(21-05-07 19:31) @lasted(2m5s)
+  ✔ 증감률 컴포넌트 작업 착수 8일차 - 추가 옵션 적용 @est(9h) @started(21-05-07 10:14) @done(21-05-07 19:29) @lasted(9h15m4s)
 
 day-2021-05-07:
-  ☐ 블로그 정리 및 내일 할일 정리 2021-05-07
-  ☐ 증감률 컴포넌트 작업 착수 8일차 - 추가 옵션 적용 @est(9h)
+  ☐ 블로그 정리 및 내일 할일 정리 2021-05-08
+  ☐ 카카오인턴코테 응시 @est(2.5h)
+
+day-2021-05-08:
+  ☐ js 토론 8시이후
+
+
+day-2021-05-10:
+  feat-430-sankey-chart-migration:
+    https://github.com/mobigen/B-IRIS-Studio-service/pull/858
+    ☐ PR 리뷰 적용 @est(5h)
+    
+  
 
 rust-lec:
   ☐ 과제하기 (2) @est(2h) @in-week @est(2h)
@@ -54,8 +65,9 @@ pseudo:
   ☐ add authorization (attach auth to existing user)
   
 job:
-  ☐ 우테캠 @critical @due(2021-05-05)
-  ☐ 프로그래머스 - 여름인턴 @high @due(2021-05-06)
+  ✔ 우테캠 @critical @due(2021-05-05) @done(21-05-07 17:22)
+  ✔ 프로그래머스 - 여름인턴 @high @due(2021-05-06) @done(21-05-07 17:22)
+  ☐ 백텍지원 (백두테크놀로지스)
   ☐ cv update @high
   https://www.naver-recruit.com/?utm_source=gdn&utm_medium=cpc&utm_campaign=gdn_cpc&gclid=EAIaIQobChMIp5mGtq7k7wIVLcNMAh2mbQxwEAEYASAAEgJaSvD_BwE
   ☐ 메가존 클라우드 지원 @high
@@ -143,6 +155,8 @@ longterm:
   vs code에서 maven clean install 후 서버 실행
 
 Archive:  
+  ✔ 블로그 정리 및 내일 할일 정리 2021-05-06 @started(21-05-06 19:05) @done(21-05-06 19:07) @lasted(2m13s) @project(day-2021-05-06)
+  ✔ 증감률 컴포넌트 작업 착수 7일차 - 데이터 모델로 그리기 (2) @est(8h) @started(21-05-06 10:15) @done(21-05-06 19:04) @lasted(8h49m42s) @project(day-2021-05-06)
   ✔ 블로그 정리 및 내일 할일 정리 2021-05-05 @started(21-05-06 04:32) @done(21-05-06 04:38) @lasted(6m54s) @project(day-2021-05-05)
   ✔ 우테캠지원 (1) @high @due(2021-05-05) @started(21-05-05 13:43) @done(21-05-05 15:24) @lasted(1h41m37s) @project(day-2021-05-05)
   ✔ 우테캠지원 (2) @high @due(2021-05-05) @started(21-05-05 22:49) @done(21-05-06 04:31) @lasted(5h42m51s) @project(day-2021-05-05)
