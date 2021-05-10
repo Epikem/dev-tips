@@ -1,25 +1,20 @@
-day-2021-05-07:
-  ✘ 블로그 정리 및 내일 할일 정리 2021-05-08 @cancelled(21-05-09 13:16)
-  ✔ 카카오인턴코테 응시 @est(2.5h) @done(21-05-09 13:15)
-
-day-2021-05-08:
-  ✔ js 토론 8시이후 @done(21-05-09 13:16)
-
-day-2021-05-09:
-  ✔ 블로그 정리 및 내일 할일 정리 2021-05-08 @started(21-05-10 02:42) @done(21-05-10 02:58) @lasted(16m21s)
-  ✔ 블로그 정리 및 내일 할일 정리 2021-05-09 @started(21-05-10 02:58) @done(21-05-10 03:06) @lasted(8m29s)
-  ✔ 프로그래머스 응시 @est(2h) @started(21-05-09 13:16) @done(21-05-09 15:04) @lasted(1h48m57s)
-  ✔ 과제하기 (2) @est(2h) @in-week @est(2h) @started(21-05-09 22:05) @done(21-05-10 00:42) @lasted(2h37m26s)
-
 day-2021-05-10:
-  ☐ 블로그 정리 및 내일 할일 정리 2021-05-10
+  ☐ 블로그 정리 및 내일 할일 정리 2021-05-10 @started(21-05-10 19:55)
+  rust-lec:
+    ✔ 과제 제출 @est(10m) @started(21-05-10 12:42) @done(21-05-10 12:48) @lasted(6m59s)
+
   feat-430-sankey-chart-migration:
     https://github.com/mobigen/B-IRIS-Studio-service/pull/858
-    ☐ PR 리뷰 적용 @est(5h)
+    ✔ PR 리뷰 적용 @est(3h) @started(21-05-10 13:27) @done(21-05-10 14:34) @lasted(1h7m18s)
+  feat-318-growth-rate-component:
+    ✔ 증감률 컴포넌트 작업 착수 7일차 - 다국어 적용, 마무리 @est(8h) @started(21-05-10 14:34) @done(21-05-10 19:55) @lasted(5h21m25s)
     
-rust-lec:
-  ✔ 과제하기 (2) @est(2h) @in-week @est(2h) @done(21-05-10 03:06)
-  
+day-2021-05-11:
+  ☐ 블로그 정리 및 내일 할일 정리 2021-05-11
+  feat-318-growth-rate-component:
+    ☐ 증감률 컴포넌트 작업 착수 8일차 - 다국어 적용, 마무리 (2) @est(8h)
+    
+
 blog:
   ☐ tips 정리하기 @in-month
 
@@ -152,6 +147,14 @@ longterm:
   vs code에서 maven clean install 후 서버 실행
 
 Archive:  
+  ✘ 블로그 정리 및 내일 할일 정리 2021-05-08 @cancelled(21-05-09 13:16) @project(day-2021-05-07)
+  ✔ 카카오인턴코테 응시 @est(2.5h) @done(21-05-09 13:15) @project(day-2021-05-07)
+  ✔ js 토론 8시이후 @done(21-05-09 13:16) @project(day-2021-05-08)
+  ✔ 블로그 정리 및 내일 할일 정리 2021-05-08 @started(21-05-10 02:42) @done(21-05-10 02:58) @lasted(16m21s) @project(day-2021-05-09)
+  ✔ 블로그 정리 및 내일 할일 정리 2021-05-09 @started(21-05-10 02:58) @done(21-05-10 03:06) @lasted(8m29s) @project(day-2021-05-09)
+  ✔ 프로그래머스 응시 @est(2h) @started(21-05-09 13:16) @done(21-05-09 15:04) @lasted(1h48m57s) @project(day-2021-05-09)
+  ✔ 과제하기 (2) @est(2h) @in-week @est(2h) @started(21-05-09 22:05) @done(21-05-10 00:42) @lasted(2h37m26s) @project(day-2021-05-09)
+  ✔ 과제하기 (2) @est(2h) @in-week @est(2h) @done(21-05-10 03:06) @project(rust-lec)
   ✔ 블로그 정리 및 내일 할일 정리 2021-05-07 @started(21-05-07 19:29) @done(21-05-07 19:31) @lasted(2m5s) @project(day-2021-05-07)
   ✔ 증감률 컴포넌트 작업 착수 8일차 - 추가 옵션 적용 @est(9h) @started(21-05-07 10:14) @done(21-05-07 19:29) @lasted(9h15m4s) @project(day-2021-05-07)
   ✔ 우테캠 @critical @due(2021-05-05) @done(21-05-07 17:22) @project(job)
