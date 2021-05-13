@@ -1,8 +1,18 @@
-day-2021-05-11:
-  ☐ 블로그 정리 및 내일 할일 정리 2021-05-11 @started(21-05-11 19:01)
-  feat-318-growth-rate-component:
-    ✔ 증감률 컴포넌트 작업 착수 8일차 - 다국어 적용, 마무리 (2) @est(8h) @started(21-05-11 10:08) @done(21-05-11 19:01) @lasted(8h53m3s)
+day-2021-05-12:
+  ✔ 블로그 정리 및 내일 할일 정리 2021-05-12 @started(21-05-13 11:03) @done(21-05-13 11:05) @lasted(2m49s)
+  field:
+    feat-318-growth-rate-component:
+      ✘ 증감률 컴포넌트 작업 착수 9일차 - 추가사항, PR 반영 @est(6h) @started(21-05-12 16:37) @cancelled(21-05-12 20:34) @wasted(3h57m10s)
+    ✔ 이슈 세개 일정산정 (1) @started(21-05-12 11:28) @done(21-05-12 13:10) @lasted(1h42m23s)
+    ✔ 이슈 세개 일정산정 (2) @est(2h) @started(21-05-12 13:19) @done(21-05-12 15:51) @lasted(2h32m51s)
     
+
+day-2021-05-13:
+  ☐ 블로그 정리 및 내일 할일 정리 2021-05-13
+  field:
+    feat-318-growth-rate-component:
+      ☐ 증감률 컴포넌트 작업 착수 10일차 - 추가사항, PR 반영 @est(6h)
+
 blog:
   ☐ tips 정리하기 @in-month
 
@@ -17,6 +27,49 @@ sport:
 field:
   [이슈처리 프로젝트 링크]
   https://github.com/Epikem/B-IRIS-Studio-service/projects/2
+
+  https://github.com/mobigen/IRIS/issues/576
+  [Studio] 도형객체 채우기, 그림자의 투명도 설정 오류 #576
+  fix-576-fix-inconsistent-transparency-setting:
+    ✔ 일정 및 예상 방향 산정 @est(10m) @started(21-05-12 13:25) @done(21-05-12 13:28) @lasted(3m21s)
+    ☐ 기존 코드 분석 @est(4h)
+    ☐ 버그 수정 @est(4h)
+    ☐ 마이그레이션 @est(8h)
+    ☐ 테스트 @est(4h)
+    ☐ 리뷰 반영 @est(4h)
+
+  https://github.com/mobigen/IRIS/issues/533
+  Studio: 전체 변수명 보기 창에 정렬, 필터 기능 추가 #533
+  feat-533-add-filter-ans-sort-to-var-dialog:
+    ✔ 일정 및 예상 방향 산정 @est(10m) @started(21-05-12 13:30) @done(21-05-12 13:52) @lasted(22m9s)
+    `varMonitLayer.js, .jsp`에 해당 내용이 있고, 참고 문서 및 기획서도 있다. 
+    참고해서 기능 구현만 하면 될듯하다.
+    정렬 및 필터 기능을 기존에 어떻게 구현했는지 조금 찾아봐야 할 듯하고,
+    ? 변수현황-dialog 문서 업데이트가 필요한가?? 현재 문서 상태도 좀 이상한데..
+    ? 기획서 공유에 해당하는 퍼블리싱 자료 있나??
+    ? varMonitLayer만 건드리면 되는거 맞는지 확인
+    ☐ 기존 코드 분석 @est(2h)
+    ☐ 기능 구현 - 필터링 @est(1h)
+    리스트 객체에 리스트 검색 기능이 있음.
+    ☐ 기능 구현 - 정렬 @est(1h)
+    테이블 차트에 정렬 기능이 있음.
+    ☐ 테스트 @est(2h)
+    ☐ 리뷰 반영 @est(2h)
+  참고문서 - https://github.com/mobigen/B-IRIS-Studio-service/wiki/변수현황-dialog
+
+  https://github.com/mobigen/IRIS/issues/532
+  Studio: 텍스트 변환 / 미리보기 버튼 추가 #532
+  feat-532-add-preview-for-text-converison:
+    ✔ 일정 및 예상 방향 산정 @est(10m) @started(21-05-12 13:52) @done(21-05-12 14:14) @lasted(22m12s)
+    그냥 주어진 대로 데이터 객체의 미리보기 jsp 참고하여 미리보기 기능을 hidden쪽에 추가한다.
+    ? 그냥 내용 그대로만 출력하라는 거 맞나??
+    ? 데이터 모델에도 같은 처리가 필요하지 않나??
+    ☐ 기존 코드 분석 @est(2h)
+    ☐ 기능 구현 - 미리보기 팝업 @est(2h)
+    데이터 객체의 미리보기 참고 `common_data`
+    ☐ 테스트 @est(2h)
+    ☐ 리뷰 반영 @est(2h)
+
   ☐ 기존 보고서 및 브랜치 삭제
   ~feat-#419-scatter-regression:~  @hold
     https://github.com/mobigen/IRIS/issues/419
@@ -87,6 +140,8 @@ longterm:
   # @Memo
 
   ## 문서:
+    - 디자인 적용:
+    http://mobius.mobigen.com/#/about
     - 깃 활용법: 
     https://github.com/mobigen/B-IRIS-API-Gateway-Service/wiki/git%2C-github-사용-가이드#git
     - js coding convention: 
@@ -135,6 +190,8 @@ longterm:
   vs code에서 maven clean install 후 서버 실행
 
 Archive:  
+  ✔ 블로그 정리 및 내일 할일 정리 2021-05-11 @started(21-05-11 19:01) @done(21-05-11 19:02) @lasted(1m42s) @project(day-2021-05-11)
+  ✔ 증감률 컴포넌트 작업 착수 8일차 - 다국어 적용, 마무리 (2) @est(8h) @started(21-05-11 10:08) @done(21-05-11 19:01) @lasted(8h53m3s) @project(day-2021-05-11.feat-318-growth-rate-component)
   ✔ 블로그 정리 및 내일 할일 정리 2021-05-10 @done(21-05-11 10:08) @project(day-2021-05-10)
   ✔ 과제 제출 @est(10m) @started(21-05-10 12:42) @done(21-05-10 12:48) @lasted(6m59s) @project(day-2021-05-10.rust-lec)
   ✔ PR 리뷰 적용 @est(3h) @started(21-05-10 13:27) @done(21-05-10 14:34) @lasted(1h7m18s) @project(day-2021-05-10.feat-430-sankey-chart-migration)
