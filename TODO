@@ -1,16 +1,21 @@
-day-2021-05-17:
-  ✔ 블로그 정리 및 내일 할일 정리 2021-05-17 @started(21-05-17 19:09) @done(21-05-17 19:12) @lasted(3m41s)
-  field:
-    ✔ ie11 검증 @est(2h) @started(21-05-17 17:41) @done(21-05-17 19:08) @lasted(1h27m57s)
-    feat-318-growth-rate-component:
-      ✔ 증감률 컴포넌트 작업 착수 11일차 - PR 반영 @est(4h) @started(21-05-17 10:35) @done(21-05-17 15:34) @lasted(4h59m54s)
-    fix-576-fix-inconsistent-transparency-setting:
-      ✘ 기존 코드 분석 @est(4h) @started(21-05-17 15:34) @cancelled(21-05-17 17:41) @wasted(2h7m10s)
-  ✔ wowa프로젝트 @started(21-05-17 22:51) @done(21-05-17 23:37) @lasted(46m52s)
-  
-
 day-2021-05-18:
-  ☐ 블로그 정리 및 내일 할일 정리 2021-05-18
+  ✔ 블로그 정리 및 내일 할일 정리 2021-05-18 @started(21-05-18 19:12) @done(21-05-18 19:18) @lasted(6m3s)
+  field:
+    feat-318-growth-rate-component:
+      ✔ 증감률 컴포넌트 작업 착수 12일차 - PR 반영 마무리 @est(1h) @started(21-05-18 10:39) @done(21-05-18 10:46) @lasted(7m15s)
+      ✔ 증감률 컴포넌트 작업 착수 12일차 - 퍼블리싱 재반영 @est(1h) @done(21-05-18 18:36)
+    fix-576-fix-inconsistent-transparency-setting:
+      ✔ 기존 코드 분석 @est(4h) @started(21-05-18 10:46) @done(21-05-18 15:57) @lasted(5h11m15s)
+      ✘ 코드 분석 끝내고 dev 풀받기 @est(5m) @cancelled(21-05-18 19:12)
+
+day-2021-05-19:
+  ☐ 블로그 정리 및 내일 할일 정리 2021-05-19
+
+day-2021-05-20:
+  ☐ 블로그 정리 및 내일 할일 정리 2021-05-20
+  feat-529-font-style-for-table:
+    ☐ 기존 코드 분석 @est(4h)
+
 
 pseudo:
   ☐ auth-token @est(5h)
@@ -35,7 +40,7 @@ field:
   https://github.com/mobigen/IRIS/issues/576
   [Studio] 도형객체 채우기, 그림자의 투명도 설정 오류 #576
   fix-576-fix-inconsistent-transparency-setting:
-    ☐ 기존 코드 분석 @est(4h)
+    ☐ 코드 분석 끝내고 dev 풀받기 @est(5m)
     ☐ 버그 수정 @est(4h)
     ☐ 마이그레이션 @est(8h)
     ☐ 테스트 @est(4h)
@@ -191,6 +196,11 @@ longterm:
   vs code에서 maven clean install 후 서버 실행
 
 Archive:  
+  ✔ 블로그 정리 및 내일 할일 정리 2021-05-17 @started(21-05-17 19:09) @done(21-05-17 19:12) @lasted(3m41s) @project(day-2021-05-17)
+  ✔ ie11 검증 @est(2h) @started(21-05-17 17:41) @done(21-05-17 19:08) @lasted(1h27m57s) @project(day-2021-05-17.field)
+  ✔ 증감률 컴포넌트 작업 착수 11일차 - PR 반영 @est(4h) @started(21-05-17 10:35) @done(21-05-17 15:34) @lasted(4h59m54s) @project(day-2021-05-17.field.feat-318-growth-rate-component)
+  ✘ 기존 코드 분석 @est(4h) @started(21-05-17 15:34) @cancelled(21-05-17 17:41) @wasted(2h7m10s) @project(day-2021-05-17.field.fix-576-fix-inconsistent-transparency-setting)
+  ✔ wowa프로젝트 @started(21-05-17 22:51) @done(21-05-17 23:37) @lasted(46m52s) @project(day-2021-05-17)
   ✔ 블로그 정리 및 내일 할일 정리 2021-05-16 @done(21-05-17 10:24) @project(day-2021-05-16)
   ✘ auth-token @est(5h) @cancelled(21-05-17 06:21) @project(day-2021-05-16.pseudo)
   ✔ 블로그 정리 및 내일 할일 정리 2021-05-14 @started(21-05-15 18:12) @done(21-05-15 18:20) @lasted(8m12s) @project(day-2021-05-14)
