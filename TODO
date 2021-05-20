@@ -1,24 +1,23 @@
-day-2021-05-18:
-  ✔ 블로그 정리 및 내일 할일 정리 2021-05-18 @started(21-05-18 19:12) @done(21-05-18 19:18) @lasted(6m3s)
-  field:
-    feat-318-growth-rate-component:
-      ✔ 증감률 컴포넌트 작업 착수 12일차 - PR 반영 마무리 @est(1h) @started(21-05-18 10:39) @done(21-05-18 10:46) @lasted(7m15s)
-      ✔ 증감률 컴포넌트 작업 착수 12일차 - 퍼블리싱 재반영 @est(1h) @done(21-05-18 18:36)
-    fix-576-fix-inconsistent-transparency-setting:
-      ✔ 기존 코드 분석 @est(4h) @started(21-05-18 10:46) @done(21-05-18 15:57) @lasted(5h11m15s)
-      ✘ 코드 분석 끝내고 dev 풀받기 @est(5m) @cancelled(21-05-18 19:12)
-
-day-2021-05-19:
-  ☐ 블로그 정리 및 내일 할일 정리 2021-05-19
-
 day-2021-05-20:
-  ☐ 블로그 정리 및 내일 할일 정리 2021-05-20
+  ✔ 블로그 정리 및 내일 할일 정리 2021-05-20 @started(21-05-20 18:14) @done(21-05-20 18:18) @lasted(4m51s)
+  fix-576-fix-inconsistent-transparency-setting:
+    ✔ 코드 분석 결과 공유 @done(21-05-20 15:25)
+
   feat-529-font-style-for-table:
-    ☐ 기존 코드 분석 @est(4h)
+    ✔ 일정 산정 @est(2h) @started(21-05-20 09:21) @done(21-05-20 11:10) @lasted(1h49m26s)
+    ✔ 기존 코드 분석 @est(4h) @started(21-05-20 11:23) @done(21-05-20 15:25) @lasted(4h2m5s)
+    ✔ 퍼블리싱 변경 분석 @est(4h) @started(21-05-20 15:26) @done(21-05-20 18:14) @lasted(2h48m48s)
 
+day-2021-05-21:
+  pseudo:
+    ☐ auth-token @est(5h)
 
-pseudo:
-  ☐ auth-token @est(5h)
+day-2021-05-24:
+  ☐ 블로그 정리 및 내일 할일 정리 2021-05-24
+  feat-529-font-style-for-table:
+    ☐ 기능 추가 @est(4h)
+    ☐ 리뷰 반영 @est(4h)
+
 
 blog:
   ☐ tips 정리하기 @in-month
@@ -196,6 +195,12 @@ longterm:
   vs code에서 maven clean install 후 서버 실행
 
 Archive:  
+  ✘ 블로그 정리 및 내일 할일 정리 2021-05-19 @cancelled(21-05-20 09:19) @project(day-2021-05-19)
+  ✔ 블로그 정리 및 내일 할일 정리 2021-05-18 @started(21-05-18 19:12) @done(21-05-18 19:18) @lasted(6m3s) @project(day-2021-05-18)
+  ✔ 증감률 컴포넌트 작업 착수 12일차 - PR 반영 마무리 @est(1h) @started(21-05-18 10:39) @done(21-05-18 10:46) @lasted(7m15s) @project(day-2021-05-18.field.feat-318-growth-rate-component)
+  ✔ 증감률 컴포넌트 작업 착수 12일차 - 퍼블리싱 재반영 @est(1h) @done(21-05-18 18:36) @project(day-2021-05-18.field.feat-318-growth-rate-component)
+  ✔ 기존 코드 분석 @est(4h) @started(21-05-18 10:46) @done(21-05-18 15:57) @lasted(5h11m15s) @project(day-2021-05-18.field.fix-576-fix-inconsistent-transparency-setting)
+  ✘ 코드 분석 끝내고 dev 풀받기 @est(5m) @cancelled(21-05-18 19:12) @project(day-2021-05-18.field.fix-576-fix-inconsistent-transparency-setting)
   ✔ 블로그 정리 및 내일 할일 정리 2021-05-17 @started(21-05-17 19:09) @done(21-05-17 19:12) @lasted(3m41s) @project(day-2021-05-17)
   ✔ ie11 검증 @est(2h) @started(21-05-17 17:41) @done(21-05-17 19:08) @lasted(1h27m57s) @project(day-2021-05-17.field)
   ✔ 증감률 컴포넌트 작업 착수 11일차 - PR 반영 @est(4h) @started(21-05-17 10:35) @done(21-05-17 15:34) @lasted(4h59m54s) @project(day-2021-05-17.field.feat-318-growth-rate-component)
