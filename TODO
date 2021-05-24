@@ -1,12 +1,28 @@
 day-2021-05-21:
   pseudo:
-    ☐ auth-token @est(5h)
+    ✘ auth-token @est(5h) @cancelled(21-05-23 11:17)
+
+day-2021-05-23:
+  ✔ 블로그 정리 및 내일 할일 정리 2021-05-23 @started(21-05-24 08:55) @done(21-05-24 08:55) @lasted(59s)
+  pseudo:
+    ✘ auth-token @est(5h) @cancelled(21-05-24 08:54)
 
 day-2021-05-24:
-  ☐ 블로그 정리 및 내일 할일 정리 2021-05-24
+  ✔ 블로그 정리 및 내일 할일 정리 2021-05-24 @started(21-05-24 17:54) @done(21-05-24 18:00) @lasted(6m7s)
   feat-529-font-style-for-table:
-    ☐ 기능 추가 @est(4h)
-    ☐ 리뷰 반영 @est(4h)
+    ✔ 기능 추가 @est(4h) @started(21-05-24 08:56) @done(21-05-24 17:54) @lasted(8h58m54s)
+    ✘ 리뷰 반영 @est(4h) @cancelled(21-05-24 17:54)
+
+day-2021-05-25:
+  ☐ 블로그 정리 및 내일 할일 정리 2021-05-25
+  feat-529-font-style-for-table:
+    ☐ 기능 추가 및 테스트 @est(9h)
+    
+day-2021-05-28:
+  ☐ 청소기 충전기 챙기기 @non-dev
+
+pseudo:
+  ☐ auth-token @est(5h) @high
 
 blog:
   ☐ tips 정리하기 @in-month
