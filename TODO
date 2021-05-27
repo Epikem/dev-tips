@@ -1,29 +1,55 @@
-day-2021-05-26:
-  ✔ 블로그 정리 및 내일 할일 정리 2021-05-26 @started(21-05-26 17:55) @done(21-05-26 17:59) @lasted(4m7s)
-  pseudo:
-    ✘ auth-token @est(5h) @high @cancelled(21-05-27 10:07)
-  field:
-    feat-529-font-style-for-table:
-      ✔ 기능 및 호환성 테스트, 리뷰사항 반영 @est(9h) @started(21-05-26 10:15) @done(21-05-26 17:55) @lasted(7h40m11s)
-
 day-2021-05-27:
+  - [x] 블로그 정리 및 내일 할일 정리 2021-05-27 @started(21-05-27 19:07) @done(21-05-27 19:12) @lasted(5m21s)
   field:
     feat-529-font-style-for-table:
       ☐ 퍼블리싱 적용 @est(2h)
       ☐ 세로 정렬 구현 @est(2h)
       ☐ 헤더 높이 옵션 구현 @est(2h)
       ☐ 추가 테스트 및 리뷰 사항 적용 @est(2h)
-    fix-576-fix-inconsistent-transparency-setting:
-      ☐ 코드 분석 끝내고 dev 풀받기 @est(5m)
-      ☐ 버그 수정 @est(4h)
-      ☐ 마이그레이션 @est(8h)
-      ☐ 테스트 @est(4h)
-      ☐ 리뷰 반영 @est(4h)
+    https://github.com/mobigen/IRIS/issues/533
+    Studio: 전체 변수명 보기 창에 정렬, 필터 기능 추가 #533
+    feat-533-add-filter-and-sort-to-var-dialog:
+      `varMonitLayer.js, .jsp`에 해당 내용이 있고, 참고 문서 및 기획서도 있다. 
+      참고해서 기능 구현만 하면 될듯하다.
+      정렬 및 필터 기능을 기존에 어떻게 구현했는지 조금 찾아봐야 할 듯하고,
+      ? 변수현황-dialog 문서 업데이트가 필요한가?? 현재 문서 상태도 좀 이상한데..
+      ? varMonitLayer만 건드리면 되는거 맞는지 확인
+      ✔ 기존 코드 분석 @est(2h) @started(21-05-27 10:19) @done(21-05-27 13:16) @lasted(2h57m4s)
+      ✔ 기능 구현 - 필터링 @est(1h) @started(21-05-27 13:56) @done(21-05-27 14:11) @lasted(15m33s)
+      리스트 객체에 리스트 검색 기능이 있음.
+      ✔ 기능 구현 - 정렬 @est(1h) @started(21-05-27 13:16) @done(21-05-27 13:55) @lasted(39m25s)
+      테이블 차트에 정렬 기능이 있음.
+      ☐ 기능 수정 - expand 상태 꼬임 해결 @est(2h)
+      ☐ 테스트 @est(2h)
+      ☐ 리뷰 반영 @est(2h)
+    feat-532-add-preview-for-text-converison:
+      그냥 주어진 대로 데이터 객체의 미리보기 jsp 참고하여 미리보기 기능을 hidden쪽에 추가한다.
+      ? 그냥 내용 그대로만 출력하라는 거 맞나??
+      ? 데이터 모델에도 같은 처리가 필요하지 않나??
+      - [x] 기존 코드 분석 @est(2h) @started(21-05-27 15:19) @done(21-05-27 15:33) @lasted(14m57s)
+      - [x] 기능 구현 - 미리보기 팝업 @est(2h) @started(21-05-27 15:33) @done(21-05-27 16:33) @lasted(1h3s)
+      - [x] 기능 구현 - 쿼리바인딩 할지 결정 @est(10m) @done(21-05-27 17:02)
+      - [x] 기능 구현 - 미리보기 2차 @est(1h) @started(21-05-27 17:02) @done(21-05-27 17:30) @lasted(28m20s)
+      데이터 객체의 미리보기 참고 `common_data`
+      - [ ] 테스트 @est(2h)
+      - [ ] 리뷰 반영 @est(2h)
 
 day-2021-05-28:
+  - [ ] 블로그 정리 및 내일 할일 정리 2021-05-28
+  field:
+    feat-529-font-style-for-table:
+      ☐ 퍼블리싱 적용 @est(2h)
+      ☐ 세로 정렬 구현 @est(2h)
+      ☐ 헤더 높이 옵션 구현 @est(2h)
+      ☐ 추가 테스트 및 리뷰 사항 적용 @est(2h
+  
+day-2021-05-29:
   ☐ 청소기 충전기 챙기기 @non-dev
 
 day-2021-05-29:
+  school:
+    ☐ 제출서류 확인 @est(2h)
+
   pseudo:
     ☐ auth-token @est(5h) @high
 
@@ -36,7 +62,6 @@ school:
   http://icee.hanyang.ac.kr/xe/sub05_01/8473
   https://portal.hanyang.ac.kr/port.do#!UDMxNDEzNyRAXmhha3NhLyRAXiRAXk0wMTAwMzgkQF7qs7Xsp4Dsgqztla0kQF5NMDAzNzk5JEBeNTgxOWVmMWVmZGVkOGNhNmIwN2JjNDYzNjdkZGRjZDg2ZDI0YjQ2Nzg2NWY5MTVkNDQ5MGUxOWEzODZiNDgxOA==
   ☐ 공학인증 졸업요건 확인 - 문제풀기? @due(2021-08) @high
-  ✔ 공학인증 졸업요건 확인 - 8월졸업자 문의하기 @done(21-05-26 17:32)
   
 sport:
   ☐ sport: boj 14868 - 문명
@@ -204,6 +229,10 @@ longterm:
   vs code에서 maven clean install 후 서버 실행
 
 Archive: 
+  ✔ 블로그 정리 및 내일 할일 정리 2021-05-26 @started(21-05-26 17:55) @done(21-05-26 17:59) @lasted(4m7s) @project(day-2021-05-26)
+  ✘ auth-token @est(5h) @high @cancelled(21-05-27 10:07) @project(day-2021-05-26.pseudo)
+  ✔ 기능 및 호환성 테스트, 리뷰사항 반영 @est(9h) @started(21-05-26 10:15) @done(21-05-26 17:55) @lasted(7h40m11s) @project(day-2021-05-26.field.feat-529-font-style-for-table)
+  ✔ 공학인증 졸업요건 확인 - 8월졸업자 문의하기 @done(21-05-26 17:32) @project(school)
   ✘ auth-token @est(5h) @cancelled(21-05-23 11:17) @project(day-2021-05-21.pseudo)
   ✔ 블로그 정리 및 내일 할일 정리 2021-05-25 @done(21-05-26 10:15) @project(day-2021-05-25)
   ✔ 기능 추가 및 테스트 @est(9h) @started(21-05-25 08:49) @done(21-05-25 16:38) @lasted(7h49m24s) @project(day-2021-05-25.feat-529-font-style-for-table)
