@@ -1,27 +1,16 @@
-day-2021-05-28:
-  - [x] 블로그 정리 및 내일 할일 정리 2021-05-28 @started(21-05-28 16:06) @done(21-05-28 16:07) @lasted(1m3s)
-  ✘ todo+ 시작 인식 다시 고치기 @est(1h) @cancelled(21-05-30 16:28)
-  field:
-    feat-529-font-style-for-table:
-      - [ ] 퍼블리싱 적용 @est(2h)
-      - [x] 세로 정렬 구현 @est(2h) @started(21-05-28 14:04) @done(21-05-28 16:03) @lasted(1h59m15s)
-      - [ ] 헤더 높이 옵션 구현 @est(2h)
-      - [ ] 추가 테스트 및 리뷰 사항 적용 @est(2h)
-  
-day-2021-05-29:
-  ✘ 청소기 충전기 챙기기 @non-dev @cancelled(21-05-30 16:26)
-  school:
-    ✘ 제출서류 확인 @est(2h) @cancelled(21-05-30 16:26)
-
 day-2021-05-30:
-  - [ ] 청소기 충전기 챙기기 @non-dev
-  - [ ] todo+ 시작 인식 다시 고치기 @est(1h)
+  ~- [ ] 청소기 충전기 챙기기 @non-dev~
+  - [x] 블로그 정리 및 내일 할일 정리 2021-05-30 @started(21-05-31 12:56) @done(21-05-31 12:59) @lasted(3m15s)
+  ✘ todo+ 시작 인식 다시 고치기 @est(1h) @started(21-05-30 17:36) @cancelled(21-05-30 19:35) @wasted(1h59m40s)
   school:
-    - [ ] 제출서류 확인 @est(2h)
+    ✘ 제출서류 확인 @est(2h) @cancelled(21-05-31 12:55)
   pseudo:
-    - [ ] auth-token @est(5h) @high
+    ✘ auth-token @est(5h) @high @cancelled(21-05-31 12:54)
 
 day-2021-05-31:
+  - [ ] 블로그 정리 및 내일 할일 정리 2021-05-31
+  - [x] todo+ 시작 인식 다시 고치기 @est(1h) @done(21-05-31 12:54)
+  - [ ] auth-token @est(5h) @high
   field:
     feat-529-font-style-for-table:
       - [ ] 퍼블리싱 적용 @est(2h)
@@ -41,6 +30,7 @@ school:
   http://icee.hanyang.ac.kr/xe/sub05_01/8473
   https://portal.hanyang.ac.kr/port.do#!UDMxNDEzNyRAXmhha3NhLyRAXiRAXk0wMTAwMzgkQF7qs7Xsp4Dsgqztla0kQF5NMDAzNzk5JEBeNTgxOWVmMWVmZGVkOGNhNmIwN2JjNDYzNjdkZGRjZDg2ZDI0YjQ2Nzg2NWY5MTVkNDQ5MGUxOWEzODZiNDgxOA==
   - [ ] 공학인증 졸업요건 확인 - 문제풀기? @due(2021-08) @high
+  - [ ] 제출서류 확인 @est(2h)
   
 sport:
   - [ ] sport: boj 14868 - 문명
