@@ -1,7 +1,7 @@
 day-2021-06-01:
   - [x] 블로그 정리 및 내일 할일 정리 1차 2021-06-01 @started(21-06-01 18:57) @done(21-06-01 19:00) @lasted(3m3s)
-  - [ ] 블로그 정리 및 내일 할일 정리 2차 2021-06-01
-  - [ ] auth-token @est(5h) @high
+  - [x] 블로그 정리 및 내일 할일 정리 2차 2021-06-01 @delayed @started(21-06-02 09:14) @done(21-06-02 09:37) @lasted(23m51s)
+  - [x] auth-token @est(5h) @high @done(21-06-02 09:14)
   field:
     feat-529-font-style-for-table:
       ✘ 세로 정렬 퍼블리싱 적용 @est(1h) @started(21-06-01 10:47) @cancelled(21-06-01 11:26) @wasted(39m17s)
