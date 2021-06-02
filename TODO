@@ -1,15 +1,10 @@
 day-2021-06-02:
-  - [x] 블로그 정리 및 내일 할일 정리 1차 2021-06-02 @started(21-06-02 17:56) @done(21-06-02 18:02) @lasted(6m18s)
-  - [ ] auth-token @est(5h) @high
-  field:
-    fix-576-fix-inconsistent-transparency-setting:
-      - [x] 코드 분석 끝내고 dev 풀받기 @est(5m) @done(21-06-02 10:10)
-      - [x] 버그 수정 @est(4h) @done(21-06-02 10:10)
-      - [x] 마이그레이션 @est(8h) @started(21-06-02 10:10) @done(21-06-02 16:09) @lasted(5h59m44s)
-    feat-533-add-filter-and-sort-to-var-dialog:
-      - [x] 정렬 기능 개선 - 정렬 @est(3h) @done(21-06-02 17:03)
+  - [x] 블로그 정리 및 내일 할일 정리 2차 2021-06-02 @started(21-06-03 00:07) @done(21-06-03 00:14) @lasted(7m35s)
+  pseudo:
+    - [x] auth-token @est(5h) @high @started(21-06-02 20:33) @done(21-06-02 21:45) @lasted(1h12m22s)
 
 day-2021-06-03:
+  - [ ] 코멘트 수정하기 (링크, close 추가 두가지였음)
   - [ ] 블로그 정리 및 내일 할일 정리 2021-06-03
   field:
     fix-576-fix-inconsistent-transparency-setting:
@@ -109,6 +104,10 @@ pseudo:
   - [ ] customize scope @est(2h)
   - [ ] add local
   - [ ] token based auth 6 @est(3h)
+  - [ ] 헤더 토큰 사용 @est(1h)
+  - [ ] 추가 라우트 적용 @est(2h)
+  - [ ] 추가 라우트 테스트 @est(5h)
+  - [ ] 유저 정보 변경 기능 @est(3h)
 
   ref - https://developers.google.com/identity/sign-in/web/backend-auth
   - [ ] add authorization (attach auth to existing user)
@@ -199,6 +198,11 @@ longterm:
   vs code에서 maven clean install 후 서버 실행
 
 Archive: 
+  - [x] 블로그 정리 및 내일 할일 정리 1차 2021-06-02 @started(21-06-02 17:56) @done(21-06-02 18:02) @lasted(6m18s) @project(day-2021-06-02)
+  - [x] 코드 분석 끝내고 dev 풀받기 @est(5m) @done(21-06-02 10:10) @project(day-2021-06-02.field.fix-576-fix-inconsistent-transparency-setting)
+  - [x] 버그 수정 @est(4h) @done(21-06-02 10:10) @project(day-2021-06-02.field.fix-576-fix-inconsistent-transparency-setting)
+  - [x] 마이그레이션 @est(8h) @started(21-06-02 10:10) @done(21-06-02 16:09) @lasted(5h59m44s) @project(day-2021-06-02.field.fix-576-fix-inconsistent-transparency-setting)
+  - [x] 정렬 기능 개선 - 정렬 @est(3h) @done(21-06-02 17:03) @project(day-2021-06-02.field.feat-533-add-filter-and-sort-to-var-dialog)
   - [x] 블로그 정리 및 내일 할일 정리 1차 2021-06-01 @started(21-06-01 18:57) @done(21-06-01 19:00) @lasted(3m3s) @project(day-2021-06-01)
   - [x] 블로그 정리 및 내일 할일 정리 2차 2021-06-01 @delayed @started(21-06-02 09:14) @done(21-06-02 09:37) @lasted(23m51s) @project(day-2021-06-01)
   - [x] auth-token @est(5h) @high @done(21-06-02 09:14) @project(day-2021-06-01)
