@@ -1,26 +1,21 @@
-day-2021-06-01:
-  - [x] 블로그 정리 및 내일 할일 정리 1차 2021-06-01 @started(21-06-01 18:57) @done(21-06-01 19:00) @lasted(3m3s)
-  - [x] 블로그 정리 및 내일 할일 정리 2차 2021-06-01 @delayed @started(21-06-02 09:14) @done(21-06-02 09:37) @lasted(23m51s)
-  - [x] auth-token @est(5h) @high @done(21-06-02 09:14)
-  field:
-    feat-529-font-style-for-table:
-      ✘ 세로 정렬 퍼블리싱 적용 @est(1h) @started(21-06-01 10:47) @cancelled(21-06-01 11:26) @wasted(39m17s)
-      - [x] 세로 정렬 퍼블리싱 적용 @est(1h) @done(21-06-01 15:45)
-      - [x] 헤더 세로 정렬 적용 @est(3h) @started(21-06-01 13:13) @done(21-06-01 15:45) @lasted(2h32m50s)
-      - [x] 다국어 적용 @est(30m) @started(21-06-01 09:40) @done(21-06-01 10:47) @lasted(1h7m23s)
-      - [x] 정리 및 커밋 @est(30m) @done(21-06-01 15:45)
-      - [x] 추가 테스트 및 리뷰 사항 적용 @est(2h) @started(21-06-01 17:56) @done(21-06-01 18:28) @lasted(32m1s)
-    fix-576-fix-inconsistent-transparency-setting:
-      - [x] 일정 재산정 @est(1h) @started(21-06-01 16:03) @done(21-06-01 17:53) @lasted(1h50m50s)
-      - [x] 코드 분석 끝내고 dev 풀받기 @est(5m) @started(21-06-01 18:43) @done(21-06-01 18:56) @lasted(13m38s)
-      ✘ 버그 수정 @est(4h) @cancelled(21-06-01 18:57)
-
 day-2021-06-02:
-  - [ ] 블로그 정리 및 내일 할일 정리 2021-06-02
+  - [x] 블로그 정리 및 내일 할일 정리 1차 2021-06-02 @started(21-06-02 17:56) @done(21-06-02 18:02) @lasted(6m18s)
   - [ ] auth-token @est(5h) @high
   field:
     fix-576-fix-inconsistent-transparency-setting:
-      - [ ] 버그 수정 @est(4h)
+      - [x] 코드 분석 끝내고 dev 풀받기 @est(5m) @done(21-06-02 10:10)
+      - [x] 버그 수정 @est(4h) @done(21-06-02 10:10)
+      - [x] 마이그레이션 @est(8h) @started(21-06-02 10:10) @done(21-06-02 16:09) @lasted(5h59m44s)
+    feat-533-add-filter-and-sort-to-var-dialog:
+      - [x] 정렬 기능 개선 - 정렬 @est(3h) @done(21-06-02 17:03)
+
+day-2021-06-03:
+  - [ ] 블로그 정리 및 내일 할일 정리 2021-06-03
+  field:
+    fix-576-fix-inconsistent-transparency-setting:
+      - [ ] 마이그레이션 테스트 @est(1h)
+      - [ ] 테스트 @est(4h)
+      - [ ] 리뷰 반영 @est(4h)
 
 day-2021-06-04:
   - [ ] 청소기 충전기 챙기기 @non-dev
@@ -31,10 +26,16 @@ blog:
   - [ ] tip 추가: 타입스크립트 타입에 따른 동작 분기 - 어떤 타입의 배열인지 체크하기
 
 school:
+  - [ ] 현장실습 주간보고서 작성 @high
   http://icee.hanyang.ac.kr/xe/sub05_01/8473
   https://portal.hanyang.ac.kr/port.do#!UDMxNDEzNyRAXmhha3NhLyRAXiRAXk0wMTAwMzgkQF7qs7Xsp4Dsgqztla0kQF5NMDAzNzk5JEBeNTgxOWVmMWVmZGVkOGNhNmIwN2JjNDYzNjdkZGRjZDg2ZDI0YjQ2Nzg2NWY5MTVkNDQ5MGUxOWEzODZiNDgxOA==
-  - [ ] 공학인증 졸업요건 확인 - 문제풀기? @due(2021-08) @high
-  - [ ] 제출서류 확인 @est(2h)
+  공학인증 졸업서류 제출:
+    - [ ] 공학인증 졸업서류 제출 @due(2021-06-18 17:00) @critical
+    - [ ] 학습성과평가서 @est(10h)
+    - [ ] 평가서 자신작성인지 확인 @high
+    - [ ] 형성평가설문지 @est(1h)
+    - [ ] 세미나 2회 확인서
+    - [ ] 인턴쉽 확인서
   
 sport:
   - [ ] sport: boj 14868 - 문명
@@ -198,6 +199,18 @@ longterm:
   vs code에서 maven clean install 후 서버 실행
 
 Archive: 
+  - [x] 블로그 정리 및 내일 할일 정리 1차 2021-06-01 @started(21-06-01 18:57) @done(21-06-01 19:00) @lasted(3m3s) @project(day-2021-06-01)
+  - [x] 블로그 정리 및 내일 할일 정리 2차 2021-06-01 @delayed @started(21-06-02 09:14) @done(21-06-02 09:37) @lasted(23m51s) @project(day-2021-06-01)
+  - [x] auth-token @est(5h) @high @done(21-06-02 09:14) @project(day-2021-06-01)
+  ✘ 세로 정렬 퍼블리싱 적용 @est(1h) @started(21-06-01 10:47) @cancelled(21-06-01 11:26) @wasted(39m17s) @project(day-2021-06-01.field.feat-529-font-style-for-table)
+  - [x] 세로 정렬 퍼블리싱 적용 @est(1h) @done(21-06-01 15:45) @project(day-2021-06-01.field.feat-529-font-style-for-table)
+  - [x] 헤더 세로 정렬 적용 @est(3h) @started(21-06-01 13:13) @done(21-06-01 15:45) @lasted(2h32m50s) @project(day-2021-06-01.field.feat-529-font-style-for-table)
+  - [x] 다국어 적용 @est(30m) @started(21-06-01 09:40) @done(21-06-01 10:47) @lasted(1h7m23s) @project(day-2021-06-01.field.feat-529-font-style-for-table)
+  - [x] 정리 및 커밋 @est(30m) @done(21-06-01 15:45) @project(day-2021-06-01.field.feat-529-font-style-for-table)
+  - [x] 추가 테스트 및 리뷰 사항 적용 @est(2h) @started(21-06-01 17:56) @done(21-06-01 18:28) @lasted(32m1s) @project(day-2021-06-01.field.feat-529-font-style-for-table)
+  - [x] 일정 재산정 @est(1h) @started(21-06-01 16:03) @done(21-06-01 17:53) @lasted(1h50m50s) @project(day-2021-06-01.field.fix-576-fix-inconsistent-transparency-setting)
+  - [x] 코드 분석 끝내고 dev 풀받기 @est(5m) @started(21-06-01 18:43) @done(21-06-01 18:56) @lasted(13m38s) @project(day-2021-06-01.field.fix-576-fix-inconsistent-transparency-setting)
+  ✘ 버그 수정 @est(4h) @cancelled(21-06-01 18:57) @project(day-2021-06-01.field.fix-576-fix-inconsistent-transparency-setting)
   - [x] 블로그 정리 및 내일 할일 정리 2021-05-31 @delayed @started(21-06-01 09:12) @done(21-06-01 09:18) @lasted(6m12s) @project(day-2021-05-31)
   ✘ auth-token @est(5h) @high @cancelled(21-06-01 09:13) @project(day-2021-05-31)
   - [x] 헤더 높이 퍼블리싱 적용 @est(1h) @started(21-05-31 13:00) @done(21-05-31 13:23) @lasted(23m51s) @project(day-2021-05-31.field.feat-529-font-style-for-table)
