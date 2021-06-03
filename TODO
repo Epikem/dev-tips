@@ -1,19 +1,29 @@
-day-2021-06-02:
-  - [x] 블로그 정리 및 내일 할일 정리 2차 2021-06-02 @started(21-06-03 00:07) @done(21-06-03 00:14) @lasted(7m35s)
-  pseudo:
-    - [x] auth-token @est(5h) @high @started(21-06-02 20:33) @done(21-06-02 21:45) @lasted(1h12m22s)
-
 day-2021-06-03:
-  - [ ] 코멘트 수정하기 (링크, close 추가 두가지였음)
-  - [ ] 블로그 정리 및 내일 할일 정리 2021-06-03
+  - [x] 코멘트 수정하기 (링크, close 추가 두가지였음) @started(21-06-03 10:49) @done(21-06-03 10:53) @lasted(4m31s)
+  - [x] 블로그 정리 및 내일 할일 정리 2021-06-03 @started(21-06-03 20:02) @done(21-06-03 20:05) @lasted(3m59s)
   field:
     fix-576-fix-inconsistent-transparency-setting:
-      - [ ] 마이그레이션 테스트 @est(1h)
-      - [ ] 테스트 @est(4h)
-      - [ ] 리뷰 반영 @est(4h)
+      - [x] 마이그레이션 테스트 @est(1h) @started(21-06-03 10:58) @done(21-06-03 13:32) @lasted(2h34m23s)
+      - [x] 테스트 @est(4h) @done(21-06-03 13:32)
+      ✘ 리뷰 반영 @est(4h) @cancelled(21-06-03 19:12)
+    docker-seminar:
+      - [x] 도커 발표 준비 @est(5h) @started(21-06-03 13:32) @done(21-06-03 19:12) @lasted(5h40m48s)
+      - [x] 도커 발표 준비 - 메타 준비 과정 정리 @est(1h) @started(21-06-03 19:17) @done(21-06-03 20:00) @lasted(43m43s)
 
 day-2021-06-04:
+  - [ ] 블로그 정리 및 내일 할일 정리 2021-06-04
   - [ ] 청소기 충전기 챙기기 @non-dev
+  field:
+    docker-seminar:
+      - [ ] 도커 발표 준비 - 시간 질문
+      - [ ] 도커 발표 준비 - 내용 준비 @est(9h)
+      - [ ] 도커 발표 준비 - 슬라이드 만들기 @est(9h)
+      - [ ] 도커 발표 준비 - 피드백 @est(9h)
+
+day-2021-06-11:
+  field:
+    docker-seminar:
+      - [ ] 중간에 사진 (제출용) 부탁
 
 blog:
   - [ ] tips 정리하기 @in-month
@@ -198,6 +208,8 @@ longterm:
   vs code에서 maven clean install 후 서버 실행
 
 Archive: 
+  - [x] 블로그 정리 및 내일 할일 정리 2차 2021-06-02 @started(21-06-03 00:07) @done(21-06-03 00:14) @lasted(7m35s) @project(day-2021-06-02)
+  - [x] auth-token @est(5h) @high @started(21-06-02 20:33) @done(21-06-02 21:45) @lasted(1h12m22s) @project(day-2021-06-02.pseudo)
   - [x] 블로그 정리 및 내일 할일 정리 1차 2021-06-02 @started(21-06-02 17:56) @done(21-06-02 18:02) @lasted(6m18s) @project(day-2021-06-02)
   - [x] 코드 분석 끝내고 dev 풀받기 @est(5m) @done(21-06-02 10:10) @project(day-2021-06-02.field.fix-576-fix-inconsistent-transparency-setting)
   - [x] 버그 수정 @est(4h) @done(21-06-02 10:10) @project(day-2021-06-02.field.fix-576-fix-inconsistent-transparency-setting)
