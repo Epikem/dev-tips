@@ -1,29 +1,31 @@
-day-2021-06-03:
-  - [x] 코멘트 수정하기 (링크, close 추가 두가지였음) @started(21-06-03 10:49) @done(21-06-03 10:53) @lasted(4m31s)
-  - [x] 블로그 정리 및 내일 할일 정리 2021-06-03 @started(21-06-03 20:02) @done(21-06-03 20:05) @lasted(3m59s)
-  field:
-    fix-576-fix-inconsistent-transparency-setting:
-      - [x] 마이그레이션 테스트 @est(1h) @started(21-06-03 10:58) @done(21-06-03 13:32) @lasted(2h34m23s)
-      - [x] 테스트 @est(4h) @done(21-06-03 13:32)
-      ✘ 리뷰 반영 @est(4h) @cancelled(21-06-03 19:12)
-    docker-seminar:
-      - [x] 도커 발표 준비 @est(5h) @started(21-06-03 13:32) @done(21-06-03 19:12) @lasted(5h40m48s)
-      - [x] 도커 발표 준비 - 메타 준비 과정 정리 @est(1h) @started(21-06-03 19:17) @done(21-06-03 20:00) @lasted(43m43s)
-
 day-2021-06-04:
-  - [ ] 블로그 정리 및 내일 할일 정리 2021-06-04
+  - [x] 블로그 정리 및 내일 할일 정리 2021-06-04 @started(21-06-04 18:03) @done(21-06-04 18:05) @lasted(2m33s)
   - [ ] 청소기 충전기 챙기기 @non-dev
   field:
     docker-seminar:
-      - [ ] 도커 발표 준비 - 시간 질문
-      - [ ] 도커 발표 준비 - 내용 준비 @est(9h)
-      - [ ] 도커 발표 준비 - 슬라이드 만들기 @est(9h)
-      - [ ] 도커 발표 준비 - 피드백 @est(9h)
+      - [x] 도커 발표 준비 - 시간 질문 @done(21-06-04 09:49)
+      - [x] 도커 발표 준비 - 내용 준비 1차 @est(9h) @started(21-06-04 09:49) @done(21-06-04 14:51) @lasted(5h2m41s)
+      - [x] 도커 발표 준비 - 내용 준비 1차 2 @started(21-06-04 16:17) @done(21-06-04 18:03) @lasted(1h46m7s)
+      - [x] 도커 발표 준비 - 메타 준비 @started(21-06-04 14:51) @done(21-06-04 16:17) @lasted(1h26m1s)
+    fix-576-fix-inconsistent-transparency-setting:
+      - [x] 리뷰 반영 @est(4h) @started(21-06-04 14:09) @done(21-06-04 14:44) @lasted(35m5s)
+
+day-2021-06-05:
+  - [ ] 블로그 정리 및 내일 할일 정리 2021-06-05
+  - [ ] MIDI 테스트 @est(4h)
+  pseudo:
+    - [ ] 헤더 토큰 사용 @est(1h)
+    - [ ] 추가 라우트 적용 @est(2h)
+    - [ ] 추가 라우트 테스트 @est(5h)
+
 
 day-2021-06-11:
   field:
     docker-seminar:
-      - [ ] 중간에 사진 (제출용) 부탁
+      - [ ] 도커 발표 준비 - 슬라이드 만들기 @est(9h)
+      - [ ] 도커 발표 준비 - 피드백 - 회의실 예약
+      - [ ] 도커 발표 준비 - 피드백 @est(9h)
+      - [ ] (발표전) 중간에 사진 (제출용) 부탁
 
 blog:
   - [ ] tips 정리하기 @in-month
@@ -51,45 +53,16 @@ sport:
   https://www.acmicpc.net/problem/2098
 
 field:
+  - [ ] 기존 보고서 및 브랜치 삭제
   [이슈처리 프로젝트 링크]
   https://github.com/Epikem/B-IRIS-Studio-service/projects/2
-
-  https://github.com/mobigen/IRIS/issues/576
-  [Studio] 도형객체 채우기, 그림자의 투명도 설정 오류 #576
-  fix-576-fix-inconsistent-transparency-setting:
-    - [ ] 코드 분석 끝내고 dev 풀받기 @est(5m)
-    - [ ] 버그 수정 @est(4h)
-    - [ ] 마이그레이션 @est(8h)
-    - [ ] 테스트 @est(4h)
-    - [ ] 리뷰 반영 @est(4h)
 
   https://github.com/mobigen/IRIS/issues/533
   Studio: 전체 변수명 보기 창에 정렬, 필터 기능 추가 #533
   feat-533-add-filter-and-sort-to-var-dialog:
-    `varMonitLayer.js, .jsp`에 해당 내용이 있고, 참고 문서 및 기획서도 있다. 
-    참고해서 기능 구현만 하면 될듯하다.
-    정렬 및 필터 기능을 기존에 어떻게 구현했는지 조금 찾아봐야 할 듯하고,
-    ? 변수현황-dialog 문서 업데이트가 필요한가?? 현재 문서 상태도 좀 이상한데..
-    리스트 객체에 리스트 검색 기능이 있음.
-    - [ ] 정렬 기능 개선 - 정렬 @est(3h)
-    테이블 차트에 정렬 기능이 있음.
-    - [ ] 테스트 @est(2h)
     - [ ] 리뷰 반영 @est(2h)
   참고문서 - https://github.com/mobigen/B-IRIS-Studio-service/wiki/변수현황-dialog
 
-  https://github.com/mobigen/IRIS/issues/532
-  Studio: 텍스트 변환 / 미리보기 버튼 추가 #532
-  feat-532-add-preview-for-text-converison:
-    그냥 주어진 대로 데이터 객체의 미리보기 jsp 참고하여 미리보기 기능을 hidden쪽에 추가한다.
-    ? 그냥 내용 그대로만 출력하라는 거 맞나??
-    ? 데이터 모델에도 같은 처리가 필요하지 않나??
-    - [ ] 기존 코드 분석 @est(2h)
-    - [ ] 기능 구현 - 미리보기 팝업 @est(2h)
-    데이터 객체의 미리보기 참고 `common_data`
-    - [ ] 테스트 @est(2h)
-    - [ ] 리뷰 반영 @est(2h)
-
-  - [ ] 기존 보고서 및 브랜치 삭제
   ~feat-#419-scatter-regression:~  @hold
     https://github.com/mobigen/IRIS/issues/419
   feat-430-sankey-chart-migration: 
@@ -208,6 +181,13 @@ longterm:
   vs code에서 maven clean install 후 서버 실행
 
 Archive: 
+  - [x] 코멘트 수정하기 (링크, close 추가 두가지였음) @started(21-06-03 10:49) @done(21-06-03 10:53) @lasted(4m31s) @project(day-2021-06-03)
+  - [x] 블로그 정리 및 내일 할일 정리 2021-06-03 @started(21-06-03 20:02) @done(21-06-03 20:05) @lasted(3m59s) @project(day-2021-06-03)
+  - [x] 마이그레이션 테스트 @est(1h) @started(21-06-03 10:58) @done(21-06-03 13:32) @lasted(2h34m23s) @project(day-2021-06-03.field.fix-576-fix-inconsistent-transparency-setting)
+  - [x] 테스트 @est(4h) @done(21-06-03 13:32) @project(day-2021-06-03.field.fix-576-fix-inconsistent-transparency-setting)
+  ✘ 리뷰 반영 @est(4h) @cancelled(21-06-03 19:12) @project(day-2021-06-03.field.fix-576-fix-inconsistent-transparency-setting)
+  - [x] 도커 발표 준비 @est(5h) @started(21-06-03 13:32) @done(21-06-03 19:12) @lasted(5h40m48s) @project(day-2021-06-03.field.docker-seminar)
+  - [x] 도커 발표 준비 - 메타 준비 과정 정리 @est(1h) @started(21-06-03 19:17) @done(21-06-03 20:00) @lasted(43m43s) @project(day-2021-06-03.field.docker-seminar)
   - [x] 블로그 정리 및 내일 할일 정리 2차 2021-06-02 @started(21-06-03 00:07) @done(21-06-03 00:14) @lasted(7m35s) @project(day-2021-06-02)
   - [x] auth-token @est(5h) @high @started(21-06-02 20:33) @done(21-06-02 21:45) @lasted(1h12m22s) @project(day-2021-06-02.pseudo)
   - [x] 블로그 정리 및 내일 할일 정리 1차 2021-06-02 @started(21-06-02 17:56) @done(21-06-02 18:02) @lasted(6m18s) @project(day-2021-06-02)
