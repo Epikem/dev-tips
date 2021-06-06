@@ -1,23 +1,18 @@
-day-2021-06-04:
-  - [x] 블로그 정리 및 내일 할일 정리 2021-06-04 @started(21-06-04 18:03) @done(21-06-04 18:05) @lasted(2m33s)
-  - [ ] 청소기 충전기 챙기기 @non-dev
-  field:
-    docker-seminar:
-      - [x] 도커 발표 준비 - 시간 질문 @done(21-06-04 09:49)
-      - [x] 도커 발표 준비 - 내용 준비 1차 @est(9h) @started(21-06-04 09:49) @done(21-06-04 14:51) @lasted(5h2m41s)
-      - [x] 도커 발표 준비 - 내용 준비 1차 2 @started(21-06-04 16:17) @done(21-06-04 18:03) @lasted(1h46m7s)
-      - [x] 도커 발표 준비 - 메타 준비 @started(21-06-04 14:51) @done(21-06-04 16:17) @lasted(1h26m1s)
-    fix-576-fix-inconsistent-transparency-setting:
-      - [x] 리뷰 반영 @est(4h) @started(21-06-04 14:09) @done(21-06-04 14:44) @lasted(35m5s)
-
 day-2021-06-05:
-  - [ ] 블로그 정리 및 내일 할일 정리 2021-06-05
-  - [ ] MIDI 테스트 @est(4h)
+  - [x] 블로그 정리 및 내일 할일 정리 2021-06-05 @started(21-06-06 09:26) @done(21-06-06 09:31) @lasted(5m18s)
+  - [x] MIDI 테스트 @est(4h) @done(21-06-06 09:25)
+  pseudo:
+    ✘ 헤더 토큰 사용 @est(1h) @cancelled(21-06-06 09:27)
+    ✘ 추가 라우트 적용 @est(2h) @cancelled(21-06-06 09:27)
+    ✘ 추가 라우트 테스트 @est(5h) @cancelled(21-06-06 09:27)
+
+day-2021-06-06:
+  - [ ] 블로그 정리 및 내일 할일 정리 2021-06-06
   pseudo:
     - [ ] 헤더 토큰 사용 @est(1h)
     - [ ] 추가 라우트 적용 @est(2h)
     - [ ] 추가 라우트 테스트 @est(5h)
-
+  - [ ] MIDI 테스트 @est(4h)
 
 day-2021-06-11:
   field:
@@ -181,6 +176,13 @@ longterm:
   vs code에서 maven clean install 후 서버 실행
 
 Archive: 
+  ✘ 청소기 충전기 챙기기 @non-dev @cancelled(21-06-05 17:43) @project(day-2021-06-04)
+  - [x] 블로그 정리 및 내일 할일 정리 2021-06-04 @started(21-06-04 18:03) @done(21-06-04 18:05) @lasted(2m33s) @project(day-2021-06-04)
+  - [x] 도커 발표 준비 - 시간 질문 @done(21-06-04 09:49) @project(day-2021-06-04.field.docker-seminar)
+  - [x] 도커 발표 준비 - 내용 준비 1차 @est(9h) @started(21-06-04 09:49) @done(21-06-04 14:51) @lasted(5h2m41s) @project(day-2021-06-04.field.docker-seminar)
+  - [x] 도커 발표 준비 - 내용 준비 1차 2 @started(21-06-04 16:17) @done(21-06-04 18:03) @lasted(1h46m7s) @project(day-2021-06-04.field.docker-seminar)
+  - [x] 도커 발표 준비 - 메타 준비 @started(21-06-04 14:51) @done(21-06-04 16:17) @lasted(1h26m1s) @project(day-2021-06-04.field.docker-seminar)
+  - [x] 리뷰 반영 @est(4h) @started(21-06-04 14:09) @done(21-06-04 14:44) @lasted(35m5s) @project(day-2021-06-04.field.fix-576-fix-inconsistent-transparency-setting)
   - [x] 코멘트 수정하기 (링크, close 추가 두가지였음) @started(21-06-03 10:49) @done(21-06-03 10:53) @lasted(4m31s) @project(day-2021-06-03)
   - [x] 블로그 정리 및 내일 할일 정리 2021-06-03 @started(21-06-03 20:02) @done(21-06-03 20:05) @lasted(3m59s) @project(day-2021-06-03)
   - [x] 마이그레이션 테스트 @est(1h) @started(21-06-03 10:58) @done(21-06-03 13:32) @lasted(2h34m23s) @project(day-2021-06-03.field.fix-576-fix-inconsistent-transparency-setting)
