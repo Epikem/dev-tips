@@ -1,16 +1,21 @@
-day-2021-06-06:
-  - [x] 블로그 정리 및 내일 할일 정리 2021-06-06 @started(21-06-07 10:01) @done(21-06-07 10:03) @lasted(2m59s)
-  pseudo:
-    ✘ 헤더 토큰 사용 @est(1h) @cancelled(21-06-07 10:01)
-    ✘ 추가 라우트 적용 @est(2h) @cancelled(21-06-07 10:01)
-    ✘ 추가 라우트 테스트 @est(5h) @cancelled(21-06-07 10:01)
-  - [x] dtx @est(4h) @done(21-06-06 15:22)
-
 day-2021-06-07:
-  - [ ] 블로그 정리 및 내일 할일 정리 2021-06-07
+  - [x] 블로그 정리 및 내일 할일 정리 2021-06-07 @started(21-06-07 18:56) @done(21-06-07 19:01) @lasted(5m44s)
+  docker-seminar:
+    - [x] 도커 발표 준비 - 내용 정리 2 @est(9h) @started(21-06-07 10:05) @done(21-06-07 18:56) @lasted(8h51m32s)
   pseudo:
     - [ ] 헤더 토큰 사용 @est(1h)
     - [ ] 추가 라우트 적용 @est(2h)
+
+day-2021-06-08:
+  - [ ] 블로그 정리 및 내일 할일 정리 2021-06-08
+  pseudo:
+    - [ ] 헤더 토큰 사용 @est(1h)
+    - [ ] 추가 라우트 적용 @est(2h)
+  공학인증 졸업서류 제출:
+    - [ ] 제출할 수 있는것 제출하기
+    - [ ] 공학인증 졸업서류 제출 @due(2021-06-18 17:00) @critical
+    - [ ] 세미나 2회 확인서
+    - [ ] 인턴쉽 확인서
 
 day-2021-06-11:
   field:
@@ -36,7 +41,7 @@ school:
     - [ ] 형성평가설문지 @est(1h)
     - [ ] 세미나 2회 확인서
     - [ ] 인턴쉽 확인서
-  
+
 sport:
   - [ ] sport: boj 14868 - 문명
   - [ ] sport: boj 9466 - 텀 프로젝트 (re1-골4) @est(2h)
@@ -174,6 +179,11 @@ longterm:
   vs code에서 maven clean install 후 서버 실행
 
 Archive: 
+  - [x] 블로그 정리 및 내일 할일 정리 2021-06-06 @started(21-06-07 10:01) @done(21-06-07 10:03) @lasted(2m59s) @project(day-2021-06-06)
+  ✘ 헤더 토큰 사용 @est(1h) @cancelled(21-06-07 10:01) @project(day-2021-06-06.pseudo)
+  ✘ 추가 라우트 적용 @est(2h) @cancelled(21-06-07 10:01) @project(day-2021-06-06.pseudo)
+  ✘ 추가 라우트 테스트 @est(5h) @cancelled(21-06-07 10:01) @project(day-2021-06-06.pseudo)
+  - [x] dtx @est(4h) @done(21-06-06 15:22) @project(day-2021-06-06)
   - [x] 블로그 정리 및 내일 할일 정리 2021-06-05 @started(21-06-06 09:26) @done(21-06-06 09:31) @lasted(5m18s) @project(day-2021-06-05)
   - [x] MIDI 테스트 @est(4h) @done(21-06-06 09:25) @project(day-2021-06-05)
   ✘ 헤더 토큰 사용 @est(1h) @cancelled(21-06-06 09:27) @project(day-2021-06-05.pseudo)
