@@ -1,26 +1,31 @@
-day-2021-06-07:
-  - [x] 블로그 정리 및 내일 할일 정리 2021-06-07 @started(21-06-07 18:56) @done(21-06-07 19:01) @lasted(5m44s)
-  docker-seminar:
-    - [x] 도커 발표 준비 - 내용 정리 2 @est(9h) @started(21-06-07 10:05) @done(21-06-07 18:56) @lasted(8h51m32s)
-  pseudo:
-    - [ ] 헤더 토큰 사용 @est(1h)
-    - [ ] 추가 라우트 적용 @est(2h)
-
 day-2021-06-08:
-  - [ ] 블로그 정리 및 내일 할일 정리 2021-06-08
+  - [x] 블로그 정리 및 내일 할일 정리 2021-06-08 @started(21-06-09 10:12) @done(21-06-09 10:18) @lasted(6m36s)
+  pseudo:
+    ✘ 헤더 토큰 사용 @est(1h) @cancelled(21-06-09 09:52)
+    ✘ 추가 라우트 적용 @est(2h) @cancelled(21-06-09 09:52)
+  공학인증 졸업서류 제출:
+      현장실습 확인서 제출 - ju930@hanynag.ac.kr (pdf파일로)
+      나머지 3 (형성평가지, 설문지, 캡스톤) -> 학과제출
+    - [x] 제출할 수 있는것 제출하기 @done(21-06-09 10:13)
+    - [ ] 공학인증 졸업서류 제출 @due(2021-06-18 17:00) @critical
+    - [x] 세미나 2회 확인서 @done(21-06-08 16:56)
+    - [x] 평가서 자신작성인지 확인 @high @done(21-06-08 16:57)
+    - [ ] 인턴쉽 확인서
+
+day-2021-06-09:
+  - [ ] 블로그 정리 및 내일 할일 정리 2021-06-09
+  - [ ] 알뜰폰 문의 @non-dev
   pseudo:
     - [ ] 헤더 토큰 사용 @est(1h)
     - [ ] 추가 라우트 적용 @est(2h)
-  공학인증 졸업서류 제출:
-    - [ ] 제출할 수 있는것 제출하기
-    - [ ] 공학인증 졸업서류 제출 @due(2021-06-18 17:00) @critical
-    - [ ] 세미나 2회 확인서
-    - [ ] 인턴쉽 확인서
+  field:
+    - [ ] 도커 발표 준비 - 슬라이드 만들기 @est(3h)
+    - [ ] 도커 발표 준비 - 스크립트 작성 @est(3h)
+    - [ ] 도커 발표 준비 - 스크립트 작성 @est(3h)
 
 day-2021-06-11:
   field:
     docker-seminar:
-      - [ ] 도커 발표 준비 - 슬라이드 만들기 @est(9h)
       - [ ] 도커 발표 준비 - 피드백 - 회의실 예약
       - [ ] 도커 발표 준비 - 피드백 @est(9h)
       - [ ] (발표전) 중간에 사진 (제출용) 부탁
@@ -35,11 +40,11 @@ school:
   http://icee.hanyang.ac.kr/xe/sub05_01/8473
   https://portal.hanyang.ac.kr/port.do#!UDMxNDEzNyRAXmhha3NhLyRAXiRAXk0wMTAwMzgkQF7qs7Xsp4Dsgqztla0kQF5NMDAzNzk5JEBeNTgxOWVmMWVmZGVkOGNhNmIwN2JjNDYzNjdkZGRjZDg2ZDI0YjQ2Nzg2NWY5MTVkNDQ5MGUxOWEzODZiNDgxOA==
   공학인증 졸업서류 제출:
+    현장실습 확인서 제출 - ju930@hanynag.ac.kr (pdf파일로)
+    나머지 3 (형성평가지, 설문지, 캡스톤) -> 학과제출
     - [ ] 공학인증 졸업서류 제출 @due(2021-06-18 17:00) @critical
     - [ ] 학습성과평가서 @est(10h)
-    - [ ] 평가서 자신작성인지 확인 @high
     - [ ] 형성평가설문지 @est(1h)
-    - [ ] 세미나 2회 확인서
     - [ ] 인턴쉽 확인서
 
 sport:
@@ -179,6 +184,10 @@ longterm:
   vs code에서 maven clean install 후 서버 실행
 
 Archive: 
+  - [x] 블로그 정리 및 내일 할일 정리 2021-06-07 @started(21-06-07 18:56) @done(21-06-07 19:01) @lasted(5m44s) @project(day-2021-06-07)
+  - [x] 도커 발표 준비 - 내용 정리 2 @est(9h) @started(21-06-07 10:05) @done(21-06-07 18:56) @lasted(8h51m32s) @project(day-2021-06-07.docker-seminar)
+  ✘ 헤더 토큰 사용 @est(1h) @cancelled(21-06-08 12:56) @project(day-2021-06-07.pseudo)
+  ✘ 추가 라우트 적용 @est(2h) @cancelled(21-06-08 12:56) @project(day-2021-06-07.pseudo)
   - [x] 블로그 정리 및 내일 할일 정리 2021-06-06 @started(21-06-07 10:01) @done(21-06-07 10:03) @lasted(2m59s) @project(day-2021-06-06)
   ✘ 헤더 토큰 사용 @est(1h) @cancelled(21-06-07 10:01) @project(day-2021-06-06.pseudo)
   ✘ 추가 라우트 적용 @est(2h) @cancelled(21-06-07 10:01) @project(day-2021-06-06.pseudo)
