@@ -3,7 +3,8 @@ day-2021-06-09:
   ✘ 알뜰폰 문의 @non-dev @cancelled(21-06-09 18:56)
   pseudo:
     - [x] 헤더 토큰 사용 @est(1h) @done(21-06-09 18:19)
-    - [ ] 추가 라우트 적용 @est(2h)
+    - [x] https 적용 @done(21-06-09 22:34)
+    ✘ 추가 라우트 적용 @est(2h) @cancelled(21-06-09 22:34)
   field:
     docker-seminar:
       - [x] 도커 발표 준비 - 슬라이드 만들기 @est(3h) @started(21-06-09 10:20) @done(21-06-09 13:52) @lasted(3h32m52s)
