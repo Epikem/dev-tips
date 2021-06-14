@@ -1,36 +1,16 @@
-day-2021-06-11:
-  ✘ 블로그 정리 및 내일 할일 정리 2021-06-11 @late @started(21-06-13 06:29) @cancelled(21-06-13 06:31) @wasted(2m2s)
-  ✘ 알뜰폰 문의 @non-dev @cancelled(21-06-12 17:43)
-  field:
-    docker-seminar:
-      - [x] 도커 발표 준비 - 피드백 적용 2 @est(9h) @done(21-06-12 17:43)
-
-day-2021-06-12:
-  - [x] 블로그 정리 및 내일 할일 정리 2021-06-12 @late @started(21-06-13 06:31) @done(21-06-13 06:31) @lasted(49s)
-  school:
-    공학인증 졸업서류 제출:
-      - [x] 학습성과평가서 작성 @est(10h) @started(21-06-12 17:43) @done(21-06-12 11:27) @lasted(5h44m44s)
-      ✘ 형성평가설문지 작성 @est(1h) @cancelled(21-06-13 06:31)
-
-day-2021-06-13:
-  - [ ] 블로그 정리 및 내일 할일 정리 2021-06-13
-  school:
-    공학인증 졸업서류 제출:
-      - [ ] 학습성과평가서 작성 2 @est(10h)
-      - [ ] 형성평가설문지 작성 @est(1h)
-    
-
 day-2021-06-14:
-  - [ ] 블로그 정리 및 내일 할일 정리 2021-06-14
+  - [x] 블로그 정리 및 내일 할일 정리 2021-06-14 @done(21-06-14 17:58)
   field:
     docker-seminar:
-      - [ ] 도커 발표 준비 - 피드백 적용 및 연습 @est(9h)
+      - [x] 도커 발표 준비 - 피드백 적용 @est(9h) @started(21-06-14 09:10) @done(21-06-14 15:51) @lasted(6h41m19s)
+      - [x] 도커 발표 준비 - 연습 @started(21-06-14 15:51) @done(21-06-14 17:58) @lasted(2h7m47s)
 
 day-2021-06-15:
   - [ ] 블로그 정리 및 내일 할일 정리 2021-06-15
   field:
+    - [ ] 이후 일정 산정
     docker-seminar:
-      - [ ] 도커 세미나 - 후기 @est(9h)
+      - [ ] 도커 세미나 - 회고 @est(5h)
       - [ ] (발표전) 중간에 사진 (제출용) 부탁
       
 blog:
@@ -187,6 +167,15 @@ longterm:
   vs code에서 maven clean install 후 서버 실행
 
 Archive: 
+  - [x] 블로그 정리 및 내일 할일 정리 2021-06-13 @started(21-06-14 09:09) @done(21-06-14 09:10) @lasted(1m22s) @late @project(day-2021-06-13)
+  - [x] 학습성과평가서 작성 2 @est(10h) @done(21-06-13 19:09) @project(day-2021-06-13.school.공학인증 졸업서류 제출)
+  ✘ 형성평가설문지 작성 @est(1h) @cancelled(21-06-14 09:09) @project(day-2021-06-13.school.공학인증 졸업서류 제출)
+  ✘ 블로그 정리 및 내일 할일 정리 2021-06-11 @late @started(21-06-13 06:29) @cancelled(21-06-13 06:31) @wasted(2m2s) @project(day-2021-06-11)
+  ✘ 알뜰폰 문의 @non-dev @cancelled(21-06-12 17:43) @project(day-2021-06-11)
+  - [x] 도커 발표 준비 - 피드백 적용 2 @est(9h) @done(21-06-12 17:43) @project(day-2021-06-11.field.docker-seminar)
+  - [x] 블로그 정리 및 내일 할일 정리 2021-06-12 @late @started(21-06-13 06:31) @done(21-06-13 06:31) @lasted(49s) @project(day-2021-06-12)
+  - [x] 학습성과평가서 작성 @est(10h) @started(21-06-12 17:43) @done(21-06-12 11:27) @lasted(5h44m44s) @project(day-2021-06-12.school.공학인증 졸업서류 제출)
+  ✘ 형성평가설문지 작성 @est(1h) @cancelled(21-06-13 06:31) @project(day-2021-06-12.school.공학인증 졸업서류 제출)
   - [x] 블로그 정리 및 내일 할일 정리 2021-06-10 @late @started(21-06-11 10:57) @done(21-06-11 11:07) @lasted(10m41s) @project(day-2021-06-10)
   ✘ 알뜰폰 문의 @non-dev @cancelled(21-06-11 11:01) @project(day-2021-06-10)
   ✘ 추가 라우트 적용 @est(2h) @cancelled(21-06-11 10:57) @project(day-2021-06-10.pseudo)
