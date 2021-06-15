@@ -1,18 +1,30 @@
-day-2021-06-14:
-  - [x] 블로그 정리 및 내일 할일 정리 2021-06-14 @done(21-06-14 17:58)
-  field:
-    docker-seminar:
-      - [x] 도커 발표 준비 - 피드백 적용 @est(9h) @started(21-06-14 09:10) @done(21-06-14 15:51) @lasted(6h41m19s)
-      - [x] 도커 발표 준비 - 연습 @started(21-06-14 15:51) @done(21-06-14 17:58) @lasted(2h7m47s)
-
 day-2021-06-15:
-  - [ ] 블로그 정리 및 내일 할일 정리 2021-06-15
+  - [x] 블로그 정리 및 내일 할일 정리 2021-06-15 @started(21-06-15 19:51) @done(21-06-15 19:59) @lasted(8m19s)
   field:
-    - [ ] 이후 일정 산정
+    - [x] 이후 일정 산정 @started(21-06-15 15:53) @done(21-06-15 19:51) @lasted(3h58m21s)
     docker-seminar:
-      - [ ] 도커 세미나 - 회고 @est(5h)
+      - [ ] 도커 세미나 - 회고 @est(2h)
+      ✘ (발표전) 중간에 사진 (제출용) 부탁 @cancelled(21-06-15 19:55)
+
+day-2021-06-16:
+  - [ ] 블로그 정리 및 내일 할일 정리 2021-06-16
+  field:
+    - [ ] 이후 예상 일정 전달
+    - [ ] 확인서 발급하기 @high
+    fix-534-data-object-text-setting-reset-on-multiple-move:
+      - [ ] 버그 해결 @est(5h)
+      - [ ] 테스트 @est(1h)
+      - [ ] 리뷰 반영 @est(3h)
+
+day-2021-06-22:
+  - [ ] 블로그 정리 및 내일 할일 정리 2021-06-22
+  field:
+    docker-seminar:
+      - [ ] 도커 세미나 - 2차 @est(2h)
       - [ ] (발표전) 중간에 사진 (제출용) 부탁
-      
+
+
+
 blog:
   - [ ] tips 정리하기 @in-month
   - [ ] tip 추가: 브라우저로 컴파일하는 타입스크립트에서 확장자 없이 import하는법
@@ -43,10 +55,33 @@ field:
   [이슈처리 프로젝트 링크]
   https://github.com/Epikem/B-IRIS-Studio-service/projects/2
 
+  https://github.com/mobigen/IRIS/issues/534
+  [Studio] 다중선택으로 위치 이동시 데이터 객체의 내부 텍스트 설정 초기화 이슈 #534
+  fix-534-data-object-text-setting-reset-on-multiple-move:
+    - [x] 일정 산정 @est(1h) @started(21-06-15 16:13) @done(21-06-15 17:48) @lasted(1h35m36s)
+    - [ ] 버그 해결 @est(5h)
+    - [ ] 테스트 @est(1h)
+    - [ ] 리뷰 반영 @est(3h)
+
+  https://github.com/mobigen/IRIS/issues/650
+  Studio: Chart / 데이터 값 표시에 개인설정이 적용되지 않는 문제 #650
+  fix-650-personal-option-not-applying-on-data-value:
+    - [x] 일정 산정 @est(1h) @started(21-06-15 17:48) @done(21-06-15 18:02) @lasted(14m18s)
+    - [ ] 버그 확인
+    - [ ] 일정 재산정
+
+  https://github.com/mobigen/IRIS/issues/653
+  Studio: 기간 설정 / 선택 범위 제한 설정시, 끝 시간 변수값이 갱신되지 않는 버그 #653
+  fix-653-end-date-not-setting-on-range-limit:
+    - [x] 일정 산정 @est(1h) @started(21-06-15 18:02) @done(21-06-15 18:45) @lasted(43m54s)
+    - [ ] 버그 해결 및 테스트 @est(9h)
+    - [ ] 리뷰 반영 @est(9h)
+
   https://github.com/mobigen/IRIS/issues/533
   Studio: 전체 변수명 보기 창에 정렬, 필터 기능 추가 #533
   feat-533-add-filter-and-sort-to-var-dialog:
     - [ ] 리뷰 반영 @est(2h)
+    - [ ] 재구현 @est(18h)
   참고문서 - https://github.com/mobigen/B-IRIS-Studio-service/wiki/변수현황-dialog
 
   ~feat-#419-scatter-regression:~  @hold
@@ -167,6 +202,9 @@ longterm:
   vs code에서 maven clean install 후 서버 실행
 
 Archive: 
+  - [x] 블로그 정리 및 내일 할일 정리 2021-06-14 @done(21-06-14 17:58) @project(day-2021-06-14)
+  - [x] 도커 발표 준비 - 피드백 적용 @est(9h) @started(21-06-14 09:10) @done(21-06-14 15:51) @lasted(6h41m19s) @project(day-2021-06-14.field.docker-seminar)
+  - [x] 도커 발표 준비 - 연습 @started(21-06-14 15:51) @done(21-06-14 17:58) @lasted(2h7m47s) @project(day-2021-06-14.field.docker-seminar)
   - [x] 블로그 정리 및 내일 할일 정리 2021-06-13 @started(21-06-14 09:09) @done(21-06-14 09:10) @lasted(1m22s) @late @project(day-2021-06-13)
   - [x] 학습성과평가서 작성 2 @est(10h) @done(21-06-13 19:09) @project(day-2021-06-13.school.공학인증 졸업서류 제출)
   ✘ 형성평가설문지 작성 @est(1h) @cancelled(21-06-14 09:09) @project(day-2021-06-13.school.공학인증 졸업서류 제출)
