@@ -1,30 +1,19 @@
-day-2021-06-16:
-  - [x] 블로그 정리 및 내일 할일 정리 2021-06-16 @done(21-06-17 09:54)
-  pseudo:
-    - [x] 회의 및 개발 진행 @est(2h) @done(21-06-17 09:54)
-  school:
-    - [x] 형성평가지 작성 @done(21-06-17 09:54)
-  field:
-    - [x] 이후 예상 일정 전달 @started(21-06-16 09:18) @done(21-06-16 10:14) @lasted(56m34s)
-    - [x] 피방에서 확인서 발급하기 @high @non-dev @done(21-06-17 09:54)
-    fix-534-data-object-text-setting-reset-on-multiple-move:
-      - [x] 버그 해결 @est(5h) @done(21-06-16 13:04)
-      - [x] 테스트 @est(1h) @started(21-06-16 13:04) @done(21-06-16 13:36) @lasted(32m57s)
-      - [x] 리뷰 반영 @est(3h) @started(21-06-16 17:09) @done(21-06-16 17:58) @lasted(49m27s)
-    feat-318-growth-rate-component:
-      - [x] 디자인 개편 일정 산정 @est(1h) @started(21-06-16 10:15) @done(21-06-16 11:26) @lasted(1h11m39s)
-    fix-650-personal-option-not-applying-on-data-value:
-      - [x] 버그 확인
-      - [x] 일정 재산정
-      - [x] 버그 분석 @est(4h) @started(21-06-16 13:40) @done(21-06-16 17:09) @lasted(3h29m21s)
-
 day-2021-06-17:
-  - [ ] 블로그 정리 및 내일 할일 정리 2021-06-17
+  - [x] 블로그 정리 및 내일 할일 정리 2021-06-17 @started(21-06-17 19:15) @done(21-06-17 19:17) @lasted(2m45s)
+  - [x] 그외 졸업준비 관련 질문 @non-dev @done(21-06-17 19:15)
+  - [x] 내일 또는 모레 머리 예약 @non-dev @done(21-06-17 13:40)
   school:
     - [ ] 형성평가지 작성 완료
-  field:  
+  field:
     fix-650-personal-option-not-applying-on-data-value:
-      - [ ] 버그 해결 및 테스트 @est(9h)
+      - [x] 버그 해결 및 테스트 @est(9h) @started(21-06-17 10:31) @done(21-06-17 19:15) @lasted(8h44m11s)
+      - [ ] 리뷰 반영 @est(4h)
+
+day-2021-06-18:
+  school:
+    - [ ] private 기록 공대행정팀 번호 전화하여 일반 졸업요건 확인 @non-dev  
+  field:
+    fix-650-personal-option-not-applying-on-data-value:
       - [ ] 리뷰 반영 @est(4h)
 
 day-2021-06-22:
@@ -80,7 +69,6 @@ field:
 
   https://github.com/mobigen/IRIS/issues/650
   Studio: Chart / 데이터 값 표시에 개인설정이 적용되지 않는 문제 #650
-  fix-650-personal-option-not-applying-on-data-value:
 
   https://github.com/mobigen/IRIS/issues/653
   Studio: 기간 설정 / 선택 범위 제한 설정시, 끝 시간 변수값이 갱신되지 않는 버그 #653
@@ -213,6 +201,18 @@ longterm:
   vs code에서 maven clean install 후 서버 실행
 
 Archive: 
+  - [x] 블로그 정리 및 내일 할일 정리 2021-06-16 @done(21-06-17 09:54) @project(day-2021-06-16)
+  - [x] 회의 및 개발 진행 @est(2h) @done(21-06-17 09:54) @project(day-2021-06-16.pseudo)
+  - [x] 형성평가지 작성 @done(21-06-17 09:54) @project(day-2021-06-16.school)
+  - [x] 이후 예상 일정 전달 @started(21-06-16 09:18) @done(21-06-16 10:14) @lasted(56m34s) @project(day-2021-06-16.field)
+  - [x] 피방에서 확인서 발급하기 @high @non-dev @done(21-06-17 09:54) @project(day-2021-06-16.field)
+  - [x] 버그 해결 @est(5h) @done(21-06-16 13:04) @project(day-2021-06-16.field.fix-534-data-object-text-setting-reset-on-multiple-move)
+  - [x] 테스트 @est(1h) @started(21-06-16 13:04) @done(21-06-16 13:36) @lasted(32m57s) @project(day-2021-06-16.field.fix-534-data-object-text-setting-reset-on-multiple-move)
+  - [x] 리뷰 반영 @est(3h) @started(21-06-16 17:09) @done(21-06-16 17:58) @lasted(49m27s) @project(day-2021-06-16.field.fix-534-data-object-text-setting-reset-on-multiple-move)
+  - [x] 디자인 개편 일정 산정 @est(1h) @started(21-06-16 10:15) @done(21-06-16 11:26) @lasted(1h11m39s) @project(day-2021-06-16.field.feat-318-growth-rate-component)
+  - [x] 버그 확인 @project(day-2021-06-16.field.fix-650-personal-option-not-applying-on-data-value)
+  - [x] 일정 재산정 @project(day-2021-06-16.field.fix-650-personal-option-not-applying-on-data-value)
+  - [x] 버그 분석 @est(4h) @started(21-06-16 13:40) @done(21-06-16 17:09) @lasted(3h29m21s) @project(day-2021-06-16.field.fix-650-personal-option-not-applying-on-data-value)
   - [x] 블로그 정리 및 내일 할일 정리 2021-06-15 @started(21-06-15 19:51) @done(21-06-15 19:59) @lasted(8m19s) @project(day-2021-06-15)
   - [x] 이후 일정 산정 @started(21-06-15 15:53) @done(21-06-15 19:51) @lasted(3h58m21s) @project(day-2021-06-15.field)
   ✘ 도커 세미나 - 회고 @est(2h) @cancelled(21-06-16 09:07) @project(day-2021-06-15.field.docker-seminar)
