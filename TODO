@@ -1,12 +1,12 @@
 day-2021-06-16:
-  - [ ] 블로그 정리 및 내일 할일 정리 2021-06-16 @started(21-06-16 17:59)
+  - [x] 블로그 정리 및 내일 할일 정리 2021-06-16 @done(21-06-17 09:54)
   pseudo:
-    - [ ] 회의 및 개발 진행 @est(2h)
+    - [x] 회의 및 개발 진행 @est(2h) @done(21-06-17 09:54)
   school:
-    - [ ] 형성평가지 작성
+    - [x] 형성평가지 작성 @done(21-06-17 09:54)
   field:
     - [x] 이후 예상 일정 전달 @started(21-06-16 09:18) @done(21-06-16 10:14) @lasted(56m34s)
-    - [ ] 피방에서 확인서 발급하기 @high @non-dev
+    - [x] 피방에서 확인서 발급하기 @high @non-dev @done(21-06-17 09:54)
     fix-534-data-object-text-setting-reset-on-multiple-move:
       - [x] 버그 해결 @est(5h) @done(21-06-16 13:04)
       - [x] 테스트 @est(1h) @started(21-06-16 13:04) @done(21-06-16 13:36) @lasted(32m57s)
