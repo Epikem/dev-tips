@@ -1,20 +1,18 @@
-day-2021-06-17:
-  - [x] 블로그 정리 및 내일 할일 정리 2021-06-17 @started(21-06-17 19:15) @done(21-06-17 19:17) @lasted(2m45s)
-  - [x] 그외 졸업준비 관련 질문 @non-dev @done(21-06-17 19:15)
-  - [x] 내일 또는 모레 머리 예약 @non-dev @done(21-06-17 13:40)
-  school:
-    - [ ] 형성평가지 작성 완료
-  field:
-    fix-650-personal-option-not-applying-on-data-value:
-      - [x] 버그 해결 및 테스트 @est(9h) @started(21-06-17 10:31) @done(21-06-17 19:15) @lasted(8h44m11s)
-      - [ ] 리뷰 반영 @est(4h)
-
 day-2021-06-18:
+  - [x] 블로그 정리 및 내일 할일 정리 2021-06-18 @started(21-06-18 14:20) @done(21-06-18 14:22) @lasted(2m51s)
   school:
-    - [ ] private 기록 공대행정팀 번호 전화하여 일반 졸업요건 확인 @non-dev  
+    - [ ] 형성평가지 작성 완료 @high @non-dev
+    - [ ] 서류 제출 @high @non-dev
+    - [x] private 기록 공대행정팀 번호 전화하여 일반 졸업요건 확인 @non-dev @started(21-06-18 14:13) @done(21-06-18 14:19) @lasted(6m39s)
   field:
-    fix-650-personal-option-not-applying-on-data-value:
-      - [ ] 리뷰 반영 @est(4h)
+    fix-653-end-date-not-setting-on-range-limit:
+      - [x] 버그 해결 및 테스트 @est(9h) @started(21-06-18 09:37) @done(21-06-18 10:17) @lasted(40m11s)
+    feat-318-growth-rate-component:
+      - [x] 디자인 개편 적용 - 1 @est(4h) @started(21-06-18 10:17) @done(21-06-18 14:13) @lasted(3h56m8s)
+
+day-2021-06-19:
+  - [ ] 블로그 정리 및 내일 할일 정리 2021-06-19
+  - [ ] 공고 정리
 
 day-2021-06-22:
   - [ ] 블로그 정리 및 내일 할일 정리 2021-06-22
@@ -56,6 +54,9 @@ field:
 
   업무정리: @est(3d)
     - [ ] 
+
+  fix-650-personal-option-not-applying-on-data-value:
+    - [ ] 리뷰 반영 @est(4h)
 
   feat-318-growth-rate-component:
     - [ ] 디자인 개편 적용 @est(3d)
@@ -201,6 +202,11 @@ longterm:
   vs code에서 maven clean install 후 서버 실행
 
 Archive: 
+  - [x] 블로그 정리 및 내일 할일 정리 2021-06-17 @started(21-06-17 19:15) @done(21-06-17 19:17) @lasted(2m45s) @project(day-2021-06-17)
+  - [x] 그외 졸업준비 관련 질문 @non-dev @done(21-06-17 19:15) @project(day-2021-06-17)
+  - [x] 내일 또는 모레 머리 예약 @non-dev @done(21-06-17 13:40) @project(day-2021-06-17)
+  ✘ 형성평가지 작성 완료 @cancelled(21-06-18 09:27) @project(day-2021-06-17.school)
+  - [x] 버그 해결 및 테스트 @est(9h) @started(21-06-17 10:31) @done(21-06-17 19:15) @lasted(8h44m11s) @project(day-2021-06-17.field.fix-650-personal-option-not-applying-on-data-value)
   - [x] 블로그 정리 및 내일 할일 정리 2021-06-16 @done(21-06-17 09:54) @project(day-2021-06-16)
   - [x] 회의 및 개발 진행 @est(2h) @done(21-06-17 09:54) @project(day-2021-06-16.pseudo)
   - [x] 형성평가지 작성 @done(21-06-17 09:54) @project(day-2021-06-16.school)
