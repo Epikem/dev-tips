@@ -1,27 +1,19 @@
-day-2021-06-18:
-  - [x] 블로그 정리 및 내일 할일 정리 2021-06-18 @started(21-06-18 14:20) @done(21-06-18 14:22) @lasted(2m51s)
-  school:
-    - [ ] 형성평가지 작성 완료 @high @non-dev
-    - [ ] 서류 제출 @high @non-dev
-    - [x] private 기록 공대행정팀 번호 전화하여 일반 졸업요건 확인 @non-dev @started(21-06-18 14:13) @done(21-06-18 14:19) @lasted(6m39s)
-  field:
-    fix-653-end-date-not-setting-on-range-limit:
-      - [x] 버그 해결 및 테스트 @est(9h) @started(21-06-18 09:37) @done(21-06-18 10:17) @lasted(40m11s)
-    feat-318-growth-rate-component:
-      - [x] 디자인 개편 적용 - 1 @est(4h) @started(21-06-18 10:17) @done(21-06-18 14:13) @lasted(3h56m8s)
-
-day-2021-06-19:
-  - [ ] 블로그 정리 및 내일 할일 정리 2021-06-19
-  - [ ] 공고 정리
-
 day-2021-06-22:
-  - [ ] 블로그 정리 및 내일 할일 정리 2021-06-22
+  - [x] 블로그 정리 및 내일 할일 정리 2021-06-22 @started(21-06-22 18:15) @done(21-06-22 18:20) @lasted(5m43s)
   field:
     docker-seminar:
-      - [ ] 도커 세미나 - 2차 @est(2h)
       - [ ] 도커 세미나 - 회고 @est(2h)
-      - [ ] (발표전) 중간에 사진 (제출용) 부탁
+    fix-653-end-date-not-setting-on-range-limit:
+      - [x] 리뷰 반영 @est(9h) @started(21-06-22 16:01) @done(21-06-22 16:28) @lasted(27m46s)
+    fix-650-personal-option-not-applying-on-data-value:
+      - [x] 리뷰 반영 @est(4h) @started(21-06-22 16:29) @done(21-06-22 18:15) @lasted(1h46m28s)
 
+day-2021-06-23:
+  - [ ] 블로그 정리 및 내일 할일 정리 2021-06-23
+  field:
+    fix-650-personal-option-not-applying-on-data-value:
+      - [ ] 테스트 사항 확인 @est(4h)
+            
 blog:
   - [ ] tips 정리하기 @in-month
   - [ ] tip 추가: 브라우저로 컴파일하는 타입스크립트에서 확장자 없이 import하는법
@@ -31,13 +23,6 @@ school:
   - [ ] 현장실습 주간보고서 작성 @high
   http://icee.hanyang.ac.kr/xe/sub05_01/8473
   https://portal.hanyang.ac.kr/port.do#!UDMxNDEzNyRAXmhha3NhLyRAXiRAXk0wMTAwMzgkQF7qs7Xsp4Dsgqztla0kQF5NMDAzNzk5JEBeNTgxOWVmMWVmZGVkOGNhNmIwN2JjNDYzNjdkZGRjZDg2ZDI0YjQ2Nzg2NWY5MTVkNDQ5MGUxOWEzODZiNDgxOA==
-  공학인증 졸업서류 제출:
-    현장실습 확인서 제출 - ju930@hanynag.ac.kr (pdf파일로)
-    나머지 3 (형성평가지, 설문지, 캡스톤) -> 학과제출
-    - [ ] 공학인증 졸업서류 제출 @due(2021-06-18 17:00) @critical
-    - [ ] 학습성과평가서 @est(10h)
-    - [ ] 형성평가설문지 @est(1h)
-    - [ ] 인턴쉽 확인서
 
 sport:
   - [ ] sport: boj 14868 - 문명
@@ -53,20 +38,13 @@ field:
   https://github.com/Epikem/B-IRIS-Studio-service/projects/2
 
   업무정리: @est(3d)
+    school:
+      - [ ] 현장실습 완료확인서 제출
     - [ ] 
 
-  fix-650-personal-option-not-applying-on-data-value:
-    - [ ] 리뷰 반영 @est(4h)
 
   feat-318-growth-rate-component:
     - [ ] 디자인 개편 적용 @est(3d)
-
-  https://github.com/mobigen/IRIS/issues/534
-  [Studio] 다중선택으로 위치 이동시 데이터 객체의 내부 텍스트 설정 초기화 이슈 #534
-  fix-534-data-object-text-setting-reset-on-multiple-move:
-    - [ ] 버그 해결 @est(5h)
-    - [ ] 테스트 @est(1h)
-    - [ ] 리뷰 반영 @est(3h)
 
   https://github.com/mobigen/IRIS/issues/650
   Studio: Chart / 데이터 값 표시에 개인설정이 적용되지 않는 문제 #650
@@ -74,7 +52,6 @@ field:
   https://github.com/mobigen/IRIS/issues/653
   Studio: 기간 설정 / 선택 범위 제한 설정시, 끝 시간 변수값이 갱신되지 않는 버그 #653
   fix-653-end-date-not-setting-on-range-limit:
-    - [ ] 버그 해결 및 테스트 @est(9h)
     - [ ] 리뷰 반영 @est(9h)
 
   https://github.com/mobigen/IRIS/issues/533
@@ -202,6 +179,22 @@ longterm:
   vs code에서 maven clean install 후 서버 실행
 
 Archive: 
+  - [x] 도커 세미나 - 2차 @est(2h) @started(21-06-22 13:58) @done(21-06-22 15:11) @lasted(1h13m38s) @project(day-2021-06-22.field.docker-seminar)
+  - [x] 공학인증 졸업서류 제출 @due(2021-06-18 17:00) @critical @done(21-06-22 15:33) @project(school.공학인증 졸업서류 제출)
+  - [x] 학습성과평가서 @est(10h) @done(21-06-22 15:33) @project(school.공학인증 졸업서류 제출)
+  - [x] 형성평가설문지 @est(1h) @done(21-06-22 15:33) @project(school.공학인증 졸업서류 제출)
+  - [x] 인턴쉽 확인서 @done(21-06-22 15:33) @project(school.공학인증 졸업서류 제출)
+  - [x] 블로그 정리 및 내일 할일 정리 2021-06-21 @late @done(21-06-22 13:58) @project(day-2021-06-21)
+  - [x] 버그 해결 및 테스트 @est(9h) @started(21-06-21 09:45) @done(21-06-21 14:04) @lasted(4h19m55s) @project(day-2021-06-21.field.fix-653-end-date-not-setting-on-range-limit)
+  ✘ 디자인 개편 적용 @est(5h) @cancelled(21-06-22 09:15) @project(day-2021-06-21.field.feat-318-growth-rate-component)
+  ✘ 블로그 정리 및 내일 할일 정리 2021-06-19 @cancelled(21-06-21 09:07) @project(day-2021-06-19)
+  ✘ 공고 정리 @cancelled(21-06-21 09:07) @project(day-2021-06-19)
+  - [x] 블로그 정리 및 내일 할일 정리 2021-06-18 @started(21-06-18 14:20) @done(21-06-18 14:22) @lasted(2m51s) @project(day-2021-06-18)
+  - [x] 형성평가지 작성 완료 @high @non-dev @done(21-06-18 23:35) @project(day-2021-06-18.school)
+  - [x] 서류 제출 @high @non-dev @done(21-06-19 13:55) @project(day-2021-06-18.school)
+  - [x] private 기록 공대행정팀 번호 전화하여 일반 졸업요건 확인 @non-dev @started(21-06-18 14:13) @done(21-06-18 14:19) @lasted(6m39s) @project(day-2021-06-18.school)
+  - [x] 버그 해결 및 테스트 @est(9h) @started(21-06-18 09:37) @done(21-06-18 10:17) @lasted(40m11s) @project(day-2021-06-18.field.fix-653-end-date-not-setting-on-range-limit)
+  - [x] 디자인 개편 적용 - 1 @est(4h) @started(21-06-18 10:17) @done(21-06-18 14:13) @lasted(3h56m8s) @project(day-2021-06-18.field.feat-318-growth-rate-component)
   - [x] 블로그 정리 및 내일 할일 정리 2021-06-17 @started(21-06-17 19:15) @done(21-06-17 19:17) @lasted(2m45s) @project(day-2021-06-17)
   - [x] 그외 졸업준비 관련 질문 @non-dev @done(21-06-17 19:15) @project(day-2021-06-17)
   - [x] 내일 또는 모레 머리 예약 @non-dev @done(21-06-17 13:40) @project(day-2021-06-17)
