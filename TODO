@@ -1,20 +1,20 @@
-day-2021-06-22:
-  - [x] 블로그 정리 및 내일 할일 정리 2021-06-22 @started(21-06-22 18:15) @done(21-06-22 18:20) @lasted(5m43s)
-  field:
-    docker-seminar:
-      - [ ] 도커 세미나 - 회고 @est(2h)
-    fix-653-end-date-not-setting-on-range-limit:
-      - [x] 리뷰 반영 @est(9h) @started(21-06-22 16:01) @done(21-06-22 16:28) @lasted(27m46s)
-    fix-650-personal-option-not-applying-on-data-value:
-      - [x] 리뷰 반영 @est(4h) @started(21-06-22 16:29) @done(21-06-22 18:15) @lasted(1h46m28s)
-
 day-2021-06-23:
-  - [ ] 블로그 정리 및 내일 할일 정리 2021-06-23
+  - [x] 블로그 정리 및 내일 할일 정리 2021-06-23 @started(21-06-23 17:53) @done(21-06-23 17:55) @lasted(2m31s)
   field:
     fix-650-personal-option-not-applying-on-data-value:
-      - [ ] 테스트 사항 확인 @est(4h)
-            
+      - [x] 테스트 사항 확인 @est(4h) @started(21-06-23 09:54) @done(21-06-23 14:00) @lasted(4h6m29s)
+    feat-318-growth-rate-component:
+      - [x] 디자인 개편 적용 @est(4h) @started(21-06-23 14:00) @done(21-06-23 17:53) @lasted(3h53m1s)
+
+day-2021-06-24:
+  - [ ] 블로그 정리 및 내일 할일 정리 2021-06-24
+  field:
+    feat-318-growth-rate-component:
+      - [ ] 디자인 개편 적용 @est(9h)
+
 blog:
+  docker-seminar:
+    - [ ] 도커 세미나 - 회고 @est(2h)
   - [ ] tips 정리하기 @in-month
   - [ ] tip 추가: 브라우저로 컴파일하는 타입스크립트에서 확장자 없이 import하는법
   - [ ] tip 추가: 타입스크립트 타입에 따른 동작 분기 - 어떤 타입의 배열인지 체크하기
@@ -42,9 +42,8 @@ field:
       - [ ] 현장실습 완료확인서 제출
     - [ ] 
 
-
   feat-318-growth-rate-component:
-    - [ ] 디자인 개편 적용 @est(3d)
+    - [ ] 디자인 개편 적용 @est(1d)
 
   https://github.com/mobigen/IRIS/issues/650
   Studio: Chart / 데이터 값 표시에 개인설정이 적용되지 않는 문제 #650
@@ -179,6 +178,10 @@ longterm:
   vs code에서 maven clean install 후 서버 실행
 
 Archive: 
+  - [x] 블로그 정리 및 내일 할일 정리 2021-06-22 @started(21-06-22 18:15) @done(21-06-22 18:20) @lasted(5m43s) @project(day-2021-06-22)
+  ✘ 도커 세미나 - 회고 @est(2h) @cancelled(21-06-23 09:53) @project(day-2021-06-22.field.docker-seminar)
+  - [x] 리뷰 반영 @est(9h) @started(21-06-22 16:01) @done(21-06-22 16:28) @lasted(27m46s) @project(day-2021-06-22.field.fix-653-end-date-not-setting-on-range-limit)
+  - [x] 리뷰 반영 @est(4h) @started(21-06-22 16:29) @done(21-06-22 18:15) @lasted(1h46m28s) @project(day-2021-06-22.field.fix-650-personal-option-not-applying-on-data-value)
   - [x] 도커 세미나 - 2차 @est(2h) @started(21-06-22 13:58) @done(21-06-22 15:11) @lasted(1h13m38s) @project(day-2021-06-22.field.docker-seminar)
   - [x] 공학인증 졸업서류 제출 @due(2021-06-18 17:00) @critical @done(21-06-22 15:33) @project(school.공학인증 졸업서류 제출)
   - [x] 학습성과평가서 @est(10h) @done(21-06-22 15:33) @project(school.공학인증 졸업서류 제출)
