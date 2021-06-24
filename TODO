@@ -1,16 +1,19 @@
-day-2021-06-23:
-  - [x] 블로그 정리 및 내일 할일 정리 2021-06-23 @started(21-06-23 17:53) @done(21-06-23 17:55) @lasted(2m31s)
-  field:
-    fix-650-personal-option-not-applying-on-data-value:
-      - [x] 테스트 사항 확인 @est(4h) @started(21-06-23 09:54) @done(21-06-23 14:00) @lasted(4h6m29s)
-    feat-318-growth-rate-component:
-      - [x] 디자인 개편 적용 @est(4h) @started(21-06-23 14:00) @done(21-06-23 17:53) @lasted(3h53m1s)
-
 day-2021-06-24:
-  - [ ] 블로그 정리 및 내일 할일 정리 2021-06-24
+  - [x] 블로그 정리 및 내일 할일 정리 2021-06-24 @started(21-06-24 18:48) @done(21-06-24 18:50) @lasted(2m6s)
   field:
+    ✘ 주간 보고서 작성 @started(21-06-24 18:50) @cancelled(21-06-24 19:03) @wasted(13m4s)
     feat-318-growth-rate-component:
-      - [ ] 디자인 개편 적용 @est(9h)
+      - [x] 디자인 개편 적용 @est(9h) @started(21-06-24 10:10) @done(21-06-24 18:47) @lasted(8h37m49s)
+
+day-2021-06-25:
+  - [ ] 블로그 정리 및 내일 할일 정리 2021-06-25
+  field:
+    - [ ] 주간 보고서 작성
+    feat-318-growth-rate-component:
+      - [ ] 커밋 마무리 @est(3h)
+      - [ ] 테스트 @est(20m)
+    feat-533-add-filter-and-sort-to-var-dialog:
+      - [ ] 재구현 @est(5h)
 
 blog:
   docker-seminar:
@@ -41,9 +44,6 @@ field:
     school:
       - [ ] 현장실습 완료확인서 제출
     - [ ] 
-
-  feat-318-growth-rate-component:
-    - [ ] 디자인 개편 적용 @est(1d)
 
   https://github.com/mobigen/IRIS/issues/650
   Studio: Chart / 데이터 값 표시에 개인설정이 적용되지 않는 문제 #650
@@ -178,6 +178,9 @@ longterm:
   vs code에서 maven clean install 후 서버 실행
 
 Archive: 
+  - [x] 블로그 정리 및 내일 할일 정리 2021-06-23 @started(21-06-23 17:53) @done(21-06-23 17:55) @lasted(2m31s) @project(day-2021-06-23)
+  - [x] 테스트 사항 확인 @est(4h) @started(21-06-23 09:54) @done(21-06-23 14:00) @lasted(4h6m29s) @project(day-2021-06-23.field.fix-650-personal-option-not-applying-on-data-value)
+  - [x] 디자인 개편 적용 @est(4h) @started(21-06-23 14:00) @done(21-06-23 17:53) @lasted(3h53m1s) @project(day-2021-06-23.field.feat-318-growth-rate-component)
   - [x] 블로그 정리 및 내일 할일 정리 2021-06-22 @started(21-06-22 18:15) @done(21-06-22 18:20) @lasted(5m43s) @project(day-2021-06-22)
   ✘ 도커 세미나 - 회고 @est(2h) @cancelled(21-06-23 09:53) @project(day-2021-06-22.field.docker-seminar)
   - [x] 리뷰 반영 @est(9h) @started(21-06-22 16:01) @done(21-06-22 16:28) @lasted(27m46s) @project(day-2021-06-22.field.fix-653-end-date-not-setting-on-range-limit)
