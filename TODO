@@ -1,19 +1,14 @@
-day-2021-06-24:
-  - [x] 블로그 정리 및 내일 할일 정리 2021-06-24 @started(21-06-24 18:48) @done(21-06-24 18:50) @lasted(2m6s)
-  field:
-    ✘ 주간 보고서 작성 @started(21-06-24 18:50) @cancelled(21-06-24 19:03) @wasted(13m4s)
-    feat-318-growth-rate-component:
-      - [x] 디자인 개편 적용 @est(9h) @started(21-06-24 10:10) @done(21-06-24 18:47) @lasted(8h37m49s)
+day-2021-06-27:
+  - [ ] 블로그 정리 및 내일 할일 정리 2021-06-27
+  sport:
+    - [ ] sport: boj 14868 - 문명
+    - [ ] sport: boj 9466 - 텀 프로젝트 (re1-골4) @est(2h)
+  pseudo:
+    - [ ] token based auth 6 @est(3h)
 
-day-2021-06-25:
-  - [ ] 블로그 정리 및 내일 할일 정리 2021-06-25
-  field:
-    - [ ] 주간 보고서 작성
-    feat-318-growth-rate-component:
-      - [ ] 커밋 마무리 @est(3h)
-      - [ ] 테스트 @est(20m)
-    feat-533-add-filter-and-sort-to-var-dialog:
-      - [ ] 재구현 @est(5h)
+day-2021-06-28:
+  - [ ] 증감률 뭔가 빠졌던거같은데.. 확인
+  - [ ] 업무정리 : 작업 기록하기 (캡처 등)
 
 blog:
   docker-seminar:
@@ -34,6 +29,8 @@ sport:
   https://www.acmicpc.net/problem/10026
   - [ ] sport: boj 2098 - 외판원 순회 (골1) @est(2h)
   https://www.acmicpc.net/problem/2098
+  - [ ] [scpc](https://research.samsung.com/scpc) 참가 @at(2021-07-16)
+  - [ ] 네이버웹툰 개발 챌린지 1차 코딩 테스트 (Back-End) 21년 07월 04일 14:00 ~ 07월 04일 16:00 @at(2021-07-04)
 
 field:
   - [ ] 기존 보고서 및 브랜치 삭제
@@ -178,6 +175,14 @@ longterm:
   vs code에서 maven clean install 후 서버 실행
 
 Archive: 
+  - [x] 블로그 정리 및 내일 할일 정리 2021-06-25 @done(21-06-27 12:03) @project(day-2021-06-25)
+  - [x] 주간 보고서 작성 @done(21-06-27 10:43) @project(day-2021-06-25.field)
+  - [x] 커밋 마무리 @est(3h) @started(21-06-25 11:05) @done(21-06-25 16:07) @lasted(5h2m59s) @project(day-2021-06-25.field.feat-318-growth-rate-component)
+  - [x] 테스트 @est(20m) @done(21-06-25 16:08) @project(day-2021-06-25.field.feat-318-growth-rate-component)
+  ✘ 재구현 @est(5h) @cancelled(21-06-27 10:43) @project(day-2021-06-25.field.feat-533-add-filter-and-sort-to-var-dialog)
+  - [x] 블로그 정리 및 내일 할일 정리 2021-06-24 @started(21-06-24 18:48) @done(21-06-24 18:50) @lasted(2m6s) @project(day-2021-06-24)
+  ✘ 주간 보고서 작성 @started(21-06-24 18:50) @cancelled(21-06-24 19:03) @wasted(13m4s) @project(day-2021-06-24.field)
+  - [x] 디자인 개편 적용 @est(9h) @started(21-06-24 10:10) @done(21-06-24 18:47) @lasted(8h37m49s) @project(day-2021-06-24.field.feat-318-growth-rate-component)
   - [x] 블로그 정리 및 내일 할일 정리 2021-06-23 @started(21-06-23 17:53) @done(21-06-23 17:55) @lasted(2m31s) @project(day-2021-06-23)
   - [x] 테스트 사항 확인 @est(4h) @started(21-06-23 09:54) @done(21-06-23 14:00) @lasted(4h6m29s) @project(day-2021-06-23.field.fix-650-personal-option-not-applying-on-data-value)
   - [x] 디자인 개편 적용 @est(4h) @started(21-06-23 14:00) @done(21-06-23 17:53) @lasted(3h53m1s) @project(day-2021-06-23.field.feat-318-growth-rate-component)
