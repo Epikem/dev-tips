@@ -1,16 +1,25 @@
-day-2021-06-28:
-  - [x] 블로그 정리 및 내일 할일 정리 2021-06-28 @started(21-06-28 19:00) @done(21-06-28 19:01) @lasted(1m40s)
-  field:
-    - [x] 증감률 뭔가 빠졌던거같은데.. 확인 -> 가이드 기준이 아닌것 알리기 @done(21-06-28 19:00)
-    - [x] 업무정리 : 작업 기록하기 (캡처 등) @done(21-06-28 19:00)
-    - [x] 보고서 작성 @started(21-06-28 10:13) @done(21-06-28 19:00) @lasted(8h47m37s)
-
-day-2021-06-29:
-  - [ ] 블로그 정리 및 내일 할일 정리 2021-06-29
-
 day-2021-06-30:
+  - [x] 블로그 정리 및 내일 할일 정리 2021-06-30 @late @started(21-07-02 17:16) @done(21-07-02 17:29) @lasted(13m42s)
+  pseudo:
+    - [x] token based auth 7 @est(3h) @started(21-06-30 16:04) @done(21-06-30 17:24) @lasted(1h20m34s)
+    - [x] 회의 @started(21-06-30 20:05) @done(21-06-30 21:56) @lasted(1h51m58s)
   field:
-    - [ ] 모니터 받침대 반납 (백승욱 팀장님) @high
+    - [x] 짐챙기기 @non-dev @done(21-06-30 15:59)
+    - [x] 작업 정리 및 기록 @started(21-06-30 09:43) @done(21-06-30 12:59) @lasted(3h16m34s)
+  sport:
+    - [x] rustlings @started(21-06-30 17:45) @done(21-06-30 20:05) @lasted(2h20m39s)
+    - [x] http://codeforces.com/problemset/problem/271/A @done(21-07-02 17:20)
+
+day-2021-07-02:
+  - [ ] 블로그 정리 및 내일 할일 정리 2021-07-02
+  sport:
+    - [ ] http://codeforces.com/problemset/problem/1471/A
+    
+  
+
+day-2021-07-03:
+  job:
+    - [ ] programmers 프로그램 신청 (공인인증 필요)
 
 day-2021-07-06:
   - [ ] 알고리즘 스터디
@@ -180,6 +189,15 @@ longterm:
   vs code에서 maven clean install 후 서버 실행
 
 Archive: 
+  - [x] 블로그 정리 및 내일 할일 정리 2021-06-29 @started(21-06-29 18:50) @done(21-06-29 19:00) @lasted(10m48s) @project(day-2021-06-29)
+  - [x] 짐챙기기 @non-dev @done(21-06-30 09:42) @project(day-2021-06-29.field)
+  - [x] 증감률 가이드 기준이 아닌것 알리기 @done(21-06-29 15:10) @project(day-2021-06-29.field)
+  - [x] 보고서 작성 @started(21-06-29 10:30) @done(21-06-29 15:01) @lasted(4h31m6s) @project(day-2021-06-29.field)
+  - [x] 모니터 받침대 반납 @high @done(21-06-29 10:52) @non-dev @project(day-2021-06-30.field)
+  - [x] 블로그 정리 및 내일 할일 정리 2021-06-28 @started(21-06-28 19:00) @done(21-06-28 19:01) @lasted(1m40s) @project(day-2021-06-28)
+  - [x] 증감률 뭔가 빠졌던거같은데.. 확인 -> 가이드 기준이 아닌것 알리기 @done(21-06-28 19:00) @project(day-2021-06-28.field)
+  - [x] 업무정리 : 작업 기록하기 (캡처 등) @done(21-06-28 19:00) @project(day-2021-06-28.field)
+  - [x] 보고서 작성 @started(21-06-28 10:13) @done(21-06-28 19:00) @lasted(8h47m37s) @project(day-2021-06-28.field)
   - [x] 블로그 정리 및 내일 할일 정리 2021-06-27 @late @started(21-06-28 10:04) @done(21-06-28 10:12) @lasted(8m9s) @project(day-2021-06-27)
   - [x] token based auth 6 @est(3h) @started(21-06-27 15:07) @done(21-06-27 15:20) @lasted(13m41s) @project(day-2021-06-27.pseudo)
   - [x] 블로그 정리 및 내일 할일 정리 2021-06-25 @done(21-06-27 12:03) @project(day-2021-06-25)
