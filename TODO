@@ -1,28 +1,18 @@
-day-2021-06-30:
-  - [x] 블로그 정리 및 내일 할일 정리 2021-06-30 @late @started(21-07-02 17:16) @done(21-07-02 17:29) @lasted(13m42s)
-  pseudo:
-    - [x] token based auth 7 @est(3h) @started(21-06-30 16:04) @done(21-06-30 17:24) @lasted(1h20m34s)
-    - [x] 회의 @started(21-06-30 20:05) @done(21-06-30 21:56) @lasted(1h51m58s)
-  field:
-    - [x] 짐챙기기 @non-dev @done(21-06-30 15:59)
-    - [x] 작업 정리 및 기록 @started(21-06-30 09:43) @done(21-06-30 12:59) @lasted(3h16m34s)
-  sport:
-    - [x] rustlings @started(21-06-30 17:45) @done(21-06-30 20:05) @lasted(2h20m39s)
-    - [x] http://codeforces.com/problemset/problem/271/A @done(21-07-02 17:20)
-
 day-2021-07-02:
-  - [ ] 블로그 정리 및 내일 할일 정리 2021-07-02
+  - [x] 블로그 정리 및 내일 할일 정리 2021-07-02 @started(21-07-03 01:42) @done(21-07-03 01:46) @lasted(4m30s)
   sport:
-    - [ ] http://codeforces.com/problemset/problem/1471/A
+    - [x] http://codeforces.com/problemset/problem/1471/A @done(21-07-03 00:39)
     
-  
-
 day-2021-07-03:
+  - [ ] 블로그 정리 및 내일 할일 정리 2021-07-03
+  - [ ] 계획 정리 @high
+  sport:
+    - [ ] cf 참여
   job:
     - [ ] programmers 프로그램 신청 (공인인증 필요)
 
 day-2021-07-06:
-  - [ ] 알고리즘 스터디
+  - [ ] 알고리즘 스터디 (계획, 문제 정하기)
 
 blog:
   docker-seminar:
@@ -30,6 +20,7 @@ blog:
   - [ ] tips 정리하기 @in-month
   - [ ] tip 추가: 브라우저로 컴파일하는 타입스크립트에서 확장자 없이 import하는법
   - [ ] tip 추가: 타입스크립트 타입에 따른 동작 분기 - 어떤 타입의 배열인지 체크하기
+  - [ ] tip 추가: 알고리즘 - 비교적 안전한 소수 덧셈 알고리즘 (https://en.wikipedia.org/wiki/Kahan_summation_algorithm)
 
 school:
   - [ ] 현장실습 주간보고서 작성 @high
@@ -37,12 +28,11 @@ school:
   https://portal.hanyang.ac.kr/port.do#!UDMxNDEzNyRAXmhha3NhLyRAXiRAXk0wMTAwMzgkQF7qs7Xsp4Dsgqztla0kQF5NMDAzNzk5JEBeNTgxOWVmMWVmZGVkOGNhNmIwN2JjNDYzNjdkZGRjZDg2ZDI0YjQ2Nzg2NWY5MTVkNDQ5MGUxOWEzODZiNDgxOA==
 
 sport:
-  - [ ] sport: boj 14868 - 문명
-  - [ ] sport: boj 9466 - 텀 프로젝트 (re1-골4) @est(2h)
-  https://www.acmicpc.net/problem/9466
-  https://www.acmicpc.net/problem/10026
-  - [ ] sport: boj 2098 - 외판원 순회 (골1) @est(2h)
-  https://www.acmicpc.net/problem/2098
+  ✘ sport: boj 14868 - 문명 @cancelled(21-07-02 18:27)
+  ✘ sport: boj 9466 - 텀 프로젝트 (re1-골4) @est(2h) @cancelled(21-07-02 18:27)
+  ✘ sport: boj 2098 - 외판원 순회 (골1) @est(2h) @cancelled(21-07-02 18:27)
+  - [ ] rust solve에 아래 모듈 적용하기
+  https://github.com/EbTech/rust-algorithms/blob/master/src/scanner.rs
   - [ ] [scpc](https://research.samsung.com/scpc) 참가 @at(2021-07-16)
   - [ ] 네이버웹툰 개발 챌린지 1차 코딩 테스트 (Back-End) 21년 07월 04일 14:00 ~ 07월 04일 16:00 @at(2021-07-04)
 
@@ -189,6 +179,13 @@ longterm:
   vs code에서 maven clean install 후 서버 실행
 
 Archive: 
+  - [x] 블로그 정리 및 내일 할일 정리 2021-06-30 @late @started(21-07-02 17:16) @done(21-07-02 17:29) @lasted(13m42s) @project(day-2021-06-30)
+  - [x] token based auth 7 @est(3h) @started(21-06-30 16:04) @done(21-06-30 17:24) @lasted(1h20m34s) @project(day-2021-06-30.pseudo)
+  - [x] 회의 @started(21-06-30 20:05) @done(21-06-30 21:56) @lasted(1h51m58s) @project(day-2021-06-30.pseudo)
+  - [x] 짐챙기기 @non-dev @done(21-06-30 15:59) @project(day-2021-06-30.field)
+  - [x] 작업 정리 및 기록 @started(21-06-30 09:43) @done(21-06-30 12:59) @lasted(3h16m34s) @project(day-2021-06-30.field)
+  - [x] rustlings @started(21-06-30 17:45) @done(21-06-30 20:05) @lasted(2h20m39s) @project(day-2021-06-30.sport)
+  - [x] http://codeforces.com/problemset/problem/271/A @done(21-07-02 17:20) @project(day-2021-06-30.sport)
   - [x] 블로그 정리 및 내일 할일 정리 2021-06-29 @started(21-06-29 18:50) @done(21-06-29 19:00) @lasted(10m48s) @project(day-2021-06-29)
   - [x] 짐챙기기 @non-dev @done(21-06-30 09:42) @project(day-2021-06-29.field)
   - [x] 증감률 가이드 기준이 아닌것 알리기 @done(21-06-29 15:10) @project(day-2021-06-29.field)
