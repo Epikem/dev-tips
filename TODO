@@ -1,21 +1,18 @@
-day-2021-07-03:
-  - [x] 블로그 정리 및 내일 할일 정리 2021-07-03 @late @started(21-07-04 14:44) @done(21-07-04 14:46) @lasted(2m19s)
-  - [x] 계획 정리 @high @done(21-07-04 14:26)
-  pseudo:
-    - [x] 서버 셋업 @done(21-07-03 21:01)
-  sport:
-    - [x] cf 729 div 2 참여 @started(21-07-03 22:03) @done(21-07-04 00:06) @lasted(2h3m59s)
-  job:
-    ✘ programmers 프로그램 신청 (공인인증 필요) @cancelled(21-07-04 14:46)
-
 day-2021-07-04:
-  sport:
-    - [x] cf 729 div 2 리뷰 @started(21-07-04 14:32) @done(21-07-04 14:44) @lasted(12m41s)
+  - [x] 블로그 정리 및 내일 할일 정리 2021-07-04 @late @started(21-07-05 00:24) @done(21-07-05 00:26) @lasted(2m38s)
+  - [x] cf 729 div 2 리뷰 @started(21-07-04 14:32) @done(21-07-04 14:44) @lasted(12m41s)
+  - [x] pwm fan 설치 @started(21-07-04 23:20) @done(21-07-05 00:23) @lasted(1h3m38s)
+  pseudo:
+    ✘ 임시 서버 HTTPS 적용 @est(2h) @cancelled(21-07-05 00:24)
+  job:
+    ✘ programmers 프로그램 신청 (공인인증 필요) @cancelled(21-07-05 00:24)
+
+day-2021-07-05:
+  - [ ] 블로그 정리 및 내일 할일 정리 2021-07-05
   pseudo:
     - [ ] 임시 서버 HTTPS 적용 @est(2h)
   job:
-    - [ ] programmers 프로그램 신청 (공인인증 필요)
-
+    - [ ] programmers 프로그램 신청 (공인인증 필요) siren24확인
 
 day-2021-07-06:
   - [ ] 알고리즘 스터디 (계획, 문제 정하기)
@@ -182,6 +179,11 @@ longterm:
   vs code에서 maven clean install 후 서버 실행
 
 Archive: 
+  - [x] 블로그 정리 및 내일 할일 정리 2021-07-03 @late @started(21-07-04 14:44) @done(21-07-04 14:46) @lasted(2m19s) @project(day-2021-07-03)
+  - [x] 계획 정리 @high @done(21-07-04 14:26) @project(day-2021-07-03)
+  - [x] 서버 셋업 @done(21-07-03 21:01) @project(day-2021-07-03.pseudo)
+  - [x] cf 729 div 2 참여 @started(21-07-03 22:03) @done(21-07-04 00:06) @lasted(2h3m59s) @project(day-2021-07-03.sport)
+  ✘ programmers 프로그램 신청 (공인인증 필요) @cancelled(21-07-04 14:46) @project(day-2021-07-03.job)
   - [x] 블로그 정리 및 내일 할일 정리 2021-07-02 @started(21-07-03 01:42) @done(21-07-03 01:46) @lasted(4m30s) @project(day-2021-07-02)
   - [x] http://codeforces.com/problemset/problem/1471/A @done(21-07-03 00:39) @project(day-2021-07-02.sport)
   ✘ sport: boj 14868 - 문명 @cancelled(21-07-02 18:27) @project(sport)
