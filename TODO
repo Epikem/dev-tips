@@ -1,21 +1,18 @@
-day-2021-07-04:
-  - [x] 블로그 정리 및 내일 할일 정리 2021-07-04 @late @started(21-07-05 00:24) @done(21-07-05 00:26) @lasted(2m38s)
-  - [x] cf 729 div 2 리뷰 @started(21-07-04 14:32) @done(21-07-04 14:44) @lasted(12m41s)
-  - [x] pwm fan 설치 @started(21-07-04 23:20) @done(21-07-05 00:23) @lasted(1h3m38s)
-  pseudo:
-    ✘ 임시 서버 HTTPS 적용 @est(2h) @cancelled(21-07-05 00:24)
-  job:
-    ✘ programmers 프로그램 신청 (공인인증 필요) @cancelled(21-07-05 00:24)
-
 day-2021-07-05:
-  - [ ] 블로그 정리 및 내일 할일 정리 2021-07-05
+  - [x] 블로그 정리 및 내일 할일 정리 2021-07-05 @started(21-07-05 23:31) @done(21-07-05 23:43) @lasted(12m5s)
+  pseudo:
+    - [x] 임시 서버 HTTPS 적용 @est(2h) @started(21-07-05 13:53) @done(21-07-05 19:39) @lasted(5h46m42s)
+  job:
+    ✘ programmers 프로그램 신청 (공인인증 필요) siren24확인 @cancelled(21-07-05 23:30)
+
+day-2021-07-06:
+  - [ ] 블로그 정리 및 내일 할일 정리 2021-07-06
+  sport:
+    - [ ] 알고리즘 스터디 (계획, 문제 정하기)
   pseudo:
     - [ ] 임시 서버 HTTPS 적용 @est(2h)
   job:
-    - [ ] programmers 프로그램 신청 (공인인증 필요) siren24확인
-
-day-2021-07-06:
-  - [ ] 알고리즘 스터디 (계획, 문제 정하기)
+    - [ ] programmers 프로그램 신청 (공인인증 필요) siren24확인 @non-dev 
 
 blog:
   docker-seminar:
@@ -24,6 +21,7 @@ blog:
   - [ ] tip 추가: 브라우저로 컴파일하는 타입스크립트에서 확장자 없이 import하는법
   - [ ] tip 추가: 타입스크립트 타입에 따른 동작 분기 - 어떤 타입의 배열인지 체크하기
   - [ ] tip 추가: 알고리즘 - 비교적 안전한 소수 덧셈 알고리즘 (https://en.wikipedia.org/wiki/Kahan_summation_algorithm)
+  - [ ] tip 추가: raspberry pi 팬 설치하기 (rpi pwm fan 설치 - 2021-07-04)
 
 school:
   - [ ] 현장실습 주간보고서 작성 @high
@@ -179,6 +177,11 @@ longterm:
   vs code에서 maven clean install 후 서버 실행
 
 Archive: 
+  - [x] 블로그 정리 및 내일 할일 정리 2021-07-04 @late @started(21-07-05 00:24) @done(21-07-05 00:26) @lasted(2m38s) @project(day-2021-07-04)
+  - [x] cf 729 div 2 리뷰 @started(21-07-04 14:32) @done(21-07-04 14:44) @lasted(12m41s) @project(day-2021-07-04)
+  - [x] pwm fan 설치 @started(21-07-04 23:20) @done(21-07-05 00:23) @lasted(1h3m38s) @project(day-2021-07-04)
+  ✘ 임시 서버 HTTPS 적용 @est(2h) @cancelled(21-07-05 00:24) @project(day-2021-07-04.pseudo)
+  ✘ programmers 프로그램 신청 (공인인증 필요) @cancelled(21-07-05 00:24) @project(day-2021-07-04.job)
   - [x] 블로그 정리 및 내일 할일 정리 2021-07-03 @late @started(21-07-04 14:44) @done(21-07-04 14:46) @lasted(2m19s) @project(day-2021-07-03)
   - [x] 계획 정리 @high @done(21-07-04 14:26) @project(day-2021-07-03)
   - [x] 서버 셋업 @done(21-07-03 21:01) @project(day-2021-07-03.pseudo)
