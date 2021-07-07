@@ -1,18 +1,21 @@
-day-2021-07-05:
-  - [x] 블로그 정리 및 내일 할일 정리 2021-07-05 @started(21-07-05 23:31) @done(21-07-05 23:43) @lasted(12m5s)
-  pseudo:
-    - [x] 임시 서버 HTTPS 적용 @est(2h) @started(21-07-05 13:53) @done(21-07-05 19:39) @lasted(5h46m42s)
-  job:
-    ✘ programmers 프로그램 신청 (공인인증 필요) siren24확인 @cancelled(21-07-05 23:30)
-
 day-2021-07-06:
-  - [ ] 블로그 정리 및 내일 할일 정리 2021-07-06
+  - [x] 블로그 정리 및 내일 할일 정리 2021-07-06 @late @started(21-07-07 13:52) @done(21-07-07 14:04) @lasted(12m36s)
   sport:
-    - [ ] 알고리즘 스터디 (계획, 문제 정하기)
+    - [x] 알고리즘 스터디 (계획, 문제 정하기) @started(21-07-06 17:34) @done(21-07-06 17:44) @lasted(10m55s)
+    ✘ codeforces 729 div 2 리뷰 @cancelled(21-07-06 17:45)
   pseudo:
-    - [ ] 임시 서버 HTTPS 적용 @est(2h)
+    - [x] 임시 서버 HTTPS 적용 @est(2h) @started(21-07-06 16:08) @done(21-07-06 16:53) @lasted(45m49s)
   job:
-    - [ ] programmers 프로그램 신청 (공인인증 필요) siren24확인 @non-dev 
+    - [x] programmers 프로그램 신청서 작성 (공인인증 필요) siren24확인 @non-dev @started(21-07-06 16:53) @done(21-07-06 17:34) @lasted(41m15s)
+
+day-2021-07-07:
+  - [ ] 블로그 정리 및 내일 할일 정리 2021-07-07
+  project:
+    - [ ] 프로젝트 구상
+  pseudo:
+    - [ ] static 빌드 적용 방법 전파
+  sport:
+    - [ ] codeforces 730 div 2 참가
 
 blog:
   docker-seminar:
@@ -177,6 +180,9 @@ longterm:
   vs code에서 maven clean install 후 서버 실행
 
 Archive: 
+  - [x] 블로그 정리 및 내일 할일 정리 2021-07-05 @started(21-07-05 23:31) @done(21-07-05 23:43) @lasted(12m5s) @project(day-2021-07-05)
+  - [x] 임시 서버 HTTPS 적용 @est(2h) @started(21-07-05 13:53) @done(21-07-05 19:39) @lasted(5h46m42s) @project(day-2021-07-05.pseudo)
+  ✘ programmers 프로그램 신청 (공인인증 필요) siren24확인 @cancelled(21-07-05 23:30) @project(day-2021-07-05.job)
   - [x] 블로그 정리 및 내일 할일 정리 2021-07-04 @late @started(21-07-05 00:24) @done(21-07-05 00:26) @lasted(2m38s) @project(day-2021-07-04)
   - [x] cf 729 div 2 리뷰 @started(21-07-04 14:32) @done(21-07-04 14:44) @lasted(12m41s) @project(day-2021-07-04)
   - [x] pwm fan 설치 @started(21-07-04 23:20) @done(21-07-05 00:23) @lasted(1h3m38s) @project(day-2021-07-04)
