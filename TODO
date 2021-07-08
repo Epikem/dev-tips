@@ -1,21 +1,16 @@
-day-2021-07-06:
-  - [x] 블로그 정리 및 내일 할일 정리 2021-07-06 @late @started(21-07-07 13:52) @done(21-07-07 14:04) @lasted(12m36s)
-  sport:
-    - [x] 알고리즘 스터디 (계획, 문제 정하기) @started(21-07-06 17:34) @done(21-07-06 17:44) @lasted(10m55s)
-    ✘ codeforces 729 div 2 리뷰 @cancelled(21-07-06 17:45)
-  pseudo:
-    - [x] 임시 서버 HTTPS 적용 @est(2h) @started(21-07-06 16:08) @done(21-07-06 16:53) @lasted(45m49s)
-  job:
-    - [x] programmers 프로그램 신청서 작성 (공인인증 필요) siren24확인 @non-dev @started(21-07-06 16:53) @done(21-07-06 17:34) @lasted(41m15s)
-
 day-2021-07-07:
-  - [ ] 블로그 정리 및 내일 할일 정리 2021-07-07
+  - [x] 블로그 정리 및 내일 할일 정리 2021-07-07 @late @started(21-07-08 10:50) @done(21-07-08 10:55) @lasted(5m42s)
   project:
-    - [ ] 프로젝트 구상
+    - [x] 프로젝트 구상 @started(21-07-07 18:21) @done(21-07-07 19:38) @lasted(1h17m44s)
   pseudo:
-    - [ ] static 빌드 적용 방법 전파
+    - [x] static 빌드 적용 방법 전파 @started(21-07-07 14:10) @done(21-07-07 18:10) @lasted(4h57s)
   sport:
-    - [ ] codeforces 730 div 2 참가
+    - [x] codeforces 730 div 2 참가 @started(21-07-07 23:48) @done(21-07-08 01:38) @lasted(1h50m5s)
+
+day-2021-07-08:
+  - [ ] 블로그 정리 및 내일 할일 정리 2021-07-08
+  sport:
+    - [ ] codeforces 730 div 2 리뷰
 
 blog:
   docker-seminar:
@@ -180,6 +175,11 @@ longterm:
   vs code에서 maven clean install 후 서버 실행
 
 Archive: 
+  - [x] 블로그 정리 및 내일 할일 정리 2021-07-06 @late @started(21-07-07 13:52) @done(21-07-07 14:04) @lasted(12m36s) @project(day-2021-07-06)
+  - [x] 알고리즘 스터디 (계획, 문제 정하기) @started(21-07-06 17:34) @done(21-07-06 17:44) @lasted(10m55s) @project(day-2021-07-06.sport)
+  ✘ codeforces 729 div 2 리뷰 @cancelled(21-07-06 17:45) @project(day-2021-07-06.sport)
+  - [x] 임시 서버 HTTPS 적용 @est(2h) @started(21-07-06 16:08) @done(21-07-06 16:53) @lasted(45m49s) @project(day-2021-07-06.pseudo)
+  - [x] programmers 프로그램 신청서 작성 (공인인증 필요) siren24확인 @non-dev @started(21-07-06 16:53) @done(21-07-06 17:34) @lasted(41m15s) @project(day-2021-07-06.job)
   - [x] 블로그 정리 및 내일 할일 정리 2021-07-05 @started(21-07-05 23:31) @done(21-07-05 23:43) @lasted(12m5s) @project(day-2021-07-05)
   - [x] 임시 서버 HTTPS 적용 @est(2h) @started(21-07-05 13:53) @done(21-07-05 19:39) @lasted(5h46m42s) @project(day-2021-07-05.pseudo)
   ✘ programmers 프로그램 신청 (공인인증 필요) siren24확인 @cancelled(21-07-05 23:30) @project(day-2021-07-05.job)
