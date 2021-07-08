@@ -1,17 +1,17 @@
-day-2021-07-07:
-  - [x] 블로그 정리 및 내일 할일 정리 2021-07-07 @late @started(21-07-08 10:50) @done(21-07-08 10:55) @lasted(5m42s)
-  project:
-    - [x] 프로젝트 구상 @started(21-07-07 18:21) @done(21-07-07 19:38) @lasted(1h17m44s)
-  pseudo:
-    - [x] static 빌드 적용 방법 전파 @started(21-07-07 14:10) @done(21-07-07 18:10) @lasted(4h57s)
-  sport:
-    - [x] codeforces 730 div 2 참가 @started(21-07-07 23:48) @done(21-07-08 01:38) @lasted(1h50m5s)
-
 day-2021-07-08:
-  - [ ] 블로그 정리 및 내일 할일 정리 2021-07-08
+  - [x] 블로그 정리 및 내일 할일 정리 2021-07-08 @started(21-07-08 22:52) @done(21-07-08 22:56) @lasted(4m23s)
   sport:
-    - [ ] codeforces 730 div 2 리뷰
+    - [x] codeforces 730 div 2 리뷰 @started(21-07-08 16:53) @done(21-07-08 18:20) @lasted(1h27m58s)
+  pseudo:
+    ✘ 유저 정보 변경 기능 @est(3h) @cancelled(21-07-08 22:52)
 
+day-2021-07-09:
+  - [ ] 블로그 정리 및 내일 할일 정리 2021-07-09
+  sport:
+    - [ ] codeforces 730 div 2 리뷰 (나머지 문제)
+  pseudo:
+    - [ ] 유저 정보 변경 기능 @est(3h)
+    
 blog:
   docker-seminar:
     - [ ] 도커 세미나 - 회고 @est(2h)
@@ -77,14 +77,12 @@ field:
     - [ ] (개선) 이름 옵션 추가 @est(8h)
 
 pseudo:
-  - [ ] use access/refresh token @est(2h)
+  ✘ use access/refresh token @est(2h) @cancelled(21-07-08 10:58)
   - [ ] customize scope @est(2h)
   - [ ] add local
-  - [ ] token based auth 6 @est(3h)
-  - [ ] 헤더 토큰 사용 @est(1h)
+  - [x] 헤더 토큰 사용 @est(1h) @done(21-07-08 10:58)
   - [ ] 추가 라우트 적용 @est(2h)
   - [ ] 추가 라우트 테스트 @est(5h)
-  - [ ] 유저 정보 변경 기능 @est(3h)
 
   ref - https://developers.google.com/identity/sign-in/web/backend-auth
   - [ ] add authorization (attach auth to existing user)
@@ -175,6 +173,10 @@ longterm:
   vs code에서 maven clean install 후 서버 실행
 
 Archive: 
+  - [x] 블로그 정리 및 내일 할일 정리 2021-07-07 @late @started(21-07-08 10:50) @done(21-07-08 10:55) @lasted(5m42s) @project(day-2021-07-07)
+  - [x] 프로젝트 구상 @started(21-07-07 18:21) @done(21-07-07 19:38) @lasted(1h17m44s) @project(day-2021-07-07.project)
+  - [x] static 빌드 적용 방법 전파 @started(21-07-07 14:10) @done(21-07-07 18:10) @lasted(4h57s) @project(day-2021-07-07.pseudo)
+  - [x] codeforces 730 div 2 참가 @started(21-07-07 23:48) @done(21-07-08 01:38) @lasted(1h50m5s) @project(day-2021-07-07.sport)
   - [x] 블로그 정리 및 내일 할일 정리 2021-07-06 @late @started(21-07-07 13:52) @done(21-07-07 14:04) @lasted(12m36s) @project(day-2021-07-06)
   - [x] 알고리즘 스터디 (계획, 문제 정하기) @started(21-07-06 17:34) @done(21-07-06 17:44) @lasted(10m55s) @project(day-2021-07-06.sport)
   ✘ codeforces 729 div 2 리뷰 @cancelled(21-07-06 17:45) @project(day-2021-07-06.sport)
