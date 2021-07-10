@@ -1,17 +1,23 @@
-day-2021-07-08:
-  - [x] 블로그 정리 및 내일 할일 정리 2021-07-08 @started(21-07-08 22:52) @done(21-07-08 22:56) @lasted(4m23s)
+day-2021-07-10:
+  - [x] 블로그 정리 및 내일 할일 정리 2021-07-10 @late @started(21-07-11 04:12) @done(21-07-11 04:15) @lasted(3m43s)
   sport:
-    - [x] codeforces 730 div 2 리뷰 @started(21-07-08 16:53) @done(21-07-08 18:20) @lasted(1h27m58s)
+    - [x] codeforces 730 div 2 리뷰 (나머지 문제) - 2 @partial @started(21-07-10 23:04) @done(21-07-10 23:50) @lasted(46m59s)
+    - [x] codeforces 730 div 2 리뷰 (나머지 문제) - 3 @partial @started(21-07-11 02:17) @done(21-07-11 04:12) @lasted(1h55m11s)
   pseudo:
-    ✘ 유저 정보 변경 기능 @est(3h) @cancelled(21-07-08 22:52)
+    ✘ 유저 정보 변경 기능 @est(3h) @cancelled(21-07-11 02:15)
+  project:
+    - [x] jetson nano 셋업 @started(21-07-10 13:31) @done(21-07-10 17:17) @lasted(3h47m)
 
-day-2021-07-09:
-  - [ ] 블로그 정리 및 내일 할일 정리 2021-07-09
+day-2021-07-11:
+  - [ ] 블로그 정리 및 내일 할일 정리 2021-07-11
   sport:
-    - [ ] codeforces 730 div 2 리뷰 (나머지 문제)
+    - [ ] 데브코스 응시
+    - [ ] kakao 코테연습
   pseudo:
     - [ ] 유저 정보 변경 기능 @est(3h)
-    
+  project:
+    - [ ] jetson nano 셋업
+
 blog:
   docker-seminar:
     - [ ] 도커 세미나 - 회고 @est(2h)
@@ -77,10 +83,8 @@ field:
     - [ ] (개선) 이름 옵션 추가 @est(8h)
 
 pseudo:
-  ✘ use access/refresh token @est(2h) @cancelled(21-07-08 10:58)
   - [ ] customize scope @est(2h)
   - [ ] add local
-  - [x] 헤더 토큰 사용 @est(1h) @done(21-07-08 10:58)
   - [ ] 추가 라우트 적용 @est(2h)
   - [ ] 추가 라우트 테스트 @est(5h)
 
@@ -173,6 +177,15 @@ longterm:
   vs code에서 maven clean install 후 서버 실행
 
 Archive: 
+  - [x] 블로그 정리 및 내일 할일 정리 2021-07-09 @started(21-07-10 00:13) @done(21-07-10 01:08) @lasted(55m7s) @project(day-2021-07-09)
+  - [x] codeforces 730 div 2 리뷰 (나머지 문제) @partial @started(21-07-09 13:39) @done(21-07-09 15:18) @lasted(1h39m48s) @project(day-2021-07-09.sport)
+  ✘ 유저 정보 변경 기능 @est(3h) @cancelled(21-07-10 00:01) @project(day-2021-07-09.pseudo)
+  - [x] programmers 프로그램 신청 @non-dev @started(21-07-09 19:33) @done(21-07-09 21:47) @lasted(2h14m9s) @project(day-2021-07-09.job)
+  - [x] 블로그 정리 및 내일 할일 정리 2021-07-08 @started(21-07-08 22:52) @done(21-07-08 22:56) @lasted(4m23s) @project(day-2021-07-08)
+  - [x] codeforces 730 div 2 리뷰 @started(21-07-08 16:53) @done(21-07-08 18:20) @lasted(1h27m58s) @project(day-2021-07-08.sport)
+  ✘ 유저 정보 변경 기능 @est(3h) @cancelled(21-07-08 22:52) @project(day-2021-07-08.pseudo)
+  ✘ use access/refresh token @est(2h) @cancelled(21-07-08 10:58) @project(pseudo)
+  - [x] 헤더 토큰 사용 @est(1h) @done(21-07-08 10:58) @project(pseudo)
   - [x] 블로그 정리 및 내일 할일 정리 2021-07-07 @late @started(21-07-08 10:50) @done(21-07-08 10:55) @lasted(5m42s) @project(day-2021-07-07)
   - [x] 프로젝트 구상 @started(21-07-07 18:21) @done(21-07-07 19:38) @lasted(1h17m44s) @project(day-2021-07-07.project)
   - [x] static 빌드 적용 방법 전파 @started(21-07-07 14:10) @done(21-07-07 18:10) @lasted(4h57s) @project(day-2021-07-07.pseudo)
