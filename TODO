@@ -1,22 +1,19 @@
-day-2021-07-10:
-  - [x] 블로그 정리 및 내일 할일 정리 2021-07-10 @late @started(21-07-11 04:12) @done(21-07-11 04:15) @lasted(3m43s)
+day-2021-07-12:
+  - [x] 블로그 정리 및 내일 할일 정리 2021-07-12 @late @started(21-07-13 13:41) @done(21-07-13 13:49) @lasted(8m8s)
+  job:
+    - [x] kakaopay 인턴 지원 @started(21-07-12 14:47) @done(21-07-12 15:36) @lasted(49m2s)
   sport:
-    - [x] codeforces 730 div 2 리뷰 (나머지 문제) - 2 @partial @started(21-07-10 23:04) @done(21-07-10 23:50) @lasted(46m59s)
-    - [x] codeforces 730 div 2 리뷰 (나머지 문제) - 3 @partial @started(21-07-11 02:17) @done(21-07-11 04:12) @lasted(1h55m11s)
-  pseudo:
-    ✘ 유저 정보 변경 기능 @est(3h) @cancelled(21-07-11 02:15)
+    - [x] kakao 코테연습 @late @started(21-07-13 04:38) @done(21-07-13 07:51) @lasted(3h13m16s)
   project:
-    - [x] jetson nano 셋업 @started(21-07-10 13:31) @done(21-07-10 17:17) @lasted(3h47m)
+    - [x] 초기 프로젝트 테스트 @started(21-07-12 12:24) @done(21-07-12 14:47) @lasted(2h23m45s)
+    - [x] 초기 프로젝트 테스트 2 @started(21-07-12 17:16) @done(21-07-12 19:02) @lasted(1h46m50s)
 
-day-2021-07-11:
-  - [ ] 블로그 정리 및 내일 할일 정리 2021-07-11
+day-2021-07-13:
+  - [ ] 블로그 정리 및 내일 할일 정리 2021-07-13
   sport:
-    - [ ] 데브코스 응시
-    - [ ] kakao 코테연습
+    - [ ] kakaopay 코테 @est(3h)
   pseudo:
     - [ ] 유저 정보 변경 기능 @est(3h)
-  project:
-    - [ ] jetson nano 셋업
 
 blog:
   docker-seminar:
@@ -26,6 +23,7 @@ blog:
   - [ ] tip 추가: 타입스크립트 타입에 따른 동작 분기 - 어떤 타입의 배열인지 체크하기
   - [ ] tip 추가: 알고리즘 - 비교적 안전한 소수 덧셈 알고리즘 (https://en.wikipedia.org/wiki/Kahan_summation_algorithm)
   - [ ] tip 추가: raspberry pi 팬 설치하기 (rpi pwm fan 설치 - 2021-07-04)
+  - [ ] tip 추가: ssh를 이용한 gpg agent 포워딩 (https://wiki.gnupg.org/AgentForwarding) 한글로
 
 school:
   - [ ] 현장실습 주간보고서 작성 @high
@@ -177,6 +175,16 @@ longterm:
   vs code에서 maven clean install 후 서버 실행
 
 Archive: 
+  - [x] 블로그 정리 및 내일 할일 정리 2021-07-11 @late @started(21-07-12 12:10) @done(21-07-12 12:17) @lasted(7m43s) @project(day-2021-07-11)
+  - [x] 데브코스 응시 @done(21-07-12 01:26) @project(day-2021-07-11.sport)
+  ✘ kakao 코테연습 @cancelled(21-07-12 01:26) @project(day-2021-07-11.sport)
+  ✘ 유저 정보 변경 기능 @est(3h) @cancelled(21-07-12 01:26) @project(day-2021-07-11.pseudo)
+  - [x] jetson nano 셋업 @started(21-07-12 02:57) @done(21-07-12 04:47) @lasted(1h50m12s) @project(day-2021-07-11.project)
+  - [x] 블로그 정리 및 내일 할일 정리 2021-07-10 @late @started(21-07-11 04:12) @done(21-07-11 04:15) @lasted(3m43s) @project(day-2021-07-10)
+  - [x] codeforces 730 div 2 리뷰 (나머지 문제) - 2 @partial @started(21-07-10 23:04) @done(21-07-10 23:50) @lasted(46m59s) @project(day-2021-07-10.sport)
+  - [x] codeforces 730 div 2 리뷰 (나머지 문제) - 3 @partial @started(21-07-11 02:17) @done(21-07-11 04:12) @lasted(1h55m11s) @project(day-2021-07-10.sport)
+  ✘ 유저 정보 변경 기능 @est(3h) @cancelled(21-07-11 02:15) @project(day-2021-07-10.pseudo)
+  - [x] jetson nano 셋업 @started(21-07-10 13:31) @done(21-07-10 17:17) @lasted(3h47m) @project(day-2021-07-10.project)
   - [x] 블로그 정리 및 내일 할일 정리 2021-07-09 @started(21-07-10 00:13) @done(21-07-10 01:08) @lasted(55m7s) @project(day-2021-07-09)
   - [x] codeforces 730 div 2 리뷰 (나머지 문제) @partial @started(21-07-09 13:39) @done(21-07-09 15:18) @lasted(1h39m48s) @project(day-2021-07-09.sport)
   ✘ 유저 정보 변경 기능 @est(3h) @cancelled(21-07-10 00:01) @project(day-2021-07-09.pseudo)
