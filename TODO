@@ -1,19 +1,17 @@
-day-2021-07-12:
-  - [x] 블로그 정리 및 내일 할일 정리 2021-07-12 @late @started(21-07-13 13:41) @done(21-07-13 13:49) @lasted(8m8s)
-  job:
-    - [x] kakaopay 인턴 지원 @started(21-07-12 14:47) @done(21-07-12 15:36) @lasted(49m2s)
-  sport:
-    - [x] kakao 코테연습 @late @started(21-07-13 04:38) @done(21-07-13 07:51) @lasted(3h13m16s)
-  project:
-    - [x] 초기 프로젝트 테스트 @started(21-07-12 12:24) @done(21-07-12 14:47) @lasted(2h23m45s)
-    - [x] 초기 프로젝트 테스트 2 @started(21-07-12 17:16) @done(21-07-12 19:02) @lasted(1h46m50s)
-
 day-2021-07-13:
-  - [ ] 블로그 정리 및 내일 할일 정리 2021-07-13
+  - [x] 블로그 정리 및 내일 할일 정리 2021-07-13 @started(21-07-13 23:03) @done(21-07-13 23:10) @lasted(7m21s)
   sport:
-    - [ ] kakaopay 코테 @est(3h)
+    - [x] kakaopay 코테 @est(3h) @started(21-07-13 14:02) @done(21-07-13 17:07) @lasted(3h5m49s)
   pseudo:
-    - [ ] 유저 정보 변경 기능 @est(3h)
+    - [x] 유저 정보 변경 기능 @est(3h) @started(21-07-13 19:45) @done(21-07-13 21:52) @lasted(2h7m11s)
+
+day-2021-07-14:
+  - [ ] 블로그 정리 및 내일 할일 정리 2021-07-14
+  project:
+    - [ ] 초기 프로젝트 구성 3 - 계획 @est(3h)
+  pseudo:
+    - [ ] 회의 @est(2h)
+    - [ ] 프로필 스키마 작업 @est(2h)
 
 blog:
   docker-seminar:
@@ -175,6 +173,11 @@ longterm:
   vs code에서 maven clean install 후 서버 실행
 
 Archive: 
+  - [x] 블로그 정리 및 내일 할일 정리 2021-07-12 @late @started(21-07-13 13:41) @done(21-07-13 13:49) @lasted(8m8s) @project(day-2021-07-12)
+  - [x] kakaopay 인턴 지원 @started(21-07-12 14:47) @done(21-07-12 15:36) @lasted(49m2s) @project(day-2021-07-12.job)
+  - [x] kakao 코테연습 @late @started(21-07-13 04:38) @done(21-07-13 07:51) @lasted(3h13m16s) @project(day-2021-07-12.sport)
+  - [x] 초기 프로젝트 테스트 @started(21-07-12 12:24) @done(21-07-12 14:47) @lasted(2h23m45s) @project(day-2021-07-12.project)
+  - [x] 초기 프로젝트 테스트 2 @started(21-07-12 17:16) @done(21-07-12 19:02) @lasted(1h46m50s) @project(day-2021-07-12.project)
   - [x] 블로그 정리 및 내일 할일 정리 2021-07-11 @late @started(21-07-12 12:10) @done(21-07-12 12:17) @lasted(7m43s) @project(day-2021-07-11)
   - [x] 데브코스 응시 @done(21-07-12 01:26) @project(day-2021-07-11.sport)
   ✘ kakao 코테연습 @cancelled(21-07-12 01:26) @project(day-2021-07-11.sport)
