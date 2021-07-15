@@ -1,17 +1,19 @@
-day-2021-07-13:
-  - [x] 블로그 정리 및 내일 할일 정리 2021-07-13 @started(21-07-13 23:03) @done(21-07-13 23:10) @lasted(7m21s)
-  sport:
-    - [x] kakaopay 코테 @est(3h) @started(21-07-13 14:02) @done(21-07-13 17:07) @lasted(3h5m49s)
-  pseudo:
-    - [x] 유저 정보 변경 기능 @est(3h) @started(21-07-13 19:45) @done(21-07-13 21:52) @lasted(2h7m11s)
-
 day-2021-07-14:
-  - [ ] 블로그 정리 및 내일 할일 정리 2021-07-14
+  - [x] 블로그 정리 및 내일 할일 정리 2021-07-14 @late @started(21-07-15 15:37) @done(21-07-15 15:39) @lasted(2m25s)
+  project:
+    ✘ 초기 프로젝트 구성 3 - 계획 @est(3h) @cancelled(21-07-15 05:47)
+  pseudo:
+    - [x] 회의 @est(2h) @started(21-07-14 20:04) @done(21-07-14 20:43) @lasted(39m49s)
+    - [x] 프로필 스키마 작업 @est(2h) @done(21-07-15 03:13)
+  blog:
+    - [x] 블로그 포팅 스크립트 테스트 @started(21-07-14 14:11) @done(21-07-14 19:12) @lasted(5h1m35s)
+
+day-2021-07-15:
+  - [ ] 블로그 정리 및 내일 할일 정리 2021-07-15
   project:
     - [ ] 초기 프로젝트 구성 3 - 계획 @est(3h)
-  pseudo:
-    - [ ] 회의 @est(2h)
-    - [ ] 프로필 스키마 작업 @est(2h)
+  blog:
+    - [ ] 블로그 포팅 스크립트 테스트 @est(3h)
 
 blog:
   docker-seminar:
@@ -83,6 +85,9 @@ pseudo:
   - [ ] add local
   - [ ] 추가 라우트 적용 @est(2h)
   - [ ] 추가 라우트 테스트 @est(5h)
+  - [ ] 프로필 스키마 작업 2 - 통계 계산 모듈 추가 @est(4h)
+  - [ ] 프로필 스키마 작업 3 - 라우트 추가 @est(3h)
+  - [ ] 프로필 스키마 작업 4 - 편집 기능 추가 @est(2h)
 
   ref - https://developers.google.com/identity/sign-in/web/backend-auth
   - [ ] add authorization (attach auth to existing user)
@@ -173,6 +178,9 @@ longterm:
   vs code에서 maven clean install 후 서버 실행
 
 Archive: 
+  - [x] 블로그 정리 및 내일 할일 정리 2021-07-13 @started(21-07-13 23:03) @done(21-07-13 23:10) @lasted(7m21s) @project(day-2021-07-13)
+  - [x] kakaopay 코테 @est(3h) @started(21-07-13 14:02) @done(21-07-13 17:07) @lasted(3h5m49s) @project(day-2021-07-13.sport)
+  - [x] 유저 정보 변경 기능 @est(3h) @started(21-07-13 19:45) @done(21-07-13 21:52) @lasted(2h7m11s) @project(day-2021-07-13.pseudo)
   - [x] 블로그 정리 및 내일 할일 정리 2021-07-12 @late @started(21-07-13 13:41) @done(21-07-13 13:49) @lasted(8m8s) @project(day-2021-07-12)
   - [x] kakaopay 인턴 지원 @started(21-07-12 14:47) @done(21-07-12 15:36) @lasted(49m2s) @project(day-2021-07-12.job)
   - [x] kakao 코테연습 @late @started(21-07-13 04:38) @done(21-07-13 07:51) @lasted(3h13m16s) @project(day-2021-07-12.sport)
