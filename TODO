@@ -1,19 +1,27 @@
-day-2021-07-14:
-  - [x] 블로그 정리 및 내일 할일 정리 2021-07-14 @late @started(21-07-15 15:37) @done(21-07-15 15:39) @lasted(2m25s)
-  project:
-    ✘ 초기 프로젝트 구성 3 - 계획 @est(3h) @cancelled(21-07-15 05:47)
-  pseudo:
-    - [x] 회의 @est(2h) @started(21-07-14 20:04) @done(21-07-14 20:43) @lasted(39m49s)
-    - [x] 프로필 스키마 작업 @est(2h) @done(21-07-15 03:13)
-  blog:
-    - [x] 블로그 포팅 스크립트 테스트 @started(21-07-14 14:11) @done(21-07-14 19:12) @lasted(5h1m35s)
 
-day-2021-07-15:
-  - [ ] 블로그 정리 및 내일 할일 정리 2021-07-15
+day-2021-07-16:
+  - [x] 블로그 정리 및 내일 할일 정리 2021-07-16 @late @done(21-07-17 20:53)
   project:
-    - [ ] 초기 프로젝트 구성 3 - 계획 @est(3h)
+    ✘ 초기 프로젝트 구성 3 - 계획 @est(3h) @cancelled(21-07-17 20:52)
   blog:
-    - [ ] 블로그 포팅 스크립트 테스트 @est(3h)
+    - [x] 블로그 포팅 스크립트 테스트 - 버그 해결 @est(3h) @started(21-07-16 13:24) @done(21-07-16 16:15) @lasted(2h51m11s)
+    - [x] 태그 핸들러 테스트 만들기 @started(21-07-16 16:15) @done(21-07-16 19:00) @lasted(2h45m6s)
+    - [ ] 태그 핸들러 테스트 대상
+      - [ ] 1 라인 리스트아이템 표기
+      - [ ] 멀티 라인 리스트아이템 표기
+      - [ ] 1 라인 문단 표기
+    - [ ] private 처리
+  - [x] kakao 코테 스터디 @est(2h) @done(21-07-17 20:52)
+
+
+day-2021-07-17:
+  - [ ] 블로그 정리 및 내일 할일 정리 2021-07-17
+  blog:
+    - [ ] 태그 핸들러 테스트 대상
+      - [ ] 1 라인 리스트아이템 표기
+      - [ ] 멀티 라인 리스트아이템 표기
+      - [ ] 1 라인 문단 표기
+    - [ ] private 처리
 
 blog:
   docker-seminar:
@@ -24,11 +32,7 @@ blog:
   - [ ] tip 추가: 알고리즘 - 비교적 안전한 소수 덧셈 알고리즘 (https://en.wikipedia.org/wiki/Kahan_summation_algorithm)
   - [ ] tip 추가: raspberry pi 팬 설치하기 (rpi pwm fan 설치 - 2021-07-04)
   - [ ] tip 추가: ssh를 이용한 gpg agent 포워딩 (https://wiki.gnupg.org/AgentForwarding) 한글로
-
-school:
-  - [ ] 현장실습 주간보고서 작성 @high
-  http://icee.hanyang.ac.kr/xe/sub05_01/8473
-  https://portal.hanyang.ac.kr/port.do#!UDMxNDEzNyRAXmhha3NhLyRAXiRAXk0wMTAwMzgkQF7qs7Xsp4Dsgqztla0kQF5NMDAzNzk5JEBeNTgxOWVmMWVmZGVkOGNhNmIwN2JjNDYzNjdkZGRjZDg2ZDI0YjQ2Nzg2NWY5MTVkNDQ5MGUxOWEzODZiNDgxOA==
+  - [ ] 블로그 포팅 스크립트 작성 - ci 연동 @est(4h)
 
 sport:
   - [ ] rust solve에 아래 모듈 적용하기
@@ -178,6 +182,14 @@ longterm:
   vs code에서 maven clean install 후 서버 실행
 
 Archive: 
+  - [x] 블로그 정리 및 내일 할일 정리 2021-07-15 @late @started(21-07-16 13:23) @done(21-07-16 13:24) @lasted(1m31s) @project(day-2021-07-15)
+  ✘ 초기 프로젝트 구성 3 - 계획 @est(3h) @cancelled(21-07-16 13:21) @project(day-2021-07-15.project)
+  - [x] 블로그 포팅 스크립트 테스트 - 중복 내용 제거 @est(3h) @started(21-07-15 15:40) @done(21-07-15 20:00) @lasted(4h20m4s) @project(day-2021-07-15.blog)
+  - [x] 블로그 정리 및 내일 할일 정리 2021-07-14 @late @started(21-07-15 15:37) @done(21-07-15 15:39) @lasted(2m25s) @project(day-2021-07-14)
+  ✘ 초기 프로젝트 구성 3 - 계획 @est(3h) @cancelled(21-07-15 05:47) @project(day-2021-07-14.project)
+  - [x] 회의 @est(2h) @started(21-07-14 20:04) @done(21-07-14 20:43) @lasted(39m49s) @project(day-2021-07-14.pseudo)
+  - [x] 프로필 스키마 작업 @est(2h) @done(21-07-15 03:13) @project(day-2021-07-14.pseudo)
+  - [x] 블로그 포팅 스크립트 테스트 @started(21-07-14 14:11) @done(21-07-14 19:12) @lasted(5h1m35s) @project(day-2021-07-14.blog)
   - [x] 블로그 정리 및 내일 할일 정리 2021-07-13 @started(21-07-13 23:03) @done(21-07-13 23:10) @lasted(7m21s) @project(day-2021-07-13)
   - [x] kakaopay 코테 @est(3h) @started(21-07-13 14:02) @done(21-07-13 17:07) @lasted(3h5m49s) @project(day-2021-07-13.sport)
   - [x] 유저 정보 변경 기능 @est(3h) @started(21-07-13 19:45) @done(21-07-13 21:52) @lasted(2h7m11s) @project(day-2021-07-13.pseudo)
