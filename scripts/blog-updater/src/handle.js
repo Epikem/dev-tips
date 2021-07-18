@@ -68,8 +68,8 @@ fs.readdir(IN_DIR, (err, filenames) => {
 
     console.info('done', filename);
     // console.info('done', filename, 'result DATA: ', result);
-    
-    const writeFilePath = path.join(writeDir, file_info.date + '-' + result.data.title.replaceAll(/\s/g, '-') + '.md');
+
+    const writeFilePath = path.join(writeDir, file_info.date + '-' + result.data.title.split(/\s/g).join('-') + '.md');
 
     fs.writeFileSync(writeFilePath, result.runData.toString({
       encoding: 'utf-8'
