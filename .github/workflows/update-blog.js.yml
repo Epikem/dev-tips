@@ -15,7 +15,7 @@ jobs:
   build:
     env:
       SOURCE_DIR: ../../TIL/2018
-      TARGET_DIR: ../private/out/
+      TARGET_DIR: ./private/_posts/out/
 
     runs-on: ubuntu-latest
 
@@ -42,3 +42,42 @@ jobs:
       run: npm run process
     # - name: Push directory to another repository
     #   uses: cpina/github-action-push-to-another-repository@v1.3
+    #   env:
+    #     API_TOKEN_GITHUB: ${{ secrets.UPDATE_BLOG }}
+    #   with:
+    #     source-directory: './scripts/blog-updater/private/'
+    #     destination-github-username: 'Epikem'
+    #     destination-repository-name: 'Epikem.github.io'
+    #     user-email: epikem@kakao.com
+    #     commit-message: port posts. see ORIGIN_COMMIT from $GITHUB_REF
+    #     target-branch: update-blog
+    - name: public to blog
+      env: 
+        API_TOKEN_GITHUB: ${{ secrets.UPDATE_BLOG }}
+      run: |
+        git clone https://epikem:$GITHUB_TOKEN@github.com/epikem/epikem.github.io
+
+        cd epikem.github.io
+        git config user.name "epikem"
+        git config user.email "epikem@kakao.com"
+
+        git checkout update-blog
+
+        mv ../private/_posts/ ./_posts
+        git add .
+        git commit -m "copy posts from dev-tips $(date +'%Y-%m-%d')"
+    - name: GitHub Push
+      uses: ad-m/github-push-action@v0.6.0
+      with:
+        directory: ./scripts/blog-updater/epikem.github.io/
+        github_token: ${{ secrets.UPDATE_BLOG }}
+        branch: update-blog
+        repository: epikem/epikem.github.io
+
+    # - name: publish:starters
+    #   uses: johno/actions-push-subdirectories@master
+    #   env:
+    #     API_TOKEN_GITHUB: ${{ secrets.UPDATE_BLOG }}
+    #     GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+    #   with:
+    #     args: ./scripts/blog-updater/private epikem epikem.github.io update-blog

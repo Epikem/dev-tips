@@ -24,6 +24,7 @@ const detectTagsNodePlugin = () => (tree) => {
 
   if(lastHeadingNodeValue != TagsNodeName) {
     console.error('NO TAGS. SKIPPING');
+    _.set(tree, 'data.should_transform', false);
     return;
   }
 

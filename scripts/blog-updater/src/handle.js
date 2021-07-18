@@ -9,7 +9,7 @@ import { visit } from 'unist-util-visit';
 import { select } from 'unist-util-select';
 import { u } from 'unist-builder';
 import _ from 'lodash';
-import tagHandler from './taghandler.js';
+import tagHandler from './tag-handler.js';
 
 // WORKING DIRECTORY: ./scripts/blog-updater
 const YEAR = '2021';

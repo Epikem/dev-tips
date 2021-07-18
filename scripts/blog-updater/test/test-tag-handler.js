@@ -1,6 +1,6 @@
 import fs from 'fs';
 import { expect } from "chai";
-import tagHandler from '../src/tagHandler.js';
+import tagHandler from '../src/tag-handler.js';
 import unified from 'unified';
 import parse from 'remark-parse';
 import gfm from 'remark-gfm';
