@@ -64,7 +64,7 @@ jobs:
 
         git checkout update-blog
 
-        mv ../private/ ./_posts
+        cp -r ../private/ ./
         git add .
         git commit -m "copy posts from dev-tips $(date +'%Y-%m-%d')"
     - name: GitHub Push
