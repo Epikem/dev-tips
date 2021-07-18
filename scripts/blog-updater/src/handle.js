@@ -11,9 +11,14 @@ import { u } from 'unist-builder';
 import _ from 'lodash';
 import tagHandler from './taghandler.js';
 
+// WORKING DIRECTORY: ./scripts/blog-updater
 const YEAR = '2021';
-const IN_DIR = './src/' + YEAR;
-const OUT_DIR = './src/test-out-dir';
+// const IN_DIR = './src/' + YEAR;
+const IN_DIR = path.join(process.env.SOURCE_DIR) || './src/' + YEAR;
+// const OUT_DIR = './src/test-out-dir';
+const OUT_DIR = path.join(process.env.TARGET_DIR) || './src/test-out-dir';
+console.log('source dir', IN_DIR);
+console.log('target dir', OUT_DIR);
 
 const writeDir = path.join(OUT_DIR, YEAR);
 
