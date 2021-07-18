@@ -29,13 +29,13 @@ const detectTagsNodePlugin = () => (tree) => {
 
   const tagsHeadingNode = lastHeadingNode;
 
-  markTocTagItem(tree);
-
   if(!tree.data){
     tree.data = {
       removeTarget: [],
     }
   }
+
+  tree = markTocTagItem(tree);
 
   // console.info('DATA', tree.data);
 
@@ -90,12 +90,9 @@ const detectTagsNodePlugin = () => (tree) => {
     ...tree.data,
     tagsNodes,
     tags: tagsItem,
-    category: tagsItem[0]
+    category: tagsItem[0],
+    removeTarget: tagsNodes.concat(tree.data.removeTarget)
   }
-
-  // console.info(tree.data);
-  // concat all tags nodes to remove target
-  tree.data.removeTarget = tree.data.tagsNodes.concat(tree.data.removeTarget);
 
   return tree;
 };
@@ -103,7 +100,9 @@ const detectTagsNodePlugin = () => (tree) => {
 // toc handler
 const markTocTagItem = (tree) => {
   const tocListLastTagItem = select('root > heading:first-of-type ~ list:first-of-type > listItem:last-of-type', tree);
-  tree.data.removeTarget.push(tocListLastTagItem);
+  if(tocListLastTagItem){
+    tree.data.removeTarget.push(tocListLastTagItem);
+  }
   return tree;
 };
 
