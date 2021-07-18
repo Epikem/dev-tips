@@ -21,13 +21,19 @@ jobs:
         node-version: [14.x]
         # See supported Node.js release schedule at https://nodejs.org/en/about/releases/
 
+    defaults:
+      run:
+        working-directory: ./scripts/blog-updater
+
     steps:
     - uses: actions/checkout@v2
     - name: Use Node.js ${{ matrix.node-version }}
-      uses: actions/setup-node@v2
+      uses: actions/setup-node@v1 # use v1 while subdirectory not supported
       with:
         node-version: ${{ matrix.node-version }}
-        cache: 'npm'
+        # cache: 'npm' 
+        # working-directory: ./scripts/blog-updater  # subdirectory not yet supported: https://github.com/actions/setup-node/pull/299
     - name: process-posts
-      working-directory: scripts/blog-updater
       run: npm ci && npm test
+    # - name: Push directory to another repository
+    #   uses: cpina/github-action-push-to-another-repository@v1.3
