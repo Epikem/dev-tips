@@ -13,6 +13,9 @@ on:
   
 jobs:
   build:
+    env:
+      SOURCE_DIR: ../../TIL/2018
+      TARGET_DIR: ../private/out/
 
     runs-on: ubuntu-latest
 
@@ -33,7 +36,9 @@ jobs:
         node-version: ${{ matrix.node-version }}
         # cache: 'npm' 
         # working-directory: ./scripts/blog-updater  # subdirectory not yet supported: https://github.com/actions/setup-node/pull/299
-    - name: process-posts
+    - name: test
       run: npm ci && npm test
+    - name: process posts
+      run: npm run process
     # - name: Push directory to another repository
     #   uses: cpina/github-action-push-to-another-repository@v1.3
