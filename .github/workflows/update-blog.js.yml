@@ -1,0 +1,66 @@
+# This workflow will do a clean install of node dependencies, cache/restore them, build the source code and run tests across different versions of node
+# For more information see: https://help.github.com/actions/language-and-framework-guides/using-nodejs-with-github-actions
+
+name: Node.js CI
+
+on:
+  push:
+    branches: [ update-blog ]
+  pull_request:
+    branches: [ update-blog ]
+  # schedule:
+  # - cron: "0 2 * * 1-5"
+  
+jobs:
+  build:
+    env:
+      YEAR: 2021
+      SOURCE_DIR: ../../TIL/
+      TARGET_DIR: ./private/_posts/
+
+    runs-on: ubuntu-latest
+
+    strategy:
+      matrix:
+        node-version: [14.x]
+        # See supported Node.js release schedule at https://nodejs.org/en/about/releases/
+
+    defaults:
+      run:
+        working-directory: ./scripts/blog-updater
+
+    steps:
+    - uses: actions/checkout@v2
+    - name: Use Node.js ${{ matrix.node-version }}
+      uses: actions/setup-node@v1 # use v1 while subdirectory not supported
+      with:
+        node-version: ${{ matrix.node-version }}
+        # cache: 'npm' 
+        # working-directory: ./scripts/blog-updater  # subdirectory not yet supported: https://github.com/actions/setup-node/pull/299
+    - name: test
+      run: npm ci && npm test
+    - name: process posts
+      run: npm run process
+    - name: public to blog
+      env: 
+        API_TOKEN_GITHUB: ${{ secrets.UPDATE_BLOG }}
+      run: |
+        git clone https://epikem:$GITHUB_TOKEN@github.com/epikem/epikem.github.io
+
+        cd epikem.github.io
+        git config user.name "epikem"
+        git config user.email "epikem@kakao.com"
+
+        git checkout update-blog
+        pwd
+        cp -R ../private/_posts/$YEAR ./_posts
+        
+        git add .
+        git commit -m "copy posts from dev-tips $(date +'%Y-%m-%d')"
+    - name: GitHub Push
+      uses: ad-m/github-push-action@v0.6.0
+      with:
+        directory: ./scripts/blog-updater/epikem.github.io/
+        github_token: ${{ secrets.UPDATE_BLOG }}
+        branch: update-blog
+        repository: epikem/epikem.github.io
