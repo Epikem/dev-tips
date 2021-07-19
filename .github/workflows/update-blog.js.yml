@@ -5,9 +5,9 @@ name: Node.js CI
 
 on:
   push:
-    branches: [ update-blog ]
+    branches: [ main ]
   pull_request:
-    branches: [ update-blog ]
+    branches: [ main ]
   # schedule:
   # - cron: "0 2 * * 1-5"
   
@@ -51,7 +51,7 @@ jobs:
         git config user.name "epikem"
         git config user.email "epikem@kakao.com"
 
-        git checkout update-blog
+        git checkout main
         pwd
         cp -R ../private/_posts/$YEAR ./_posts
         
@@ -62,5 +62,5 @@ jobs:
       with:
         directory: ./scripts/blog-updater/epikem.github.io/
         github_token: ${{ secrets.UPDATE_BLOG }}
-        branch: update-blog
+        branch: main
         repository: epikem/epikem.github.io
