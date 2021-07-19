@@ -1,24 +1,22 @@
-day-2021-07-17:
-  - [x] 블로그 정리 및 내일 할일 정리 2021-07-17 @started(21-07-18 04:38) @done(21-07-18 04:42) @lasted(4m52s)
+day-2021-07-19:
+  - [x] 블로그 정리 및 내일 할일 정리 2021-07-19 @started(21-07-19 23:54) @done(21-07-19 23:56) @lasted(2m12s)
+  pseudo:
+    - [x] 프로필 스키마 작업 2 - 통계 계산 모듈 추가 @est(4h) @started(21-07-19 19:17) @done(21-07-19 20:58) @lasted(1h41m24s)
+  sport:
+    ✘ 알고리즘 스터디 @est(2h) @cancelled(21-07-19 23:54)
   blog:
     블로그 포팅 스크립트:
-      - [x] 태그 핸들러 테스트 대상 @done(21-07-18 04:38)
-        - [x] 1 라인 리스트아이템 표기 @started(21-07-17 20:53) @done(21-07-18 03:22) @lasted(6h29m45s)
-        - [x] 멀티 라인 리스트아이템 표기 @done(21-07-18 03:22)
-        - [x] 1 라인 문단 표기 @done(21-07-18 03:22)
-      - [x] 호환 작업 @started(21-07-18 03:23) @done(21-07-18 04:37) @lasted(1h14m54s)
-      ✘ private 처리 @cancelled(21-07-18 04:39)
+      - [x] github actions 연동 완료 @est(3h) @started(21-07-19 11:48) @done(21-07-19 18:49) @lasted(7h1m43s)
 
-day-2021-07-18:
-  - [ ] 블로그 정리 및 내일 할일 정리 2021-07-18
+day-2021-07-20:
+  - [ ] 블로그 정리 및 내일 할일 정리 2021-07-20
+  pseudo:
+    - [ ] 프로필 스키마 작업 3 - 통계 계산 모듈 작업 @est(4h)
   sport:
     - [ ] 알고리즘 스터디 @est(2h)
-  blog:
-    블로그 포팅 스크립트:
-      - [ ] private 처리 @est(1h)
-      - [ ] github actions 연동 @est(3h)
-
+      
 blog:
+  - [ ] 로컬 저장소 정리하기
   docker-seminar:
     - [ ] 도커 세미나 - 회고 @est(2h)
   - [ ] tips 정리하기 @in-month
@@ -28,6 +26,13 @@ blog:
   - [ ] tip 추가: raspberry pi 팬 설치하기 (rpi pwm fan 설치 - 2021-07-04)
   - [ ] tip 추가: ssh를 이용한 gpg agent 포워딩 (https://wiki.gnupg.org/AgentForwarding) 한글로
   - [ ] 블로그 포팅 스크립트 작성 - ci 연동 @est(4h)
+  meta:
+    - [ ] 수동 연도 업데이트 필요
+    - [ ] 이미지 업로드 방안 개선 필요 (깃헙 이슈 활용?)
+    - [ ] 태그 이름 변경 등 관리
+    - [ ] 포스트 목록에서 요약 등 노출
+    - [ ] 기본 포스트 목록에서 log포스트 제외
+    - [ ] github actions 러너에서 캐시 활용
 
 sport:
   - [ ] rust solve에 아래 모듈 적용하기
@@ -84,7 +89,6 @@ pseudo:
   - [ ] add local
   - [ ] 추가 라우트 적용 @est(2h)
   - [ ] 추가 라우트 테스트 @est(5h)
-  - [ ] 프로필 스키마 작업 2 - 통계 계산 모듈 추가 @est(4h)
   - [ ] 프로필 스키마 작업 3 - 라우트 추가 @est(3h)
   - [ ] 프로필 스키마 작업 4 - 편집 기능 추가 @est(2h)
 
@@ -177,6 +181,17 @@ longterm:
   vs code에서 maven clean install 후 서버 실행
 
 Archive: 
+  - [x] 블로그 정리 및 내일 할일 정리 2021-07-18 @late @started(21-07-19 17:22) @done(21-07-19 17:26) @lasted(4m26s) @project(day-2021-07-18)
+  - [x] 알고리즘 스터디 @est(2h) @done(21-07-19 17:22) @project(day-2021-07-18.sport)
+  - [x] private 처리 @est(1h) @done(21-07-19 17:22) @project(day-2021-07-18.blog.블로그 포팅 스크립트)
+  - [x] github actions 연동 @est(3h) @done(21-07-19 17:22) @project(day-2021-07-18.blog.블로그 포팅 스크립트)
+  - [x] 블로그 정리 및 내일 할일 정리 2021-07-17 @started(21-07-18 04:38) @done(21-07-18 04:42) @lasted(4m52s) @project(day-2021-07-17)
+  - [x] 태그 핸들러 테스트 대상 @done(21-07-18 04:38) @project(day-2021-07-17.blog.블로그 포팅 스크립트)
+  - [x] 1 라인 리스트아이템 표기 @started(21-07-17 20:53) @done(21-07-18 03:22) @lasted(6h29m45s) @project(day-2021-07-17.blog.블로그 포팅 스크립트)
+  - [x] 멀티 라인 리스트아이템 표기 @done(21-07-18 03:22) @project(day-2021-07-17.blog.블로그 포팅 스크립트)
+  - [x] 1 라인 문단 표기 @done(21-07-18 03:22) @project(day-2021-07-17.blog.블로그 포팅 스크립트)
+  - [x] 호환 작업 @started(21-07-18 03:23) @done(21-07-18 04:37) @lasted(1h14m54s) @project(day-2021-07-17.blog.블로그 포팅 스크립트)
+  ✘ private 처리 @cancelled(21-07-18 04:39) @project(day-2021-07-17.blog.블로그 포팅 스크립트)
   - [x] 블로그 정리 및 내일 할일 정리 2021-07-16 @late @done(21-07-17 20:53) @project(day-2021-07-16)
   ✘ 초기 프로젝트 구성 3 - 계획 @est(3h) @cancelled(21-07-17 20:52) @project(day-2021-07-16.project)
   - [x] 블로그 포팅 스크립트 테스트 - 버그 해결 @est(3h) @started(21-07-16 13:24) @done(21-07-16 16:15) @lasted(2h51m11s) @project(day-2021-07-16.blog)
