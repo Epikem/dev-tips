@@ -48,7 +48,8 @@ const run = () => {
     const file_info = {
       // NOTE: USING FILENAME AS DATE, 다른 로그 할때는 변경할것.
       date: filenameinfo.name.slice(0,10),
-      private: filenameinfo.name.slice(-2) == '-p'
+      private: filenameinfo.name.slice(-2) == '-p',
+      filenameinfo
     };
   
     if(file_info.private){
@@ -91,14 +92,19 @@ const run = () => {
 const getTextValueOfNode = (node) => _.get(node, 'children[0].value') || _.get(node, 'value');
 
 const processFile = (file, options) => {
-  let result = {};
-  result.runData = getExtractor(options)
-    .use(()=>(tree)=>{
-      result.data = tree.data;
-    })
-    .processSync(file);
-
-  return result;
+  try {
+    let result = {};
+    result.runData = getExtractor(options)
+      .use(()=>(tree)=>{
+        result.data = tree.data;
+      })
+      .processSync(file);
+  
+    return result;
+  } catch (error) {
+    console.error('error on processing file', options.filenameinfo.name);
+    throw error;
+  }
 }
 
 const getExtractor = (option) => {
