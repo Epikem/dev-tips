@@ -63,8 +63,9 @@ jobs:
         git config user.email "epikem@kakao.com"
 
         git checkout update-blog
-
-        cp -r ../private/ ./
+        pwd
+        cp -R ../private/_posts/$YEAR ./_posts
+        
         git add .
         git commit -m "copy posts from dev-tips $(date +'%Y-%m-%d')"
     - name: GitHub Push
