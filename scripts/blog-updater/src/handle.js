@@ -32,19 +32,17 @@ fs.mkdirSync(writeDir, {
   recursive: true,
 });
 
-fs.readdir(IN_DIR, (err, filenames) => {
-  if(err) {
-    throw err;
-  }
+const files = fs.readdirSync(IN_DIR);
 
-  filenames.forEach(filename => {
+const run = () => {
+  files.forEach(filename => {
     let filenameinfo = path.parse(filename);
-
+  
     if(filenameinfo.ext != '.md') {
       console.info('skip file', filename);
       return;
     }
-
+  
     const readFilePath = path.join(IN_DIR, filename);
     
     const file_info = {
@@ -52,33 +50,33 @@ fs.readdir(IN_DIR, (err, filenames) => {
       date: filenameinfo.name.slice(0,10),
       private: filenameinfo.name.slice(-2) == '-p'
     };
-
+  
     if(file_info.private){
       console.warn('private. skipping', filename);
       return;
     }
-
+  
     const readFile = fs.readFileSync(readFilePath, {
       encoding: 'utf8'
     });
-
+  
     // PROCESS
     const result = processFile(readFile, {
       ...file_info,
     });
-
+  
     console.info('done', filename);
     // console.info('done', filename, 'result DATA: ', result);
-
+  
     const writeFilePath = path.join(writeDir, file_info.date + '-' + result.data.title.split(/\s/g).join('-') + '.md');
-
+  
     fs.writeFileSync(writeFilePath, result.runData.toString({
       encoding: 'utf-8'
     }), {
       encoding: 'utf-8'
     });
-  })
-})
+  });  
+}
 
 // define a unified js process that does:
 // 1. parses markdown to tree
@@ -189,3 +187,5 @@ const getExtractor = (option) => {
   })
   .use(frontmatter, ['yaml'])
 };
+
+run();
