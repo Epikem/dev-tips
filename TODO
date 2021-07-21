@@ -1,20 +1,17 @@
-day-2021-07-19:
-  - [x] 블로그 정리 및 내일 할일 정리 2021-07-19 @started(21-07-19 23:54) @done(21-07-19 23:56) @lasted(2m12s)
-  pseudo:
-    - [x] 프로필 스키마 작업 2 - 통계 계산 모듈 추가 @est(4h) @started(21-07-19 19:17) @done(21-07-19 20:58) @lasted(1h41m24s)
-  sport:
-    ✘ 알고리즘 스터디 @est(2h) @cancelled(21-07-19 23:54)
-  blog:
-    블로그 포팅 스크립트:
-      - [x] github actions 연동 완료 @est(3h) @started(21-07-19 11:48) @done(21-07-19 18:49) @lasted(7h1m43s)
-
 day-2021-07-20:
-  - [ ] 블로그 정리 및 내일 할일 정리 2021-07-20
+  - [x] 블로그 정리 및 내일 할일 정리 2021-07-20 @late @started(21-07-21 12:10) @done(21-07-21 12:11) @lasted(1m51s)
+  pseudo:
+    ✘ 프로필 스키마 작업 3 - 통계 계산 모듈 작업 @est(4h) @cancelled(21-07-21 12:07)
+  sport:
+    - [x] 알고리즘 스터디 @est(2h) @started(21-07-20 18:58) @done(21-07-20 21:58)
+      
+day-2021-07-21:
+  - [ ] 블로그 정리 및 내일 할일 정리 2021-07-21
   pseudo:
     - [ ] 프로필 스키마 작업 3 - 통계 계산 모듈 작업 @est(4h)
   sport:
     - [ ] 알고리즘 스터디 @est(2h)
-      
+
 blog:
   - [ ] 로컬 저장소 정리하기
   docker-seminar:
@@ -181,6 +178,10 @@ longterm:
   vs code에서 maven clean install 후 서버 실행
 
 Archive: 
+  - [x] 블로그 정리 및 내일 할일 정리 2021-07-19 @started(21-07-19 23:54) @done(21-07-19 23:56) @lasted(2m12s) @project(day-2021-07-19)
+  - [x] 프로필 스키마 작업 2 - 통계 계산 모듈 추가 @est(4h) @started(21-07-19 19:17) @done(21-07-19 20:58) @lasted(1h41m24s) @project(day-2021-07-19.pseudo)
+  ✘ 알고리즘 스터디 @est(2h) @cancelled(21-07-19 23:54) @project(day-2021-07-19.sport)
+  - [x] github actions 연동 완료 @est(3h) @started(21-07-19 11:48) @done(21-07-19 18:49) @lasted(7h1m43s) @project(day-2021-07-19.blog.블로그 포팅 스크립트)
   - [x] 블로그 정리 및 내일 할일 정리 2021-07-18 @late @started(21-07-19 17:22) @done(21-07-19 17:26) @lasted(4m26s) @project(day-2021-07-18)
   - [x] 알고리즘 스터디 @est(2h) @done(21-07-19 17:22) @project(day-2021-07-18.sport)
   - [x] private 처리 @est(1h) @done(21-07-19 17:22) @project(day-2021-07-18.blog.블로그 포팅 스크립트)
