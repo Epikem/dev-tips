@@ -1,20 +1,20 @@
-day-2021-07-23:
-  - [x] 블로그 정리 및 내일 할일 정리 2021-07-23 @late @started(21-07-24 15:20) @done(21-07-24 15:39) @lasted(19m25s)
-  cloud:
-    ✘ acloud 강의 수강 @started(21-07-23 14:37) @cancelled(21-07-23 17:12) @wasted(2h35m14s)
-  project:
-    - [x] 진행 @started(21-07-23 17:33) @done(21-07-23 21:27) @lasted(3h54m44s)
-    sport:
-      - [x] 알고리즘 스터디 - cf734 @est(2h) @done(21-07-24 14:25)
-
 day-2021-07-24:
-  - [ ] 블로그 정리 및 내일 할일 정리 2021-07-24
+  - [x] 블로그 정리 및 내일 할일 정리 2021-07-24 @late @started(21-07-25 08:17) @done(21-07-25 08:29) @lasted(12m47s)
   job:
-    - [ ] 두나무 지원 (https://boards.greenhouse.io/dunamu/jobs/4055971004)
+    - [x] 두나무 지원 (https://boards.greenhouse.io/dunamu/jobs/4055971004) @started(21-07-24 21:25) @done(21-07-24 21:28) @lasted(3m33s)
+  project:
+    ✘ grpc 공부 @est(3h) @cancelled(21-07-25 08:29)
+  blog:
+    - [x] tip 추가: ssh를 이용한 gpg agent 포워딩 (1) (https://wiki.gnupg.org/AgentForwarding) 한글로 @started(21-07-24 21:41) @done(21-07-24 23:17) @lasted(1h36m15s) @partial 
+
+day-2021-07-25:
+  - [ ] 블로그 정리 및 내일 할일 정리 2021-07-25
   project:
     - [ ] grpc 공부 @est(3h)
-  blog:
-    - [ ] tip 추가: ssh를 이용한 gpg agent 포워딩 (https://wiki.gnupg.org/AgentForwarding) 한글로
+  sport:
+    - [ ] cf 1문제 풀기 @est(1h)
+  job:
+    - [ ] 빗썸테크 아카데미 지원 (https://www.saramin.co.kr/zf_user/jobs/relay/pop-view?rec_idx=40669190&t_ref=main&t_ref_content=prime_plus_fix_expand)
 
 blog:
   - [ ] 로컬 저장소 정리하기
@@ -25,6 +25,9 @@ blog:
   - [ ] tip 추가: 타입스크립트 타입에 따른 동작 분기 - 어떤 타입의 배열인지 체크하기
   - [ ] tip 추가: 알고리즘 - 비교적 안전한 소수 덧셈 알고리즘 (https://en.wikipedia.org/wiki/Kahan_summation_algorithm)
   - [ ] tip 추가: raspberry pi 팬 설치하기 (rpi pwm fan 설치 - 2021-07-04)
+  - [ ] tip 추가: ssh를 이용한 gpg agent 포워딩 (2) (https://wiki.gnupg.org/AgentForwarding)
+  - [ ] tip 추가: aws cloudfront를 활용하여 http를 https로 래핑하기
+
   meta:
     - [ ] 수동 연도 업데이트 필요
     - [ ] 이미지 업로드 방안 개선 필요 (깃헙 이슈 활용?)
@@ -180,6 +183,10 @@ longterm:
   vs code에서 maven clean install 후 서버 실행
 
 Archive: 
+  - [x] 블로그 정리 및 내일 할일 정리 2021-07-23 @late @started(21-07-24 15:20) @done(21-07-24 15:39) @lasted(19m25s) @project(day-2021-07-23)
+  ✘ acloud 강의 수강 @started(21-07-23 14:37) @cancelled(21-07-23 17:12) @wasted(2h35m14s) @project(day-2021-07-23.cloud)
+  - [x] 진행 @started(21-07-23 17:33) @done(21-07-23 21:27) @lasted(3h54m44s) @project(day-2021-07-23.project)
+  - [x] 알고리즘 스터디 - cf734 @est(2h) @done(21-07-24 14:25) @project(day-2021-07-23.project.sport)
   - [x] 블로그 정리 및 내일 할일 정리 2021-07-22 @started(21-07-23 00:28) @done(21-07-23 00:31) @lasted(3m49s) @project(day-2021-07-22)
   - [x] 프로필 스키마 작업 4 - 통계 계산 모듈 작업 @est(3h) @started(21-07-22 19:35) @done(21-07-22 21:25) @lasted(1h50m38s) @project(day-2021-07-22.pseudo)
   - [x] 알고리즘 문제풀이 - 매출 하락 최소화 해설 마저 이해하기 @started(21-07-22 17:56) @done(21-07-22 19:32) @lasted(1h36m52s) @project(day-2021-07-22.sport)
