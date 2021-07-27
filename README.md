@@ -91,6 +91,7 @@ This repository can be used as a store of tips/code snippets.
 ## environment setting
 - [visual-studio-code-setting-for-c-and-cpp-debugging](env/visual-studio-code-setting-for-c-and-cpp-debugging.md)
 - [visual-studio-c++-windows-targeting-the-windows-subsystem-for-linux-to-use-gnu-gcc-compilers](env/visual-studio-c++-windows-targeting-the-windows-subsystem-for-linux-to-use-gnu-gcc-compilers.md)
+- [gpg-agent-forwarding-with-ssh](env/gpg-agent-forwarding-with-ssh.md)
 - [linux-download-node-and-setup](env/linux-download-node-and-setup.md)
 
 ## snippets
