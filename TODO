@@ -1,29 +1,20 @@
-day-2021-07-27:
-  - [x] 블로그 정리 및 내일 할일 정리 2021-07-27 @late @started(21-07-28 21:14) @done(21-07-28 21:40) @lasted(26m39s)
-  - [x] tip 추가: ssh를 이용한 gpg agent 포워딩 (2) (https://wiki.gnupg.org/AgentForwarding) @started(21-07-27 15:15) @done(21-07-27 16:13) @lasted(58m30s)
-  project:
-    epis:
-      - [x] 전체적 설계 2 @started(21-07-27 16:18) @done(21-07-27 17:25) @lasted(1h7m33s)
-      - [x] k8s 셋업 @started(21-07-27 17:25) @done(21-07-27 18:19) @lasted(54m56s)
-      ✘ 기본 배포 셋업 @cancelled(21-07-28 20:08)
-  sport:
-    ✘ cf @est(2h) @cancelled(21-07-28 20:08)
-  job:
-    ✘ 빗썸테크 아카데미 지원 (https://www.saramin.co.kr/zf_user/jobs/relay/pop-view?rec_idx=40669190&t_ref=main&t_ref_content=prime_plus_fix_expand) @cancelled(21-07-28 01:34)
-    - [x] 목표정리 @started(21-07-27 12:42) @done(21-07-27 15:12) @lasted(2h30m2s)
-
 day-2021-07-28:
-  - [ ] 블로그 정리 및 내일 할일 정리 2021-07-28
+  - [ ] 블로그 정리 및 내일 할일 정리 2021-07-28 @started(21-07-29 01:34)
+  sport:
+    - [x] cf @est(2h) @started(21-07-29 00:50) @done(21-07-29 01:34) @lasted(44m6s)
+  project:
+    pseudo:
+      - [x] 프로필 이미지 작업 @est(2h) @started(21-07-28 22:41) @done(21-07-29 00:50) @lasted(2h9m5s)
+
+day-2021-07-29:
+  - [ ] 블로그 정리 및 내일 할일 정리 2021-07-29
   sport:
     - [ ] cf @est(2h)
   project:
-    pseudo:
-      - [ ] 프로필 이미지 작업 @est(2h)
-
-day-2021-07-29:
-  - [ ]
+    epis:
+      - [ ] k8s 셋업 @est(4h)
   job:
-    - [ ] 빗썸테크 아카데미 지원서 작성 (https://www.saramin.co.kr/zf_user/jobs/relay/pop-view?rec_idx=40669190&t_ref=main&t_ref_content=prime_plus_fix_expand)
+    - [ ] 빗썸테크 아카데미 지원서 작성 (https://www.saramin.co.kr/zf_user/jobs/relay/pop-view?rec_idx=40669190&t_ref=main&t_ref_content=prime_plus_fix_expand) @est(2h)
 
 blog:
   - [ ] 로컬 저장소 정리하기
@@ -192,6 +183,14 @@ longterm:
   vs code에서 maven clean install 후 서버 실행
 
 Archive: 
+  - [x] 블로그 정리 및 내일 할일 정리 2021-07-27 @late @started(21-07-28 21:14) @done(21-07-28 21:40) @lasted(26m39s) @project(day-2021-07-27)
+  - [x] tip 추가: ssh를 이용한 gpg agent 포워딩 (2) (https://wiki.gnupg.org/AgentForwarding) @started(21-07-27 15:15) @done(21-07-27 16:13) @lasted(58m30s) @project(day-2021-07-27)
+  - [x] 전체적 설계 2 @started(21-07-27 16:18) @done(21-07-27 17:25) @lasted(1h7m33s) @project(day-2021-07-27.project.epis)
+  - [x] k8s 셋업 @started(21-07-27 17:25) @done(21-07-27 18:19) @lasted(54m56s) @project(day-2021-07-27.project.epis)
+  ✘ 기본 배포 셋업 @cancelled(21-07-28 20:08) @project(day-2021-07-27.project.epis)
+  ✘ cf @est(2h) @cancelled(21-07-28 20:08) @project(day-2021-07-27.sport)
+  ✘ 빗썸테크 아카데미 지원 (https://www.saramin.co.kr/zf_user/jobs/relay/pop-view?rec_idx=40669190&t_ref=main&t_ref_content=prime_plus_fix_expand) @cancelled(21-07-28 01:34) @project(day-2021-07-27.job)
+  - [x] 목표정리 @started(21-07-27 12:42) @done(21-07-27 15:12) @lasted(2h30m2s) @project(day-2021-07-27.job)
   ✘ 블로그 정리 및 내일 할일 정리 2021-07-26 @cancelled(21-07-27 12:16) @project(day-2021-07-26)
   ✘ 기본 배포 셋업 @cancelled(21-07-27 03:54) @project(day-2021-07-26.project)
   ✘ cf @est(2h) @cancelled(21-07-27 12:14) @project(day-2021-07-26.sport)
