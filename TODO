@@ -1,18 +1,20 @@
-day-2021-07-28:
-  - [ ] 블로그 정리 및 내일 할일 정리 2021-07-28 @started(21-07-29 01:34)
-  sport:
-    - [x] cf @est(2h) @started(21-07-29 00:50) @done(21-07-29 01:34) @lasted(44m6s)
-  project:
-    pseudo:
-      - [x] 프로필 이미지 작업 @est(2h) @started(21-07-28 22:41) @done(21-07-29 00:50) @lasted(2h9m5s)
-
 day-2021-07-29:
-  - [ ] 블로그 정리 및 내일 할일 정리 2021-07-29
+  - [x] 블로그 정리 및 내일 할일 정리 2021-07-29 @late @started(21-07-30 16:14) @done(21-07-30 16:15) @lasted(1m43s)
+  sport:
+    - [x] cf @est(2h) @started(21-07-29 23:50) @done(21-07-30 04:20) @lasted(4h30m56s)
+  project:
+    epis:
+      ✘ k8s 셋업 - k8s 클러스터 구성 @est(4h) @cancelled(21-07-30 16:14)
+  job:
+    ✘ 빗썸테크 아카데미 지원서 작성 (https://www.saramin.co.kr/zf_user/jobs/relay/pop-view?rec_idx=40669190&t_ref=main&t_ref_content=prime_plus_fix_expand) @est(2h) @cancelled(21-07-30 04:21)
+
+day-2021-07-30:
+  - [ ] 블로그 정리 및 내일 할일 정리 2021-07-30
   sport:
     - [ ] cf @est(2h)
   project:
     epis:
-      - [ ] k8s 셋업 @est(4h)
+      - [ ] k8s 셋업 - k8s 클러스터 구성 @est(4h)
   job:
     - [ ] 빗썸테크 아카데미 지원서 작성 (https://www.saramin.co.kr/zf_user/jobs/relay/pop-view?rec_idx=40669190&t_ref=main&t_ref_content=prime_plus_fix_expand) @est(2h)
 
@@ -35,6 +37,18 @@ blog:
     - [ ] 포스트 목록에서 요약 등 노출
     - [ ] 기본 포스트 목록에서 log포스트 제외
     - [ ] github actions 러너에서 캐시 활용
+
+project:
+  epis:
+    - [ ] 기본 인프라 서비스 구현
+      - [ ] k8s 클러스터 구성
+      - [ ] 서비스 디스커버리
+      - [ ] ci/cd
+      - [ ] 테스트 구조
+      - [ ] 모니터링
+    - [ ] 기본 쇼핑, 장바구니, 유저 서비스, 로그인 서비스 구현
+    - [ ] 테스트 추가
+    - [ ] 스트레스 테스트 추가
 
 sport:
   - [ ] rust solve에 아래 모듈 적용하기
@@ -183,6 +197,9 @@ longterm:
   vs code에서 maven clean install 후 서버 실행
 
 Archive: 
+  - [x] 블로그 정리 및 내일 할일 정리 2021-07-28 @started(21-07-29 01:34) @done(21-07-29 01:37) @lasted(3m17s) @project(day-2021-07-28)
+  - [x] cf @est(2h) @started(21-07-29 00:50) @done(21-07-29 01:34) @lasted(44m6s) @project(day-2021-07-28.sport)
+  - [x] 프로필 이미지 작업 @est(2h) @started(21-07-28 22:41) @done(21-07-29 00:50) @lasted(2h9m5s) @project(day-2021-07-28.project.pseudo)
   - [x] 블로그 정리 및 내일 할일 정리 2021-07-27 @late @started(21-07-28 21:14) @done(21-07-28 21:40) @lasted(26m39s) @project(day-2021-07-27)
   - [x] tip 추가: ssh를 이용한 gpg agent 포워딩 (2) (https://wiki.gnupg.org/AgentForwarding) @started(21-07-27 15:15) @done(21-07-27 16:13) @lasted(58m30s) @project(day-2021-07-27)
   - [x] 전체적 설계 2 @started(21-07-27 16:18) @done(21-07-27 17:25) @lasted(1h7m33s) @project(day-2021-07-27.project.epis)
