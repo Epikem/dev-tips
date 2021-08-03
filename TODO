@@ -1,24 +1,24 @@
-day-2021-07-30:
-  - [x] 블로그 정리 및 내일 할일 정리 2021-07-30 @started(21-07-31 02:32) @done(21-07-31 02:34) @lasted(2m5s)
+day-2021-08-02:
+  - [x] 블로그 정리 및 내일 할일 정리 2021-08-02 @late @started(21-08-03 19:46) @done(21-08-03 20:31) @lasted(45m6s)
+  env:
+    - [x] code-server 셋업 @low @started(21-08-02 17:08) @done(21-08-02 20:11) @lasted(3h3m14s)
   sport:
-    - [x] cf @est(2h) @started(21-07-30 23:35) @done(21-07-31 02:32) @lasted(2h57m47s)
+    ✘ cf @est(2h) @cancelled(21-08-03 01:10)
   project:
+    pseudo:
+      ✘ profile 기능 적용 @high @cancelled(21-08-03 00:24)
     epis:
-      - [x] k8s 셋업 - k8s 클러스터 구성 @est(4h) @started(21-07-30 16:50) @done(21-07-30 17:11) @lasted(21m43s)
-      - [x] k8s 강의 수강 @started(21-07-30 17:11) @done(21-07-30 21:03) @lasted(3h52m56s)
-  job:
-    - [x] 빗썸테크 아카데미 지원서 작성 1 (https://www.saramin.co.kr/zf_user/jobs/relay/pop-view?rec_idx=40669190&t_ref=main&t_ref_content=prime_plus_fix_expand) @est(2h) @started(21-07-30 16:16) @done(21-07-30 16:49) @lasted(33m50s)
+      ✘ k8s 기본 서비스 구성 @est(2h) @cancelled(21-08-03 00:24)
 
-day-2021-07-31:
-  - [ ] 블로그 정리 및 내일 할일 정리 2021-07-31
+day-2021-08-03:
+  - [ ] 블로그 정리 및 내일 할일 정리 2021-08-03
+  env:
+    - [ ] code-server 셋업 @low
   sport:
     - [ ] cf @est(2h)
   project:
-    epis:
-      - [ ] k8s 기본 서비스 구성 @est(2h)
-  job:
-    - [ ] 빗썸테크 아카데미 지원 (https://www.saramin.co.kr/zf_user/jobs/relay/pop-view?rec_idx=40669190&t_ref=main&t_ref_content=prime_plus_fix_expand) @est(4h)
-    
+    pseudo:
+      - [ ] profile 기능 적용 @high
 
 blog:
   - [ ] 로컬 저장소 정리하기
@@ -199,6 +199,15 @@ longterm:
   vs code에서 maven clean install 후 서버 실행
 
 Archive: 
+  - [x] 블로그 정리 및 내일 할일 정리 2021-07-31 @late @started(21-08-02 17:04) @done(21-08-02 17:07) @lasted(3m59s) @project(day-2021-07-31)
+  ✘ cf @est(2h) @cancelled(21-08-02 17:04) @project(day-2021-07-31.sport)
+  ✘ k8s 기본 서비스 구성 @est(2h) @cancelled(21-08-02 17:04) @project(day-2021-07-31.project.epis)
+  - [x] 빗썸테크 아카데미 지원 (https://www.saramin.co.kr/zf_user/jobs/relay/pop-view?rec_idx=40669190&t_ref=main&t_ref_content=prime_plus_fix_expand) @est(4h) @started(21-07-31 16:15) @done(21-07-31 17:30) @lasted(1h15m37s) @project(day-2021-07-31.job)
+  - [x] 블로그 정리 및 내일 할일 정리 2021-07-30 @started(21-07-31 02:32) @done(21-07-31 02:34) @lasted(2m5s) @project(day-2021-07-30)
+  - [x] cf @est(2h) @started(21-07-30 23:35) @done(21-07-31 02:32) @lasted(2h57m47s) @project(day-2021-07-30.sport)
+  - [x] k8s 셋업 - k8s 클러스터 구성 @est(4h) @started(21-07-30 16:50) @done(21-07-30 17:11) @lasted(21m43s) @project(day-2021-07-30.project.epis)
+  - [x] k8s 강의 수강 @started(21-07-30 17:11) @done(21-07-30 21:03) @lasted(3h52m56s) @project(day-2021-07-30.project.epis)
+  - [x] 빗썸테크 아카데미 지원서 작성 1 (https://www.saramin.co.kr/zf_user/jobs/relay/pop-view?rec_idx=40669190&t_ref=main&t_ref_content=prime_plus_fix_expand) @est(2h) @started(21-07-30 16:16) @done(21-07-30 16:49) @lasted(33m50s) @project(day-2021-07-30.job)
   - [x] 블로그 정리 및 내일 할일 정리 2021-07-29 @late @started(21-07-30 16:14) @done(21-07-30 16:15) @lasted(1m43s) @project(day-2021-07-29)
   - [x] cf @est(2h) @started(21-07-29 23:50) @done(21-07-30 04:20) @lasted(4h30m56s) @project(day-2021-07-29.sport)
   ✘ k8s 셋업 - k8s 클러스터 구성 @est(4h) @cancelled(21-07-30 16:14) @project(day-2021-07-29.project.epis)
