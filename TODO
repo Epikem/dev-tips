@@ -1,17 +1,15 @@
-day-2021-08-02:
-  - [x] 블로그 정리 및 내일 할일 정리 2021-08-02 @late @started(21-08-03 19:46) @done(21-08-03 20:31) @lasted(45m6s)
+day-2021-08-03:
+  - [x] 블로그 정리 및 내일 할일 정리 2021-08-03 @late @started(21-08-04 16:19) @done(21-08-04 16:20) @lasted(1m49s)
   env:
-    - [x] code-server 셋업 @low @started(21-08-02 17:08) @done(21-08-02 20:11) @lasted(3h3m14s)
+    - [x] code-server 셋업 @low @started(21-08-03 20:32) @done(21-08-03 21:16) @lasted(44m58s)
   sport:
-    ✘ cf @est(2h) @cancelled(21-08-03 01:10)
+    ✘ cf @est(2h) @cancelled(21-08-04 16:19)
   project:
     pseudo:
-      ✘ profile 기능 적용 @high @cancelled(21-08-03 00:24)
-    epis:
-      ✘ k8s 기본 서비스 구성 @est(2h) @cancelled(21-08-03 00:24)
+      ✘ profile 기능 적용 @high @cancelled(21-08-04 16:19)
 
-day-2021-08-03:
-  - [ ] 블로그 정리 및 내일 할일 정리 2021-08-03
+day-2021-08-04:
+  - [ ] 블로그 정리 및 내일 할일 정리 2021-08-04
   env:
     - [ ] code-server 셋업 @low
   sport:
@@ -19,7 +17,7 @@ day-2021-08-03:
   project:
     pseudo:
       - [ ] profile 기능 적용 @high
-
+      
 blog:
   - [ ] 로컬 저장소 정리하기
   docker-seminar:
@@ -199,6 +197,11 @@ longterm:
   vs code에서 maven clean install 후 서버 실행
 
 Archive: 
+  - [x] 블로그 정리 및 내일 할일 정리 2021-08-02 @late @started(21-08-03 19:46) @done(21-08-03 20:31) @lasted(45m6s) @project(day-2021-08-02)
+  - [x] code-server 셋업 @low @started(21-08-02 17:08) @done(21-08-02 20:11) @lasted(3h3m14s) @project(day-2021-08-02.env)
+  ✘ cf @est(2h) @cancelled(21-08-03 01:10) @project(day-2021-08-02.sport)
+  ✘ profile 기능 적용 @high @cancelled(21-08-03 00:24) @project(day-2021-08-02.project.pseudo)
+  ✘ k8s 기본 서비스 구성 @est(2h) @cancelled(21-08-03 00:24) @project(day-2021-08-02.project.epis)
   - [x] 블로그 정리 및 내일 할일 정리 2021-07-31 @late @started(21-08-02 17:04) @done(21-08-02 17:07) @lasted(3m59s) @project(day-2021-07-31)
   ✘ cf @est(2h) @cancelled(21-08-02 17:04) @project(day-2021-07-31.sport)
   ✘ k8s 기본 서비스 구성 @est(2h) @cancelled(21-08-02 17:04) @project(day-2021-07-31.project.epis)
