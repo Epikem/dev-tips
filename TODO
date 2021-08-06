@@ -1,23 +1,23 @@
-day-2021-08-04:
-  - [x] 블로그 정리 및 내일 할일 정리 2021-08-04 @started(21-08-05 02:39) @done(21-08-05 02:43) @lasted(4m39s)
-  env:
-    ✘ code-server 셋업 @low @cancelled(21-08-05 01:57)
-  sport:
-    - [x] cf @est(2h) @started(21-08-05 02:35) @done(21-08-05 02:37) @lasted(2m4s)
-  project:
-    pseudo:
-      ✘ profile 기능 적용 @high @started(21-08-04 16:21) @cancelled(21-08-04 16:39) @wasted(18m46s)
-      - [x] 프로필 이미지/편집 추가 @started(21-08-04 16:39) @done(21-08-04 19:19) @lasted(2h40m4s)
-      - [x] 프로필 sns 정보 추가 @started(21-08-04 19:19) @done(21-08-04 21:26) @lasted(2h7m34s)
-      
 day-2021-08-05:
-  - [ ] 블로그 정리 및 내일 할일 정리 2021-08-05
+  - [x] 블로그 정리 및 내일 할일 정리 2021-08-05 @late @started(21-08-06 13:28) @done(21-08-06 14:00) @lasted(32m14s)
+  env:
+    - [x] code-server 셋업 3 @low @started(21-08-05 15:00) @done(21-08-05 19:13) @lasted(4h13m29s)
+  sport:
+    ✘ cf @est(2h) @cancelled(21-08-06 13:28)
+  project:
+    epis:
+      ✘ 기본 서비스 구조 구현 3 @started(21-08-05 19:18) @cancelled(21-08-05 20:39) @wasted(1h21m40s)
+      
+day-2021-08-06:
+  - [ ] 블로그 정리 및 내일 할일 정리 2021-08-06
+  env:
+    - [ ] code-server 셋업 4 @low
   sport:
     - [ ] cf @est(2h)
   project:
     epis:
       - [ ] 기본 서비스 구조 구현 3
-      
+
 blog:
   - [ ] 로컬 저장소 정리하기
   docker-seminar:
@@ -27,6 +27,7 @@ blog:
   - [ ] tip 추가: 타입스크립트 타입에 따른 동작 분기 - 어떤 타입의 배열인지 체크하기
   - [ ] tip 추가: 알고리즘 - 비교적 안전한 소수 덧셈 알고리즘 (https://en.wikipedia.org/wiki/Kahan_summation_algorithm)
   - [ ] tip 추가: raspberry pi 팬 설치하기 (rpi pwm fan 설치 - 2021-07-04)
+  - [ ] tip 추가: raspberry pi - code-server - rust-analyzer 설치하기 (2021-08-05)
   - [ ] tip 추가: aws cloudfront를 활용하여 http를 https로 래핑하기
   - [ ] tip 추가: ntp 포트(udp/123) 막혀있을 때 htpdate로 시간 동기화하기 (https://askubuntu.com/questions/1292225/ntp-port-is-blocked-how-to-sync-time-18-04)
 
@@ -197,6 +198,12 @@ longterm:
   vs code에서 maven clean install 후 서버 실행
 
 Archive: 
+  - [x] 블로그 정리 및 내일 할일 정리 2021-08-04 @started(21-08-05 02:39) @done(21-08-05 02:43) @lasted(4m39s) @project(day-2021-08-04)
+  ✘ code-server 셋업 @low @cancelled(21-08-05 01:57) @project(day-2021-08-04.env)
+  - [x] cf @est(2h) @started(21-08-05 02:35) @done(21-08-05 02:37) @lasted(2m4s) @project(day-2021-08-04.sport)
+  ✘ profile 기능 적용 @high @started(21-08-04 16:21) @cancelled(21-08-04 16:39) @wasted(18m46s) @project(day-2021-08-04.project.pseudo)
+  - [x] 프로필 이미지/편집 추가 @started(21-08-04 16:39) @done(21-08-04 19:19) @lasted(2h40m4s) @project(day-2021-08-04.project.pseudo)
+  - [x] 프로필 sns 정보 추가 @started(21-08-04 19:19) @done(21-08-04 21:26) @lasted(2h7m34s) @project(day-2021-08-04.project.pseudo)
   - [x] 블로그 정리 및 내일 할일 정리 2021-08-03 @late @started(21-08-04 16:19) @done(21-08-04 16:20) @lasted(1m49s) @project(day-2021-08-03)
   - [x] code-server 셋업 @low @started(21-08-03 20:32) @done(21-08-03 21:16) @lasted(44m58s) @project(day-2021-08-03.env)
   ✘ cf @est(2h) @cancelled(21-08-04 16:19) @project(day-2021-08-03.sport)
