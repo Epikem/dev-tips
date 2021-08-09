@@ -1,21 +1,25 @@
-day-2021-08-08:
-  - [x] 블로그 정리 및 내일 할일 정리 2021-08-08 @late @started(21-08-09 14:23) @done(21-08-09 14:31) @lasted(8m49s)
-  sport:
-    ✘ cf @est(2h) @cancelled(21-08-09 14:23)
-  project:
-    epis:
-      - [x] 기본 서비스 구조 구현 3 @started(21-08-08 15:12) @done(21-08-08 17:26) @lasted(2h14m5s)
-
 day-2021-08-09:
-  - [ ] 블로그 정리 및 내일 할일 정리 2021-08-09
+  - [x] 블로그 정리 및 내일 할일 정리 2021-08-09 @started(21-08-10 02:44) @done(21-08-10 02:45) @lasted(1m40s)
+  sport:
+    ✘ cf @est(2h) @started(21-08-10 00:10) @cancelled(21-08-10 02:44) @wasted(2h34m42s)
+  project:
+    pseudo:
+      ✘ profile update 라우트 업데이트 @cancelled(21-08-09 23:37)
+    epis:
+      ✘ 기본 서비스 구조 구현 4 - Spring Config 적용 @started(21-08-09 14:47) @cancelled(21-08-09 18:53) @wasted(4h6m19s)
+      - [x] 기본 서비스 구조 구현 4 - Spring Config 적용 2 @started(21-08-09 20:09) @done(21-08-09 20:41) @lasted(32m53s)
+      ✘ 기본 서비스 구조 구현 4 - Spring Config 테스트 @started(21-08-09 20:41) @cancelled(21-08-09 20:52) @wasted(11m8s)
+
+day-2021-08-10:
+  - [ ] 블로그 정리 및 내일 할일 정리 2021-08-10
   sport:
     - [ ] cf @est(2h)
   project:
     pseudo:
-      - [ ] profile update 라우트 업데이트
+      - [ ] profile update 라우트 업데이트 @high @est(4h)
     epis:
-      - [ ] 기본 서비스 구조 구현 4 - Spring Config 적용
       - [ ] 기본 서비스 구조 구현 4 - Spring Config 테스트
+      
 
 blog:
   - [ ] 로컬 저장소 정리하기
@@ -197,6 +201,9 @@ longterm:
   vs code에서 maven clean install 후 서버 실행
 
 Archive: 
+  - [x] 블로그 정리 및 내일 할일 정리 2021-08-08 @late @started(21-08-09 14:23) @done(21-08-09 14:31) @lasted(8m49s) @project(day-2021-08-08)
+  ✘ cf @est(2h) @cancelled(21-08-09 14:23) @project(day-2021-08-08.sport)
+  - [x] 기본 서비스 구조 구현 3 @started(21-08-08 15:12) @done(21-08-08 17:26) @lasted(2h14m5s) @project(day-2021-08-08.project.epis)
   - [x] 블로그 정리 및 내일 할일 정리 2021-08-07 @late @started(21-08-08 12:19) @done(21-08-08 12:19) @lasted(51s) @project(day-2021-08-07)
   - [x] 궁금사항정리 @started(21-08-07 23:07) @done(21-08-08 02:31) @lasted(3h24m36s) @project(day-2021-08-07)
   ✘ cf @est(2h) @cancelled(21-08-08 12:19) @project(day-2021-08-07.sport)
