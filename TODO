@@ -1,25 +1,23 @@
-day-2021-08-09:
-  - [x] 블로그 정리 및 내일 할일 정리 2021-08-09 @started(21-08-10 02:44) @done(21-08-10 02:45) @lasted(1m40s)
+day-2021-08-10:
+  ✘ 블로그 정리 및 내일 할일 정리 2021-08-10 @cancelled(21-08-12 17:09)
   sport:
-    ✘ cf @est(2h) @started(21-08-10 00:10) @cancelled(21-08-10 02:44) @wasted(2h34m42s)
+    ✘ cf @est(2h) @cancelled(21-08-12 01:09)
   project:
     pseudo:
-      ✘ profile update 라우트 업데이트 @cancelled(21-08-09 23:37)
+      - [x] profile update 라우트 업데이트 @high @est(4h) @started(21-08-10 16:02) @done(21-08-10 19:51) @lasted(3h49m41s)
+      ✘ 라우트들 구조 변경 (get -> public, post&delete -> 로그인 필요, 프로필 반영) @cancelled(21-08-12 00:06)
     epis:
-      ✘ 기본 서비스 구조 구현 4 - Spring Config 적용 @started(21-08-09 14:47) @cancelled(21-08-09 18:53) @wasted(4h6m19s)
-      - [x] 기본 서비스 구조 구현 4 - Spring Config 적용 2 @started(21-08-09 20:09) @done(21-08-09 20:41) @lasted(32m53s)
-      ✘ 기본 서비스 구조 구현 4 - Spring Config 테스트 @started(21-08-09 20:41) @cancelled(21-08-09 20:52) @wasted(11m8s)
+      ✘ 기본 서비스 구조 구현 4 - Spring Config 테스트 @cancelled(21-08-12 00:06)
 
-day-2021-08-10:
+day-2021-08-12:
   - [ ] 블로그 정리 및 내일 할일 정리 2021-08-10
   sport:
     - [ ] cf @est(2h)
   project:
     pseudo:
-      - [ ] profile update 라우트 업데이트 @high @est(4h)
+      - [ ] 라우트들 구조 변경 (get -> public, post&delete -> 로그인 필요, 프로필 반영)
     epis:
       - [ ] 기본 서비스 구조 구현 4 - Spring Config 테스트
-      
 
 blog:
   - [ ] 로컬 저장소 정리하기
@@ -109,7 +107,6 @@ pseudo:
   - [ ] add local
   - [ ] 추가 라우트 적용 @est(2h)
   - [ ] 추가 라우트 테스트 @est(5h)
-  - [ ] 라우트들 구조 변경 (get -> public, post&delete -> 로그인 필요, 프로필 반영)
 대상: categories, posts, qnas
 
   ref - https://developers.google.com/identity/sign-in/web/backend-auth
@@ -201,6 +198,12 @@ longterm:
   vs code에서 maven clean install 후 서버 실행
 
 Archive: 
+  - [x] 블로그 정리 및 내일 할일 정리 2021-08-09 @started(21-08-10 02:44) @done(21-08-10 02:45) @lasted(1m40s) @project(day-2021-08-09)
+  ✘ cf @est(2h) @started(21-08-10 00:10) @cancelled(21-08-10 02:44) @wasted(2h34m42s) @project(day-2021-08-09.sport)
+  ✘ profile update 라우트 업데이트 @cancelled(21-08-09 23:37) @project(day-2021-08-09.project.pseudo)
+  ✘ 기본 서비스 구조 구현 4 - Spring Config 적용 @started(21-08-09 14:47) @cancelled(21-08-09 18:53) @wasted(4h6m19s) @project(day-2021-08-09.project.epis)
+  - [x] 기본 서비스 구조 구현 4 - Spring Config 적용 2 @started(21-08-09 20:09) @done(21-08-09 20:41) @lasted(32m53s) @project(day-2021-08-09.project.epis)
+  ✘ 기본 서비스 구조 구현 4 - Spring Config 테스트 @started(21-08-09 20:41) @cancelled(21-08-09 20:52) @wasted(11m8s) @project(day-2021-08-09.project.epis)
   - [x] 블로그 정리 및 내일 할일 정리 2021-08-08 @late @started(21-08-09 14:23) @done(21-08-09 14:31) @lasted(8m49s) @project(day-2021-08-08)
   ✘ cf @est(2h) @cancelled(21-08-09 14:23) @project(day-2021-08-08.sport)
   - [x] 기본 서비스 구조 구현 3 @started(21-08-08 15:12) @done(21-08-08 17:26) @lasted(2h14m5s) @project(day-2021-08-08.project.epis)
