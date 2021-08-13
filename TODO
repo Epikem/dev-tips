@@ -1,21 +1,22 @@
-day-2021-08-10:
-  ✘ 블로그 정리 및 내일 할일 정리 2021-08-10 @cancelled(21-08-12 17:09)
+day-2021-08-12:
+  - [x] 블로그 정리 및 내일 할일 정리 2021-08-12 @started(21-08-13 11:12) @done(21-08-13 11:15) @lasted(3m51s)
   sport:
-    ✘ cf @est(2h) @cancelled(21-08-12 01:09)
+    ✘ cf @est(2h) @cancelled(21-08-13 11:10)
   project:
     pseudo:
-      - [x] profile update 라우트 업데이트 @high @est(4h) @started(21-08-10 16:02) @done(21-08-10 19:51) @lasted(3h49m41s)
-      ✘ 라우트들 구조 변경 (get -> public, post&delete -> 로그인 필요, 프로필 반영) @cancelled(21-08-12 00:06)
+      - [x] 라우트들 구조 변경 (get -> public, post&delete -> 로그인 필요, 프로필 반영) @started(21-08-12 17:16) @done(21-08-12 19:21) @lasted(2h5m13s)
+      - [x] 회의 @started(21-08-12 21:16) @done(21-08-12 22:17) @lasted(1h1m59s)
     epis:
-      ✘ 기본 서비스 구조 구현 4 - Spring Config 테스트 @cancelled(21-08-12 00:06)
+      ✘ 기본 서비스 구조 구현 4 - Spring Config 테스트 @started(21-08-12 19:21) @cancelled(21-08-12 20:13) @wasted(52m31s)
 
 day-2021-08-12:
-  - [ ] 블로그 정리 및 내일 할일 정리 2021-08-10
+  - [ ] 블로그 정리 및 내일 할일 정리 2021-08-13
   sport:
     - [ ] cf @est(2h)
   project:
     pseudo:
-      - [ ] 라우트들 구조 변경 (get -> public, post&delete -> 로그인 필요, 프로필 반영)
+      - [ ] 프로필 라우트 처리방식 변경 @est(1h)
+      - [ ] userName 버그 수정 @est(1h)
     epis:
       - [ ] 기본 서비스 구조 구현 4 - Spring Config 테스트
 
@@ -198,6 +199,11 @@ longterm:
   vs code에서 maven clean install 후 서버 실행
 
 Archive: 
+  ✘ 블로그 정리 및 내일 할일 정리 2021-08-10 @cancelled(21-08-12 17:09) @project(day-2021-08-10)
+  ✘ cf @est(2h) @cancelled(21-08-12 01:09) @project(day-2021-08-10.sport)
+  - [x] profile update 라우트 업데이트 @high @est(4h) @started(21-08-10 16:02) @done(21-08-10 19:51) @lasted(3h49m41s) @project(day-2021-08-10.project.pseudo)
+  ✘ 라우트들 구조 변경 (get -> public, post&delete -> 로그인 필요, 프로필 반영) @cancelled(21-08-12 00:06) @project(day-2021-08-10.project.pseudo)
+  ✘ 기본 서비스 구조 구현 4 - Spring Config 테스트 @cancelled(21-08-12 00:06) @project(day-2021-08-10.project.epis)
   - [x] 블로그 정리 및 내일 할일 정리 2021-08-09 @started(21-08-10 02:44) @done(21-08-10 02:45) @lasted(1m40s) @project(day-2021-08-09)
   ✘ cf @est(2h) @started(21-08-10 00:10) @cancelled(21-08-10 02:44) @wasted(2h34m42s) @project(day-2021-08-09.sport)
   ✘ profile update 라우트 업데이트 @cancelled(21-08-09 23:37) @project(day-2021-08-09.project.pseudo)
