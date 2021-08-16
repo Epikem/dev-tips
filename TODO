@@ -1,24 +1,26 @@
-day-2021-08-12:
-  - [x] 블로그 정리 및 내일 할일 정리 2021-08-12 @started(21-08-13 11:12) @done(21-08-13 11:15) @lasted(3m51s)
+day-2021-08-13:
+  ✘ 블로그 정리 및 내일 할일 정리 2021-08-12 @cancelled(21-08-16 16:23)
   sport:
-    ✘ cf @est(2h) @cancelled(21-08-13 11:10)
+    ✘ cf @est(2h) @cancelled(21-08-14 17:13)
   project:
     pseudo:
-      - [x] 라우트들 구조 변경 (get -> public, post&delete -> 로그인 필요, 프로필 반영) @started(21-08-12 17:16) @done(21-08-12 19:21) @lasted(2h5m13s)
-      - [x] 회의 @started(21-08-12 21:16) @done(21-08-12 22:17) @lasted(1h1m59s)
+      - [x] 프로필 라우트 처리방식 변경 @est(1h) @started(21-08-13 11:45) @done(21-08-13 12:33) @lasted(48m40s)
+      - [x] userName 버그 수정 @est(1h) @started(21-08-13 11:25) @done(21-08-13 11:45) @lasted(20m41s)
     epis:
-      ✘ 기본 서비스 구조 구현 4 - Spring Config 테스트 @started(21-08-12 19:21) @cancelled(21-08-12 20:13) @wasted(52m31s)
+      - [x] docker compose network 테스트 @started(21-08-13 17:06) @done(21-08-13 18:05) @lasted(59m42s)
+      ✘ 구성 구상 @cancelled(21-08-14 06:00)
 
-day-2021-08-12:
-  - [ ] 블로그 정리 및 내일 할일 정리 2021-08-13
+day-2021-08-16:
+  - [ ] 블로그 정리 및 내일 할일 정리 2021-08-16
   sport:
     - [ ] cf @est(2h)
   project:
     pseudo:
-      - [ ] 프로필 라우트 처리방식 변경 @est(1h)
-      - [ ] userName 버그 수정 @est(1h)
+      - [ ] config.js 적용 @est(2h)
+      - [ ] restful형태로 변경
     epis:
-      - [ ] 기본 서비스 구조 구현 4 - Spring Config 테스트
+      - [ ] docker compose network 테스트
+      - [ ] 구성 구상
 
 blog:
   - [ ] 로컬 저장소 정리하기
@@ -32,6 +34,7 @@ blog:
   - [ ] tip 추가: raspberry pi - code-server - rust-analyzer 설치하기 (2021-08-05)
   - [ ] tip 추가: aws cloudfront를 활용하여 http를 https로 래핑하기
   - [ ] tip 추가: ntp 포트(udp/123) 막혀있을 때 htpdate로 시간 동기화하기 (https://askubuntu.com/questions/1292225/ntp-port-is-blocked-how-to-sync-time-18-04)
+  - [ ] tip 추가: docker container간 서비스 커뮤니케이션 및 `[::]`
 
   meta:
     - [ ] 수동 연도 업데이트 필요
@@ -199,6 +202,11 @@ longterm:
   vs code에서 maven clean install 후 서버 실행
 
 Archive: 
+  - [x] 블로그 정리 및 내일 할일 정리 2021-08-12 @started(21-08-13 11:12) @done(21-08-13 11:15) @lasted(3m51s) @project(day-2021-08-12)
+  ✘ cf @est(2h) @cancelled(21-08-13 11:10) @project(day-2021-08-12.sport)
+  - [x] 라우트들 구조 변경 (get -> public, post&delete -> 로그인 필요, 프로필 반영) @started(21-08-12 17:16) @done(21-08-12 19:21) @lasted(2h5m13s) @project(day-2021-08-12.project.pseudo)
+  - [x] 회의 @started(21-08-12 21:16) @done(21-08-12 22:17) @lasted(1h1m59s) @project(day-2021-08-12.project.pseudo)
+  ✘ 기본 서비스 구조 구현 4 - Spring Config 테스트 @started(21-08-12 19:21) @cancelled(21-08-12 20:13) @wasted(52m31s) @project(day-2021-08-12.project.epis)
   ✘ 블로그 정리 및 내일 할일 정리 2021-08-10 @cancelled(21-08-12 17:09) @project(day-2021-08-10)
   ✘ cf @est(2h) @cancelled(21-08-12 01:09) @project(day-2021-08-10.sport)
   - [x] profile update 라우트 업데이트 @high @est(4h) @started(21-08-10 16:02) @done(21-08-10 19:51) @lasted(3h49m41s) @project(day-2021-08-10.project.pseudo)
