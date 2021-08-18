@@ -1,26 +1,21 @@
-day-2021-08-13:
-  ✘ 블로그 정리 및 내일 할일 정리 2021-08-12 @cancelled(21-08-16 16:23)
+day-2021-08-17:
+  - [x] 블로그 정리 및 내일 할일 정리 2021-08-17 @late @started(21-08-18 11:39) @done(21-08-18 11:42) @lasted(3m18s)
   sport:
-    ✘ cf @est(2h) @cancelled(21-08-14 17:13)
+    ✘ cf @est(2h) @cancelled(21-08-18 11:38)
   project:
-    pseudo:
-      - [x] 프로필 라우트 처리방식 변경 @est(1h) @started(21-08-13 11:45) @done(21-08-13 12:33) @lasted(48m40s)
-      - [x] userName 버그 수정 @est(1h) @started(21-08-13 11:25) @done(21-08-13 11:45) @lasted(20m41s)
     epis:
-      - [x] docker compose network 테스트 @started(21-08-13 17:06) @done(21-08-13 18:05) @lasted(59m42s)
-      ✘ 구성 구상 @cancelled(21-08-14 06:00)
+      - [x] 스프링 공부 @est(2h) @started(21-08-17 16:45) @done(21-08-17 19:58) @lasted(3h13m15s)
+    pseudo:
+      ✘ config.js 적용 @est(2h) @cancelled(21-08-18 11:38)
+      ✘ restful형태로 변경 @cancelled(21-08-18 11:38)
 
-day-2021-08-16:
-  - [ ] 블로그 정리 및 내일 할일 정리 2021-08-16
+day-2021-08-18:
+  - [ ] 블로그 정리 및 내일 할일 정리 2021-08-18
   sport:
     - [ ] cf @est(2h)
   project:
-    pseudo:
-      - [ ] config.js 적용 @est(2h)
-      - [ ] restful형태로 변경
     epis:
-      - [ ] docker compose network 테스트
-      - [ ] 구성 구상
+      - [ ] msa 강의 수강 @est(2h)
 
 blog:
   - [ ] 로컬 저장소 정리하기
@@ -202,6 +197,18 @@ longterm:
   vs code에서 maven clean install 후 서버 실행
 
 Archive: 
+  - [x] 블로그 정리 및 내일 할일 정리 2021-08-16 @late @started(21-08-17 16:43) @done(21-08-17 16:44) @lasted(1m44s) @project(day-2021-08-16)
+  ✘ cf @est(2h) @cancelled(21-08-17 16:43) @project(day-2021-08-16.sport)
+  ✘ config.js 적용 @est(2h) @cancelled(21-08-17 16:43) @project(day-2021-08-16.project.pseudo)
+  ✘ restful형태로 변경 @cancelled(21-08-17 16:43) @project(day-2021-08-16.project.pseudo)
+  ✘ 필요 요소 개발 순서 및 일정 산정 @high @cancelled(21-08-17 16:42) @project(day-2021-08-16.project.epis)
+  ✘ docker compose network 테스트 @cancelled(21-08-17 16:42) @project(day-2021-08-16.project.epis)
+  ✘ 블로그 정리 및 내일 할일 정리 2021-08-12 @cancelled(21-08-16 16:23) @project(day-2021-08-13)
+  ✘ cf @est(2h) @cancelled(21-08-14 17:13) @project(day-2021-08-13.sport)
+  - [x] 프로필 라우트 처리방식 변경 @est(1h) @started(21-08-13 11:45) @done(21-08-13 12:33) @lasted(48m40s) @project(day-2021-08-13.project.pseudo)
+  - [x] userName 버그 수정 @est(1h) @started(21-08-13 11:25) @done(21-08-13 11:45) @lasted(20m41s) @project(day-2021-08-13.project.pseudo)
+  - [x] docker compose network 테스트 @started(21-08-13 17:06) @done(21-08-13 18:05) @lasted(59m42s) @project(day-2021-08-13.project.epis)
+  ✘ 구성 구상 @cancelled(21-08-14 06:00) @project(day-2021-08-13.project.epis)
   - [x] 블로그 정리 및 내일 할일 정리 2021-08-12 @started(21-08-13 11:12) @done(21-08-13 11:15) @lasted(3m51s) @project(day-2021-08-12)
   ✘ cf @est(2h) @cancelled(21-08-13 11:10) @project(day-2021-08-12.sport)
   - [x] 라우트들 구조 변경 (get -> public, post&delete -> 로그인 필요, 프로필 반영) @started(21-08-12 17:16) @done(21-08-12 19:21) @lasted(2h5m13s) @project(day-2021-08-12.project.pseudo)
