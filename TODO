@@ -1,19 +1,21 @@
-day-2021-08-17:
-  - [x] 블로그 정리 및 내일 할일 정리 2021-08-17 @late @started(21-08-18 11:39) @done(21-08-18 11:42) @lasted(3m18s)
-  sport:
-    ✘ cf @est(2h) @cancelled(21-08-18 11:38)
-  project:
-    epis:
-      - [x] 스프링 공부 @est(2h) @started(21-08-17 16:45) @done(21-08-17 19:58) @lasted(3h13m15s)
-    pseudo:
-      ✘ config.js 적용 @est(2h) @cancelled(21-08-18 11:38)
-      ✘ restful형태로 변경 @cancelled(21-08-18 11:38)
-
 day-2021-08-18:
-  - [ ] 블로그 정리 및 내일 할일 정리 2021-08-18
+  - [x] 블로그 정리 및 내일 할일 정리 2021-08-18 @late @started(21-08-19 18:55) @done(21-08-19 18:57) @lasted(2m32s)
+  sport:
+    ✘ cf @est(2h) @cancelled(21-08-19 18:55)
+  project:
+    pseudo:
+      - [x] REST 적용 @started(21-08-18 17:08) @done(21-08-18 18:21) @lasted(1h13m9s)
+      - [x] config.js 적용 @started(21-08-18 20:55) @done(21-08-18 21:01) @lasted(6m37s)
+    epis:
+      - [x] msa 강의 수강 @est(2h) @started(21-08-18 12:46) @done(21-08-18 15:13) @lasted(2h27m27s)
+
+day-2021-08-19:
+  - [ ] 블로그 정리 및 내일 할일 정리 2021-08-19
   sport:
     - [ ] cf @est(2h)
   project:
+    pseudo:
+      - [ ] 회의
     epis:
       - [ ] msa 강의 수강 @est(2h)
 
@@ -197,6 +199,11 @@ longterm:
   vs code에서 maven clean install 후 서버 실행
 
 Archive: 
+  - [x] 블로그 정리 및 내일 할일 정리 2021-08-17 @late @started(21-08-18 11:39) @done(21-08-18 11:42) @lasted(3m18s) @project(day-2021-08-17)
+  ✘ cf @est(2h) @cancelled(21-08-18 11:38) @project(day-2021-08-17.sport)
+  - [x] 스프링 공부 @est(2h) @started(21-08-17 16:45) @done(21-08-17 19:58) @lasted(3h13m15s) @project(day-2021-08-17.project.epis)
+  ✘ config.js 적용 @est(2h) @cancelled(21-08-18 11:38) @project(day-2021-08-17.project.pseudo)
+  ✘ restful형태로 변경 @cancelled(21-08-18 11:38) @project(day-2021-08-17.project.pseudo)
   - [x] 블로그 정리 및 내일 할일 정리 2021-08-16 @late @started(21-08-17 16:43) @done(21-08-17 16:44) @lasted(1m44s) @project(day-2021-08-16)
   ✘ cf @est(2h) @cancelled(21-08-17 16:43) @project(day-2021-08-16.sport)
   ✘ config.js 적용 @est(2h) @cancelled(21-08-17 16:43) @project(day-2021-08-16.project.pseudo)
