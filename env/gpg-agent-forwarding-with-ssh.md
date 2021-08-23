@@ -124,6 +124,8 @@ RemoteForward <원격 에이전트 소켓> <로컬 에이전트 extra 소켓>
 
 <img width="481" alt="스크린샷 2021-07-27 오후 4 10 08" src="https://user-images.githubusercontent.com/8192081/127111309-67cff22c-4dd5-454d-816c-a99d499ca904.png">
 
+이렇게 설정해서 잘 작동하다가도 어떨 때는 시크릿 키가 안나오고, 제대로 동작되지 않을 때가 있는데, 재부팅해서 다시 연결하니 성공했다. 정확한 원인은 모르겠다.
+
 ## dep
 - GnuPG >= v2.1.13
 - OpenSSH >= v6.7
