@@ -1,21 +1,18 @@
-day-2021-08-23:
-  - [x] 블로그 정리 및 내일 할일 정리 2021-08-23 @late @started(21-08-24 16:59) @done(21-08-24 17:01) @lasted(2m52s)
+day-2021-08-24:
+  - [x] 블로그 정리 및 내일 할일 정리 2021-08-24 @late @started(21-08-25 15:55) @done(21-08-25 15:57) @lasted(2m36s)
   sport:
-    ✘ cf @cancelled(21-08-24 16:59)
-  study:
-    - [x] 강화학습 스터디 @started(21-08-23 20:01) @done(21-08-23 21:01) @lasted(1h)
+    ✘ cf @cancelled(21-08-25 15:55)
   project:
     epis:
-      - [x] msa 강의 수강 @est(2h) @started(21-08-23 14:49) @done(21-08-23 19:04) @lasted(4h15m34s)
+      - [x] msa 강의 수강 @est(4h) @started(21-08-24 17:02) @done(21-08-24 20:53) @lasted(3h51m6s)
       
-day-2021-08-24:
-  - [ ] 블로그 정리 및 내일 할일 정리 2021-08-24
-  sport:
-    - [ ] cf
+day-2021-08-25:
+  - [ ] 블로그 정리 및 내일 할일 정리 2021-08-25
+  study:
+    - [ ] 알고리즘 스터디
   project:
     epis:
       - [ ] msa 강의 수강 @est(4h)
-
 
 blog:
   - [ ] 로컬 저장소 정리하기
@@ -197,6 +194,10 @@ longterm:
   vs code에서 maven clean install 후 서버 실행
 
 Archive: 
+  - [x] 블로그 정리 및 내일 할일 정리 2021-08-23 @late @started(21-08-24 16:59) @done(21-08-24 17:01) @lasted(2m52s) @project(day-2021-08-23)
+  ✘ cf @cancelled(21-08-24 16:59) @project(day-2021-08-23.sport)
+  - [x] 강화학습 스터디 @started(21-08-23 20:01) @done(21-08-23 21:01) @lasted(1h) @project(day-2021-08-23.study)
+  - [x] msa 강의 수강 @est(2h) @started(21-08-23 14:49) @done(21-08-23 19:04) @lasted(4h15m34s) @project(day-2021-08-23.project.epis)
   ✘ 블로그 정리 및 내일 할일 정리 2021-08-20 @cancelled(21-08-23 13:56) @project(day-2021-08-20)
   ✘ cf @est(2h) @cancelled(21-08-23 13:56) @project(day-2021-08-20.sport)
   - [x] 로그인 버그 조사 @started(21-08-20 17:28) @done(21-08-20 20:12) @lasted(2h44m13s) @project(day-2021-08-20.project.pseudo)
