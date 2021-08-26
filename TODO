@@ -1,18 +1,25 @@
-day-2021-08-24:
-  - [x] 블로그 정리 및 내일 할일 정리 2021-08-24 @late @started(21-08-25 15:55) @done(21-08-25 15:57) @lasted(2m36s)
-  sport:
-    ✘ cf @cancelled(21-08-25 15:55)
+day-2021-08-25:
+  - [x] 블로그 정리 및 내일 할일 정리 2021-08-25 @late @started(21-08-26 14:55) @done(21-08-26 15:03) @lasted(8m2s)
+  study:
+    - [x] 알고리즘 스터디 @done(21-08-26 14:49)
   project:
     epis:
-      - [x] msa 강의 수강 @est(4h) @started(21-08-24 17:02) @done(21-08-24 20:53) @lasted(3h51m6s)
-      
-day-2021-08-25:
-  - [ ] 블로그 정리 및 내일 할일 정리 2021-08-25
+      - [x] msa 강의 수강 @est(4h) @started(21-08-25 15:58) @done(21-08-25 18:30) @lasted(2h32m54s)
+
+day-2021-08-26:
+  - [ ] 블로그 정리 및 내일 할일 정리 2021-08-26
   study:
     - [ ] 알고리즘 스터디
   project:
+    pseudo:
+      - [ ] 회의 @est(2h)
     epis:
       - [ ] msa 강의 수강 @est(4h)
+      
+
+day-2021-09-05:
+  job:
+    - [ ] line 지원 마감 @high
 
 blog:
   - [ ] 로컬 저장소 정리하기
@@ -112,12 +119,7 @@ job:
   - [ ] 백텍지원 (백두테크놀로지스)
   - [ ] cv update @high
   https://www.naver-recruit.com/?utm_source=gdn&utm_medium=cpc&utm_campaign=gdn_cpc&gclid=EAIaIQobChMIp5mGtq7k7wIVLcNMAh2mbQxwEAEYASAAEgJaSvD_BwE
-  - [ ] 메가존 클라우드 지원 @high
-  https://careers.kakao.com/jobs/P-11933
-  https://careers.kakao.com/jobs/P-11863
-  - [ ] aws
-  https://account.amazon.jobs/en-US/jobs/1389968/apply
-  https://programmers.co.kr/competitions/977?slug=2021-web-be-first&utm_campaign=competition977_introduce&utm_medium=banner&utm_source=programmers
+  - [ ] 라인 지원 https://careers.linecorp.com/ko/jobs/773
 
 study:
   js 학습:
@@ -194,6 +196,9 @@ longterm:
   vs code에서 maven clean install 후 서버 실행
 
 Archive: 
+  - [x] 블로그 정리 및 내일 할일 정리 2021-08-24 @late @started(21-08-25 15:55) @done(21-08-25 15:57) @lasted(2m36s) @project(day-2021-08-24)
+  ✘ cf @cancelled(21-08-25 15:55) @project(day-2021-08-24.sport)
+  - [x] msa 강의 수강 @est(4h) @started(21-08-24 17:02) @done(21-08-24 20:53) @lasted(3h51m6s) @project(day-2021-08-24.project.epis)
   - [x] 블로그 정리 및 내일 할일 정리 2021-08-23 @late @started(21-08-24 16:59) @done(21-08-24 17:01) @lasted(2m52s) @project(day-2021-08-23)
   ✘ cf @cancelled(21-08-24 16:59) @project(day-2021-08-23.sport)
   - [x] 강화학습 스터디 @started(21-08-23 20:01) @done(21-08-23 21:01) @lasted(1h) @project(day-2021-08-23.study)
