@@ -1,13 +1,19 @@
 day-2021-08-26:
-  - [ ] 블로그 정리 및 내일 할일 정리 2021-08-26
-  study:
-    - [ ] 알고리즘 스터디
+  - [x] 블로그 정리 및 내일 할일 정리 2021-08-26 @late @started(21-08-27 16:04) @done(21-08-27 16:56) @lasted(52m50s)
+  sport:
+    - [x] 코테연습 @started(21-08-26 17:27) @done(21-08-26 19:20) @lasted(1h53m37s)
   project:
     pseudo:
-      - [ ] 회의 @est(2h)
+      ✘ 회의 @est(2h) @cancelled(21-08-27 16:04)
     epis:
-      - [ ] msa 강의 수강 @est(4h)
+      - [x] msa 강의 수강 @est(4h) @started(21-08-26 15:23) @done(21-08-26 17:23) @lasted(2h43s)
       
+day-2021-08-27:
+  - [ ] 삼성증권 인증처리 @non-dev
+  study:
+    rl:
+      - [ ] 3장 학습
+  
 day-2021-09-05:
   job:
     - [ ] line 지원 마감 @high
