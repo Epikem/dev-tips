@@ -1,27 +1,23 @@
-day-2021-08-27:
-  ✘ 블로그 정리 및 내일 할일 정리 2021-08-27 @started(21-08-29 04:23) @cancelled(21-08-29 04:26) @wasted(3m6s)
-  sport:
-    ✘ 코테연습 @cancelled(21-08-29 04:23)
-  project:
-    epis:
-      - [x] msa 강의 수강 @est(4h) @started(21-08-27 17:15) @done(21-08-27 20:05) @lasted(2h50m2s)
-            
 day-2021-08-29:
-  - [ ] 블로그 정리 및 내일 할일 정리 2021-08-29
+  - [x] 블로그 정리 및 내일 할일 정리 2021-08-29 @late @started(21-08-30 17:31) @done(21-08-30 17:33) @lasted(2m13s)
   study:
     rl:
-      - [ ] 3장 학습
+      - [x] 3,4장 학습 @started(21-08-29 04:35) @done(21-08-29 07:26) @lasted(2h51m14s)
   sport:
-    - [ ] 코테연습
-
-day-2021-08-27:
-  ✘ 삼성증권 인증처리 @non-dev @cancelled(21-08-29 04:25)
-  study:
-    rl:
-      ✘ 3장 학습 @cancelled(21-08-29 04:25)
+    코테연습 - 2021 다시풀기:
+      - [x] 합승 택시 요금 @started(21-08-29 17:02) @done(21-08-29 17:48) @lasted(46m22s)
+      - [x] 광고 삽입 1 @started(21-08-29 18:04) @done(21-08-29 20:11) @lasted(2h7m1s)
   
 day-2021-08-30:
+  - [ ] 블로그 정리 및 내일 할일 정리 2021-08-30
   - [ ] 삼성증권 인증처리 @non-dev
+  study:
+    rl:
+      - [ ] 스터디
+  sport:
+    코테연습 - 2021 다시풀기:
+      - [ ] 광고 삽입 2
+
 day-2021-09-05:
   job:
     - [ ] line 지원 마감 @high
@@ -88,6 +84,11 @@ longterm:
   - [ ] 영어 공부하기
 
 Archive:
+  ✘ 블로그 정리 및 내일 할일 정리 2021-08-27 @started(21-08-29 04:23) @cancelled(21-08-29 04:26) @wasted(3m6s) @project(day-2021-08-27)
+  ✘ 코테연습 @cancelled(21-08-29 04:23) @project(day-2021-08-27.sport)
+  - [x] msa 강의 수강 @est(4h) @started(21-08-27 17:15) @done(21-08-27 20:05) @lasted(2h50m2s) @project(day-2021-08-27.project.epis)
+  ✘ 삼성증권 인증처리 @non-dev @cancelled(21-08-29 04:25) @project(day-2021-08-27)
+  ✘ 3장 학습 @cancelled(21-08-29 04:25) @project(day-2021-08-27.study.rl)
   - [x] 블로그 정리 및 내일 할일 정리 2021-08-26 @late @started(21-08-27 16:04) @done(21-08-27 16:56) @lasted(52m50s) @project(day-2021-08-26)
   - [x] 코테연습 @started(21-08-26 17:27) @done(21-08-26 19:20) @lasted(1h53m37s) @project(day-2021-08-26.sport)
   ✘ 회의 @est(2h) @cancelled(21-08-27 16:04) @project(day-2021-08-26.project.pseudo)
