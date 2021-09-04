@@ -1,23 +1,11 @@
-day-2021-09-02:
-  - [x] 블로그 정리 및 내일 할일 정리 2021-09-02 @late @started(21-09-03 14:32) @done(21-09-03 14:34) @lasted(2m36s)
-  sport:
-    코테연습 - 2021 다시풀기:
-      - [x] 카드 짝 맞추기 @started(21-09-02 13:03) @done(21-09-02 17:06) @lasted(4h3m21s)
-    코테연습 - 2020 다시풀기:
-      - [x] 괄호 변환 @started(21-09-02 18:32) @done(21-09-02 18:43) @lasted(11m36s)
-  job:
-    - [x] line 지원서 작성 @started(21-09-02 18:52) @done(21-09-02 19:17) @lasted(25m56s)
-  pseudo:
-    ✘ 임시 로그인 기능 추가 @cancelled(21-09-03 13:58)
-    - [x] 회의 @started(21-09-02 21:16) @done(21-09-02 22:21) @lasted(1h5m45s)
-
 day-2021-09-03:
-  - [ ] 삼성증권 인증처리 @non-dev
+  - [x] 삼성증권 인증처리 @non-dev @done(21-09-03 15:40)
   job:
-    - [ ] line 지원서 작성
+    - [x] line 지원서 작성 @started(21-09-03 15:40) @done(21-09-03 16:36) @lasted(56m53s)
   sport:
     코테연습 - kakao 2020:
-      - [ ] 가사 검색
+      - [x] 가사 검색 1 @started(21-09-03 17:02) @done(21-09-03 19:09) @lasted(2h7m22s)
+      - [x] 가사 검색 2 @started(21-09-03 19:25) @done(21-09-03 20:21) @lasted(57m)
 
 day-2021-09-04:
   job:
@@ -90,6 +78,12 @@ longterm:
   - [ ] 영어 공부하기
 
 Archive:
+  - [x] 블로그 정리 및 내일 할일 정리 2021-09-02 @late @started(21-09-03 14:32) @done(21-09-03 14:34) @lasted(2m36s) @project(day-2021-09-02)
+  - [x] 카드 짝 맞추기 @started(21-09-02 13:03) @done(21-09-02 17:06) @lasted(4h3m21s) @project(day-2021-09-02.sport.코테연습 - 2021 다시풀기)
+  - [x] 괄호 변환 @started(21-09-02 18:32) @done(21-09-02 18:43) @lasted(11m36s) @project(day-2021-09-02.sport.코테연습 - 2020 다시풀기)
+  - [x] line 지원서 작성 @started(21-09-02 18:52) @done(21-09-02 19:17) @lasted(25m56s) @project(day-2021-09-02.job)
+  ✘ 임시 로그인 기능 추가 @cancelled(21-09-03 13:58) @project(day-2021-09-02.pseudo)
+  - [x] 회의 @started(21-09-02 21:16) @done(21-09-02 22:21) @lasted(1h5m45s) @project(day-2021-09-02.pseudo)
   - [x] 블로그 정리 및 내일 할일 정리 2021-08-30 @late @started(21-09-02 12:51) @done(21-09-02 12:55) @lasted(4m30s) @project(day-2021-09-01)
   ✘ 카드 짝 맞추기 @cancelled(21-09-02 12:51) @project(day-2021-09-01.sport.코테연습 - 2021 다시풀기)
   - [x] 문자열 압축 @done(21-09-02 12:51) @project(day-2021-09-01.sport.코테연습 - 2020 다시풀기)
