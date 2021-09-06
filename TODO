@@ -1,18 +1,23 @@
-day-2021-09-05:
-  - [x] 블로그 정리 및 내일 할일 정리 2021-09-02 @late @started(21-09-06 12:11) @done(21-09-06 12:12) @lasted(1m28s)
-  sport:
-    ✘ 기둥과 보 설치 @cancelled(21-09-05 23:18)
-    ✘ cf 1567 @cancelled(21-09-06 10:43)
-  job:
-    https://www.careers-2021-liner.com/
-    ✘ line 지원 마감 @high @cancelled(21-09-06 10:44)
-
 day-2021-09-06:
+  study:
+    rl:
+      - [x] 스터디 @started(21-09-06 20:08) @done(21-09-06 22:09) @lasted(2h1m13s)
   sport:
-    - [ ] cf 1567 복습
+    ✘ cf 1567 복습 @started(21-09-06 18:32) @cancelled(21-09-06 20:08) @wasted(1h36m36s)
+    - [x] cf 1567 복습 2 - B @started(21-09-06 22:09) @done(21-09-06 23:30) @lasted(1h21m36s)
   job:
     https://www.careers-2021-liner.com/
-    - [ ] line 지원 마감 @high
+    - [x] line 지원 마감 @high @started(21-09-06 12:17) @done(21-09-06 13:19) @lasted(1h2m5s)
+
+day-2021-09-07:
+  sport:
+    - [ ] cf 1567 복습 3 - C
+    kakao 2020 다시풀기:
+      - [ ] 기둥과 보 설치
+  study:
+    rl:
+      - [ ] 6장 공부
+    
 
 day-2021-09-10:
   sport:
@@ -85,6 +90,10 @@ longterm:
   - [ ] 영어 공부하기
 
 Archive:
+  - [x] 블로그 정리 및 내일 할일 정리 2021-09-02 @late @started(21-09-06 12:11) @done(21-09-06 12:12) @lasted(1m28s) @project(day-2021-09-05)
+  ✘ 기둥과 보 설치 @cancelled(21-09-05 23:18) @project(day-2021-09-05.sport)
+  ✘ cf 1567 @cancelled(21-09-06 10:43) @project(day-2021-09-05.sport)
+  ✘ line 지원 마감 @high @cancelled(21-09-06 10:44) @project(day-2021-09-05.job)
   - [x] 삼성증권 인증처리 @non-dev @done(21-09-03 15:40) @project(day-2021-09-03)
   - [x] line 지원서 작성 @started(21-09-03 15:40) @done(21-09-03 16:36) @lasted(56m53s) @project(day-2021-09-03.job)
   - [x] 가사 검색 1 @started(21-09-03 17:02) @done(21-09-03 19:09) @lasted(2h7m22s) @project(day-2021-09-03.sport.코테연습 - kakao 2020)
