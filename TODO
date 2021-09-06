@@ -1,16 +1,23 @@
-day-2021-09-03:
-  - [x] 삼성증권 인증처리 @non-dev @done(21-09-03 15:40)
-  job:
-    - [x] line 지원서 작성 @started(21-09-03 15:40) @done(21-09-03 16:36) @lasted(56m53s)
+day-2021-09-05:
+  - [x] 블로그 정리 및 내일 할일 정리 2021-09-02 @late @started(21-09-06 12:11) @done(21-09-06 12:12) @lasted(1m28s)
   sport:
-    코테연습 - kakao 2020:
-      - [x] 가사 검색 1 @started(21-09-03 17:02) @done(21-09-03 19:09) @lasted(2h7m22s)
-      - [x] 가사 검색 2 @started(21-09-03 19:25) @done(21-09-03 20:21) @lasted(57m)
+    ✘ 기둥과 보 설치 @cancelled(21-09-05 23:18)
+    ✘ cf 1567 @cancelled(21-09-06 10:43)
+  job:
+    https://www.careers-2021-liner.com/
+    ✘ line 지원 마감 @high @cancelled(21-09-06 10:44)
 
-day-2021-09-04:
+day-2021-09-06:
+  sport:
+    - [ ] cf 1567 복습
   job:
     https://www.careers-2021-liner.com/
     - [ ] line 지원 마감 @high
+
+day-2021-09-10:
+  sport:
+    kakao 2020 다시풀기:
+      - [ ] 가사 검색 (다시풀기)
 
 day-2021-09-11:
   job:
@@ -78,6 +85,10 @@ longterm:
   - [ ] 영어 공부하기
 
 Archive:
+  - [x] 삼성증권 인증처리 @non-dev @done(21-09-03 15:40) @project(day-2021-09-03)
+  - [x] line 지원서 작성 @started(21-09-03 15:40) @done(21-09-03 16:36) @lasted(56m53s) @project(day-2021-09-03.job)
+  - [x] 가사 검색 1 @started(21-09-03 17:02) @done(21-09-03 19:09) @lasted(2h7m22s) @project(day-2021-09-03.sport.코테연습 - kakao 2020)
+  - [x] 가사 검색 2 @started(21-09-03 19:25) @done(21-09-03 20:21) @lasted(57m) @project(day-2021-09-03.sport.코테연습 - kakao 2020)
   - [x] 블로그 정리 및 내일 할일 정리 2021-09-02 @late @started(21-09-03 14:32) @done(21-09-03 14:34) @lasted(2m36s) @project(day-2021-09-02)
   - [x] 카드 짝 맞추기 @started(21-09-02 13:03) @done(21-09-02 17:06) @lasted(4h3m21s) @project(day-2021-09-02.sport.코테연습 - 2021 다시풀기)
   - [x] 괄호 변환 @started(21-09-02 18:32) @done(21-09-02 18:43) @lasted(11m36s) @project(day-2021-09-02.sport.코테연습 - 2020 다시풀기)
