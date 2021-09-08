@@ -1,24 +1,27 @@
-day-2021-09-06:
-  study:
-    rl:
-      - [x] 스터디 @started(21-09-06 20:08) @done(21-09-06 22:09) @lasted(2h1m13s)
-  sport:
-    ✘ cf 1567 복습 @started(21-09-06 18:32) @cancelled(21-09-06 20:08) @wasted(1h36m36s)
-    - [x] cf 1567 복습 2 - B @started(21-09-06 22:09) @done(21-09-06 23:30) @lasted(1h21m36s)
-  job:
-    https://www.careers-2021-liner.com/
-    - [x] line 지원 마감 @high @started(21-09-06 12:17) @done(21-09-06 13:19) @lasted(1h2m5s)
-
 day-2021-09-07:
+  - [x] 블로그 정리 및 내일 할일 정리 2021-09-07 @late @started(21-09-08 12:40) @done(21-09-08 12:42) @lasted(2m16s)
   sport:
-    - [ ] cf 1567 복습 3 - C
+    - [x] cf 1567 복습 3 - C @started(21-09-07 12:12) @done(21-09-07 12:32) @lasted(20m22s)
     kakao 2020 다시풀기:
-      - [ ] 기둥과 보 설치
+      - [x] 기둥과 보 설치 - fail @started(21-09-07 12:40) @done(21-09-07 14:29) @lasted(1h49m45s)
+      - [x] 가사 검색 (다시풀기) @started(21-09-07 18:24) @done(21-09-07 20:42) @lasted(2h18m38s)
+    kakao 2019 다시풀기:
+      ✘ 모의 풀이 @est(4.5h) @cancelled(21-09-07 18:23)
   study:
     rl:
-      - [ ] 6장 공부
-    
+      ✘ 6장 공부 @cancelled(21-09-08 12:40)
 
+day-2021-09-08:
+  - [ ] 블로그 정리 및 내일 할일 정리 2021-09-08
+  sport:
+    kakao 2019 다시풀기:
+      - [ ] 모의 풀이 @est(5.5h)
+      
+
+day-2021-09-08:
+  job:
+    - [ ] eo naver webtoon 채용 설명회 @at(19:30)
+  
 day-2021-09-10:
   sport:
     kakao 2020 다시풀기:
@@ -90,6 +93,10 @@ longterm:
   - [ ] 영어 공부하기
 
 Archive:
+  - [x] 스터디 @started(21-09-06 20:08) @done(21-09-06 22:09) @lasted(2h1m13s) @project(day-2021-09-06.study.rl)
+  ✘ cf 1567 복습 @started(21-09-06 18:32) @cancelled(21-09-06 20:08) @wasted(1h36m36s) @project(day-2021-09-06.sport)
+  - [x] cf 1567 복습 2 - B @started(21-09-06 22:09) @done(21-09-06 23:30) @lasted(1h21m36s) @project(day-2021-09-06.sport)
+  - [x] line 지원 마감 @high @started(21-09-06 12:17) @done(21-09-06 13:19) @lasted(1h2m5s) @project(day-2021-09-06.job)
   - [x] 블로그 정리 및 내일 할일 정리 2021-09-02 @late @started(21-09-06 12:11) @done(21-09-06 12:12) @lasted(1m28s) @project(day-2021-09-05)
   ✘ 기둥과 보 설치 @cancelled(21-09-05 23:18) @project(day-2021-09-05.sport)
   ✘ cf 1567 @cancelled(21-09-06 10:43) @project(day-2021-09-05.sport)
