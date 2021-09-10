@@ -1,35 +1,29 @@
-day-2021-09-07:
-  - [x] 블로그 정리 및 내일 할일 정리 2021-09-07 @late @started(21-09-08 12:40) @done(21-09-08 12:42) @lasted(2m16s)
+day-2021-09-09:
+  - [x] 블로그 정리 및 내일 할일 정리 2021-09-09 @late @started(21-09-10 10:25) @done(21-09-10 10:26) @lasted(1m52s)
   sport:
-    - [x] cf 1567 복습 3 - C @started(21-09-07 12:12) @done(21-09-07 12:32) @lasted(20m22s)
-    kakao 2020 다시풀기:
-      - [x] 기둥과 보 설치 - fail @started(21-09-07 12:40) @done(21-09-07 14:29) @lasted(1h49m45s)
-      - [x] 가사 검색 (다시풀기) @started(21-09-07 18:24) @done(21-09-07 20:42) @lasted(2h18m38s)
+    ✘ 이분탐색 복습 2 @cancelled(21-09-10 10:25)
     kakao 2019 다시풀기:
-      ✘ 모의 풀이 @est(4.5h) @cancelled(21-09-07 18:23)
-  study:
-    rl:
-      ✘ 6장 공부 @cancelled(21-09-08 12:40)
+      - [x] 무지의 먹방 라이브 @started(21-09-09 12:58) @done(21-09-09 15:57) @lasted(2h59m46s)
+      ✘ 길 찾기 게임 @cancelled(21-09-10 10:25)
+  project:
+    pseudo:
+      - [x] 사용자 통계 연동 작업 1 @started(21-09-09 18:34) @done(21-09-09 19:05) @lasted(31m23s)
+      - [x] 회의 @done(21-09-10 10:25)
 
-day-2021-09-08:
-  - [ ] 블로그 정리 및 내일 할일 정리 2021-09-08
-  sport:
-    kakao 2019 다시풀기:
-      - [ ] 모의 풀이 @est(5.5h)
-      
-
-day-2021-09-08:
-  job:
-    - [ ] eo naver webtoon 채용 설명회 @at(19:30)
-  
 day-2021-09-10:
+  - [ ] 블로그 정리 및 내일 할일 정리 2021-09-10
   sport:
+    - [ ] 이분탐색 복습 2
     kakao 2020 다시풀기:
       - [ ] 가사 검색 (다시풀기)
+      - [ ] 길 찾기 게임
+  job:
+    - [ ] eo naver webtoon 채용 설명회 다시보기
 
 day-2021-09-11:
   job:
     - [ ] kakao 2022 코테 응시 @high
+    - [ ] line 코테 응시 (오전 9시 30분 ~ 오후 12시 30분)
 
 blog:
   - [ ] 로컬 저장소 정리하기
@@ -93,6 +87,17 @@ longterm:
   - [ ] 영어 공부하기
 
 Archive:
+  - [x] 블로그 정리 및 내일 할일 정리 2021-09-08 @late @started(21-09-09 12:46) @done(21-09-09 12:55) @lasted(9m17s) @project(day-2021-09-08)
+  ✘ 이분탐색 복습 @started(21-09-08 13:40) @cancelled(21-09-08 14:30) @wasted(50m20s) @project(day-2021-09-08.sport)
+  - [x] 모의 풀이 @est(5.5h) @started(21-09-08 14:58) @done(21-09-08 19:04) @lasted(4h6m38s) @project(day-2021-09-08.sport.kakao 2019 다시풀기)
+  - [x] 후보키 풀이 수정 @started(21-09-08 20:19) @done(21-09-08 20:43) @lasted(24m47s) @project(day-2021-09-08.sport.kakao 2019 다시풀기)
+  ✘ eo naver webtoon 채용 설명회 @at(19:30) @cancelled(21-09-09 12:46) @project(day-2021-09-08.job)
+  - [x] 블로그 정리 및 내일 할일 정리 2021-09-07 @late @started(21-09-08 12:40) @done(21-09-08 12:42) @lasted(2m16s) @project(day-2021-09-07)
+  - [x] cf 1567 복습 3 - C @started(21-09-07 12:12) @done(21-09-07 12:32) @lasted(20m22s) @project(day-2021-09-07.sport)
+  - [x] 기둥과 보 설치 - fail @started(21-09-07 12:40) @done(21-09-07 14:29) @lasted(1h49m45s) @project(day-2021-09-07.sport.kakao 2020 다시풀기)
+  - [x] 가사 검색 (다시풀기) @started(21-09-07 18:24) @done(21-09-07 20:42) @lasted(2h18m38s) @project(day-2021-09-07.sport.kakao 2020 다시풀기)
+  ✘ 모의 풀이 @est(4.5h) @cancelled(21-09-07 18:23) @project(day-2021-09-07.sport.kakao 2019 다시풀기)
+  ✘ 6장 공부 @cancelled(21-09-08 12:40) @project(day-2021-09-07.study.rl)
   - [x] 스터디 @started(21-09-06 20:08) @done(21-09-06 22:09) @lasted(2h1m13s) @project(day-2021-09-06.study.rl)
   ✘ cf 1567 복습 @started(21-09-06 18:32) @cancelled(21-09-06 20:08) @wasted(1h36m36s) @project(day-2021-09-06.sport)
   - [x] cf 1567 복습 2 - B @started(21-09-06 22:09) @done(21-09-06 23:30) @lasted(1h21m36s) @project(day-2021-09-06.sport)
