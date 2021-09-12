@@ -1,25 +1,21 @@
-day-2021-09-10:
-  - [x] 블로그 정리 및 내일 할일 정리 2021-09-10 @started(21-09-11 04:01) @done(21-09-11 04:16) @lasted(15m7s)
-  sport:
-    ✘ 이분탐색 복습 2 @cancelled(21-09-11 03:33)
-    kakao 문제 풀이:
-      - [x] 2021 인턴십 @started(21-09-10 10:31) @done(21-09-10 19:30) @lasted(8h59m35s)
-      - [x] 2021 인턴십 2 @started(21-09-10 22:47) @done(21-09-10 23:23) @lasted(36m17s)
-      ✘ 2021 인턴십 3 @cancelled(21-09-11 03:32)
-    kakao 2020 다시풀기:
-      ✘ 가사 검색 (다시풀기) @cancelled(21-09-11 03:32)
-      ✘ 길 찾기 게임 @cancelled(21-09-11 03:32)
-  job:
-    ✘ eo naver webtoon 채용 설명회 다시보기 @cancelled(21-09-11 03:41)
-
 day-2021-09-11:
-  - [ ] 블로그 정리 및 내일 할일 정리 2021-09-11
+  - [x] 블로그 정리 및 내일 할일 정리 2021-09-11 @late @started(21-09-12 10:33) @done(21-09-12 10:41) @lasted(8m31s)
   sport:
-    - [ ] 기타 알고리즘 문제유형 풀기
+    - [x] 기타 알고리즘 문제유형 풀기 1 @started(21-09-11 04:17) @done(21-09-11 05:53) @lasted(1h36m43s)
   job:
-    - [ ] kakao 2022 코테 응시 @high
-    - [ ] line 코테 응시 (오전 9시 30분 ~ 오후 12시 30분)
+    - [x] line 코테 응시 (오전 9시 30분 ~ 오후 12시 30분) @started(21-09-11 09:45) @done(21-09-11 14:00) @lasted(4h15m58s)
+    - [x] kakao 2022 코테 응시 @high @started(21-09-11 14:00) @done(21-09-11 19:17) @lasted(5h17m7s)
+    ✘ eo naver webtoon 채용 설명회 다시보기 @cancelled(21-09-12 10:31)
+  study:
+    rl:
+      ✘ 다음장 준비 @cancelled(21-09-12 10:31)
+
+day-2021-09-12:
+  - [ ] 블로그 정리 및 내일 할일 정리 2021-09-12
+  job:
     - [ ] eo naver webtoon 채용 설명회 다시보기
+  sport:
+    - [ ] cf 1566
   study:
     rl:
       - [ ] 다음장 준비
@@ -87,6 +83,14 @@ longterm:
   - [ ] 영어 공부하기
 
 Archive:
+  - [x] 블로그 정리 및 내일 할일 정리 2021-09-10 @started(21-09-11 04:01) @done(21-09-11 04:16) @lasted(15m7s) @project(day-2021-09-10)
+  ✘ 이분탐색 복습 2 @cancelled(21-09-11 03:33) @project(day-2021-09-10.sport)
+  - [x] 2021 인턴십 @started(21-09-10 10:31) @done(21-09-10 19:30) @lasted(8h59m35s) @project(day-2021-09-10.sport.kakao 문제 풀이)
+  - [x] 2021 인턴십 2 @started(21-09-10 22:47) @done(21-09-10 23:23) @lasted(36m17s) @project(day-2021-09-10.sport.kakao 문제 풀이)
+  ✘ 2021 인턴십 3 @cancelled(21-09-11 03:32) @project(day-2021-09-10.sport.kakao 문제 풀이)
+  ✘ 가사 검색 (다시풀기) @cancelled(21-09-11 03:32) @project(day-2021-09-10.sport.kakao 2020 다시풀기)
+  ✘ 길 찾기 게임 @cancelled(21-09-11 03:32) @project(day-2021-09-10.sport.kakao 2020 다시풀기)
+  ✘ eo naver webtoon 채용 설명회 다시보기 @cancelled(21-09-11 03:41) @project(day-2021-09-10.job)
   - [x] 블로그 정리 및 내일 할일 정리 2021-09-09 @late @started(21-09-10 10:25) @done(21-09-10 10:26) @lasted(1m52s) @project(day-2021-09-09)
   ✘ 이분탐색 복습 2 @cancelled(21-09-10 10:25) @project(day-2021-09-09.sport)
   - [x] 무지의 먹방 라이브 @started(21-09-09 12:58) @done(21-09-09 15:57) @lasted(2h59m46s) @project(day-2021-09-09.sport.kakao 2019 다시풀기)
