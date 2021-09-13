@@ -1,24 +1,22 @@
-day-2021-09-11:
-  - [x] 블로그 정리 및 내일 할일 정리 2021-09-11 @late @started(21-09-12 10:33) @done(21-09-12 10:41) @lasted(8m31s)
-  sport:
-    - [x] 기타 알고리즘 문제유형 풀기 1 @started(21-09-11 04:17) @done(21-09-11 05:53) @lasted(1h36m43s)
+day-2021-09-12:
+  - [x] 블로그 정리 및 내일 할일 정리 2021-09-12 @late @started(21-09-13 12:48) @done(21-09-13 12:53) @lasted(5m39s)
   job:
-    - [x] line 코테 응시 (오전 9시 30분 ~ 오후 12시 30분) @started(21-09-11 09:45) @done(21-09-11 14:00) @lasted(4h15m58s)
-    - [x] kakao 2022 코테 응시 @high @started(21-09-11 14:00) @done(21-09-11 19:17) @lasted(5h17m7s)
-    ✘ eo naver webtoon 채용 설명회 다시보기 @cancelled(21-09-12 10:31)
+    ✘ eo naver webtoon 채용 설명회 다시보기 @cancelled(21-09-13 12:48)
+  sport:
+    ✘ cf 1566 @cancelled(21-09-13 03:09)
   study:
     rl:
-      ✘ 다음장 준비 @cancelled(21-09-12 10:31)
+      - [x] 다음장 준비 @started(21-09-12 11:04) @done(21-09-12 15:02) @lasted(3h58m31s)
+      - [x] 다음장 준비 2 @done(21-09-12 19:11)
 
-day-2021-09-12:
-  - [ ] 블로그 정리 및 내일 할일 정리 2021-09-12
+day-2021-09-13:
+  - [ ] 블로그 정리 및 내일 할일 정리 2021-09-13
   job:
     - [ ] eo naver webtoon 채용 설명회 다시보기
-  sport:
-    - [ ] cf 1566
   study:
     rl:
-      - [ ] 다음장 준비
+      - [ ] 다음장 준비 3
+      - [ ] 회의
 
 blog:
   - [ ] 로컬 저장소 정리하기
@@ -83,6 +81,12 @@ longterm:
   - [ ] 영어 공부하기
 
 Archive:
+  - [x] 블로그 정리 및 내일 할일 정리 2021-09-11 @late @started(21-09-12 10:33) @done(21-09-12 10:41) @lasted(8m31s) @project(day-2021-09-11)
+  - [x] 기타 알고리즘 문제유형 풀기 1 @started(21-09-11 04:17) @done(21-09-11 05:53) @lasted(1h36m43s) @project(day-2021-09-11.sport)
+  - [x] line 코테 응시 (오전 9시 30분 ~ 오후 12시 30분) @started(21-09-11 09:45) @done(21-09-11 14:00) @lasted(4h15m58s) @project(day-2021-09-11.job)
+  - [x] kakao 2022 코테 응시 @high @started(21-09-11 14:00) @done(21-09-11 19:17) @lasted(5h17m7s) @project(day-2021-09-11.job)
+  ✘ eo naver webtoon 채용 설명회 다시보기 @cancelled(21-09-12 10:31) @project(day-2021-09-11.job)
+  ✘ 다음장 준비 @cancelled(21-09-12 10:31) @project(day-2021-09-11.study.rl)
   - [x] 블로그 정리 및 내일 할일 정리 2021-09-10 @started(21-09-11 04:01) @done(21-09-11 04:16) @lasted(15m7s) @project(day-2021-09-10)
   ✘ 이분탐색 복습 2 @cancelled(21-09-11 03:33) @project(day-2021-09-10.sport)
   - [x] 2021 인턴십 @started(21-09-10 10:31) @done(21-09-10 19:30) @lasted(8h59m35s) @project(day-2021-09-10.sport.kakao 문제 풀이)
