@@ -1,22 +1,21 @@
-day-2021-09-12:
-  - [x] 블로그 정리 및 내일 할일 정리 2021-09-12 @late @started(21-09-13 12:48) @done(21-09-13 12:53) @lasted(5m39s)
+day-2021-09-13:
+  - [x] 블로그 정리 및 내일 할일 정리 2021-09-13 @late @started(21-09-14 15:34) @done(21-09-14 15:38) @lasted(4m51s)
   job:
-    ✘ eo naver webtoon 채용 설명회 다시보기 @cancelled(21-09-13 12:48)
-  sport:
-    ✘ cf 1566 @cancelled(21-09-13 03:09)
+    ✘ eo naver webtoon 채용 설명회 다시보기 @cancelled(21-09-14 02:20)
   study:
     rl:
-      - [x] 다음장 준비 @started(21-09-12 11:04) @done(21-09-12 15:02) @lasted(3h58m31s)
-      - [x] 다음장 준비 2 @done(21-09-12 19:11)
+      - [x] 다음장 준비 3 @started(21-09-13 16:37) @done(21-09-13 22:13) @lasted(5h36m18s)
+      - [x] 회의 @done(21-09-13 22:13)
 
-day-2021-09-13:
-  - [ ] 블로그 정리 및 내일 할일 정리 2021-09-13
+day-2021-09-14:
+  - [ ] 블로그 정리 및 내일 할일 정리 2021-09-14
   job:
     - [ ] eo naver webtoon 채용 설명회 다시보기
-  study:
-    rl:
-      - [ ] 다음장 준비 3
-      - [ ] 회의
+  sport:
+    - [ ] kakao 알고리즘 문제풀이 
+      
+scheduled:
+  - [ ] kakao 2차 알고리즘 복습 https://programmers.co.kr/skill_check_assignments/67
 
 blog:
   - [ ] 로컬 저장소 정리하기
@@ -66,6 +65,8 @@ job:
 study:
   math:
     - [ ] 선형대수 - 수학적벡터 문제풀이
+  rl:
+    - [ ] 복습하기 https://github.com/sjchoi86/rl_tutorial/
 
 other:
   - [ ] 북마크 정리하기
@@ -81,6 +82,11 @@ longterm:
   - [ ] 영어 공부하기
 
 Archive:
+  - [x] 블로그 정리 및 내일 할일 정리 2021-09-12 @late @started(21-09-13 12:48) @done(21-09-13 12:53) @lasted(5m39s) @project(day-2021-09-12)
+  ✘ eo naver webtoon 채용 설명회 다시보기 @cancelled(21-09-13 12:48) @project(day-2021-09-12.job)
+  ✘ cf 1566 @cancelled(21-09-13 03:09) @project(day-2021-09-12.sport)
+  - [x] 다음장 준비 @started(21-09-12 11:04) @done(21-09-12 15:02) @lasted(3h58m31s) @project(day-2021-09-12.study.rl)
+  - [x] 다음장 준비 2 @done(21-09-12 19:11) @project(day-2021-09-12.study.rl)
   - [x] 블로그 정리 및 내일 할일 정리 2021-09-11 @late @started(21-09-12 10:33) @done(21-09-12 10:41) @lasted(8m31s) @project(day-2021-09-11)
   - [x] 기타 알고리즘 문제유형 풀기 1 @started(21-09-11 04:17) @done(21-09-11 05:53) @lasted(1h36m43s) @project(day-2021-09-11.sport)
   - [x] line 코테 응시 (오전 9시 30분 ~ 오후 12시 30분) @started(21-09-11 09:45) @done(21-09-11 14:00) @lasted(4h15m58s) @project(day-2021-09-11.job)
