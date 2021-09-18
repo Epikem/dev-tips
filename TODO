@@ -1,17 +1,12 @@
-day-2021-09-16:
-  - [x] 블로그 정리 및 내일 할일 정리 2021-09-16 @started(21-09-17 12:40) @done(21-09-17 12:46) @lasted(6m47s)
-  project:
-    pseudo:
-      - [x] 통계 기능 작업 @started(21-09-16 14:21) @done(21-09-16 18:50) @lasted(4h30m)
-  sport:
-    ✘ kakao 2차 알고리즘 복습 https://programmers.co.kr/skill_check_assignments/67 @cancelled(21-09-17 12:39)
-
 day-2021-09-17:
-  - [ ] 블로그 정리 및 내일 할일 정리 2021-09-17
+  ✘ 블로그 정리 및 내일 할일 정리 2021-09-17 @late @cancelled(21-09-19 02:29)
   sport:
-    - [ ] kakao 2차 알고리즘 복습 2 https://programmers.co.kr/skill_check_assignments/67
+    - [x] kakao 2차 알고리즘 복습 2 https://programmers.co.kr/skill_check_assignments/67 @started(21-09-17 13:08) @done(21-09-17 15:47) @lasted(2h39m54s)
 
-day-2021-09-18:
+day-2021-09-19:
+  - [ ] 블로그 정리 및 내일 할일 정리 2021-09-19
+  sport:
+    - [ ] kakao 2차 알고리즘 다시풀기 3 https://programmers.co.kr/skill_check_assignments/67
   project:
     pseudo:
       - [ ] 통계 기능 작업
@@ -85,6 +80,9 @@ longterm:
   - [ ] 영어 공부하기
 
 Archive:
+  - [x] 블로그 정리 및 내일 할일 정리 2021-09-16 @started(21-09-17 12:40) @done(21-09-17 12:46) @lasted(6m47s) @project(day-2021-09-16)
+  - [x] 통계 기능 작업 @started(21-09-16 14:21) @done(21-09-16 18:50) @lasted(4h30m) @project(day-2021-09-16.project.pseudo)
+  ✘ kakao 2차 알고리즘 복습 https://programmers.co.kr/skill_check_assignments/67 @cancelled(21-09-17 12:39) @project(day-2021-09-16.sport)
   ✘ 블로그 정리 및 내일 할일 정리 2021-09-14 @cancelled(21-09-16 03:34) @project(day-2021-09-14)
   ✘ eo naver webtoon 채용 설명회 다시보기 @cancelled(21-09-16 03:34) @project(day-2021-09-14.job)
   ✘ kakao 알고리즘 문제풀이 @cancelled(21-09-14 18:24) @project(day-2021-09-14.sport)
