@@ -1,17 +1,14 @@
-day-2021-09-19:
-  - [x] 블로그 정리 및 내일 할일 정리 2021-09-19 @started(21-09-20 06:08) @done(21-09-20 06:09) @lasted(1m5s)
-  sport:
-    - [x] kakao 2차 알고리즘 다시풀기 3 https://programmers.co.kr/skill_check_assignments/67 @started(21-09-19 18:52) @done(21-09-19 22:41) @lasted(3h49m26s)
-  project:
-    pseudo:
-      ✘ 통계 기능 작업 @cancelled(21-09-20 05:51)
-
 day-2021-09-20:
-  - [ ] 블로그 정리 및 내일 할일 정리 2021-09-20
+  - [x] 블로그 정리 및 내일 할일 정리 2021-09-20 @late @started(21-09-21 08:05) @done(21-09-21 08:07) @lasted(2m18s)
   sport:
-    - [ ] kakao 2차 알고리즘 다시풀기 4 https://programmers.co.kr/skill_check_assignments/67 @started(21-09-19 18:52)
-    - [ ] cf 1574
-      
+    - [x] kakao 2차 알고리즘 다시풀기 4 https://programmers.co.kr/skill_check_assignments/67 @started(21-09-20 10:36) @done(21-09-20 15:35) @lasted(4h59m31s)
+    ✘ cf 1574 @cancelled(21-09-21 08:05)
+  
+day-2021-09-21:
+  - [ ] 블로그 정리 및 내일 할일 정리 2021-09-21
+  sport:
+    - [ ] kakao 2차 알고리즘 다시풀기 5 https://programmers.co.kr/skill_check_assignments/67
+  
 day-2021-10-04:
   job:
     - [ ] 지원 https://recruit.nhn.com/ent/recruitings/20002106
@@ -81,6 +78,9 @@ longterm:
   - [ ] 영어 공부하기
 
 Archive:
+  - [x] 블로그 정리 및 내일 할일 정리 2021-09-19 @started(21-09-20 06:08) @done(21-09-20 06:09) @lasted(1m5s) @project(day-2021-09-19)
+  - [x] kakao 2차 알고리즘 다시풀기 3 https://programmers.co.kr/skill_check_assignments/67 @started(21-09-19 18:52) @done(21-09-19 22:41) @lasted(3h49m26s) @project(day-2021-09-19.sport)
+  ✘ 통계 기능 작업 @cancelled(21-09-20 05:51) @project(day-2021-09-19.project.pseudo)
   ✘ 블로그 정리 및 내일 할일 정리 2021-09-17 @late @cancelled(21-09-19 02:29) @project(day-2021-09-17)
   - [x] kakao 2차 알고리즘 복습 2 https://programmers.co.kr/skill_check_assignments/67 @started(21-09-17 13:08) @done(21-09-17 15:47) @lasted(2h39m54s) @project(day-2021-09-17.sport)
   - [x] 블로그 정리 및 내일 할일 정리 2021-09-16 @started(21-09-17 12:40) @done(21-09-17 12:46) @lasted(6m47s) @project(day-2021-09-16)
