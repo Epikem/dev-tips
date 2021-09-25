@@ -1,14 +1,15 @@
-day-2021-09-23:
-  - [x] 블로그 정리 및 내일 할일 정리 2021-09-23 @late @started(21-09-24 14:26) @done(21-09-24 14:26) @lasted(25s)
-  sport:
-    - [x] kakao 2차 알고리즘 다시풀기 8 @started(21-09-23 13:57) @done(21-09-23 20:40) @lasted(6h43m38s)
-    - [x] kakao 2019 2차 @started(21-09-23 23:05) @done(21-09-24 05:49) @lasted(6h44m16s)
-        
 day-2021-09-24:
-  - [ ] 블로그 정리 및 내일 할일 정리 2021-09-24
+  - [x] 블로그 정리 및 내일 할일 정리 2021-09-24 @late @done(21-09-25 12:37)
   sport:
-    - [ ] kakao 2차 알고리즘 다시풀기 9
-    - [ ] kakao 2019 2차 2
+    ✘ kakao 2차 알고리즘 다시풀기 9 @cancelled(21-09-25 12:00)
+    - [x] kakao 2019 2차 2 @started(21-09-24 14:26) @done(21-09-24 17:38) @lasted(3h12m46s)
+    ✘ kakao 2019 2차 3 clone @cancelled(21-09-25 12:00)
+
+day-2021-09-25:
+  - [ ] 블로그 정리 및 내일 할일 정리 2021-09-25
+  sport:
+    - [ ] kakao 2차 응시
+    - [ ] kakao 2019 2차 3 clone
 
 https://apply.lg.com/app/job/RetrieveJobNoticesDetail.rpi?jobNoticeId=15694
 
@@ -83,6 +84,9 @@ longterm:
   - [ ] 영어 공부하기
 
 Archive:
+  - [x] 블로그 정리 및 내일 할일 정리 2021-09-23 @late @started(21-09-24 14:26) @done(21-09-24 14:26) @lasted(25s) @project(day-2021-09-23)
+  - [x] kakao 2차 알고리즘 다시풀기 8 @started(21-09-23 13:57) @done(21-09-23 20:40) @lasted(6h43m38s) @project(day-2021-09-23.sport)
+  - [x] kakao 2019 2차 @started(21-09-23 23:05) @done(21-09-24 05:49) @lasted(6h44m16s) @project(day-2021-09-23.sport)
   - [x] 블로그 정리 및 내일 할일 정리 2021-09-22 @late @started(21-09-23 12:56) @done(21-09-23 12:57) @lasted(1m1s) @project(day-2021-09-22)
   - [x] kakao 2차 알고리즘 다시풀기 7 @started(21-09-22 22:56) @done(21-09-23 02:32) @lasted(3h36m23s) @project(day-2021-09-22.sport)
   - [x] 블로그 정리 및 내일 할일 정리 2021-09-21 @late @started(21-09-22 18:15) @done(21-09-22 18:16) @lasted(1m14s) @project(day-2021-09-21)
