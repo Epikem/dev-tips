@@ -1,19 +1,19 @@
-day-2021-09-24:
-  - [x] 블로그 정리 및 내일 할일 정리 2021-09-24 @late @done(21-09-25 12:37)
-  sport:
-    ✘ kakao 2차 알고리즘 다시풀기 9 @cancelled(21-09-25 12:00)
-    - [x] kakao 2019 2차 2 @started(21-09-24 14:26) @done(21-09-24 17:38) @lasted(3h12m46s)
-    ✘ kakao 2019 2차 3 clone @cancelled(21-09-25 12:00)
-
 day-2021-09-25:
-  - [ ] 블로그 정리 및 내일 할일 정리 2021-09-25
+  ✘ 블로그 정리 및 내일 할일 정리 2021-09-25 @cancelled(21-09-27 07:01)
   sport:
-    - [ ] kakao 2차 응시
-    - [ ] kakao 2019 2차 3 clone
+    - [x] kakao 2차 응시 @started(21-09-25 12:43) @done(21-09-25 18:59) @lasted(6h16m53s)
+    ✘ kakao 2019 2차 3 clone @cancelled(21-09-25 12:43)
 
 https://apply.lg.com/app/job/RetrieveJobNoticesDetail.rpi?jobNoticeId=15694
 
-https://tech.kakao.com/2019/10/21/kakao-blind-recruitment-2020-round2/
+day-2021-09-27:
+  - [ ] 블로그 정리 및 내일 할일 정리 2021-09-27
+  project:
+    epis:
+      - [ ] msa 강의 수강
+  sport:
+    - [ ] bj 1021 풀이
+
 
 day-2021-10-04:
   job:
@@ -30,6 +30,7 @@ blog:
   - [ ] tip 추가: aws cloudfront를 활용하여 http를 https로 래핑하기
   - [ ] tip 추가: ntp 포트(udp/123) 막혀있을 때 htpdate로 시간 동기화하기 (https://askubuntu.com/questions/1292225/ntp-port-is-blocked-how-to-sync-time-18-04)
   - [ ] tip 추가: docker container간 서비스 커뮤니케이션 및 `[::]`
+  - [ ] 후기 추가: kakao 2022 2차
 
   meta:
     - [ ] 수동 연도 업데이트 필요
@@ -84,6 +85,10 @@ longterm:
   - [ ] 영어 공부하기
 
 Archive:
+  - [x] 블로그 정리 및 내일 할일 정리 2021-09-24 @late @done(21-09-25 12:37) @project(day-2021-09-24)
+  ✘ kakao 2차 알고리즘 다시풀기 9 @cancelled(21-09-25 12:00) @project(day-2021-09-24.sport)
+  - [x] kakao 2019 2차 2 @started(21-09-24 14:26) @done(21-09-24 17:38) @lasted(3h12m46s) @project(day-2021-09-24.sport)
+  ✘ kakao 2019 2차 3 clone @cancelled(21-09-25 12:00) @project(day-2021-09-24.sport)
   - [x] 블로그 정리 및 내일 할일 정리 2021-09-23 @late @started(21-09-24 14:26) @done(21-09-24 14:26) @lasted(25s) @project(day-2021-09-23)
   - [x] kakao 2차 알고리즘 다시풀기 8 @started(21-09-23 13:57) @done(21-09-23 20:40) @lasted(6h43m38s) @project(day-2021-09-23.sport)
   - [x] kakao 2019 2차 @started(21-09-23 23:05) @done(21-09-24 05:49) @lasted(6h44m16s) @project(day-2021-09-23.sport)
