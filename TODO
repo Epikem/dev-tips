@@ -1,21 +1,12 @@
-day-2021-09-27:
-  - [x] 블로그 정리 및 내일 할일 정리 2021-09-27 @late @started(21-09-28 19:11) @done(21-09-28 19:47) @lasted(36m37s)
-  study:
-    msa:
-      - [x] nest js 시도 @started(21-09-27 16:53) @done(21-09-27 22:50) @lasted(5h57m37s)
-  sport:
-    ✘ bj 1021 풀이 @cancelled(21-09-28 17:50)
-
 day-2021-09-28:
   - [ ] 블로그 정리 및 내일 할일 정리 2021-09-28
   study:
     msa:
       - [ ] nest js 시도
   sport:
-    ✘ bj 1021 풀이 @cancelled(21-09-28 17:50)
+    - [x] bj 17352 풀이 @started(21-09-28 20:13) @done(21-09-28 21:52) @lasted(1h39m34s)
 
 https://apply.lg.com/app/job/RetrieveJobNoticesDetail.rpi?jobNoticeId=15694
-
 
 day-2021-10-04:
   job:
@@ -91,6 +82,9 @@ longterm:
   - [ ] 영어 공부하기
 
 Archive:
+  - [x] 블로그 정리 및 내일 할일 정리 2021-09-27 @late @started(21-09-28 19:11) @done(21-09-28 19:47) @lasted(36m37s) @project(day-2021-09-27)
+  - [x] nest js 시도 @started(21-09-27 16:53) @done(21-09-27 22:50) @lasted(5h57m37s) @project(day-2021-09-27.study.msa)
+  ✘ bj 1021 풀이 @cancelled(21-09-28 17:50) @project(day-2021-09-27.sport)
   ✘ 블로그 정리 및 내일 할일 정리 2021-09-25 @cancelled(21-09-27 07:01) @project(day-2021-09-25)
   - [x] kakao 2차 응시 @started(21-09-25 12:43) @done(21-09-25 18:59) @lasted(6h16m53s) @project(day-2021-09-25.sport)
   ✘ kakao 2019 2차 3 clone @cancelled(21-09-25 12:43) @project(day-2021-09-25.sport)
