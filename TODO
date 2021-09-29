@@ -1,10 +1,19 @@
 day-2021-09-28:
-  - [ ] 블로그 정리 및 내일 할일 정리 2021-09-28
+  - [x] 블로그 정리 및 내일 할일 정리 2021-09-28 @late @started(21-09-29 13:16) @done(21-09-29 13:32) @lasted(16m52s)
+  study:
+    msa:
+      - [x] nest js 시도 @started(21-09-28 21:56) @done(21-09-28 23:03) @lasted(1h7m6s)
+  sport:
+    - [x] bj 17352 풀이 @started(21-09-28 20:13) @done(21-09-28 21:52) @lasted(1h39m34s)
+
+day-2021-09-29:
+  - [ ] 블로그 정리 및 내일 할일 정리 2021-09-29
   study:
     msa:
       - [ ] nest js 시도
   sport:
-    - [x] bj 17352 풀이 @started(21-09-28 20:13) @done(21-09-28 21:52) @lasted(1h39m34s)
+    - [ ] bj 17352 풀이
+    
 
 https://apply.lg.com/app/job/RetrieveJobNoticesDetail.rpi?jobNoticeId=15694
 
