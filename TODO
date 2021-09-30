@@ -1,20 +1,26 @@
-day-2021-09-28:
-  - [x] 블로그 정리 및 내일 할일 정리 2021-09-28 @late @started(21-09-29 13:16) @done(21-09-29 13:32) @lasted(16m52s)
-  study:
-    msa:
-      - [x] nest js 시도 @started(21-09-28 21:56) @done(21-09-28 23:03) @lasted(1h7m6s)
-  sport:
-    - [x] bj 17352 풀이 @started(21-09-28 20:13) @done(21-09-28 21:52) @lasted(1h39m34s)
-
 day-2021-09-29:
-  - [ ] 블로그 정리 및 내일 할일 정리 2021-09-29
+  - [x] 블로그 정리 및 내일 할일 정리 2021-09-29 @started(21-09-30 12:07) @done(21-09-30 12:59) @lasted(52m15s)
   study:
     msa:
-      - [ ] nest js 시도
+      - [x] nest js 학습 1 @started(21-09-29 13:33) @done(21-09-29 14:20) @lasted(47m3s)
+      - [x] nest js 학습 2 @started(21-09-29 15:20) @done(21-09-29 16:28) @lasted(1h8m20s)
   sport:
-    - [ ] bj 17352 풀이
+    - [x] bj 1120 풀기 @started(21-09-29 20:28) @done(21-09-29 20:47) @lasted(19m16s)
+    - [x] bj 20055 풀기 @started(21-09-29 20:47) @done(21-09-29 22:22) @lasted(1h35m16s) @fail
     
-
+day-2021-09-30:
+  - [ ] 블로그 정리 및 내일 할일 정리 2021-09-30
+  project:
+    pseudo:
+      - [ ] 사용자 통계 작업 @est(4h) 
+  study:
+    msa:
+      - [ ] nest js 학습 3
+  sport:
+    - [ ] bj 20055 마저 풀기 @est(1h)
+    - [ ] bj 5766 풀기 @est(2h)
+    - [ ] bj 1713 풀기 @est(2h)
+    
 https://apply.lg.com/app/job/RetrieveJobNoticesDetail.rpi?jobNoticeId=15694
 
 day-2021-10-04:
@@ -91,6 +97,9 @@ longterm:
   - [ ] 영어 공부하기
 
 Archive:
+  - [x] 블로그 정리 및 내일 할일 정리 2021-09-28 @late @started(21-09-29 13:16) @done(21-09-29 13:32) @lasted(16m52s) @project(day-2021-09-28)
+  - [x] nest js 시도 @started(21-09-28 21:56) @done(21-09-28 23:03) @lasted(1h7m6s) @project(day-2021-09-28.study.msa)
+  - [x] bj 17352 풀이 @started(21-09-28 20:13) @done(21-09-28 21:52) @lasted(1h39m34s) @project(day-2021-09-28.sport)
   - [x] 블로그 정리 및 내일 할일 정리 2021-09-27 @late @started(21-09-28 19:11) @done(21-09-28 19:47) @lasted(36m37s) @project(day-2021-09-27)
   - [x] nest js 시도 @started(21-09-27 16:53) @done(21-09-27 22:50) @lasted(5h57m37s) @project(day-2021-09-27.study.msa)
   ✘ bj 1021 풀이 @cancelled(21-09-28 17:50) @project(day-2021-09-27.sport)
