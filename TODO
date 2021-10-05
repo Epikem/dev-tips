@@ -1,30 +1,27 @@
-day-2021-10-02:
-  ✘ 블로그 정리 및 내일 할일 정리 2021-10-02 @cancelled(21-10-04 17:58)
-  study:
-    msa:
-      ✘ nest js 학습 3 @cancelled(21-10-04 17:44)
-    rl:
-      ✘ 다음장 스터디 @cancelled(21-10-04 17:57)
-  sport:
-    - [x] bj 5766 풀기 @est(2h) @started(21-10-02 14:14) @done(21-10-02 14:38) @lasted(24m41s)
-    - [x] bj 1713 풀기 @est(2h) @started(21-10-02 14:38) @done(21-10-02 17:59) @lasted(3h21m30s) @fail
-    - [x] bj 1713 다시 풀기 @est(2h) @done(21-10-04 17:57)
-    
-https://apply.lg.com/app/job/RetrieveJobNoticesDetail.rpi?jobNoticeId=15694
-
 day-2021-10-04:
-  - [ ] 블로그 정리 및 내일 할일 정리 2021-10-04
+  - [x] 블로그 정리 및 내일 할일 정리 2021-10-04 @late @started(21-10-05 13:34) @done(21-10-05 13:40) @lasted(6m26s)
   job:
-    - [ ] 지원 https://recruit.nhn.com/ent/recruitings/20002106
+    ✘ 지원 https://recruit.nhn.com/ent/recruitings/20002106 @cancelled(21-10-04 21:43)
+  study:
+    rl:
+      - [x] 7장 스터디 @done(21-10-04 21:09)
+  sport:
+    - [x] bj 1758 풀기 @started(21-10-04 21:44) @done(21-10-04 21:56) @lasted(12m4s)
+    ✘ bj 1455 @cancelled(21-10-05 07:42)
+
+day-2021-10-05:
+  - [ ] 블로그 정리 및 내일 할일 정리 2021-10-05
   study:
     rl:
       - [ ] 7장 스터디
   sport:
-    - [ ] bj 풀기
+    - [ ] bj 1455
 
 day-2021-10-09:
   sport:
     - [ ] 네이버 코테 응시
+
+https://apply.lg.com/app/job/RetrieveJobNoticesDetail.rpi?jobNoticeId=15694
 
 blog:
   - [ ] 로컬 저장소 정리하기
@@ -92,6 +89,12 @@ longterm:
   - [ ] 영어 공부하기
 
 Archive:
+  ✘ 블로그 정리 및 내일 할일 정리 2021-10-02 @cancelled(21-10-04 17:58) @project(day-2021-10-02)
+  ✘ nest js 학습 3 @cancelled(21-10-04 17:44) @project(day-2021-10-02.study.msa)
+  ✘ 다음장 스터디 @cancelled(21-10-04 17:57) @project(day-2021-10-02.study.rl)
+  - [x] bj 5766 풀기 @est(2h) @started(21-10-02 14:14) @done(21-10-02 14:38) @lasted(24m41s) @project(day-2021-10-02.sport)
+  - [x] bj 1713 풀기 @est(2h) @started(21-10-02 14:38) @done(21-10-02 17:59) @lasted(3h21m30s) @fail @project(day-2021-10-02.sport)
+  - [x] bj 1713 다시 풀기 @est(2h) @done(21-10-04 17:57) @project(day-2021-10-02.sport)
   ✘ 블로그 정리 및 내일 할일 정리 2021-09-30 @late @cancelled(21-10-02 12:21) @project(day-2021-09-30)
   - [x] 사용자 통계 작업 @est(4h) @started(21-09-30 15:17) @done(21-09-30 19:22) @lasted(4h5m4s) @project(day-2021-09-30.project.pseudo)
   ✘ nest js 학습 3 @cancelled(21-10-02 12:19) @project(day-2021-09-30.study.msa)
