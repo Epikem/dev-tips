@@ -1,23 +1,30 @@
-day-2021-10-06:
-  - [x] 블로그 정리 및 내일 할일 정리 2021-10-06 @late @started(21-10-07 12:33) @done(21-10-07 12:35) @lasted(2m49s)
-  sport:
-    - [x] bj 2616 @started(21-10-06 16:39) @done(21-10-06 19:15) @lasted(2h36m9s) @fail
-    - [x] bj 1764 @started(21-10-06 19:15) @done(21-10-06 19:23) @lasted(8m1s)
-    ✘ bj 2800 @cancelled(21-10-07 12:33)
-
 day-2021-10-07:
-  - [ ] 블로그 정리 및 내일 할일 정리 2021-10-07
+  ✘ 블로그 정리 및 내일 할일 정리 2021-10-07 @cancelled(21-10-10 12:17)
+  project:
+    pseudo:
+      ✘ 통계 모듈 개발 @cancelled(21-10-10 12:17)
   sport:
-    - [ ] bj 2616 다시풀기
-    - [ ] bj 2800
-    - [ ] bj 1817
-    - [ ] bj 2812
+    - [x] bj 2800 @started(21-10-07 14:10) @done(21-10-07 16:10) @lasted(2h)
+    - [x] bj 1817 @started(21-10-07 12:50) @done(21-10-07 14:06) @lasted(1h16m42s)
+    ✘ bj 2812 @cancelled(21-10-10 12:17)
+    ✘ bj 2616 다시풀기 @cancelled(21-10-10 12:17)
     
 day-2021-10-09:
   sport:
-    - [ ] 네이버 코테 응시
+    ✘ 네이버 코테 응시 @cancelled(21-10-10 12:18)
 
-https://apply.lg.com/app/job/RetrieveJobNoticesDetail.rpi?jobNoticeId=15694
+day-2021-10-10:
+  - [ ] 블로그 정리 및 내일 할일 정리 2021-10-10
+  project:
+    pseudo:
+      - [ ] 통계 모듈 개발
+  sport:
+    - [ ] bj 2812
+    - [ ] bj 2616 다시풀기
+
+day-2021-10-17:
+  job:
+    - [ ] nhn채용 지원 https://recruit.nhn.com/ent/landing
 
 blog:
   - [ ] 로컬 저장소 정리하기
@@ -84,6 +91,10 @@ longterm:
   - [ ] 영어 공부하기
 
 Archive:
+  - [x] 블로그 정리 및 내일 할일 정리 2021-10-06 @late @started(21-10-07 12:33) @done(21-10-07 12:35) @lasted(2m49s) @project(day-2021-10-06)
+  - [x] bj 2616 @started(21-10-06 16:39) @done(21-10-06 19:15) @lasted(2h36m9s) @fail @project(day-2021-10-06.sport)
+  - [x] bj 1764 @started(21-10-06 19:15) @done(21-10-06 19:23) @lasted(8m1s) @project(day-2021-10-06.sport)
+  ✘ bj 2800 @cancelled(21-10-07 12:33) @project(day-2021-10-06.sport)
   - [x] 블로그 정리 및 내일 할일 정리 2021-10-05 @late @started(21-10-06 14:18) @done(21-10-06 14:22) @lasted(4m35s) @project(day-2021-10-05)
   - [x] bj 14501 @done(21-10-05 14:16) @project(day-2021-10-05.sport)
   ✘ bj 20117 @started(21-10-05 14:17) @cancelled(21-10-05 16:07) @wasted(1h50m16s) @fail @project(day-2021-10-05.sport)
