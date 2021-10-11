@@ -1,26 +1,16 @@
-day-2021-10-07:
-  ✘ 블로그 정리 및 내일 할일 정리 2021-10-07 @cancelled(21-10-10 12:17)
-  project:
-    pseudo:
-      ✘ 통계 모듈 개발 @cancelled(21-10-10 12:17)
-  sport:
-    - [x] bj 2800 @started(21-10-07 14:10) @done(21-10-07 16:10) @lasted(2h)
-    - [x] bj 1817 @started(21-10-07 12:50) @done(21-10-07 14:06) @lasted(1h16m42s)
-    ✘ bj 2812 @cancelled(21-10-10 12:17)
-    ✘ bj 2616 다시풀기 @cancelled(21-10-10 12:17)
-    
-day-2021-10-09:
-  sport:
-    ✘ 네이버 코테 응시 @cancelled(21-10-10 12:18)
-
 day-2021-10-10:
-  - [ ] 블로그 정리 및 내일 할일 정리 2021-10-10
+  - [ ] 블로그 정리 및 내일 할일 정리 2021-10-10 @started(21-10-11 10:35)
+  study:
+    rl:
+      - [x] 9장 공부 @started(21-10-10 16:55) @done(21-10-10 17:14) @lasted(19m53s)
   project:
     pseudo:
-      - [ ] 통계 모듈 개발
+      ✘ 통계 모듈 개발 @cancelled(21-10-11 10:35)
   sport:
-    - [ ] bj 2812
-    - [ ] bj 2616 다시풀기
+    - [x] bj 2812 @started(21-10-10 13:00) @done(21-10-10 13:38) @lasted(38m21s) @fail
+    ✘ bj 2616 다시풀기 @cancelled(21-10-11 10:35)
+    - [x] bj 10815 @started(21-10-10 13:40) @done(21-10-10 13:58) @lasted(18m53s)
+    - [x] bj 17485 @started(21-10-10 14:14) @done(21-10-10 15:42) @lasted(1h28m38s)
 
 day-2021-10-17:
   job:
@@ -91,6 +81,13 @@ longterm:
   - [ ] 영어 공부하기
 
 Archive:
+  ✘ 블로그 정리 및 내일 할일 정리 2021-10-07 @cancelled(21-10-10 12:17) @project(day-2021-10-07)
+  ✘ 통계 모듈 개발 @cancelled(21-10-10 12:17) @project(day-2021-10-07.project.pseudo)
+  - [x] bj 2800 @started(21-10-07 14:10) @done(21-10-07 16:10) @lasted(2h) @project(day-2021-10-07.sport)
+  - [x] bj 1817 @started(21-10-07 12:50) @done(21-10-07 14:06) @lasted(1h16m42s) @project(day-2021-10-07.sport)
+  ✘ bj 2812 @cancelled(21-10-10 12:17) @project(day-2021-10-07.sport)
+  ✘ bj 2616 다시풀기 @cancelled(21-10-10 12:17) @project(day-2021-10-07.sport)
+  ✘ 네이버 코테 응시 @cancelled(21-10-10 12:18) @project(day-2021-10-09.sport)
   - [x] 블로그 정리 및 내일 할일 정리 2021-10-06 @late @started(21-10-07 12:33) @done(21-10-07 12:35) @lasted(2m49s) @project(day-2021-10-06)
   - [x] bj 2616 @started(21-10-06 16:39) @done(21-10-06 19:15) @lasted(2h36m9s) @fail @project(day-2021-10-06.sport)
   - [x] bj 1764 @started(21-10-06 19:15) @done(21-10-06 19:23) @lasted(8m1s) @project(day-2021-10-06.sport)
