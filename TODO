@@ -1,17 +1,20 @@
-day-2021-10-10:
-  - [ ] 블로그 정리 및 내일 할일 정리 2021-10-10 @started(21-10-11 10:35)
-  study:
-    rl:
-      - [x] 9장 공부 @started(21-10-10 16:55) @done(21-10-10 17:14) @lasted(19m53s)
+day-2021-10-12:
+  - [x] 블로그 정리 및 내일 할일 정리 2021-10-12 @started(21-10-13 04:32) @done(21-10-13 04:34) @lasted(2m52s)
   project:
-    pseudo:
-      ✘ 통계 모듈 개발 @cancelled(21-10-11 10:35)
+    epis:
+      ✘ msa 강의 수강 @cancelled(21-10-13 04:31)
   sport:
-    - [x] bj 2812 @started(21-10-10 13:00) @done(21-10-10 13:38) @lasted(38m21s) @fail
-    ✘ bj 2616 다시풀기 @cancelled(21-10-11 10:35)
-    - [x] bj 10815 @started(21-10-10 13:40) @done(21-10-10 13:58) @lasted(18m53s)
-    - [x] bj 17485 @started(21-10-10 14:14) @done(21-10-10 15:42) @lasted(1h28m38s)
+    - [x] bj 1012 풀기 @started(21-10-12 18:38) @done(21-10-12 20:38) @lasted(2h28s)
+    ✘ bj 21317 @started(21-10-13 01:09) @cancelled(21-10-13 04:31) @wasted(3h22m43s)
 
+day-2021-10-13:
+  - [ ] 블로그 정리 및 내일 할일 정리 2021-10-13
+  project:
+    epis:
+      - [ ] msa 강의 수강
+  sport:
+    - [ ] 
+    
 day-2021-10-17:
   job:
     - [ ] nhn채용 지원 https://recruit.nhn.com/ent/landing
@@ -53,6 +56,9 @@ sport:
   - [ ] rust solve에 아래 모듈 적용하기
   https://github.com/EbTech/rust-algorithms/blob/master/src/scanner.rs
   - [ ] https://www.acmicpc.net/problem/20117 다시풀기
+  - [ ] bj 2812 다시풀기
+  - [ ] bj 2616 다시풀기
+  - [ ] bj 21317 다시풀기
 
 job:
   - [ ] 백텍지원 (백두테크놀로지스)
@@ -81,6 +87,18 @@ longterm:
   - [ ] 영어 공부하기
 
 Archive:
+  ✘ 블로그 정리 및 내일 할일 정리 2021-10-11 @cancelled(21-10-12 15:08) @project(day-2021-10-11)
+  - [x] 9장 공부 @started(21-10-11 13:59) @done(21-10-11 15:51) @lasted(1h52m39s) @project(day-2021-10-11.study.rl)
+  - [x] msa 강의 수강 @started(21-10-11 11:05) @done(21-10-11 13:59) @lasted(2h54m9s) @project(day-2021-10-11.project.epis)
+  ✘ bj 2812 다시풀기 @cancelled(21-10-12 15:07) @project(day-2021-10-11.sport)
+  ✘ bj 2616 다시풀기 @cancelled(21-10-12 15:07) @project(day-2021-10-11.sport)
+  - [x] 블로그 정리 및 내일 할일 정리 2021-10-10 @started(21-10-11 10:35) @done(21-10-11 11:02) @lasted(27m12s) @project(day-2021-10-10)
+  - [x] 9장 공부 @started(21-10-10 16:55) @done(21-10-10 17:14) @lasted(19m53s) @project(day-2021-10-10.study.rl)
+  ✘ 통계 모듈 개발 @cancelled(21-10-11 10:35) @project(day-2021-10-10.project.pseudo)
+  - [x] bj 2812 @started(21-10-10 13:00) @done(21-10-10 13:38) @lasted(38m21s) @fail @project(day-2021-10-10.sport)
+  ✘ bj 2616 다시풀기 @cancelled(21-10-11 10:35) @project(day-2021-10-10.sport)
+  - [x] bj 10815 @started(21-10-10 13:40) @done(21-10-10 13:58) @lasted(18m53s) @project(day-2021-10-10.sport)
+  - [x] bj 17485 @started(21-10-10 14:14) @done(21-10-10 15:42) @lasted(1h28m38s) @project(day-2021-10-10.sport)
   ✘ 블로그 정리 및 내일 할일 정리 2021-10-07 @cancelled(21-10-10 12:17) @project(day-2021-10-07)
   ✘ 통계 모듈 개발 @cancelled(21-10-10 12:17) @project(day-2021-10-07.project.pseudo)
   - [x] bj 2800 @started(21-10-07 14:10) @done(21-10-07 16:10) @lasted(2h) @project(day-2021-10-07.sport)
