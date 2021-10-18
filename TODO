@@ -1,22 +1,30 @@
-day-2021-10-15:
-  ✘ 블로그 정리 및 내일 할일 정리 2021-10-15 @cancelled(21-10-16 10:23)
+day-2021-10-16:
+  - [x] 블로그 정리 및 내일 할일 정리 2021-10-16 @late @started(21-10-18 10:32) @done(21-10-18 10:42) @lasted(10m39s)
   project:
     epis:
-      - [x] nest js 공부 @started(21-10-15 14:30) @done(21-10-15 16:54) @lasted(2h24m35s)
+      ✘ nest js 공부 @cancelled(21-10-18 10:17)
   sport:
-    - [x] 2021 dev-matching 3 @started(21-10-15 16:54) @done(21-10-15 18:17) @lasted(1h23m55s) @fail
+    - [x] 2021 dev-matching 3 다시풀기 @started(21-10-16 11:31) @done(21-10-16 12:20) @lasted(49m33s) @fail
+    - [x] 2021 dev-matching 4 @started(21-10-16 10:42) @done(21-10-16 11:31) @lasted(49m29s)
+    - [x] prs dev-matching 응시 @high @done(21-10-18 10:17)
 
-day-2021-10-16:
-  - [ ] 블로그 정리 및 내일 할일 정리 2021-10-16
+day-2021-10-18:
+  - [ ] 블로그 정리 및 내일 할일 정리 2021-10-16 @late
+  - [ ] 짐정리 @high @non-dev
   project:
     epis:
       - [ ] nest js 공부
-  sport:
-    - [ ] 2021 dev-matching 3 다시풀기
-        
-day-2021-10-17:
   job:
-    - [ ] nhn채용 지원 https://recruit.nhn.com/ent/landing
+    - [ ] nhn채용 지원 https://recruit.nhn.com/ent/landing @high
+  sport:
+    - [ ] 2021 dev-matching 3 다시풀기 @fail
+    - [ ] 2021 dev-matching 4
+    - [ ] prs dev-matching 응시 @high
+
+day-2021-10-19:
+  job:
+    - [ ] kakao 지원 마감 @high
+    https://career44.sapsf.com/portalcareer?_s.crb=va9t1U%252byd%252bi0%252b0zyztC2s3TSTVRcXucD2ZbJzqwl%252bF8%253d
 
 blog:
   - [ ] 로컬 저장소 정리하기
@@ -86,6 +94,9 @@ longterm:
   - [ ] 영어 공부하기
 
 Archive:
+  ✘ 블로그 정리 및 내일 할일 정리 2021-10-15 @cancelled(21-10-16 10:23) @project(day-2021-10-15)
+  - [x] nest js 공부 @started(21-10-15 14:30) @done(21-10-15 16:54) @lasted(2h24m35s) @project(day-2021-10-15.project.epis)
+  - [x] 2021 dev-matching 3 @started(21-10-15 16:54) @done(21-10-15 18:17) @lasted(1h23m55s) @fail @project(day-2021-10-15.sport)
   ✘ 블로그 정리 및 내일 할일 정리 2021-10-14 @cancelled(21-10-15 13:34) @project(day-2021-10-14)
   - [x] dev-matching 지원 @done(21-10-14 14:52) @project(day-2021-10-14.job)
   ✘ nest js 공부 @cancelled(21-10-15 13:34) @project(day-2021-10-14.project.epis)
