@@ -1,37 +1,29 @@
-day-2021-10-18:
-  ✘ 블로그 정리 및 내일 할일 정리 2021-10-18 @started(21-10-19 12:35) @cancelled(21-10-19 12:36) @wasted(1m39s)
-  - [x] 짐정리 1 @high @non-dev @done(21-10-18 17:32)
-  ✘ 환전 @non-dev @cancelled(21-10-19 12:34)
-  project:
-    epis:
-      ✘ nest js 공부 @cancelled(21-10-19 12:34)
-  job:
-    - [x] nhn채용 지원 https://recruit.nhn.com/ent/landing @high @done(21-10-18 11:25)
-    - [x] 카카오 서류 작성 @started(21-10-18 23:17) @done(21-10-19 00:48) @lasted(1h31m48s)
+day-2021-10-19:
+  - [x] 블로그 정리 및 내일 할일 정리 2021-10-19 @started(21-10-20 02:55) @done(21-10-20 02:56) @lasted(1m11s)
   study:
     rl:
-      - [x] 스터디 @done(21-10-18 22:53)
-  sport:
-    ✘ bj 2670 풀기 @cancelled(21-10-18 17:32)
+      ✘ 9장 공부 @cancelled(21-10-20 02:55)
+    book:
+      - [x] the stranger 1 @started(21-10-20 01:37) @done(21-10-20 02:02) @lasted(25m31s)
+  job:
+    - [x] 카카오 서류 작성 2 @started(21-10-19 12:53) @done(21-10-19 14:38) @lasted(1h45m15s)
+    - [x] 카카오 서류 작성 3 @started(21-10-19 15:15) @done(21-10-19 18:38) @lasted(3h23m43s)
+    - [x] 카카오 서류 작성 4 @started(21-10-19 19:23) @done(21-10-19 20:10) @lasted(47m2s)
+    - [x] 카카오 서류 작성 5 @started(21-10-20 00:31) @done(21-10-20 01:31) @lasted(1h31s)
+    https://career44.sapsf.com/portalcareer?_s.crb=va9t1U%252byd%252bi0%252b0zyztC2s3TSTVRcXucD2ZbJzqwl%252bF8%253d
+    - [x] 환전 @non-dev @done(21-10-19 12:53)
 
-day-2021-10-19:
-  - [ ] 블로그 정리 및 내일 할일 정리 2021-10-19
+day-2021-10-20:
+  - [ ] 블로그 정리 및 내일 할일 정리 2021-10-20
   study:
     rl:
       - [ ] 9장 공부
-  job:
-    - [ ] 카카오 서류 작성
-    https://career44.sapsf.com/portalcareer?_s.crb=va9t1U%252byd%252bi0%252b0zyztC2s3TSTVRcXucD2ZbJzqwl%252bF8%253d
-    - [ ] 환전 @non-dev
-    
-day-2021-10-20:
   job:
     - [ ] kakao 지원 마감 @high
 
 day-2021-10-30:
   sport:
     - [ ] 네이버 파이낸셜 코테 (경력채용,연습용) @at(14:00) @est(4h)
-
 
 blog:
   - [ ] 로컬 저장소 정리하기
@@ -101,6 +93,14 @@ longterm:
   - [ ] 영어 공부하기
 
 Archive:
+  ✘ 블로그 정리 및 내일 할일 정리 2021-10-18 @started(21-10-19 12:35) @cancelled(21-10-19 12:36) @wasted(1m39s) @project(day-2021-10-18)
+  - [x] 짐정리 1 @high @non-dev @done(21-10-18 17:32) @project(day-2021-10-18)
+  ✘ 환전 @non-dev @cancelled(21-10-19 12:34) @project(day-2021-10-18)
+  ✘ nest js 공부 @cancelled(21-10-19 12:34) @project(day-2021-10-18.project.epis)
+  - [x] nhn채용 지원 https://recruit.nhn.com/ent/landing @high @done(21-10-18 11:25) @project(day-2021-10-18.job)
+  - [x] 카카오 서류 작성 @started(21-10-18 23:17) @done(21-10-19 00:48) @lasted(1h31m48s) @project(day-2021-10-18.job)
+  - [x] 스터디 @done(21-10-18 22:53) @project(day-2021-10-18.study.rl)
+  ✘ bj 2670 풀기 @cancelled(21-10-18 17:32) @project(day-2021-10-18.sport)
   - [x] 블로그 정리 및 내일 할일 정리 2021-10-16 @late @started(21-10-18 10:32) @done(21-10-18 10:42) @lasted(10m39s) @project(day-2021-10-16)
   ✘ nest js 공부 @cancelled(21-10-18 10:17) @project(day-2021-10-16.project.epis)
   - [x] 2021 dev-matching 3 다시풀기 @started(21-10-16 11:31) @done(21-10-16 12:20) @lasted(49m33s) @fail @project(day-2021-10-16.sport)
