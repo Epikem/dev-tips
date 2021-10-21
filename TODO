@@ -1,25 +1,16 @@
-day-2021-10-19:
-  - [x] 블로그 정리 및 내일 할일 정리 2021-10-19 @started(21-10-20 02:55) @done(21-10-20 02:56) @lasted(1m11s)
-  study:
-    rl:
-      ✘ 9장 공부 @cancelled(21-10-20 02:55)
-    book:
-      - [x] the stranger 1 @started(21-10-20 01:37) @done(21-10-20 02:02) @lasted(25m31s)
-  job:
-    - [x] 카카오 서류 작성 2 @started(21-10-19 12:53) @done(21-10-19 14:38) @lasted(1h45m15s)
-    - [x] 카카오 서류 작성 3 @started(21-10-19 15:15) @done(21-10-19 18:38) @lasted(3h23m43s)
-    - [x] 카카오 서류 작성 4 @started(21-10-19 19:23) @done(21-10-19 20:10) @lasted(47m2s)
-    - [x] 카카오 서류 작성 5 @started(21-10-20 00:31) @done(21-10-20 01:31) @lasted(1h31s)
-    https://career44.sapsf.com/portalcareer?_s.crb=va9t1U%252byd%252bi0%252b0zyztC2s3TSTVRcXucD2ZbJzqwl%252bF8%253d
-    - [x] 환전 @non-dev @done(21-10-19 12:53)
-
 day-2021-10-20:
-  - [ ] 블로그 정리 및 내일 할일 정리 2021-10-20
+  - [x] 블로그 정리 및 내일 할일 정리 2021-10-20 @started(21-10-21 18:34) @done(21-10-21 18:35) @lasted(1m35s)
   study:
     rl:
-      - [ ] 9장 공부
+      ✘ 9장 공부 @cancelled(21-10-21 18:33)
   job:
-    - [ ] kakao 지원 마감 @high
+    - [x] kakao 서류 작성 @high @started(21-10-20 13:03) @done(21-10-20 14:27) @lasted(1h24m23s)
+    - [x] kakao 지원 마감 @high @started(21-10-20 19:20) @done(21-10-20 21:00) @lasted(1h40m6s)
+    
+day-2021-10-21:
+  - [ ] 블로그 정리 및 내일 할일 정리 2021-10-21
+  sport:
+    - [ ] streami 코테 응시 @est(100m)
 
 day-2021-10-30:
   sport:
@@ -93,6 +84,14 @@ longterm:
   - [ ] 영어 공부하기
 
 Archive:
+  - [x] 블로그 정리 및 내일 할일 정리 2021-10-19 @started(21-10-20 02:55) @done(21-10-20 02:56) @lasted(1m11s) @project(day-2021-10-19)
+  ✘ 9장 공부 @cancelled(21-10-20 02:55) @project(day-2021-10-19.study.rl)
+  - [x] the stranger 1 @started(21-10-20 01:37) @done(21-10-20 02:02) @lasted(25m31s) @project(day-2021-10-19.study.book)
+  - [x] 카카오 서류 작성 2 @started(21-10-19 12:53) @done(21-10-19 14:38) @lasted(1h45m15s) @project(day-2021-10-19.job)
+  - [x] 카카오 서류 작성 3 @started(21-10-19 15:15) @done(21-10-19 18:38) @lasted(3h23m43s) @project(day-2021-10-19.job)
+  - [x] 카카오 서류 작성 4 @started(21-10-19 19:23) @done(21-10-19 20:10) @lasted(47m2s) @project(day-2021-10-19.job)
+  - [x] 카카오 서류 작성 5 @started(21-10-20 00:31) @done(21-10-20 01:31) @lasted(1h31s) @project(day-2021-10-19.job)
+  - [x] 환전 @non-dev @done(21-10-19 12:53) @project(day-2021-10-19.job)
   ✘ 블로그 정리 및 내일 할일 정리 2021-10-18 @started(21-10-19 12:35) @cancelled(21-10-19 12:36) @wasted(1m39s) @project(day-2021-10-18)
   - [x] 짐정리 1 @high @non-dev @done(21-10-18 17:32) @project(day-2021-10-18)
   ✘ 환전 @non-dev @cancelled(21-10-19 12:34) @project(day-2021-10-18)
