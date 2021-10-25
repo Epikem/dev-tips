@@ -1,16 +1,22 @@
-day-2021-10-20:
-  - [x] 블로그 정리 및 내일 할일 정리 2021-10-20 @started(21-10-21 18:34) @done(21-10-21 18:35) @lasted(1m35s)
-  study:
-    rl:
-      ✘ 9장 공부 @cancelled(21-10-21 18:33)
-  job:
-    - [x] kakao 서류 작성 @high @started(21-10-20 13:03) @done(21-10-20 14:27) @lasted(1h24m23s)
-    - [x] kakao 지원 마감 @high @started(21-10-20 19:20) @done(21-10-20 21:00) @lasted(1h40m6s)
-    
 day-2021-10-21:
-  - [ ] 블로그 정리 및 내일 할일 정리 2021-10-21
+  ✘ 블로그 정리 및 내일 할일 정리 2021-10-21 @cancelled(21-10-25 12:31)
   sport:
-    - [ ] streami 코테 응시 @est(100m)
+    - [x] streami 코테 응시 @est(100m) @started(21-10-21 18:35) @done(21-10-21 19:26) @lasted(51m36s)
+
+day-2021-10-24:
+  job:
+    - [x] 버즈빌 코테 응시 @est(3h) @started(21-10-24 19:11) @done(21-10-24 21:24) @lasted(2h13m47s)
+
+day-2021-10-25:
+  - [ ] 블로그 정리 및 내일 할일 정리 2021-10-25
+
+  job:
+    - [ ] 오전 11시 스트리미 (미뤄짐)
+
+day-2021-10-27:
+  job:
+    - [ ] dev-matching kakao 온라인 코테 응시
+    - [ ] 오전 11시 스트리미 (미뤄짐)
 
 day-2021-10-30:
   sport:
@@ -84,6 +90,10 @@ longterm:
   - [ ] 영어 공부하기
 
 Archive:
+  - [x] 블로그 정리 및 내일 할일 정리 2021-10-20 @started(21-10-21 18:34) @done(21-10-21 18:35) @lasted(1m35s) @project(day-2021-10-20)
+  ✘ 9장 공부 @cancelled(21-10-21 18:33) @project(day-2021-10-20.study.rl)
+  - [x] kakao 서류 작성 @high @started(21-10-20 13:03) @done(21-10-20 14:27) @lasted(1h24m23s) @project(day-2021-10-20.job)
+  - [x] kakao 지원 마감 @high @started(21-10-20 19:20) @done(21-10-20 21:00) @lasted(1h40m6s) @project(day-2021-10-20.job)
   - [x] 블로그 정리 및 내일 할일 정리 2021-10-19 @started(21-10-20 02:55) @done(21-10-20 02:56) @lasted(1m11s) @project(day-2021-10-19)
   ✘ 9장 공부 @cancelled(21-10-20 02:55) @project(day-2021-10-19.study.rl)
   - [x] the stranger 1 @started(21-10-20 01:37) @done(21-10-20 02:02) @lasted(25m31s) @project(day-2021-10-19.study.book)
