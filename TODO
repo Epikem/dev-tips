@@ -1,26 +1,30 @@
-day-2021-10-21:
-  ✘ 블로그 정리 및 내일 할일 정리 2021-10-21 @cancelled(21-10-25 12:31)
-  sport:
-    - [x] streami 코테 응시 @est(100m) @started(21-10-21 18:35) @done(21-10-21 19:26) @lasted(51m36s)
-
-day-2021-10-24:
-  job:
-    - [x] 버즈빌 코테 응시 @est(3h) @started(21-10-24 19:11) @done(21-10-24 21:24) @lasted(2h13m47s)
-
 day-2021-10-25:
-  - [ ] 블로그 정리 및 내일 할일 정리 2021-10-25
-
+  ✘ 블로그 정리 및 내일 할일 정리 2021-10-25 @cancelled(21-10-26 21:32)
+  study:
+    rl:
+      - [x] 스터디 준비 @started(21-10-25 13:42) @done(21-10-25 21:42) @lasted(8h32s)
+      - [x] 스터디 @done(21-10-25 21:42)
   job:
-    - [ ] 오전 11시 스트리미 (미뤄짐)
+    - [x] 오전 11시 스트리미 (미뤄짐) @done(21-10-25 13:42)
 
 day-2021-10-27:
+  - [ ] 블로그 정리 및 내일 할일 정리 2021-10-27
   job:
+    - [ ] 오후 5시 스트리미 @high
     - [ ] dev-matching kakao 온라인 코테 응시
-    - [ ] 오전 11시 스트리미 (미뤄짐)
+
+day-2021-10-28:
+  job:
+    https://meet.google.com/fjv-wtmr-joa
+    - [ ] kakao ot 18:00~19:00 @high
 
 day-2021-10-30:
   sport:
     - [ ] 네이버 파이낸셜 코테 (경력채용,연습용) @at(14:00) @est(4h)
+
+day-2021-11-08:
+  job:
+    - [ ] grep 1차 면접 17:00 @est(90m)
 
 blog:
   - [ ] 로컬 저장소 정리하기
@@ -90,6 +94,9 @@ longterm:
   - [ ] 영어 공부하기
 
 Archive:
+  ✘ 블로그 정리 및 내일 할일 정리 2021-10-21 @cancelled(21-10-25 12:31) @project(day-2021-10-21)
+  - [x] streami 코테 응시 @est(100m) @started(21-10-21 18:35) @done(21-10-21 19:26) @lasted(51m36s) @project(day-2021-10-21.sport)
+  - [x] 버즈빌 코테 응시 @est(3h) @started(21-10-24 19:11) @done(21-10-24 21:24) @lasted(2h13m47s) @project(day-2021-10-24.job)
   - [x] 블로그 정리 및 내일 할일 정리 2021-10-20 @started(21-10-21 18:34) @done(21-10-21 18:35) @lasted(1m35s) @project(day-2021-10-20)
   ✘ 9장 공부 @cancelled(21-10-21 18:33) @project(day-2021-10-20.study.rl)
   - [x] kakao 서류 작성 @high @started(21-10-20 13:03) @done(21-10-20 14:27) @lasted(1h24m23s) @project(day-2021-10-20.job)
