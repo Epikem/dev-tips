@@ -1,22 +1,18 @@
-day-2021-11-03:
-  - [x] 블로그 정리 및 내일 할일 정리 2021-11-03 @done(21-11-04 08:52)
-  job:
-    - [x] kakao 포지션 인터뷰 준비 - cs지식, 포폴, 회사자체 @started(21-11-03 12:02) @done(21-11-03 15:56) @lasted(3h54m30s)
-    - [x] kakao 포지션 인터뷰 @at(16:00) @est(1h) @started(21-11-03 15:56) @done(21-11-03 16:59) @lasted(1h3m40s)
-    ✘ 타인에이아이 면접 준비 @cancelled(21-11-03 22:26)
-    - [x] 타인에이아이 면접 @at(19:00) @est(1h) @done(21-11-03 22:26)
-  project:
-    epis:
-      ✘ nestjs 공부 @cancelled(21-11-04 08:51)
-
 day-2021-11-04:
-  - [ ] 블로그 정리 및 내일 할일 정리 2021-11-04
+  - [x] 블로그 정리 및 내일 할일 정리 2021-11-04 @started(21-11-05 11:34) @done(21-11-05 11:38) @lasted(4m44s)
   job:
-    - [ ] 스트리미 면접 준비
-    - [ ] 스트리미 최종 면접 16:00 @high
+    - [x] 스트리미 면접 준비 @started(21-11-04 15:00) @done(21-11-04 15:51) @lasted(51m34s)
+    - [x] 스트리미 최종 면접 16:00 @high @started(21-11-04 15:51) @done(21-11-04 16:53) @lasted(1h2m10s)
   project:
     epis:
-      - [ ] nestjs 공부
+      - [x] nestjs 공부 1 @started(21-11-04 09:00) @done(21-11-04 09:34) @lasted(34m54s)
+      - [x] nestjs 공부 2 @started(21-11-04 12:06) @done(21-11-04 15:00) @lasted(2h54m28s)
+
+day-2021-11-05:
+  - [ ] 블로그 정리 및 내일 할일 정리 2021-11-05
+  project:
+    epis:
+      - [ ] nestjs 공부 3
 
 day-2021-11-08:
   job:
@@ -99,6 +95,12 @@ longterm:
   - [ ] 영어 공부하기
 
 Archive:
+  - [x] 블로그 정리 및 내일 할일 정리 2021-11-03 @done(21-11-04 08:52) @project(day-2021-11-03)
+  - [x] kakao 포지션 인터뷰 준비 - cs지식, 포폴, 회사자체 @started(21-11-03 12:02) @done(21-11-03 15:56) @lasted(3h54m30s) @project(day-2021-11-03.job)
+  - [x] kakao 포지션 인터뷰 @at(16:00) @est(1h) @started(21-11-03 15:56) @done(21-11-03 16:59) @lasted(1h3m40s) @project(day-2021-11-03.job)
+  ✘ 타인에이아이 면접 준비 @cancelled(21-11-03 22:26) @project(day-2021-11-03.job)
+  - [x] 타인에이아이 면접 @at(19:00) @est(1h) @done(21-11-03 22:26) @project(day-2021-11-03.job)
+  ✘ nestjs 공부 @cancelled(21-11-04 08:51) @project(day-2021-11-03.project.epis)
   - [x] 블로그 정리 및 내일 할일 정리 2021-11-02 @started(21-11-02 19:36) @done(21-11-02 19:47) @lasted(11m42s) @project(day-2021-11-02)
   - [x] ML2 오프라인 면접 준비 @done(21-11-02 18:16) @project(day-2021-11-02.job)
   - [x] ML2 오프라인 면접 @at(14:00) @est(3h) @done(21-11-02 18:16) @project(day-2021-11-02.job)
