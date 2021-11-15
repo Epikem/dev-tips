@@ -1,27 +1,22 @@
-day-2021-11-10:
-  - [x] 블로그 정리 및 내일 할일 정리 2021-11-10 @started(21-11-11 06:59) @done(21-11-11 07:01) @lasted(2m34s)
+day-2021-11-15:
+  - [x] 블로그 정리 및 내일 할일 정리 2021-11-15 @started(21-11-15 22:31) @done(21-11-15 22:33) @lasted(2m16s)
   project:
     epis:
-      - [x] nestjs 공부 4 @started(21-11-10 05:10) @done(21-11-10 08:00) @lasted(2h50m7s)
-      - [x] nestjs 공부 5 @started(21-11-10 21:43) @done(21-11-10 22:22) @lasted(39m18s)
-  job:
-    https://us02web.zoom.us/j/85348322771
-    - [x] 올거나이즈코리아 기술면접 준비 @started(21-11-10 13:02) @done(21-11-10 13:56) @lasted(54m8s)
-    - [x] 올거나이즈코리아 기술면접 @est(1h) @at(14:00) @started(21-11-10 13:56) @done(21-11-10 14:53) @lasted(57m41s)
+      - [x] nestjs 공부 6 @started(21-11-15 10:42) @done(21-11-15 13:20) @lasted(2h38m2s)
+      - [x] nestjs 공부 7 @started(21-11-15 15:13) @done(21-11-15 19:27) @lasted(4h14m6s)
+  sport:
+    - [x] bj 16951 - 블록 놀이 @started(21-11-15 21:39) @done(21-11-15 22:22) @lasted(43m43s)
+    ✘ bj 2636 - 치즈 @cancelled(21-11-15 22:29)
 
-day-2021-11-11:
-  - [ ] 블로그 정리 및 내일 할일 정리 2021-11-11
-  - [ ] 약타기
+day-2021-11-16:
+  - [ ] 블로그 정리 및 내일 할일 정리 2021-11-16
+  job:
+    - [ ] 올거나이즈 일정 확정
   project:
     epis:
-      - [ ] nestjs 공부 6
-  job:
-    - [ ] 올거나이즈코리아 일정회신
-    - [ ] 스트리미 일정회신
-    
-day-2021-11-16:
-  job:
-    - [ ] 그렙 2차면접 @est(1h) @at(13:00)
+      - [ ] nestjs 공부 8
+  sport:
+    - [ ] bj 2636 - 치즈
 
 day-2021-11-18:
   job:
@@ -47,6 +42,7 @@ blog:
     - [ ] 포스트 목록에서 요약 등 노출
     - [ ] 기본 포스트 목록에서 log포스트 제외
     - [ ] github actions 러너에서 캐시 활용
+    - [ ] toc 처리 개선 (마크다운에 포함, 블로그에선 전용 toc 사용)
 
 project:
   epis:
@@ -95,6 +91,20 @@ longterm:
   - [ ] 영어 공부하기
 
 Archive:
+  ✘ 블로그 정리 및 내일 할일 정리 2021-11-11 @cancelled(21-11-15 07:47) @project(day-2021-11-11)
+  - [x] 약타기 @non-dev @done(21-11-11 20:06) @project(day-2021-11-11)
+  ✘ bj 16951 - 블록 놀이 @cancelled(21-11-12 00:12) @project(day-2021-11-11.sport)
+  ✘ bj 2636 - 치즈 @cancelled(21-11-12 00:07) @project(day-2021-11-11.sport)
+  ✘ nestjs 공부 6 @cancelled(21-11-12 00:07) @project(day-2021-11-11.project.epis)
+  - [x] 올거나이즈코리아 일정회신 @started(21-11-11 10:17) @done(21-11-11 10:21) @lasted(4m46s) @project(day-2021-11-11.job)
+  ✘ 스트리미 일정회신 @started(21-11-11 18:31) @cancelled(21-11-11 20:05) @wasted(1h34m53s) @project(day-2021-11-11.job)
+  - [x] 2차 면접대비 정리하기 @done(21-11-12 00:10) @project(day-2021-11-11.job)
+  ✘ 그렙 2차면접 @est(1h) @at(13:00) @cancelled(21-11-15 07:47) @project(day-2021-11-16.job)
+  - [x] 블로그 정리 및 내일 할일 정리 2021-11-10 @started(21-11-11 06:59) @done(21-11-11 07:01) @lasted(2m34s) @project(day-2021-11-10)
+  - [x] nestjs 공부 4 @started(21-11-10 05:10) @done(21-11-10 08:00) @lasted(2h50m7s) @project(day-2021-11-10.project.epis)
+  - [x] nestjs 공부 5 @started(21-11-10 21:43) @done(21-11-10 22:22) @lasted(39m18s) @project(day-2021-11-10.project.epis)
+  - [x] 올거나이즈코리아 기술면접 준비 @started(21-11-10 13:02) @done(21-11-10 13:56) @lasted(54m8s) @project(day-2021-11-10.job)
+  - [x] 올거나이즈코리아 기술면접 @est(1h) @at(14:00) @started(21-11-10 13:56) @done(21-11-10 14:53) @lasted(57m41s) @project(day-2021-11-10.job)
   - [x] 블로그 정리 및 내일 할일 정리 2021-11-09 @started(21-11-10 05:05) @done(21-11-10 05:07) @lasted(2m20s) @project(day-2021-11-09)
   - [x] nestjs 공부 3 @started(21-11-09 06:55) @done(21-11-09 08:26) @lasted(1h31m43s) @project(day-2021-11-09.project.epis)
   - [x] 블로그 정리 및 내일 할일 정리 2021-11-08 @started(21-11-09 06:24) @done(21-11-09 06:28) @lasted(4m57s) @project(day-2021-11-08)
