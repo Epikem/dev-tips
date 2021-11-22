@@ -1,21 +1,23 @@
-day-2021-11-18:
-  ✘ 블로그 정리 및 내일 할일 정리 2021-11-18 @cancelled(21-11-21 12:55)
+day-2021-11-22:
+  - [x] 블로그 정리 및 내일 할일 정리 2021-11-22 @started(21-11-23 07:19) @done(21-11-23 07:41) @lasted(22m42s)
+  job:
+    - [x] kakao 면접 준비 @started(21-11-22 17:27) @done(21-11-22 18:57) @lasted(1h30m48s)
   project:
     epis:
-      ✘ user 서비스 추가 2 @cancelled(21-11-21 12:56)
-  sport:
-    ✘ bj 2636 - 치즈 @cancelled(21-11-21 12:56)
+      - [x] user 서비스 추가 2 @started(21-11-22 22:20) @done(21-11-22 23:19) @lasted(59m18s)
 
-day-2021-11-21:
-  - [ ] 블로그 정리 및 내일 할일 정리 2021-11-21
+day-2021-11-23:
+  - [ ] 블로그 정리 및 내일 할일 정리 2021-11-23
   job:
     - [ ] kakao 면접 준비
-    - [ ] grep 면접 준비
+    - [ ] kakao 면접 @at(17:00)
   project:
     epis:
-      - [ ] user 서비스 추가 2
-  sport:
-    - [ ] bj 2636 - 치즈
+      - [ ] user 서비스 추가 3
+
+day-2021-11-24:
+  job:
+    - [ ] grep 면접 @at(13:00) @est(1h)
 
 blog:
   - [ ] 로컬 저장소 정리하기
@@ -86,6 +88,14 @@ longterm:
   - [ ] 영어 공부하기
 
 Archive:
+  ✘ 블로그 정리 및 내일 할일 정리 2021-11-21 @started(21-11-22 12:27) @cancelled(21-11-22 12:28) @wasted(1m1s) @project(day-2021-11-21)
+  - [x] kakao 면접 준비 @started(21-11-21 12:58) @done(21-11-21 14:40) @lasted(1h42m24s) @project(day-2021-11-21.job)
+  - [x] grep 면접 준비 @done(21-11-22 12:27) @project(day-2021-11-21.job)
+  ✘ user 서비스 추가 2 @cancelled(21-11-22 12:27) @project(day-2021-11-21.project.epis)
+  ✘ bj 2636 - 치즈 @cancelled(21-11-22 12:27) @project(day-2021-11-21.sport)
+  ✘ 블로그 정리 및 내일 할일 정리 2021-11-18 @cancelled(21-11-21 12:55) @project(day-2021-11-18)
+  ✘ user 서비스 추가 2 @cancelled(21-11-21 12:56) @project(day-2021-11-18.project.epis)
+  ✘ bj 2636 - 치즈 @cancelled(21-11-21 12:56) @project(day-2021-11-18.sport)
   - [x] 블로그 정리 및 내일 할일 정리 2021-11-17 @started(21-11-18 08:04) @done(21-11-18 08:05) @lasted(1m33s) @project(day-2021-11-17)
   - [x] 올거나이즈 면접 준비 @started(21-11-17 11:34) @done(21-11-17 13:58) @lasted(2h24m14s) @project(day-2021-11-17.job)
   - [x] 올거나이즈 2차 면접 @at(14:00) @started(21-11-17 13:58) @done(21-11-17 14:53) @lasted(55m29s) @project(day-2021-11-17.job)
