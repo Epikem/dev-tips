@@ -1,23 +1,22 @@
-day-2021-11-22:
-  - [x] 블로그 정리 및 내일 할일 정리 2021-11-22 @started(21-11-23 07:19) @done(21-11-23 07:41) @lasted(22m42s)
-  job:
-    - [x] kakao 면접 준비 @started(21-11-22 17:27) @done(21-11-22 18:57) @lasted(1h30m48s)
-  project:
-    epis:
-      - [x] user 서비스 추가 2 @started(21-11-22 22:20) @done(21-11-22 23:19) @lasted(59m18s)
-
 day-2021-11-23:
-  - [ ] 블로그 정리 및 내일 할일 정리 2021-11-23
+  - [x] 블로그 정리 및 내일 할일 정리 2021-11-23 @started(21-11-24 00:26) @done(21-11-24 00:31) @lasted(5m54s)
   job:
-    - [ ] kakao 면접 준비
-    - [ ] kakao 면접 @at(17:00)
+    - [x] kakao 면접 준비 @started(21-11-23 12:41) @done(21-11-23 14:03) @lasted(1h22m34s)
+    - [x] kakao 면접 @at(17:00) @done(21-11-23 22:14)
   project:
     epis:
-      - [ ] user 서비스 추가 3
+      - [x] user 서비스 추가 3 @started(21-11-23 07:42) @done(21-11-23 08:10) @lasted(28m44s)
+  study:
+    msa:
+      - [x] 강의 수강 @started(21-11-23 23:00) @done(21-11-24 00:26) @lasted(1h26m45s)
 
 day-2021-11-24:
   job:
+    - [ ] grep 면접 준비
     - [ ] grep 면접 @at(13:00) @est(1h)
+  study:
+    msa:
+      - [ ] 강의 수강
 
 blog:
   - [ ] 로컬 저장소 정리하기
@@ -88,6 +87,9 @@ longterm:
   - [ ] 영어 공부하기
 
 Archive:
+  - [x] 블로그 정리 및 내일 할일 정리 2021-11-22 @started(21-11-23 07:19) @done(21-11-23 07:41) @lasted(22m42s) @project(day-2021-11-22)
+  - [x] kakao 면접 준비 @started(21-11-22 17:27) @done(21-11-22 18:57) @lasted(1h30m48s) @project(day-2021-11-22.job)
+  - [x] user 서비스 추가 2 @started(21-11-22 22:20) @done(21-11-22 23:19) @lasted(59m18s) @project(day-2021-11-22.project.epis)
   ✘ 블로그 정리 및 내일 할일 정리 2021-11-21 @started(21-11-22 12:27) @cancelled(21-11-22 12:28) @wasted(1m1s) @project(day-2021-11-21)
   - [x] kakao 면접 준비 @started(21-11-21 12:58) @done(21-11-21 14:40) @lasted(1h42m24s) @project(day-2021-11-21.job)
   - [x] grep 면접 준비 @done(21-11-22 12:27) @project(day-2021-11-21.job)
