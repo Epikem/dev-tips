@@ -1,19 +1,30 @@
-day-2021-11-24:
-  - [x] 블로그 정리 및 내일 할일 정리 2021-11-24 @started(21-11-25 12:38) @done(21-11-25 13:02) @lasted(24m53s)
+day-2021-11-25:
+  ✘ 블로그 정리 및 내일 할일 정리 2021-11-25 @cancelled(21-11-29 02:17)
+  - [x] 빨래하라고 알려주기 @done(21-11-29 02:07)
+  nondev:
+    - [x] 예비군 원격교육 수강 @started(21-11-25 12:39) @done(21-11-25 14:47) @lasted(2h8m13s)
   job:
-    - [x] grep 면접 준비 @started(21-11-24 11:30) @done(21-11-24 12:59) @lasted(1h29m13s)
-    - [x] grep 면접 @at(13:00) @est(1h) @started(21-11-24 12:59) @done(21-11-24 13:43) @lasted(44m9s)
+    - [x] grep 일정 회신 @high @done(21-11-29 02:07)
   study:
     msa:
-      ✘ 강의 수강 @cancelled(21-11-25 12:38)
+      - [x] 강의 수강 @done(21-11-29 02:07)
+    rust:
+      - [x] rustlings 학습 1 @started(21-11-25 15:48) @done(21-11-25 20:03) @lasted(4h15m48s)
 
-day-2021-11-25:
-  - [ ] 블로그 정리 및 내일 할일 정리 2021-11-25
+day-2021-11-29:
+  - [ ] 블로그 정리 및 내일 할일 정리 2021-11-29
   nondev:
-    - [ ] 예비군 원격교육 수강
+    - [ ] crypto prj 정리
+    - [ ] 빨래하기
+    - [ ] 댕산책
+    - [ ] 카드전달
+  job:
+    - [ ] grep 일정 회신 2 @high
   study:
     msa:
       - [ ] 강의 수강
+    rust:
+      - [ ] rustlings 학습 2
 
 blog:
   - [ ] 로컬 저장소 정리하기
@@ -84,6 +95,10 @@ longterm:
   - [ ] 영어 공부하기
 
 Archive:
+  - [x] 블로그 정리 및 내일 할일 정리 2021-11-24 @started(21-11-25 12:38) @done(21-11-25 13:02) @lasted(24m53s) @project(day-2021-11-24)
+  - [x] grep 면접 준비 @started(21-11-24 11:30) @done(21-11-24 12:59) @lasted(1h29m13s) @project(day-2021-11-24.job)
+  - [x] grep 면접 @at(13:00) @est(1h) @started(21-11-24 12:59) @done(21-11-24 13:43) @lasted(44m9s) @project(day-2021-11-24.job)
+  ✘ 강의 수강 @cancelled(21-11-25 12:38) @project(day-2021-11-24.study.msa)
   - [x] 블로그 정리 및 내일 할일 정리 2021-11-23 @started(21-11-24 00:26) @done(21-11-24 00:31) @lasted(5m54s) @project(day-2021-11-23)
   - [x] kakao 면접 준비 @started(21-11-23 12:41) @done(21-11-23 14:03) @lasted(1h22m34s) @project(day-2021-11-23.job)
   - [x] kakao 면접 @at(17:00) @done(21-11-23 22:14) @project(day-2021-11-23.job)
