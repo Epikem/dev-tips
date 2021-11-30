@@ -1,25 +1,24 @@
-day-2021-11-25:
-  ✘ 블로그 정리 및 내일 할일 정리 2021-11-25 @cancelled(21-11-29 02:17)
-  - [x] 빨래하라고 알려주기 @done(21-11-29 02:07)
+day-2021-11-29:
+  ✘ 블로그 정리 및 내일 할일 정리 2021-11-29 @cancelled(21-11-30 15:58)
   nondev:
-    - [x] 예비군 원격교육 수강 @started(21-11-25 12:39) @done(21-11-25 14:47) @lasted(2h8m13s)
+    - [x] crypto prj 정리 @started(21-11-29 02:18) @done(21-11-29 04:08) @lasted(1h50m32s)
+    - [x] 빨래하기 @started(21-11-29 16:54) @done(21-11-29 17:49) @lasted(55m16s)
+    - [x] 댕산책 @started(21-11-29 16:54) @done(21-11-29 17:49) @lasted(55m18s)
+    ✘ 카드전달 @cancelled(21-11-29 16:54)
   job:
-    - [x] grep 일정 회신 @high @done(21-11-29 02:07)
+    - [x] grep 일정 회신 2 @high @started(21-11-29 15:12) @done(21-11-29 15:45) @lasted(33m13s)
   study:
     msa:
-      - [x] 강의 수강 @done(21-11-29 02:07)
+      - [x] 강의 수강 @started(21-11-29 22:20) @done(21-11-29 22:47) @lasted(27m35s)
     rust:
-      - [x] rustlings 학습 1 @started(21-11-25 15:48) @done(21-11-25 20:03) @lasted(4h15m48s)
+      - [x] rustlings 학습 2 @started(21-11-29 21:37) @done(21-11-29 22:18) @lasted(41m19s)
 
-day-2021-11-29:
-  - [ ] 블로그 정리 및 내일 할일 정리 2021-11-29
+day-2021-11-30:
+  - [ ] 블로그 정리 및 내일 할일 정리 2021-11-30
   nondev:
-    - [ ] crypto prj 정리
-    - [ ] 빨래하기
-    - [ ] 댕산책
+    - [ ] 병원 내원 @at(10:00)
     - [ ] 카드전달
-  job:
-    - [ ] grep 일정 회신 2 @high
+    - [ ] crypto prj 정리
   study:
     msa:
       - [ ] 강의 수강
@@ -95,6 +94,12 @@ longterm:
   - [ ] 영어 공부하기
 
 Archive:
+  ✘ 블로그 정리 및 내일 할일 정리 2021-11-25 @cancelled(21-11-29 02:17) @project(day-2021-11-25)
+  - [x] 빨래하라고 알려주기 @done(21-11-29 02:07) @project(day-2021-11-25)
+  - [x] 예비군 원격교육 수강 @started(21-11-25 12:39) @done(21-11-25 14:47) @lasted(2h8m13s) @project(day-2021-11-25.nondev)
+  - [x] grep 일정 회신 @high @done(21-11-29 02:07) @project(day-2021-11-25.job)
+  - [x] 강의 수강 @done(21-11-29 02:07) @project(day-2021-11-25.study.msa)
+  - [x] rustlings 학습 1 @started(21-11-25 15:48) @done(21-11-25 20:03) @lasted(4h15m48s) @project(day-2021-11-25.study.rust)
   - [x] 블로그 정리 및 내일 할일 정리 2021-11-24 @started(21-11-25 12:38) @done(21-11-25 13:02) @lasted(24m53s) @project(day-2021-11-24)
   - [x] grep 면접 준비 @started(21-11-24 11:30) @done(21-11-24 12:59) @lasted(1h29m13s) @project(day-2021-11-24.job)
   - [x] grep 면접 @at(13:00) @est(1h) @started(21-11-24 12:59) @done(21-11-24 13:43) @lasted(44m9s) @project(day-2021-11-24.job)
