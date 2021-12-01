@@ -1,29 +1,27 @@
-day-2021-11-29:
-  ✘ 블로그 정리 및 내일 할일 정리 2021-11-29 @cancelled(21-11-30 15:58)
+day-2021-11-30:
+  - [x] 블로그 정리 및 내일 할일 정리 2021-11-30 @started(21-12-01 10:30) @done(21-12-01 10:32) @lasted(2m33s)
   nondev:
-    - [x] crypto prj 정리 @started(21-11-29 02:18) @done(21-11-29 04:08) @lasted(1h50m32s)
-    - [x] 빨래하기 @started(21-11-29 16:54) @done(21-11-29 17:49) @lasted(55m16s)
-    - [x] 댕산책 @started(21-11-29 16:54) @done(21-11-29 17:49) @lasted(55m18s)
-    ✘ 카드전달 @cancelled(21-11-29 16:54)
-  job:
-    - [x] grep 일정 회신 2 @high @started(21-11-29 15:12) @done(21-11-29 15:45) @lasted(33m13s)
+    - [x] 병원 내원 @at(10:00) @done(21-11-30 15:58)
+    ✘ 카드전달 @cancelled(21-11-30 15:58)
+    ✘ crypto prj 정리 2 @cancelled(21-12-01 10:29)
   study:
     msa:
-      - [x] 강의 수강 @started(21-11-29 22:20) @done(21-11-29 22:47) @lasted(27m35s)
+      - [x] 강의 수강 @started(21-11-30 22:38) @done(21-11-30 22:54) @lasted(16m19s)
     rust:
-      - [x] rustlings 학습 2 @started(21-11-29 21:37) @done(21-11-29 22:18) @lasted(41m19s)
+      - [x] rustlings 학습 3 @started(21-11-30 19:08) @done(21-11-30 20:25) @lasted(1h17m37s)
 
-day-2021-11-30:
-  - [ ] 블로그 정리 및 내일 할일 정리 2021-11-30
+day-2021-12-01:
+  - [ ] 블로그 정리 및 내일 할일 정리 2021-12-01
   nondev:
-    - [ ] 병원 내원 @at(10:00)
     - [ ] 카드전달
-    - [ ] crypto prj 정리
+    - [ ] crypto prj 정리 2
+  job:
+    - [ ] allgerkor 면접 @at(12:00)
   study:
     msa:
       - [ ] 강의 수강
     rust:
-      - [ ] rustlings 학습 2
+      - [ ] rustlings 학습 4
 
 blog:
   - [ ] 로컬 저장소 정리하기
@@ -94,6 +92,14 @@ longterm:
   - [ ] 영어 공부하기
 
 Archive:
+  ✘ 블로그 정리 및 내일 할일 정리 2021-11-29 @cancelled(21-11-30 15:58) @project(day-2021-11-29)
+  - [x] crypto prj 정리 @started(21-11-29 02:18) @done(21-11-29 04:08) @lasted(1h50m32s) @project(day-2021-11-29.nondev)
+  - [x] 빨래하기 @started(21-11-29 16:54) @done(21-11-29 17:49) @lasted(55m16s) @project(day-2021-11-29.nondev)
+  - [x] 댕산책 @started(21-11-29 16:54) @done(21-11-29 17:49) @lasted(55m18s) @project(day-2021-11-29.nondev)
+  ✘ 카드전달 @cancelled(21-11-29 16:54) @project(day-2021-11-29.nondev)
+  - [x] grep 일정 회신 2 @high @started(21-11-29 15:12) @done(21-11-29 15:45) @lasted(33m13s) @project(day-2021-11-29.job)
+  - [x] 강의 수강 @started(21-11-29 22:20) @done(21-11-29 22:47) @lasted(27m35s) @project(day-2021-11-29.study.msa)
+  - [x] rustlings 학습 2 @started(21-11-29 21:37) @done(21-11-29 22:18) @lasted(41m19s) @project(day-2021-11-29.study.rust)
   ✘ 블로그 정리 및 내일 할일 정리 2021-11-25 @cancelled(21-11-29 02:17) @project(day-2021-11-25)
   - [x] 빨래하라고 알려주기 @done(21-11-29 02:07) @project(day-2021-11-25)
   - [x] 예비군 원격교육 수강 @started(21-11-25 12:39) @done(21-11-25 14:47) @lasted(2h8m13s) @project(day-2021-11-25.nondev)
