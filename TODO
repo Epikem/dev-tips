@@ -1,24 +1,22 @@
-day-2021-12-01:
-  - [x] 블로그 정리 및 내일 할일 정리 2021-12-01 @started(21-12-02 07:33) @done(21-12-02 07:34) @lasted(1m5s)
-  nondev:
-    - [x] 카드전달 @done(21-12-02 07:30)
-    ✘ crypto prj 정리 2 @cancelled(21-12-02 07:30)
-  job:
-    - [x] allgerkor 면접 준비 @started(21-12-01 10:35) @done(21-12-01 11:52) @lasted(1h17m43s)
-    - [x] allgerkor 면접 @at(12:00) @started(21-12-01 11:52) @done(21-12-01 12:55) @lasted(1h3m37s)
-  study:
-    msa:
-      ✘ 강의 수강 @cancelled(21-12-02 07:30)
-    rust:
-      - [x] rustlings 학습 4 @started(21-12-01 16:40) @done(21-12-01 17:45) @lasted(1h5m34s)
-
 day-2021-12-02:
-  - [ ] 블로그 정리 및 내일 할일 정리 2021-12-02
+  - [x] 블로그 정리 및 내일 할일 정리 2021-12-02 @started(21-12-03 05:15) @done(21-12-03 05:25) @lasted(10m16s)
   nondev:
-    - [ ] crypto prj 정리 2
+    - [x] crypto prj 정리 2 @started(21-12-03 04:37) @done(21-12-03 05:15) @lasted(38m5s)
   study:
     msa:
-      - [ ] 강의 수강
+      - [x] 강의 수강 1 @started(21-12-02 07:37) @done(21-12-02 07:53) @lasted(16m29s)
+      - [x] 강의 수강 2 @started(21-12-02 10:14) @done(21-12-02 14:52) @lasted(4h38m25s)
+    rust:
+      ✘ rustlings 학습 5 @cancelled(21-12-03 04:37)
+
+day-2021-12-03:
+  - [ ] 블로그 정리 및 내일 할일 정리 2021-12-03
+  job:
+    - [ ] allgerkor 회신
+    - [ ] 결정 및 회신
+  study:
+    msa:
+      - [ ] 강의 수강 3
     rust:
       - [ ] rustlings 학습 5
 
@@ -92,4 +90,11 @@ longterm:
   - [ ] 영어 공부하기
 
 Archive:
+  - [x] 블로그 정리 및 내일 할일 정리 2021-12-01 @started(21-12-02 07:33) @done(21-12-02 07:34) @lasted(1m5s) @project(day-2021-12-01)
+  - [x] 카드전달 @done(21-12-02 07:30) @project(day-2021-12-01.nondev)
+  ✘ crypto prj 정리 2 @cancelled(21-12-02 07:30) @project(day-2021-12-01.nondev)
+  - [x] allgerkor 면접 준비 @started(21-12-01 10:35) @done(21-12-01 11:52) @lasted(1h17m43s) @project(day-2021-12-01.job)
+  - [x] allgerkor 면접 @at(12:00) @started(21-12-01 11:52) @done(21-12-01 12:55) @lasted(1h3m37s) @project(day-2021-12-01.job)
+  ✘ 강의 수강 @cancelled(21-12-02 07:30) @project(day-2021-12-01.study.msa)
+  - [x] rustlings 학습 4 @started(21-12-01 16:40) @done(21-12-01 17:45) @lasted(1h5m34s) @project(day-2021-12-01.study.rust)
   
