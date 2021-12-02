@@ -1,3 +1,7 @@
 .DS_Store
 redate-settings
 node_modules
+images
+
+.fake
+.ionide
