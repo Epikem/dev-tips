@@ -1,22 +1,22 @@
-day-2021-12-02:
-  - [x] 블로그 정리 및 내일 할일 정리 2021-12-02 @started(21-12-03 05:15) @done(21-12-03 05:25) @lasted(10m16s)
-  nondev:
-    - [x] crypto prj 정리 2 @started(21-12-03 04:37) @done(21-12-03 05:15) @lasted(38m5s)
-  study:
-    msa:
-      - [x] 강의 수강 1 @started(21-12-02 07:37) @done(21-12-02 07:53) @lasted(16m29s)
-      - [x] 강의 수강 2 @started(21-12-02 10:14) @done(21-12-02 14:52) @lasted(4h38m25s)
-    rust:
-      ✘ rustlings 학습 5 @cancelled(21-12-03 04:37)
-
 day-2021-12-03:
-  - [ ] 블로그 정리 및 내일 할일 정리 2021-12-03
+  - [x] 블로그 정리 및 내일 할일 정리 2021-12-03 @started(21-12-06 06:33) @done(21-12-06 06:34) @lasted(1m52s)
   job:
-    - [ ] allgerkor 회신
-    - [ ] 결정 및 회신
+    - [x] allgerkor 회신 @done(21-12-06 06:33)
+    - [x] 결정 및 회신 @done(21-12-06 06:33)
   study:
     msa:
-      - [ ] 강의 수강 3
+      - [x] 강의 수강 3 @started(21-12-03 05:39) @done(21-12-03 05:51) @lasted(12m4s)
+    rust:
+      ✘ rustlings 학습 5 @cancelled(21-12-06 06:33)
+
+day-2021-12-06:
+  - [ ] 블로그 정리 및 내일 할일 정리 2021-12-06
+  - [ ] 형 모의면접
+  non-dev:
+    - [ ] 입사서류 구비
+  study:
+    msa:
+      - [ ] 강의 수강 4
     rust:
       - [ ] rustlings 학습 5
 
@@ -90,6 +90,11 @@ longterm:
   - [ ] 영어 공부하기
 
 Archive:
+  - [x] 블로그 정리 및 내일 할일 정리 2021-12-02 @started(21-12-03 05:15) @done(21-12-03 05:25) @lasted(10m16s) @project(day-2021-12-02)
+  - [x] crypto prj 정리 2 @started(21-12-03 04:37) @done(21-12-03 05:15) @lasted(38m5s) @project(day-2021-12-02.nondev)
+  - [x] 강의 수강 1 @started(21-12-02 07:37) @done(21-12-02 07:53) @lasted(16m29s) @project(day-2021-12-02.study.msa)
+  - [x] 강의 수강 2 @started(21-12-02 10:14) @done(21-12-02 14:52) @lasted(4h38m25s) @project(day-2021-12-02.study.msa)
+  ✘ rustlings 학습 5 @cancelled(21-12-03 04:37) @project(day-2021-12-02.study.rust)
   - [x] 블로그 정리 및 내일 할일 정리 2021-12-01 @started(21-12-02 07:33) @done(21-12-02 07:34) @lasted(1m5s) @project(day-2021-12-01)
   - [x] 카드전달 @done(21-12-02 07:30) @project(day-2021-12-01.nondev)
   ✘ crypto prj 정리 2 @cancelled(21-12-02 07:30) @project(day-2021-12-01.nondev)
