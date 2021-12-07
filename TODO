@@ -1,24 +1,31 @@
-day-2021-12-03:
-  - [x] 블로그 정리 및 내일 할일 정리 2021-12-03 @started(21-12-06 06:33) @done(21-12-06 06:34) @lasted(1m52s)
-  job:
-    - [x] allgerkor 회신 @done(21-12-06 06:33)
-    - [x] 결정 및 회신 @done(21-12-06 06:33)
+day-2021-12-06:
+  - [x] 블로그 정리 및 내일 할일 정리 2021-12-06 @started(21-12-07 09:05) @done(21-12-07 10:53) @lasted(1h48m21s)
+  - [x] 형 모의면접 @started(21-12-06 06:35) @done(21-12-06 14:04) @lasted(7h29m25s)
+  - [x] 형 모의면접 3차 @at(18:30) @started(21-12-06 18:52) @done(21-12-06 20:34) @lasted(1h42m27s)
+  non-dev:
+    ✘ 입사서류 구비 @cancelled(21-12-07 09:05)
   study:
     msa:
-      - [x] 강의 수강 3 @started(21-12-03 05:39) @done(21-12-03 05:51) @lasted(12m4s)
+      ✘ 강의 수강 4 @cancelled(21-12-07 09:05)
     rust:
-      ✘ rustlings 학습 5 @cancelled(21-12-06 06:33)
+      ✘ rustlings 학습 5 @cancelled(21-12-07 09:05)
 
-day-2021-12-06:
-  - [ ] 블로그 정리 및 내일 할일 정리 2021-12-06
-  - [ ] 형 모의면접
+day-2021-12-07:
+  - [ ] 블로그 정리 및 내일 할일 정리 2021-12-07
+  job:
+    - [ ] 자기소개 작성
   non-dev:
-    - [ ] 입사서류 구비
+    - [ ] 입사서류 구비 - 사진 및 자기소개
+    - [ ] 저녁모임 @at(19:00)
   study:
     msa:
       - [ ] 강의 수강 4
     rust:
       - [ ] rustlings 학습 5
+
+day-2021-12-08:
+  non-dev:
+    - [ ] 입사서류 구비 - 체크리스트
 
 blog:
   - [ ] 로컬 저장소 정리하기
@@ -90,6 +97,11 @@ longterm:
   - [ ] 영어 공부하기
 
 Archive:
+  - [x] 블로그 정리 및 내일 할일 정리 2021-12-03 @started(21-12-06 06:33) @done(21-12-06 06:34) @lasted(1m52s) @project(day-2021-12-03)
+  - [x] allgerkor 회신 @done(21-12-06 06:33) @project(day-2021-12-03.job)
+  - [x] 결정 및 회신 @done(21-12-06 06:33) @project(day-2021-12-03.job)
+  - [x] 강의 수강 3 @started(21-12-03 05:39) @done(21-12-03 05:51) @lasted(12m4s) @project(day-2021-12-03.study.msa)
+  ✘ rustlings 학습 5 @cancelled(21-12-06 06:33) @project(day-2021-12-03.study.rust)
   - [x] 블로그 정리 및 내일 할일 정리 2021-12-02 @started(21-12-03 05:15) @done(21-12-03 05:25) @lasted(10m16s) @project(day-2021-12-02)
   - [x] crypto prj 정리 2 @started(21-12-03 04:37) @done(21-12-03 05:15) @lasted(38m5s) @project(day-2021-12-02.nondev)
   - [x] 강의 수강 1 @started(21-12-02 07:37) @done(21-12-02 07:53) @lasted(16m29s) @project(day-2021-12-02.study.msa)
