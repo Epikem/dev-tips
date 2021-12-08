@@ -1,31 +1,26 @@
-day-2021-12-06:
-  - [x] 블로그 정리 및 내일 할일 정리 2021-12-06 @started(21-12-07 09:05) @done(21-12-07 10:53) @lasted(1h48m21s)
-  - [x] 형 모의면접 @started(21-12-06 06:35) @done(21-12-06 14:04) @lasted(7h29m25s)
-  - [x] 형 모의면접 3차 @at(18:30) @started(21-12-06 18:52) @done(21-12-06 20:34) @lasted(1h42m27s)
+day-2021-12-07:
+  - [x] 블로그 정리 및 내일 할일 정리 2021-12-07 @started(21-12-08 11:26) @done(21-12-08 11:27) @lasted(1m20s)
+  job:
+    - [x] 자기소개 작성 @started(21-12-07 10:54) @done(21-12-07 14:59) @lasted(4h5m46s)
   non-dev:
-    ✘ 입사서류 구비 @cancelled(21-12-07 09:05)
+    ✘ 입사서류 구비 - 사진 및 자기소개 @cancelled(21-12-08 11:26)
+    - [x] 저녁모임 @at(19:00) @done(21-12-08 11:26)
   study:
     msa:
-      ✘ 강의 수강 4 @cancelled(21-12-07 09:05)
+      ✘ 강의 수강 4 @cancelled(21-12-08 11:26)
     rust:
-      ✘ rustlings 학습 5 @cancelled(21-12-07 09:05)
+      ✘ rustlings 학습 5 @cancelled(21-12-08 11:26)
 
-day-2021-12-07:
-  - [ ] 블로그 정리 및 내일 할일 정리 2021-12-07
-  job:
-    - [ ] 자기소개 작성
+day-2021-12-08:
+  - [ ] 블로그 정리 및 내일 할일 정리 2021-12-08
   non-dev:
+    - [ ] 입사서류 구비 - 체크리스트
     - [ ] 입사서류 구비 - 사진 및 자기소개
-    - [ ] 저녁모임 @at(19:00)
   study:
     msa:
       - [ ] 강의 수강 4
     rust:
       - [ ] rustlings 학습 5
-
-day-2021-12-08:
-  non-dev:
-    - [ ] 입사서류 구비 - 체크리스트
 
 blog:
   - [ ] 로컬 저장소 정리하기
@@ -97,6 +92,12 @@ longterm:
   - [ ] 영어 공부하기
 
 Archive:
+  - [x] 블로그 정리 및 내일 할일 정리 2021-12-06 @started(21-12-07 09:05) @done(21-12-07 10:53) @lasted(1h48m21s) @project(day-2021-12-06)
+  - [x] 형 모의면접 @started(21-12-06 06:35) @done(21-12-06 14:04) @lasted(7h29m25s) @project(day-2021-12-06)
+  - [x] 형 모의면접 3차 @at(18:30) @started(21-12-06 18:52) @done(21-12-06 20:34) @lasted(1h42m27s) @project(day-2021-12-06)
+  ✘ 입사서류 구비 @cancelled(21-12-07 09:05) @project(day-2021-12-06.non-dev)
+  ✘ 강의 수강 4 @cancelled(21-12-07 09:05) @project(day-2021-12-06.study.msa)
+  ✘ rustlings 학습 5 @cancelled(21-12-07 09:05) @project(day-2021-12-06.study.rust)
   - [x] 블로그 정리 및 내일 할일 정리 2021-12-03 @started(21-12-06 06:33) @done(21-12-06 06:34) @lasted(1m52s) @project(day-2021-12-03)
   - [x] allgerkor 회신 @done(21-12-06 06:33) @project(day-2021-12-03.job)
   - [x] 결정 및 회신 @done(21-12-06 06:33) @project(day-2021-12-03.job)
