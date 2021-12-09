@@ -1,24 +1,21 @@
-day-2021-12-08:
-  - [x] 블로그 정리 및 내일 할일 정리 2021-12-08 @started(21-12-09 06:53) @done(21-12-09 06:55) @lasted(2m43s)
-  non-dev:
-    ✘ 입사서류 구비 - 체크리스트 @cancelled(21-12-08 19:54)
-    ✘ 입사서류 구비 - 사진 및 자기소개 @cancelled(21-12-08 19:08)
-  study:
-    msa:
-      ✘ 강의 수강 4 @cancelled(21-12-09 06:53)
-    rust:
-      ✘ rustlings 학습 5 @cancelled(21-12-09 06:53)
-
 day-2021-12-09:
-  - [ ] 블로그 정리 및 내일 할일 정리 2021-12-09
+  - [x] 블로그 정리 및 내일 할일 정리 2021-12-09 @started(21-12-09 22:21) @done(21-12-09 22:22) @lasted(1m49s)
   non-dev:
-    - [ ] 입사서류 구비 - 체크리스트
-    - [ ] 입사서류 구비 - 사진 및 자기소개
+    - [x] 입사서류 구비 - 체크리스트 @started(21-12-09 20:12) @done(21-12-09 21:42) @lasted(1h30m39s)
+    - [x] 입사서류 구비 - 사진 및 자기소개 @started(21-12-09 17:35) @done(21-12-09 18:11) @lasted(36m27s)
   study:
     msa:
-      - [ ] 강의 수강 4
+      - [x] 강의 수강 4 @started(21-12-09 22:05) @done(21-12-09 22:20) @lasted(15m41s)
     rust:
-      - [ ] rustlings 학습 5
+      - [x] rustlings 학습 5 @started(21-12-09 06:56) @done(21-12-09 08:31) @lasted(1h35m11s)
+
+day-2021-12-10:
+  - [ ] 블로그 정리 및 내일 할일 정리 2021-12-10
+  non-dev:
+    - [ ] 건강검진 관련 문의
+  study:
+    msa:
+      - [ ] 강의 수강 5
 
 blog:
   - [ ] 로컬 저장소 정리하기
@@ -90,6 +87,11 @@ longterm:
   - [ ] 영어 공부하기
 
 Archive:
+  - [x] 블로그 정리 및 내일 할일 정리 2021-12-08 @started(21-12-09 06:53) @done(21-12-09 06:55) @lasted(2m43s) @project(day-2021-12-08)
+  ✘ 입사서류 구비 - 체크리스트 @cancelled(21-12-08 19:54) @project(day-2021-12-08.non-dev)
+  ✘ 입사서류 구비 - 사진 및 자기소개 @cancelled(21-12-08 19:08) @project(day-2021-12-08.non-dev)
+  ✘ 강의 수강 4 @cancelled(21-12-09 06:53) @project(day-2021-12-08.study.msa)
+  ✘ rustlings 학습 5 @cancelled(21-12-09 06:53) @project(day-2021-12-08.study.rust)
   - [x] 블로그 정리 및 내일 할일 정리 2021-12-07 @started(21-12-08 11:26) @done(21-12-08 11:27) @lasted(1m20s) @project(day-2021-12-07)
   - [x] 자기소개 작성 @started(21-12-07 10:54) @done(21-12-07 14:59) @lasted(4h5m46s) @project(day-2021-12-07.job)
   ✘ 입사서류 구비 - 사진 및 자기소개 @cancelled(21-12-08 11:26) @project(day-2021-12-07.non-dev)
