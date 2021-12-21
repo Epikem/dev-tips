@@ -1,23 +1,17 @@
-day-2021-12-16:
-  - [x] 블로그 정리 및 내일 할일 정리 2021-12-16 @started(21-12-16 22:24) @done(21-12-16 22:26) @lasted(2m4s)
-  non-dev:
-    - [x] 서류 회수 및 남은 서류 정리 @started(21-12-16 12:13) @done(21-12-16 18:18) @lasted(6h5m38s)
-  study:
-    msa: 
-      - [x] 강의 수강 8 @started(21-12-16 18:18) @done(21-12-16 19:00) @lasted(42m56s)
-      - [x] 강의 수강 9 @started(21-12-16 19:24) @done(21-12-16 19:55) @lasted(31m52s)
-    rust:
-      - [x] rustlings 학습 9 @started(21-12-16 21:57) @done(21-12-16 22:24) @lasted(27m4s)
-
 day-2021-12-17:
-  - [ ] 블로그 정리 및 내일 할일 정리 2021-12-17
+  ✘ 블로그 정리 및 내일 할일 정리 2021-12-17 @cancelled(21-12-21 13:22)
   non-dev:
-    - [ ] 검진서 회수 @at(16:00) @high
+    ✘ 검진서 회수 @at(16:00) @high @cancelled(21-12-21 13:22)
   study:
     msa: 
-      - [ ] 강의 수강 10
+      ✘ 강의 수강 10 @cancelled(21-12-21 13:22)
     rust:
-      - [ ] rustlings 학습 10
+      ✘ rustlings 학습 10 @cancelled(21-12-21 13:22)
+
+day-2021-12-21:
+  - [ ] 블로그 정리 및 내일 할일 정리 2021-12-21
+  job:
+    - [ ] 환경세팅 작업
 
 blog:
   - [ ] 로컬 저장소 정리하기
@@ -89,6 +83,11 @@ longterm:
   - [ ] 영어 공부하기
 
 Archive:
+  - [x] 블로그 정리 및 내일 할일 정리 2021-12-16 @started(21-12-16 22:24) @done(21-12-16 22:26) @lasted(2m4s) @project(day-2021-12-16)
+  - [x] 서류 회수 및 남은 서류 정리 @started(21-12-16 12:13) @done(21-12-16 18:18) @lasted(6h5m38s) @project(day-2021-12-16.non-dev)
+  - [x] 강의 수강 8 @started(21-12-16 18:18) @done(21-12-16 19:00) @lasted(42m56s) @project(day-2021-12-16.study.msa)
+  - [x] 강의 수강 9 @started(21-12-16 19:24) @done(21-12-16 19:55) @lasted(31m52s) @project(day-2021-12-16.study.msa)
+  - [x] rustlings 학습 9 @started(21-12-16 21:57) @done(21-12-16 22:24) @lasted(27m4s) @project(day-2021-12-16.study.rust)
   - [x] 블로그 정리 및 내일 할일 정리 2021-12-15 @started(21-12-16 12:11) @done(21-12-16 12:12) @lasted(1m47s) @project(day-2021-12-15)
   - [x] 건강검진 관련 문의 2 @done(21-12-15 21:16) @project(day-2021-12-15.non-dev)
   - [x] 강의 수강 7 @started(21-12-15 19:32) @done(21-12-15 20:19) @lasted(47m9s) @project(day-2021-12-15.study.msa)
