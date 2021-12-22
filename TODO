@@ -1,18 +1,25 @@
-day-2021-12-17:
-  ✘ 블로그 정리 및 내일 할일 정리 2021-12-17 @cancelled(21-12-21 13:22)
-  non-dev:
-    ✘ 검진서 회수 @at(16:00) @high @cancelled(21-12-21 13:22)
-  study:
-    msa: 
-      ✘ 강의 수강 10 @cancelled(21-12-21 13:22)
-    rust:
-      ✘ rustlings 학습 10 @cancelled(21-12-21 13:22)
-
 day-2021-12-21:
-  - [ ] 블로그 정리 및 내일 할일 정리 2021-12-21
+  - [x] 블로그 정리 및 내일 할일 정리 2021-12-21 @started(21-12-22 11:02) @done(21-12-22 11:05) @lasted(3m51s)
+  study:
+    ✘ [ ] go 공부 @cancelled(21-12-22 11:04)
   job:
-    - [ ] 환경세팅 작업
-
+    - [x] 환경세팅 - AWS CLI 셋업 @started(21-12-21 13:37) @done(21-12-21 15:43) @lasted(2h6m59s)
+    - [x] 환경세팅 - 도커 설치 @started(21-12-21 16:37) @done(21-12-21 17:32) @lasted(55m36s)
+    - [x] 환경세팅 - 고 설치 @started(21-12-21 17:32) @done(21-12-21 17:58) @lasted(26m44s)
+    ✘ 환경세팅 - 테스트 로그 추가 @started(21-12-21 18:19) @cancelled(21-12-22 11:02) @wasted(16h43m31s)
+    ✘ 환경세팅 - 테스트 실행 @cancelled(21-12-22 11:04)
+    ✘ 팔로우업 - 나머지 가이드 문서 읽기 @cancelled(21-12-22 11:04)
+    
+day-2021-12-22:
+  - [ ] 블로그 정리 및 내일 할일 정리 2021-12-22
+  study:
+    - [ ] go 공부
+  job:
+    - [ ] 환경세팅 - 테스트 로그 추가
+    - [ ] 환경세팅 - 테스트 실행
+    - [ ] 팔로우업 - 나머지 가이드 문서 읽기
+    
+    
 blog:
   - [ ] 로컬 저장소 정리하기
   - [ ] tips 정리하기 @in-month
@@ -83,6 +90,10 @@ longterm:
   - [ ] 영어 공부하기
 
 Archive:
+  ✘ 블로그 정리 및 내일 할일 정리 2021-12-17 @cancelled(21-12-21 13:22) @project(day-2021-12-17)
+  ✘ 검진서 회수 @at(16:00) @high @cancelled(21-12-21 13:22) @project(day-2021-12-17.non-dev)
+  ✘ 강의 수강 10 @cancelled(21-12-21 13:22) @project(day-2021-12-17.study.msa)
+  ✘ rustlings 학습 10 @cancelled(21-12-21 13:22) @project(day-2021-12-17.study.rust)
   - [x] 블로그 정리 및 내일 할일 정리 2021-12-16 @started(21-12-16 22:24) @done(21-12-16 22:26) @lasted(2m4s) @project(day-2021-12-16)
   - [x] 서류 회수 및 남은 서류 정리 @started(21-12-16 12:13) @done(21-12-16 18:18) @lasted(6h5m38s) @project(day-2021-12-16.non-dev)
   - [x] 강의 수강 8 @started(21-12-16 18:18) @done(21-12-16 19:00) @lasted(42m56s) @project(day-2021-12-16.study.msa)
