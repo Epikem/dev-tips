@@ -1,23 +1,36 @@
-day-2021-12-23:
-  - [x] 블로그 정리 및 내일 할일 정리 2021-12-23 @started(21-12-23 19:01) @done(21-12-23 19:04) @lasted(3m5s)
-  study:
-    - [x] go 공부 1 @started(21-12-23 12:58) @done(21-12-23 16:32) @lasted(3h34m51s)
-  job:
-    - [x] 팔로우업 - 아키텍쳐 파악 1 @started(21-12-23 11:06) @done(21-12-23 11:33) @lasted(27m14s)
-    - [x] 온보딩 - python lambda deployment @started(21-12-23 16:43) @done(21-12-23 17:13) @lasted(30m27s)
-    - [x] 팔로우업 - 아키텍쳐 파악 2 @started(21-12-23 18:00) @done(21-12-23 18:53) @lasted(53m47s)
-    - [x] 보안교육 처리 @started(21-12-23 12:52) @done(21-12-23 19:00) @lasted(6h8m53s)
-    ✘ [ ] 일부 코드 분석? @cancelled(21-12-23 19:01)
-
 day-2021-12-24:
-  - [ ] 블로그 정리 및 내일 할일 정리 2021-12-24
+  - [x] 블로그 정리 및 내일 할일 정리 2021-12-24 @started(21-12-24 20:22) @done(21-12-24 20:23) @lasted(1m57s)
   study:
-    - [ ] go 공부 2
+    - [x] go 공부 2 @started(21-12-24 15:17) @done(21-12-24 17:29) @lasted(2h12m36s)
+    ✘ rxjs 공부 @started(21-12-24 18:02) @cancelled(21-12-24 18:28) @wasted(26m21s)
+    - [x] rxjs 셋업 @started(21-12-24 19:08) @done(21-12-24 20:22) @lasted(1h14m52s)
   job:
-    - [ ] 팔로우업 - 아키텍쳐 파악 3
-    - [ ] 남은 보안교육 처리 2
+    - [x] 팔로우업 - 아키텍쳐 파악 3 @started(21-12-24 10:06) @done(21-12-24 11:28) @lasted(1h22m1s)
+    - [x] 남은 보안교육 처리 2 @done(21-12-24 11:27)
+    - [x] 온보딩 문서 업데이트? @done(21-12-24 13:12)
+    - [x] retrospective meeting @started(21-12-24 13:25) @done(21-12-24 14:55) @lasted(1h30m33s)
+    - [x] 교육 수강 - 성희롱방지 @started(21-12-24 14:58) @done(21-12-24 19:19) @lasted(4h21m17s)
+    - [x] 교육 수강 - 영업비밀 @started(21-12-24 18:35) @done(21-12-24 19:19) @lasted(44m18s)
+    ✘ 교육 수강 - 자금세탁방지 @cancelled(21-12-24 20:23)
+    ✘ 일부 코드 분석? @cancelled(21-12-24 20:23)
+
+day-2021-12-27:
+  - [ ] 블로그 정리 및 내일 할일 정리 2021-12-27
+  study:
+    - [ ] rxjs 셋업 2
+  job:
+    - [ ] 교육 수강 - 자금세탁방지
     - [ ] 일부 코드 분석?
-   
+  non-dev:
+    - [ ] 장비 선정
+    
+day-2021-12-28:
+  job:
+    - [ ] 테크니컬 온보딩 @at(10:00) @high
+
+week-2021-12-4:
+  - [ ] 들은 교육 수료증 등 전달 @high
+
 blog:
   - [ ] 로컬 저장소 정리하기
   - [ ] tips 정리하기 @in-month
@@ -32,7 +45,7 @@ blog:
   - [ ] 후기 추가: kakao 2022 2차
   
   meta:
-    - [ ] 블로그 테마 이주: https://chirpy.cotes.info/
+    - [ ] 블로그 테마 이주: https://chirpy.cotes.info/ (이거도 좋음 NexT.Muse)
     - [ ] 수동 연도 업데이트 필요
     - [ ] 이미지 업로드 방안 개선 필요 (깃헙 이슈 활용?)
     - [ ] 태그 이름 변경 등 관리
@@ -88,6 +101,13 @@ longterm:
   - [ ] 영어 공부하기
 
 Archive:
+  - [x] 블로그 정리 및 내일 할일 정리 2021-12-23 @started(21-12-23 19:01) @done(21-12-23 19:04) @lasted(3m5s) @project(day-2021-12-23)
+  - [x] go 공부 1 @started(21-12-23 12:58) @done(21-12-23 16:32) @lasted(3h34m51s) @project(day-2021-12-23.study)
+  - [x] 팔로우업 - 아키텍쳐 파악 1 @started(21-12-23 11:06) @done(21-12-23 11:33) @lasted(27m14s) @project(day-2021-12-23.job)
+  - [x] 온보딩 - python lambda deployment @started(21-12-23 16:43) @done(21-12-23 17:13) @lasted(30m27s) @project(day-2021-12-23.job)
+  - [x] 팔로우업 - 아키텍쳐 파악 2 @started(21-12-23 18:00) @done(21-12-23 18:53) @lasted(53m47s) @project(day-2021-12-23.job)
+  - [x] 보안교육 처리 @started(21-12-23 12:52) @done(21-12-23 19:00) @lasted(6h8m53s) @project(day-2021-12-23.job)
+  ✘ [ ] 일부 코드 분석? @cancelled(21-12-23 19:01) @project(day-2021-12-23.job)
   - [x] 블로그 정리 및 내일 할일 정리 2021-12-22 @late @started(21-12-23 10:20) @done(21-12-23 10:51) @lasted(31m38s) @project(day-2021-12-22)
   ✘ [ ] go 공부 @cancelled(21-12-23 10:51) @project(day-2021-12-22.study)
   - [x] 환경세팅 - 테스트 로그 추가 @done(21-12-22 13:21) @project(day-2021-12-22.job)
