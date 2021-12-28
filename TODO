@@ -1,25 +1,20 @@
-day-2021-12-27:
-  - [x] 블로그 정리 및 내일 할일 정리 2021-12-27 @started(21-12-27 17:14) @done(21-12-27 17:16) @lasted(2m32s)
-  study:
-    - [x] rxjs 셋업 2 @started(21-12-27 13:47) @done(21-12-27 16:33) @lasted(2h46m8s)
-  job:
-    - [x] 교육 수강 - 자금세탁방지 @started(21-12-27 08:51) @done(21-12-27 16:33) @lasted(7h42m7s)
-    - [x] 문서읽기 @started(21-12-27 09:01) @done(21-12-27 13:46) @lasted(4h45m59s)
-    - [x] 시험 응시 - 자금세탁방지 @started(21-12-27 16:33) @done(21-12-27 16:42) @lasted(9m2s)
-    ✘ 일부 코드 분석? @cancelled(21-12-27 17:14)
-    ✘ 문서 업데이트 - aws config 정보 @cancelled(21-12-27 17:14)
-  non-dev:
-    ✘ 장비 선정 @cancelled(21-12-27 17:14)
-    
 day-2021-12-28:
+  study:
+    ✘ rxjs 공부 3 @cancelled(21-12-29 08:02)
+  job:
+    - [x] 온보딩 @at(10:00) @high @done(21-12-28 11:05)
+    - [x] 테크니컬 온보딩 @at(13:00) @high @done(21-12-28 15:12)
+    - [x] 타운홀 @at(15:00) @started(21-12-28 15:12) @done(21-12-28 21:14) @lasted(6h2m12s)
+    ✘ 문서 업데이트 - aws config 정보 @cancelled(21-12-29 08:02)
+    ✘ 교육 수료 사항 전달하기 @cancelled(21-12-29 08:02)
+    
+day-2021-12-29:
+  - [ ] 블로그 정리 및 내일 할일 정리 2021-12-29
   study:
     - [ ] rxjs 공부 3
   job:
-    - [ ] 테크니컬 온보딩 @at(10:00) @high
-    - [ ] 송년회 @at(15:00)
     - [ ] 문서 업데이트 - aws config 정보
-    
-day-2021-12-29:
+    - [ ] 교육 수료 사항 전달하기
   non-dev:
     - [ ] 장비 선정
   
@@ -96,6 +91,14 @@ longterm:
   - [ ] 영어 공부하기
 
 Archive:
+  - [x] 블로그 정리 및 내일 할일 정리 2021-12-27 @started(21-12-27 17:14) @done(21-12-27 17:16) @lasted(2m32s) @project(day-2021-12-27)
+  - [x] rxjs 셋업 2 @started(21-12-27 13:47) @done(21-12-27 16:33) @lasted(2h46m8s) @project(day-2021-12-27.study)
+  - [x] 교육 수강 - 자금세탁방지 @started(21-12-27 08:51) @done(21-12-27 16:33) @lasted(7h42m7s) @project(day-2021-12-27.job)
+  - [x] 문서읽기 @started(21-12-27 09:01) @done(21-12-27 13:46) @lasted(4h45m59s) @project(day-2021-12-27.job)
+  - [x] 시험 응시 - 자금세탁방지 @started(21-12-27 16:33) @done(21-12-27 16:42) @lasted(9m2s) @project(day-2021-12-27.job)
+  ✘ 일부 코드 분석? @cancelled(21-12-27 17:14) @project(day-2021-12-27.job)
+  ✘ 문서 업데이트 - aws config 정보 @cancelled(21-12-27 17:14) @project(day-2021-12-27.job)
+  ✘ 장비 선정 @cancelled(21-12-27 17:14) @project(day-2021-12-27.non-dev)
   - [x] 블로그 정리 및 내일 할일 정리 2021-12-24 @started(21-12-24 20:22) @done(21-12-24 20:23) @lasted(1m57s) @project(day-2021-12-24)
   - [x] go 공부 2 @started(21-12-24 15:17) @done(21-12-24 17:29) @lasted(2h12m36s) @project(day-2021-12-24.study)
   ✘ rxjs 공부 @started(21-12-24 18:02) @cancelled(21-12-24 18:28) @wasted(26m21s) @project(day-2021-12-24.study)
