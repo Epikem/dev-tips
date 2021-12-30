@@ -1,23 +1,27 @@
-day-2021-12-28:
-  study:
-    ✘ rxjs 공부 3 @cancelled(21-12-29 08:02)
-  job:
-    - [x] 온보딩 @at(10:00) @high @done(21-12-28 11:05)
-    - [x] 테크니컬 온보딩 @at(13:00) @high @done(21-12-28 15:12)
-    - [x] 타운홀 @at(15:00) @started(21-12-28 15:12) @done(21-12-28 21:14) @lasted(6h2m12s)
-    ✘ 문서 업데이트 - aws config 정보 @cancelled(21-12-29 08:02)
-    ✘ 교육 수료 사항 전달하기 @cancelled(21-12-29 08:02)
-    
 day-2021-12-29:
-  - [ ] 블로그 정리 및 내일 할일 정리 2021-12-29
+  - [x] 블로그 정리 및 내일 할일 정리 2021-12-29 @late @started(21-12-30 08:18) @done(21-12-30 08:48) @lasted(30m43s)
   study:
-    - [ ] rxjs 공부 3
+    - [x] rxjs 공부 3 - operators 1 @started(21-12-29 13:18) @done(21-12-29 17:35) @lasted(4h17m23s)
   job:
+    - [x] jira task 정리 @started(21-12-29 08:53) @done(21-12-29 11:01) @lasted(2h8m41s)
+    - [x] 추가 문서 읽기 2 @started(21-12-29 11:01) @done(21-12-29 11:19) @lasted(18m24s)
+    - [x] 세로 모니터 설정 - @started(21-12-29 12:52) @done(21-12-29 15:32) @lasted(2h40m56s)
+    ✘ 문서 업데이트 - aws config 정보 @cancelled(21-12-30 08:18)
+    ✘ 교육 수료 사항 전달하기 @cancelled(21-12-30 08:18)
+  non-dev:
+    ✘ 장비 선정 @cancelled(21-12-30 08:18)
+
+day-2021-12-30:
+  - [ ] 블로그 정리 및 내일 할일 정리 2021-12-30
+  study:
+    - [ ] rxjs 공부 4 - project autocomplete
+  job:
+    - [ ] 추가 문서 읽기 3
     - [ ] 문서 업데이트 - aws config 정보
     - [ ] 교육 수료 사항 전달하기
   non-dev:
     - [ ] 장비 선정
-  
+    
 week-2021-12-4:
   - [ ] 들은 교육 수료증 등 전달 @high
 
@@ -91,6 +95,12 @@ longterm:
   - [ ] 영어 공부하기
 
 Archive:
+  ✘ rxjs 공부 3 @cancelled(21-12-29 08:02) @project(day-2021-12-28.study)
+  - [x] 온보딩 @at(10:00) @high @done(21-12-28 11:05) @project(day-2021-12-28.job)
+  - [x] 테크니컬 온보딩 @at(13:00) @high @done(21-12-28 15:12) @project(day-2021-12-28.job)
+  - [x] 타운홀 @at(15:00) @started(21-12-28 15:12) @done(21-12-28 21:14) @lasted(6h2m12s) @project(day-2021-12-28.job)
+  ✘ 문서 업데이트 - aws config 정보 @cancelled(21-12-29 08:02) @project(day-2021-12-28.job)
+  ✘ 교육 수료 사항 전달하기 @cancelled(21-12-29 08:02) @project(day-2021-12-28.job)
   - [x] 블로그 정리 및 내일 할일 정리 2021-12-27 @started(21-12-27 17:14) @done(21-12-27 17:16) @lasted(2m32s) @project(day-2021-12-27)
   - [x] rxjs 셋업 2 @started(21-12-27 13:47) @done(21-12-27 16:33) @lasted(2h46m8s) @project(day-2021-12-27.study)
   - [x] 교육 수강 - 자금세탁방지 @started(21-12-27 08:51) @done(21-12-27 16:33) @lasted(7h42m7s) @project(day-2021-12-27.job)
