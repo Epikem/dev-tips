@@ -1,34 +1,34 @@
-
-day-2021-12-30:
-  - [x] 블로그 정리 및 내일 할일 정리 2021-12-30 @started(21-12-30 17:05) @done(21-12-30 17:10) @lasted(5m30s)
-  study:
-    - [x] rxjs 공부 4 - project autocomplete @started(21-12-30 10:24) @done(21-12-30 11:39) @lasted(1h15m42s)
-    - [x] rxjs 공부 5 - subjects, scheduler (partial 1) @started(21-12-30 13:24) @done(21-12-30 13:31) @lasted(7m59s)
-  job:
-    - [x] 추가 문서 읽기 3 @done(21-12-30 17:07)
-    - [x] 스프린트 플래닝 @started(21-12-30 13:32) @done(21-12-30 16:10) @lasted(2h38m51s)
-    - [x] 문서 업데이트 - aws config 정보 @started(21-12-30 10:00) @done(21-12-30 10:23) @lasted(23m54s)
-    - [x] 교육 수료 사항 전달하기 @done(21-12-30 09:41)
-    - [x] GOP-13758 1차 분석 @started(21-12-30 16:12) @done(21-12-30 17:06) @lasted(54m44s)
-  non-dev:
-    - [x] 장비 선정 - 1 @done(21-12-30 17:08)
-
-week-2021-12-4:
-  - [x] 들은 교육 수료증 등 전달 @high @started(21-12-30 09:27) @done(21-12-30 09:41) @lasted(14m37s)
-
 day-2021-12-31:
-  - [ ] 블로그 정리 및 내일 할일 정리 2021-12-31
+  - [x] 블로그 정리 및 내일 할일 정리 2021-12-31 @started(21-12-31 16:52) @done(21-12-31 17:01) @lasted(9m6s)
+  study:
+    ✘ [ ] rxjs 공부 6 - subjects, scheduler (partial 2) @cancelled(21-12-31 16:52)
+  job:
+    ✘ [ ] 추가 문서 읽기 4 @cancelled(21-12-31 16:54)
+    - [x] GOP-13758 2차 분석 1 @started(21-12-31 08:48) @done(21-12-31 09:34) @lasted(46m27s)
+    - [x] 프론트 배포해보기 1 @started(21-12-31 09:59) @done(21-12-31 11:14) @lasted(1h15m40s)
+    - [x] GOP-13758 2차 분석 2 @started(21-12-31 13:14) @done(21-12-31 13:52) @lasted(38m3s)
+    - [x] 프론트 배포해보기 2 @done(21-12-31 16:11)
+    - [x] 테스트 계정 셋업 1 @started(21-12-31 16:12) @done(21-12-31 16:39) @lasted(27m34s)
+    ✘ [ ] 지원비 관련 문의 @started(21-12-31 13:52) @cancelled(21-12-31 13:56) @wasted(4m54s)
+  non-dev:
+    - [x] 장비 선정 - 2 @done(21-12-31 16:57)
+
+day-2022-01-01:
+  - [ ] 블로그 정리 및 내일 할일 정리 2022-01-01
+  blog:
+    - [ ] 2021 포스트 옮기기
   study:
     - [ ] rxjs 공부 6 - subjects, scheduler (partial 2)
   job:
     - [ ] 추가 문서 읽기 4
-    - [ ] GOP-13758 2차 분석
-  non-dev:
-    - [ ] 장비 선정 - 2
-  
+    - [ ] GOP-13758 2차 분석 3
+    - [ ] 테스트 계정 셋업 2 - 
+    non-dev:
+      - [ ] 지원비 관련 문의
 
-week-2022-01-1:
+week-2022-01-2:
   - [ ] 재택 환경 세팅
+  - [ ] 장비 요청
 
 blog:
   - [ ] 로컬 저장소 정리하기
@@ -100,6 +100,16 @@ longterm:
   - [ ] 영어 공부하기
 
 Archive:
+  - [x] 블로그 정리 및 내일 할일 정리 2021-12-30 @started(21-12-30 17:05) @done(21-12-30 17:10) @lasted(5m30s) @project(day-2021-12-30)
+  - [x] rxjs 공부 4 - project autocomplete @started(21-12-30 10:24) @done(21-12-30 11:39) @lasted(1h15m42s) @project(day-2021-12-30.study)
+  - [x] rxjs 공부 5 - subjects, scheduler (partial 1) @started(21-12-30 13:24) @done(21-12-30 13:31) @lasted(7m59s) @project(day-2021-12-30.study)
+  - [x] 추가 문서 읽기 3 @done(21-12-30 17:07) @project(day-2021-12-30.job)
+  - [x] 스프린트 플래닝 @started(21-12-30 13:32) @done(21-12-30 16:10) @lasted(2h38m51s) @project(day-2021-12-30.job)
+  - [x] 문서 업데이트 - aws config 정보 @started(21-12-30 10:00) @done(21-12-30 10:23) @lasted(23m54s) @project(day-2021-12-30.job)
+  - [x] 교육 수료 사항 전달하기 @done(21-12-30 09:41) @project(day-2021-12-30.job)
+  - [x] GOP-13758 1차 분석 @started(21-12-30 16:12) @done(21-12-30 17:06) @lasted(54m44s) @project(day-2021-12-30.job)
+  - [x] 장비 선정 - 1 @done(21-12-30 17:08) @project(day-2021-12-30.non-dev)
+  - [x] 들은 교육 수료증 등 전달 @high @started(21-12-30 09:27) @done(21-12-30 09:41) @lasted(14m37s) @project(week-2021-12-4)
   - [x] 블로그 정리 및 내일 할일 정리 2021-12-29 @late @started(21-12-30 08:18) @done(21-12-30 08:48) @lasted(30m43s) @project(day-2021-12-29)
   - [x] rxjs 공부 3 - operators 1 @started(21-12-29 13:18) @done(21-12-29 17:35) @lasted(4h17m23s) @project(day-2021-12-29.study)
   - [x] jira task 정리 @started(21-12-29 08:53) @done(21-12-29 11:01) @lasted(2h8m41s) @project(day-2021-12-29.job)
