@@ -1,33 +1,28 @@
-day-2022-01-04:
-  - [x] 블로그 정리 및 내일 할일 정리 2022-01-04 @started(22-01-05 08:33) @done(22-01-05 08:39) @lasted(6m49s)
-  blog:
-    - [x] 2021 포스트 옮기기 @done(22-01-05 08:40)
-  study:
-    ✘ [ ] rxjs 공부 6 - subjects, scheduler (partial 2) @cancelled(22-01-05 08:36)
-  job:
-    - [x] 일정 변경 승인 요청 @done(22-01-04 08:28)
-    - [x] 테스트 계정 셋업 2 - 인증실패 디버깅 @started(22-01-04 08:31) @done(22-01-04 11:08) @lasted(2h37m51s)
-    - [x] 테스트 계정 셋업 3 - 가입하기 1 @started(22-01-04 11:09) @done(22-01-04 11:27) @lasted(18m39s)
-    - [x] 테스트 계정 셋업 4 - 가입하기 2 @started(22-01-04 13:35) @done(22-01-04 17:44) @lasted(4h9m25s)
-    ✘ [ ] GOP-13758 2차 분석 3 @cancelled(22-01-05 08:36)
-    ✘ 추가 문서 읽기 4 @cancelled(22-01-05 08:35)
-    non-dev:
-      ✘ [ ] 지원비 관련 문의 @cancelled(22-01-05 08:36)
-
 day-2022-01-05:
-  - [ ] 블로그 정리 및 내일 할일 정리 2022-01-05
+  - [x] 블로그 정리 및 내일 할일 정리 2022-01-05 @started(22-01-05 16:59) @done(22-01-05 17:01) @lasted(2m22s)
+  study:
+    ✘ [ ] rxjs 공부 6 - subjects, scheduler (partial 2) @cancelled(22-01-05 16:59)
+  job:
+    - [x] 테스트 계정 셋업 5 - 가입하기 3 @started(22-01-05 09:49) @done(22-01-05 10:15) @lasted(26m)
+    - [x] 테스트 계정 셋업 6 - 가입하기 4 @started(22-01-05 13:04) @done(22-01-05 13:46) @lasted(42m34s)
+    - [x] GOP-13758 2차 분석 3 @started(22-01-05 15:51) @done(22-01-05 16:59) @lasted(1h8m37s)
+    ✘ [ ] 추가 문서 읽기 4 @cancelled(22-01-05 16:59)
+    ✘ [ ] 어드민 계정 신청? @cancelled(22-01-05 16:59)
+    non-dev:
+      ✘ [ ] 지원비 관련 문의 @cancelled(22-01-05 16:59)
+      - [x] 적요 작성 @started(22-01-05 14:01) @done(22-01-05 14:43) @lasted(42m27s)
+
+day-2022-01-06:
+  - [ ] 블로그 정리 및 내일 할일 정리 2022-01-06
   study:
     - [ ] rxjs 공부 6 - subjects, scheduler (partial 2)
   job:
-    - [ ] 테스트 계정 셋업 5 - 가입하기 3
-    - [ ] GOP-13758 2차 분석 3
-    - [ ] 추가 문서 읽기 4
+    - [ ] GOP-13758 작업
     non-dev:
       - [ ] 지원비 관련 문의
 
 week-2022-01-2:
   - [ ] 재택 환경 세팅
-  - [ ] 장비 요청
 
 blog:
   - [ ] 로컬 저장소 정리하기
@@ -99,6 +94,16 @@ longterm:
   - [ ] 영어 공부하기
 
 Archive:
+  - [x] 블로그 정리 및 내일 할일 정리 2022-01-04 @started(22-01-05 08:33) @done(22-01-05 08:39) @lasted(6m49s) @project(day-2022-01-04)
+  - [x] 2021 포스트 옮기기 @done(22-01-05 08:40) @project(day-2022-01-04.blog)
+  ✘ [ ] rxjs 공부 6 - subjects, scheduler (partial 2) @cancelled(22-01-05 08:36) @project(day-2022-01-04.study)
+  - [x] 일정 변경 승인 요청 @done(22-01-04 08:28) @project(day-2022-01-04.job)
+  - [x] 테스트 계정 셋업 2 - 인증실패 디버깅 @started(22-01-04 08:31) @done(22-01-04 11:08) @lasted(2h37m51s) @project(day-2022-01-04.job)
+  - [x] 테스트 계정 셋업 3 - 가입하기 1 @started(22-01-04 11:09) @done(22-01-04 11:27) @lasted(18m39s) @project(day-2022-01-04.job)
+  - [x] 테스트 계정 셋업 4 - 가입하기 2 @started(22-01-04 13:35) @done(22-01-04 17:44) @lasted(4h9m25s) @project(day-2022-01-04.job)
+  ✘ [ ] GOP-13758 2차 분석 3 @cancelled(22-01-05 08:36) @project(day-2022-01-04.job)
+  ✘ 추가 문서 읽기 4 @cancelled(22-01-05 08:35) @project(day-2022-01-04.job)
+  ✘ [ ] 지원비 관련 문의 @cancelled(22-01-05 08:36) @project(day-2022-01-04.job.non-dev)
   - [x] 블로그 정리 및 내일 할일 정리 2021-12-31 @started(21-12-31 16:52) @done(21-12-31 17:01) @lasted(9m6s) @project(day-2021-12-31)
   ✘ [ ] rxjs 공부 6 - subjects, scheduler (partial 2) @cancelled(21-12-31 16:52) @project(day-2021-12-31.study)
   ✘ [ ] 추가 문서 읽기 4 @cancelled(21-12-31 16:54) @project(day-2021-12-31.job)
