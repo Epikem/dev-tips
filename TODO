@@ -1,12 +1,33 @@
 day-2022-01-10:
-  - [ ] 블로그 정리 및 내일 할일 정리 2022-01-10
+  - [x] 블로그 정리 및 내일 할일 정리 2022-01-10 @started(22-01-10 18:03) @done(22-01-10 18:07) @lasted(4m54s)
+  non-dev:
+    - [x] 보험 처리 @done(22-01-10 13:05)
   study:
-    - [ ] rxjs 공부 6 - subjects, scheduler (partial 2)
+    - [x] rxjs 공부 6 - subjects, scheduler (partial 2) @started(22-01-10 17:08) @done(22-01-10 18:03) @lasted(55m22s)
+    ✘ [ ] rxjs 공부 7 - [hello rxjs 실습](https://streami.atlassian.net/wiki/spaces/LAB/pages/819789946/Hello+RxJS) @cancelled(22-01-10 18:03)
   job:
-    - [ ] GOP-13758 리뷰 반영
-    - [ ] 티켓 정리하기
+    ✘ [ ] GOP-13758 리뷰 반영 @cancelled(22-01-10 18:03)
+    ✘ [ ] 티켓 정리하기 @cancelled(22-01-10 18:04)
+    - [x] GOP-14062 분석 @started(22-01-10 16:21) @done(22-01-10 17:06) @lasted(45m6s)
+    - [x] 할만한 태스크 찾기 @started(22-01-10 14:35) @done(22-01-10 15:01) @lasted(26m57s)
+    non-dev:
+      - [x] 윤리헌장 @started(22-01-10 13:48) @done(22-01-10 13:55) @lasted(7m42s)
+      - [x] 도서구매 신청 1 @started(22-01-10 10:13) @done(22-01-10 10:33) @lasted(20m17s)
+      - [x] 도서구매 신청 2 @started(22-01-10 10:40) @done(22-01-10 10:59) @lasted(19m53s)
+      - [x] 장비구매 @started(22-01-10 09:14) @done(22-01-10 09:50) @lasted(36m2s)
+
+day-2022-01-11:
+  - [ ] 블로그 정리 및 내일 할일 정리 2022-01-11
+  study:
+    - [ ] rxjs 공부 7 - scheduler (partial 3)
+    - [ ] rxjs 공부 8 - [hello rxjs 실습](https://streami.atlassian.net/wiki/spaces/LAB/pages/819789946/Hello+RxJS)
+  job:
+    - [ ] GOP-14062 작업 - 기존 api 테스트
+    - [ ] GOP-14062 작업 - redis 테스트
+
 
 week-2022-01-2:
+  - [ ] GOP-13758 리뷰 반영
   - [ ] 재택 환경 세팅
 
 blog:
