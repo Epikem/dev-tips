@@ -1,33 +1,28 @@
-day-2022-01-10:
-  - [x] 블로그 정리 및 내일 할일 정리 2022-01-10 @started(22-01-10 18:03) @done(22-01-10 18:07) @lasted(4m54s)
-  non-dev:
-    - [x] 보험 처리 @done(22-01-10 13:05)
-  study:
-    - [x] rxjs 공부 6 - subjects, scheduler (partial 2) @started(22-01-10 17:08) @done(22-01-10 18:03) @lasted(55m22s)
-    ✘ [ ] rxjs 공부 7 - [hello rxjs 실습](https://streami.atlassian.net/wiki/spaces/LAB/pages/819789946/Hello+RxJS) @cancelled(22-01-10 18:03)
-  job:
-    ✘ [ ] GOP-13758 리뷰 반영 @cancelled(22-01-10 18:03)
-    ✘ [ ] 티켓 정리하기 @cancelled(22-01-10 18:04)
-    - [x] GOP-14062 분석 @started(22-01-10 16:21) @done(22-01-10 17:06) @lasted(45m6s)
-    - [x] 할만한 태스크 찾기 @started(22-01-10 14:35) @done(22-01-10 15:01) @lasted(26m57s)
-    non-dev:
-      - [x] 윤리헌장 @started(22-01-10 13:48) @done(22-01-10 13:55) @lasted(7m42s)
-      - [x] 도서구매 신청 1 @started(22-01-10 10:13) @done(22-01-10 10:33) @lasted(20m17s)
-      - [x] 도서구매 신청 2 @started(22-01-10 10:40) @done(22-01-10 10:59) @lasted(19m53s)
-      - [x] 장비구매 @started(22-01-10 09:14) @done(22-01-10 09:50) @lasted(36m2s)
-
 day-2022-01-11:
-  - [ ] 블로그 정리 및 내일 할일 정리 2022-01-11
+  - [x] 블로그 정리 및 내일 할일 정리 2022-01-11 @started(22-01-11 16:12) @done(22-01-11 16:14) @lasted(2m27s)
   study:
-    - [ ] rxjs 공부 7 - scheduler (partial 3)
-    - [ ] rxjs 공부 8 - [hello rxjs 실습](https://streami.atlassian.net/wiki/spaces/LAB/pages/819789946/Hello+RxJS)
+    - [x] rxjs 공부 7 - scheduler (partial 3) @started(22-01-11 08:15) @done(22-01-11 08:51) @lasted(36m12s)
+    ✘ [ ] rxjs 공부 8 - [hello rxjs 실습](https://streami.atlassian.net/wiki/spaces/LAB/pages/819789946/Hello+RxJS) @cancelled(22-01-11 16:12)
+    - [x] clean architecture 읽기 @started(22-01-11 12:53) @done(22-01-11 13:13) @lasted(20m19s)
   job:
+    - [x] PC 관리 @started(22-01-11 14:28) @done(22-01-11 15:14) @lasted(46m59s)
+    - [x] GOP-14062 작업 - 티켓 정리, 계획 정리, 흐름 재설계 @started(22-01-11 15:15) @done(22-01-11 16:12) @lasted(57m8s)
+    ✘ [ ] GOP-14062 작업 - 기존 api 테스트 @cancelled(22-01-11 16:12)
+    ✘ [ ] GOP-14062 작업 - redis 테스트 @cancelled(22-01-11 16:12)
+
+day-2022-01-12:
+  - [ ] 블로그 정리 및 내일 할일 정리 2022-01-12
+  study:
+    - [ ] rxjs 공부 8 - [hello rxjs 실습](https://streami.atlassian.net/wiki/spaces/LAB/pages/819789946/Hello+RxJS)
+    - [ ] clean architecture 읽기
+  job:
+    - [ ] GOP-14062 작업 - 티켓 정리, 계획 정리, 흐름 재설계
     - [ ] GOP-14062 작업 - 기존 api 테스트
-    - [ ] GOP-14062 작업 - redis 테스트
-
-
+    
+    
 week-2022-01-2:
   - [ ] GOP-13758 리뷰 반영
+  - [ ] GOP-14062 작업 - redis 테스트
   - [ ] 재택 환경 세팅
 
 blog:
@@ -100,6 +95,18 @@ longterm:
   - [ ] 영어 공부하기
 
 Archive:
+  - [x] 블로그 정리 및 내일 할일 정리 2022-01-10 @started(22-01-10 18:03) @done(22-01-10 18:07) @lasted(4m54s) @project(day-2022-01-10)
+  - [x] 보험 처리 @done(22-01-10 13:05) @project(day-2022-01-10.non-dev)
+  - [x] rxjs 공부 6 - subjects, scheduler (partial 2) @started(22-01-10 17:08) @done(22-01-10 18:03) @lasted(55m22s) @project(day-2022-01-10.study)
+  ✘ [ ] rxjs 공부 7 - [hello rxjs 실습](https://streami.atlassian.net/wiki/spaces/LAB/pages/819789946/Hello+RxJS) @cancelled(22-01-10 18:03) @project(day-2022-01-10.study)
+  ✘ [ ] GOP-13758 리뷰 반영 @cancelled(22-01-10 18:03) @project(day-2022-01-10.job)
+  ✘ [ ] 티켓 정리하기 @cancelled(22-01-10 18:04) @project(day-2022-01-10.job)
+  - [x] GOP-14062 분석 @started(22-01-10 16:21) @done(22-01-10 17:06) @lasted(45m6s) @project(day-2022-01-10.job)
+  - [x] 할만한 태스크 찾기 @started(22-01-10 14:35) @done(22-01-10 15:01) @lasted(26m57s) @project(day-2022-01-10.job)
+  - [x] 윤리헌장 @started(22-01-10 13:48) @done(22-01-10 13:55) @lasted(7m42s) @project(day-2022-01-10.job.non-dev)
+  - [x] 도서구매 신청 1 @started(22-01-10 10:13) @done(22-01-10 10:33) @lasted(20m17s) @project(day-2022-01-10.job.non-dev)
+  - [x] 도서구매 신청 2 @started(22-01-10 10:40) @done(22-01-10 10:59) @lasted(19m53s) @project(day-2022-01-10.job.non-dev)
+  - [x] 장비구매 @started(22-01-10 09:14) @done(22-01-10 09:50) @lasted(36m2s) @project(day-2022-01-10.job.non-dev)
   - [x] 블로그 정리 및 내일 할일 정리 2022-01-06 @started(22-01-06 17:05) @done(22-01-06 17:05) @lasted(59s) @project(day-2022-01-06)
   ✘ [ ] rxjs 공부 6 - subjects, scheduler (partial 2) @cancelled(22-01-06 17:05) @project(day-2022-01-06.study)
   - [x] GOP-13758 작업 1 @started(22-01-06 08:17) @done(22-01-06 11:14) @lasted(2h57m33s) @project(day-2022-01-06.job)
