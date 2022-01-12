@@ -1,25 +1,24 @@
-day-2022-01-11:
-  - [x] 블로그 정리 및 내일 할일 정리 2022-01-11 @started(22-01-11 16:12) @done(22-01-11 16:14) @lasted(2m27s)
-  study:
-    - [x] rxjs 공부 7 - scheduler (partial 3) @started(22-01-11 08:15) @done(22-01-11 08:51) @lasted(36m12s)
-    ✘ [ ] rxjs 공부 8 - [hello rxjs 실습](https://streami.atlassian.net/wiki/spaces/LAB/pages/819789946/Hello+RxJS) @cancelled(22-01-11 16:12)
-    - [x] clean architecture 읽기 @started(22-01-11 12:53) @done(22-01-11 13:13) @lasted(20m19s)
-  job:
-    - [x] PC 관리 @started(22-01-11 14:28) @done(22-01-11 15:14) @lasted(46m59s)
-    - [x] GOP-14062 작업 - 티켓 정리, 계획 정리, 흐름 재설계 @started(22-01-11 15:15) @done(22-01-11 16:12) @lasted(57m8s)
-    ✘ [ ] GOP-14062 작업 - 기존 api 테스트 @cancelled(22-01-11 16:12)
-    ✘ [ ] GOP-14062 작업 - redis 테스트 @cancelled(22-01-11 16:12)
-
 day-2022-01-12:
-  - [ ] 블로그 정리 및 내일 할일 정리 2022-01-12
+  - [x] 블로그 정리 및 내일 할일 정리 2022-01-12 @started(22-01-12 16:49) @done(22-01-12 16:50) @lasted(1m35s)
+  non-dev:
+    - [x] 병원 서류 팩스받기 @started(22-01-12 16:22) @done(22-01-12 16:49) @lasted(27m28s) @fail
   study:
-    - [ ] rxjs 공부 8 - [hello rxjs 실습](https://streami.atlassian.net/wiki/spaces/LAB/pages/819789946/Hello+RxJS)
-    - [ ] clean architecture 읽기
+    - [x] rxjs 공부 8 - [hello rxjs 실습](https://streami.atlassian.net/wiki/spaces/LAB/pages/819789946/Hello+RxJS) @started(22-01-12 12:17) @done(22-01-12 14:13) @lasted(1h56m25s)
+    - [x] clean architecture 읽기 @started(22-01-12 11:50) @done(22-01-12 12:13) @lasted(23m45s)
   job:
-    - [ ] GOP-14062 작업 - 티켓 정리, 계획 정리, 흐름 재설계
-    - [ ] GOP-14062 작업 - 기존 api 테스트
-    
-    
+    - [x] GOP-14062 작업 - 티켓 정리, 계획 정리, 흐름 재설계 1 @started(22-01-12 07:47) @done(22-01-12 08:18) @lasted(31m56s)
+    - [x] GOP-14062 작업 - 기존 api 테스트 @started(22-01-12 08:19) @done(22-01-12 09:54) @lasted(1h35m27s) @fail
+    - [x] GOP-14062 작업 - 티켓 정리, 계획 정리, 흐름 재설계 2 @started(22-01-12 11:04) @done(22-01-12 11:17) @lasted(13m37s)
+    - [x] 데일리 @started(22-01-12 11:17) @done(22-01-12 11:26) @lasted(9m35s)
+    - [x] GOP-14062 작업 - 티켓 정리, 계획 정리, 흐름 재설계 3 @started(22-01-12 14:13) @done(22-01-12 15:15) @lasted(1h2m14s)
+    - [x] 추가 문서 읽기 @started(22-01-12 15:15) @done(22-01-12 15:41) @lasted(26m26s)
+    - [x] GOP-14062 작업 - 테스트 설계 @started(22-01-12 15:58) @done(22-01-12 16:15) @lasted(17m11s)
+
+day-2022-01-13:
+  - [ ] 블로그 정리 및 내일 할일 정리 2022-01-13
+  job:
+    - [ ] GOP-14062 작업 - 테스트 설계
+
 week-2022-01-2:
   - [ ] GOP-13758 리뷰 반영
   - [ ] GOP-14062 작업 - redis 테스트
@@ -95,6 +94,14 @@ longterm:
   - [ ] 영어 공부하기
 
 Archive:
+  - [x] 블로그 정리 및 내일 할일 정리 2022-01-11 @started(22-01-11 16:12) @done(22-01-11 16:14) @lasted(2m27s) @project(day-2022-01-11)
+  - [x] rxjs 공부 7 - scheduler (partial 3) @started(22-01-11 08:15) @done(22-01-11 08:51) @lasted(36m12s) @project(day-2022-01-11.study)
+  ✘ [ ] rxjs 공부 8 - [hello rxjs 실습](https://streami.atlassian.net/wiki/spaces/LAB/pages/819789946/Hello+RxJS) @cancelled(22-01-11 16:12) @project(day-2022-01-11.study)
+  - [x] clean architecture 읽기 @started(22-01-11 12:53) @done(22-01-11 13:13) @lasted(20m19s) @project(day-2022-01-11.study)
+  - [x] PC 관리 @started(22-01-11 14:28) @done(22-01-11 15:14) @lasted(46m59s) @project(day-2022-01-11.job)
+  - [x] GOP-14062 작업 - 티켓 정리, 계획 정리, 흐름 재설계 @started(22-01-11 15:15) @done(22-01-11 16:12) @lasted(57m8s) @project(day-2022-01-11.job)
+  ✘ [ ] GOP-14062 작업 - 기존 api 테스트 @cancelled(22-01-11 16:12) @project(day-2022-01-11.job)
+  ✘ [ ] GOP-14062 작업 - redis 테스트 @cancelled(22-01-11 16:12) @project(day-2022-01-11.job)
   - [x] 블로그 정리 및 내일 할일 정리 2022-01-10 @started(22-01-10 18:03) @done(22-01-10 18:07) @lasted(4m54s) @project(day-2022-01-10)
   - [x] 보험 처리 @done(22-01-10 13:05) @project(day-2022-01-10.non-dev)
   - [x] rxjs 공부 6 - subjects, scheduler (partial 2) @started(22-01-10 17:08) @done(22-01-10 18:03) @lasted(55m22s) @project(day-2022-01-10.study)
