@@ -1,15 +1,20 @@
-day-2022-01-13:
-  - [x] 블로그 정리 및 내일 할일 정리 2022-01-13 @started(22-01-13 16:30) @done(22-01-13 16:31) @lasted(1m50s)
-  job:
-    - [x] GOP-14062 작업 - rxjs 테스트 설계 1 @started(22-01-13 08:27) @done(22-01-13 11:03) @lasted(2h36m47s)
-    - [x] GOP-13758 리뷰 반영 @done(22-01-13 13:11)
-    - [x] 스프린트 플래닝 @started(22-01-13 13:11) @done(22-01-13 15:09) @lasted(1h58m37s)
-
 day-2022-01-14:
-  - [ ] 블로그 정리 및 내일 할일 정리 2022-01-13
+  - [x] 블로그 정리 및 내일 할일 정리 2022-01-13 @started(22-01-14 17:47) @done(22-01-14 17:58) @lasted(11m58s)
   job:
-    - [ ] GOP-14062 작업 - rxjs 테스트 설계 2
+    - [x] GOP-14062 작업 - 재정리 및 계획 @started(22-01-14 09:12) @done(22-01-14 10:40) @lasted(1h28m47s)
+    ✘ [ ] GOP-14062 작업 - rxjs 테스트 설계 2 @cancelled(22-01-14 16:13)
+    - [x] GOP-14098 작업 - 문맥 파악하기 @started(22-01-14 12:48) @done(22-01-14 13:58) @lasted(1h10m2s)
+    - [x] GOP-14098 작업 - 문맥 파악하기 2 @started(22-01-14 14:52) @done(22-01-14 15:54) @lasted(1h2m13s)
+    - [x] GOP-14098 작업 - 엔드포인트 구현 @started(22-01-14 16:14) @done(22-01-14 17:57) @lasted(1h43m11s)
+    ✘ [ ] GOP-14062 작업 - 티켓 정리 @cancelled(22-01-14 17:48)
   
+day-2022-01-17:
+  - [ ] 블로그 정리 및 내일 할일 정리 2022-01-17
+  job:
+    - [ ] rxjs 스로틀링 테스트 설계 2
+    - [ ] GOP-14098 작업 - 엔드포인트 구현
+    - [ ] GOP-14062 작업 - 티켓 정리
+
 week-2022-01-2:
   - [ ] GOP-14062 작업 - redis 테스트
   - [ ] 재택 환경 세팅
@@ -25,6 +30,7 @@ blog:
   - [ ] tip 추가: aws cloudfront를 활용하여 http를 https로 래핑하기
   - [ ] tip 추가: ntp 포트(udp/123) 막혀있을 때 htpdate로 시간 동기화하기 (https://askubuntu.com/questions/1292225/ntp-port-is-blocked-how-to-sync-time-18-04)
   - [ ] tip 추가: docker container간 서비스 커뮤니케이션 및 `[::]`
+  - [ ] tip 추가: 개발자 도구에서 웹소켓 디버깅하기
   - [ ] 후기 추가: kakao 2022 2차
   
   meta:
@@ -84,6 +90,10 @@ longterm:
   - [ ] 영어 공부하기
 
 Archive:
+  - [x] 블로그 정리 및 내일 할일 정리 2022-01-13 @started(22-01-13 16:30) @done(22-01-13 16:31) @lasted(1m50s) @project(day-2022-01-13)
+  - [x] GOP-14062 작업 - rxjs 테스트 설계 1 @started(22-01-13 08:27) @done(22-01-13 11:03) @lasted(2h36m47s) @project(day-2022-01-13.job)
+  - [x] GOP-13758 리뷰 반영 @done(22-01-13 13:11) @project(day-2022-01-13.job)
+  - [x] 스프린트 플래닝 @started(22-01-13 13:11) @done(22-01-13 15:09) @lasted(1h58m37s) @project(day-2022-01-13.job)
   - [x] 블로그 정리 및 내일 할일 정리 2022-01-12 @started(22-01-12 16:49) @done(22-01-12 16:50) @lasted(1m35s) @project(day-2022-01-12)
   - [x] 병원 서류 팩스받기 @started(22-01-12 16:22) @done(22-01-12 16:49) @lasted(27m28s) @fail @project(day-2022-01-12.non-dev)
   - [x] rxjs 공부 8 - [hello rxjs 실습](https://streami.atlassian.net/wiki/spaces/LAB/pages/819789946/Hello+RxJS) @started(22-01-12 12:17) @done(22-01-12 14:13) @lasted(1h56m25s) @project(day-2022-01-12.study)
