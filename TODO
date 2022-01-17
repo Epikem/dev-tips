@@ -1,21 +1,23 @@
-day-2022-01-14:
-  - [x] 블로그 정리 및 내일 할일 정리 2022-01-13 @started(22-01-14 17:47) @done(22-01-14 17:58) @lasted(11m58s)
-  job:
-    - [x] GOP-14062 작업 - 재정리 및 계획 @started(22-01-14 09:12) @done(22-01-14 10:40) @lasted(1h28m47s)
-    ✘ [ ] GOP-14062 작업 - rxjs 테스트 설계 2 @cancelled(22-01-14 16:13)
-    - [x] GOP-14098 작업 - 문맥 파악하기 @started(22-01-14 12:48) @done(22-01-14 13:58) @lasted(1h10m2s)
-    - [x] GOP-14098 작업 - 문맥 파악하기 2 @started(22-01-14 14:52) @done(22-01-14 15:54) @lasted(1h2m13s)
-    - [x] GOP-14098 작업 - 엔드포인트 구현 @started(22-01-14 16:14) @done(22-01-14 17:57) @lasted(1h43m11s)
-    ✘ [ ] GOP-14062 작업 - 티켓 정리 @cancelled(22-01-14 17:48)
-  
 day-2022-01-17:
-  - [ ] 블로그 정리 및 내일 할일 정리 2022-01-17
+  - [x] 블로그 정리 및 내일 할일 정리 2022-01-17 @started(22-01-17 17:59) @done(22-01-17 18:01) @lasted(2m32s)
+  job:
+    ✘ [ ] rxjs 스로틀링 테스트 설계 2 @cancelled(22-01-17 17:59)
+    - [x] GOP-14098 작업 - 엔드포인트 구현 @started(22-01-17 09:52) @done(22-01-17 11:26) @lasted(1h34m21s)
+    - [x] GOP-14098 작업 - 플로우 테스트 @started(22-01-17 12:51) @done(22-01-17 14:58) @lasted(2h7m15s)
+    - [x] GOP-14098 작업 - api화 @started(22-01-17 15:13) @done(22-01-17 16:33) @lasted(1h20m40s)
+    - [x] GOP-14062 작업 - 티켓 정리 및 재설계 @started(22-01-17 16:40) @done(22-01-17 17:59) @lasted(1h19m43s)
+    
+day-2022-01-18:
+  - [ ] 블로그 정리 및 내일 할일 정리 2022-01-18
+  study:
+    - [ ] 책읽기
   job:
     - [ ] rxjs 스로틀링 테스트 설계 2
-    - [ ] GOP-14098 작업 - 엔드포인트 구현
-    - [ ] GOP-14062 작업 - 티켓 정리
-
+    - [ ] GOP-14062 작업
+    
 week-2022-01-2:
+  - [ ] GOP-14098 작업 - 테스트
+  - [ ] GOP-14098 작업 - 리뷰 반영
   - [ ] GOP-14062 작업 - redis 테스트
   - [ ] 재택 환경 세팅
 
@@ -30,7 +32,7 @@ blog:
   - [ ] tip 추가: aws cloudfront를 활용하여 http를 https로 래핑하기
   - [ ] tip 추가: ntp 포트(udp/123) 막혀있을 때 htpdate로 시간 동기화하기 (https://askubuntu.com/questions/1292225/ntp-port-is-blocked-how-to-sync-time-18-04)
   - [ ] tip 추가: docker container간 서비스 커뮤니케이션 및 `[::]`
-  - [ ] tip 추가: 개발자 도구에서 웹소켓 디버깅하기
+  - [ ] tip 추가: 개발자 도구에서 웹소켓 디버깅하기 + primus write helper (https://streami.slack.com/archives/D02S2293YFJ/p1641877801030100)
   - [ ] 후기 추가: kakao 2022 2차
   
   meta:
@@ -90,6 +92,13 @@ longterm:
   - [ ] 영어 공부하기
 
 Archive:
+  - [x] 블로그 정리 및 내일 할일 정리 2022-01-13 @started(22-01-14 17:47) @done(22-01-14 17:58) @lasted(11m58s) @project(day-2022-01-14)
+  - [x] GOP-14062 작업 - 재정리 및 계획 @started(22-01-14 09:12) @done(22-01-14 10:40) @lasted(1h28m47s) @project(day-2022-01-14.job)
+  ✘ [ ] GOP-14062 작업 - rxjs 테스트 설계 2 @cancelled(22-01-14 16:13) @project(day-2022-01-14.job)
+  - [x] GOP-14098 작업 - 문맥 파악하기 @started(22-01-14 12:48) @done(22-01-14 13:58) @lasted(1h10m2s) @project(day-2022-01-14.job)
+  - [x] GOP-14098 작업 - 문맥 파악하기 2 @started(22-01-14 14:52) @done(22-01-14 15:54) @lasted(1h2m13s) @project(day-2022-01-14.job)
+  - [x] GOP-14098 작업 - 엔드포인트 구현 @started(22-01-14 16:14) @done(22-01-14 17:57) @lasted(1h43m11s) @project(day-2022-01-14.job)
+  ✘ [ ] GOP-14062 작업 - 티켓 정리 @cancelled(22-01-14 17:48) @project(day-2022-01-14.job)
   - [x] 블로그 정리 및 내일 할일 정리 2022-01-13 @started(22-01-13 16:30) @done(22-01-13 16:31) @lasted(1m50s) @project(day-2022-01-13)
   - [x] GOP-14062 작업 - rxjs 테스트 설계 1 @started(22-01-13 08:27) @done(22-01-13 11:03) @lasted(2h36m47s) @project(day-2022-01-13.job)
   - [x] GOP-13758 리뷰 반영 @done(22-01-13 13:11) @project(day-2022-01-13.job)
