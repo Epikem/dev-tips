@@ -6,7 +6,7 @@ day-2022-01-19:
     ✘ [ ] 병원 보험 서류 처리 @started(22-01-19 14:58) @cancelled(22-01-19 15:07) @wasted(9m37s)
   study:
     - [x] 책읽기 - clean architecture 2 @started(22-01-19 15:58) @done(22-01-19 16:13) @lasted(15m25s)
-    - [ ] 스터디 진행 @at(22:00)
+    - [x] 스터디 진행 @at(22:00) @done(22-01-20 07:21)
   job:
     - [x] GOP-14098 (D9866) 작업 - 리뷰 반영 @started(22-01-19 10:50) @done(22-01-19 14:45) @lasted(3h55m23s)
     ✘ [ ] rxjs 스로틀링 테스트 설계 3 @cancelled(22-01-19 17:51)
