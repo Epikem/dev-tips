@@ -1,37 +1,30 @@
-day-2022-01-19:
-  - [x] 블로그 정리 및 내일 할일 정리 2022-01-19 @started(22-01-19 17:51) @done(22-01-19 17:56) @lasted(5m5s)
-  - [x] 키세팅 @started(22-01-19 10:39) @done(22-01-19 10:50) @lasted(11m30s)
-  non-dev:
-    - [x] 키크론 아이패드 연결 @started(22-01-19 10:28) @done(22-01-19 10:34) @lasted(6m41s)
-    ✘ [ ] 병원 보험 서류 처리 @started(22-01-19 14:58) @cancelled(22-01-19 15:07) @wasted(9m37s)
-  study:
-    - [x] 책읽기 - clean architecture 2 @started(22-01-19 15:58) @done(22-01-19 16:13) @lasted(15m25s)
-    - [x] 스터디 진행 @at(22:00) @done(22-01-20 07:21)
-  job:
-    - [x] GOP-14098 (D9866) 작업 - 리뷰 반영 @started(22-01-19 10:50) @done(22-01-19 14:45) @lasted(3h55m23s)
-    ✘ [ ] rxjs 스로틀링 테스트 설계 3 @cancelled(22-01-19 17:51)
-    - [x] GOP-14062 작업 2 @started(22-01-19 16:28) @done(22-01-19 17:51) @lasted(1h23m16s)
-    - [x] 계정 신청 재확인 @started(22-01-19 16:16) @done(22-01-19 16:21) @lasted(5m2s)
-    
 day-2022-01-20:
-  - [ ] 블로그 정리 및 내일 할일 정리 2022-01-20
+  - [x] 블로그 정리 및 내일 할일 정리 2022-01-20 @started(22-01-20 15:55) @done(22-01-20 15:56) @lasted(1m55s)
   non-dev:
     - [ ] 병원 보험 서류 처리
-    - [ ] 공납금 팩스 처리
-  study:
-    - [ ] 책읽기 - clean architecture 3 - 50p~
+    - [ ] 납부금 팩스 처리
   job:
-    - [ ] 스프린트 회고 @at(14:30) @est(90m)
-    - [ ] GOP-14098 (D9866) 작업 - 랜드하기?
-    - [ ] rxjs 스로틀링 테스트 설계 3
-    - [ ] GOP-14062 작업 3 - redis 테스트
+    - [x] GOP-13436 분석 2 @started(22-01-20 07:53) @done(22-01-20 10:29) @lasted(2h36m30s)
+    - [x] 스프린트 플래닝+회고 @at(14:30) @est(90m) @started(22-01-20 13:34) @done(22-01-20 15:36) @lasted(2h2m1s)
+    - [x] GOP-14098 (D9866) 작업 - 랜드하기? @done(22-01-20 09:36)
+    ✘ [ ] rxjs 스로틀링 테스트 설계 3 @cancelled(22-01-20 15:39)
+    - [x] GOP-14062 작업 3 - redis 테스트 @started(22-01-20 10:32) @done(22-01-20 11:28) @lasted(56m13s)
+    ✘ [ ] GOP-14062 작업 4 - redis 테스트 2 @cancelled(22-01-20 15:52)
+
+day-2022-01-21:
+  - [ ] 블로그 정리 및 내일 할일 정리 2022-01-21
+  job:
+    - [ ] GOP-13436 분석 3
+    - [ ] GOP-14062 작업 4 - redis 테스트 2
 
 week-2022-01-2:
   - [ ] git-secret 적용하기 @medium
-  - [ ] GOP-14098 작업 - 테스트
-  - [ ] GOP-13436 분석 2
   - [ ] 재택 환경 세팅
   - [ ] 연말정산 @high
+
+week-2022-01-3:
+  - [ ] 책읽기 - clean architecture 3 - 50p~
+  - [ ] 릿코드 풀기
 
 blog:
   - [ ] 로컬 저장소 정리하기
@@ -104,6 +97,16 @@ longterm:
   - [ ] 영어 공부하기
 
 Archive:
+  - [x] 블로그 정리 및 내일 할일 정리 2022-01-19 @started(22-01-19 17:51) @done(22-01-19 17:56) @lasted(5m5s) @project(day-2022-01-19)
+  - [x] 키세팅 @started(22-01-19 10:39) @done(22-01-19 10:50) @lasted(11m30s) @project(day-2022-01-19)
+  - [x] 키크론 아이패드 연결 @started(22-01-19 10:28) @done(22-01-19 10:34) @lasted(6m41s) @project(day-2022-01-19.non-dev)
+  ✘ [ ] 병원 보험 서류 처리 @started(22-01-19 14:58) @cancelled(22-01-19 15:07) @wasted(9m37s) @project(day-2022-01-19.non-dev)
+  - [x] 책읽기 - clean architecture 2 @started(22-01-19 15:58) @done(22-01-19 16:13) @lasted(15m25s) @project(day-2022-01-19.study)
+  - [x] 스터디 진행 @at(22:00) @done(22-01-20 07:21) @project(day-2022-01-19.study)
+  - [x] GOP-14098 (D9866) 작업 - 리뷰 반영 @started(22-01-19 10:50) @done(22-01-19 14:45) @lasted(3h55m23s) @project(day-2022-01-19.job)
+  ✘ [ ] rxjs 스로틀링 테스트 설계 3 @cancelled(22-01-19 17:51) @project(day-2022-01-19.job)
+  - [x] GOP-14062 작업 2 @started(22-01-19 16:28) @done(22-01-19 17:51) @lasted(1h23m16s) @project(day-2022-01-19.job)
+  - [x] 계정 신청 재확인 @started(22-01-19 16:16) @done(22-01-19 16:21) @lasted(5m2s) @project(day-2022-01-19.job)
   - [x] 블로그 정리 및 내일 할일 정리 2022-01-18 @started(22-01-18 16:23) @done(22-01-18 16:25) @lasted(2m52s) @project(day-2022-01-18)
   - [x] 책읽기 - clean architecture 1 @started(22-01-18 12:52) @done(22-01-18 13:09) @lasted(17m23s) @project(day-2022-01-18.study)
   - [x] leetcode 풀이 코멘트 달기 @done(22-01-18 16:23) @project(day-2022-01-18.study)
