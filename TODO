@@ -1,27 +1,17 @@
-day-2022-01-21:
-  - [x] 블로그 정리 및 내일 할일 정리 2022-01-21 @started(22-01-21 15:52) @done(22-01-21 15:55) @lasted(3m37s)
-  non-dev:
-    - [ ] 병원 보험 서류 처리
-    - [ ] 납부금 팩스 처리
-  job:
-    - [x] 재택 장비 셋업 1 @started(22-01-21 08:17) @done(22-01-21 08:51) @lasted(34m43s)
-    - [x] 재택 장비 셋업 2 @started(22-01-21 10:45) @done(22-01-21 12:48) @lasted(2h3m5s)
-    - [ ] 재택 장비 셋업 3
-    - [x] GOP-13436 분석 3 @started(22-01-21 09:07) @done(22-01-21 10:45) @lasted(1h38m4s)
-    ✘ [ ] GOP-14062 작업 4 - redis 테스트 2 @cancelled(22-01-21 15:52)
-    - [x] GOP-13436 분석 4 @started(22-01-21 12:59) @done(22-01-21 15:52) @lasted(2h53m16s)
-
 day-2022-01-24:
-  - [ ] 블로그 정리 및 내일 할일 정리 2022-01-24
+  - [x] 블로그 정리 및 내일 할일 정리 2022-01-24 @started(22-01-24 15:55) @done(22-01-24 15:55) @lasted(52s)
+  study:
+    - [ ] 릿코드 풀기
   non-dev:
     - [ ] 병원 보험 서류 처리
     - [ ] 납부금 팩스 처리
   job:
-    - [ ] 재택 장비 셋업 3
-    - [ ] GOP-14062 작업 4 - redis 테스트 2
-    - [ ] GOP-13436 분석 5
+    - [x] GOP-13436 분석 5 @started(22-01-24 07:28) @done(22-01-24 08:33) @lasted(1h5m40s)
+    - [x] GOP-14062 작업 4 - redis 테스트 2 @started(22-01-24 08:45) @done(22-01-24 11:30) @lasted(2h45m14s)
+    - [x] GOP-14062 작업 5 - redis 테스트 3 @done(22-01-24 15:54)
+    - [ ] GOP-13436 분석 6
+    - [x] 재택 환경 셋업 3 @started(22-01-24 12:36) @done(22-01-24 13:10) @lasted(34m23s)
     
-
 week-2022-01-2:
   - [ ] git-secret 적용하기 @medium
   - [ ] 재택 환경 세팅
@@ -29,7 +19,6 @@ week-2022-01-2:
 
 week-2022-01-3:
   - [ ] 책읽기 - clean architecture 3 - 50p~
-  - [ ] 릿코드 풀기
 
 blog:
   - [ ] 로컬 저장소 정리하기
@@ -102,6 +91,15 @@ longterm:
   - [ ] 영어 공부하기
 
 Archive:
+  - [x] 블로그 정리 및 내일 할일 정리 2022-01-21 @started(22-01-21 15:52) @done(22-01-21 15:55) @lasted(3m37s) @project(day-2022-01-21)
+  ✘ [ ] 병원 보험 서류 처리 @cancelled(22-01-24 07:18) @project(day-2022-01-21.non-dev)
+  ✘ [ ] 납부금 팩스 처리 @cancelled(22-01-24 07:18) @project(day-2022-01-21.non-dev)
+  - [x] 재택 장비 셋업 1 @started(22-01-21 08:17) @done(22-01-21 08:51) @lasted(34m43s) @project(day-2022-01-21.job)
+  - [x] 재택 장비 셋업 2 @started(22-01-21 10:45) @done(22-01-21 12:48) @lasted(2h3m5s) @project(day-2022-01-21.job)
+  ✘ [ ] 재택 장비 셋업 3 @cancelled(22-01-24 07:18) @project(day-2022-01-21.job)
+  - [x] GOP-13436 분석 3 @started(22-01-21 09:07) @done(22-01-21 10:45) @lasted(1h38m4s) @project(day-2022-01-21.job)
+  ✘ [ ] GOP-14062 작업 4 - redis 테스트 2 @cancelled(22-01-21 15:52) @project(day-2022-01-21.job)
+  - [x] GOP-13436 분석 4 @started(22-01-21 12:59) @done(22-01-21 15:52) @lasted(2h53m16s) @project(day-2022-01-21.job)
   - [x] 블로그 정리 및 내일 할일 정리 2022-01-20 @started(22-01-20 15:55) @done(22-01-20 15:56) @lasted(1m55s) @project(day-2022-01-20)
   ✘ [ ] 병원 보험 서류 처리 @cancelled(22-01-21 07:09) @project(day-2022-01-20.non-dev)
   ✘ [ ] 납부금 팩스 처리 @cancelled(22-01-21 07:09) @project(day-2022-01-20.non-dev)
