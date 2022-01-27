@@ -1,32 +1,23 @@
-day-2022-01-26:
-  - [x] 블로그 정리 및 내일 할일 정리 2022-01-26 @started(22-01-26 16:58) @done(22-01-26 17:00) @lasted(2m43s)
-  study:
-    - [x] 릿코드 풀기 @started(22-01-26 15:58) @done(22-01-26 16:58) @lasted(1h48s)
-    - [x] 스터디 진행 @done(22-01-26 23:41)
-  non-dev:
-    ✘ 병원 보험 서류 처리 @cancelled(22-01-26 23:42)
-    ✘ 납부금 팩스 처리 @cancelled(22-01-26 23:42)
-  job:
-    - [x] 행정 처리 @started(22-01-26 07:15) @done(22-01-26 07:34) @lasted(19m18s)
-    ✘ [ ] GOP-14062 작업 6 - redis 테스트 4 @cancelled(22-01-26 07:51)
-    - [x] GOP-13436 분석 6 @started(22-01-26 13:08) @done(22-01-26 14:29) @lasted(1h21m40s)
-    - [x] GOP-13436 분석 7 @started(22-01-26 15:16) @done(22-01-26 15:46) @lasted(30m14s)
-    - [x] GOP-14206 분석 1 @started(22-01-26 07:50) @done(22-01-26 11:16) @lasted(3h26m42s)
-    - [x] 재택 환경 셋업 4 @started(22-01-26 07:10) @done(22-01-26 07:15) @lasted(5m29s)
-    - [x] 데일리 @started(22-01-26 11:16) @done(22-01-26 11:25) @lasted(9m38s)
-    
 day-2022-01-27:
-  - [ ] 블로그 정리 및 내일 할일 정리 2022-01-27
+  - [x] 블로그 정리 및 내일 할일 정리 2022-01-27 @started(22-01-27 17:49) @done(22-01-27 17:52) @lasted(3m32s)
   non-dev:
-    - [ ] 병원 보험 서류 처리
-    - [ ] 납부금 팩스 처리
-    - [ ] 연말정산
+    - [x] 병원 보험 서류 처리 @started(22-01-27 17:35) @done(22-01-27 17:49) @lasted(14m31s)
+    - [x] 납부금 팩스 처리 @done(22-01-27 17:49)
+    - [x] 연말정산 @started(22-01-27 17:06) @done(22-01-27 17:34) @lasted(28m59s)
   job:
-    - [ ] 티켓 정리
+    - [x] 티켓 정리 @started(22-01-27 09:19) @done(22-01-27 09:27) @lasted(8m19s)
+    ✘ [ ] GOP-14151 분석 1 @cancelled(22-01-27 17:03)
+    ✘ [ ] GOP-13436 분석 8 @cancelled(22-01-27 17:03)
+    - [x] GOP-14206 분석 2 @started(22-01-27 09:35) @done(22-01-27 09:51) @lasted(16m47s)
+    ✘ [ ] GOP-14206 분석 3 @cancelled(22-01-27 17:03)
+    - [x] 재택 환경 셋업 확인 및 태스크 정리 @started(22-01-27 09:57) @done(22-01-27 16:37) @lasted(6h40m29s)
+    
+day-2022-01-28:
+  - [ ] 블로그 정리 및 내일 할일 정리 2022-01-28
+  job:
     - [ ] GOP-14151 분석 1
     - [ ] GOP-13436 분석 8
-    - [ ] GOP-14206 분석 2
-    - [ ] 재택 환경 셋업 확인 및 태스크 정리
+    - [ ] GOP-14206 분석 3
 
 week-2022-01-2:
   - [ ] git-secret 적용하기 @medium
@@ -107,6 +98,18 @@ longterm:
   - [ ] 영어 공부하기
 
 Archive:
+  - [x] 블로그 정리 및 내일 할일 정리 2022-01-26 @started(22-01-26 16:58) @done(22-01-26 17:00) @lasted(2m43s) @project(day-2022-01-26)
+  - [x] 릿코드 풀기 @started(22-01-26 15:58) @done(22-01-26 16:58) @lasted(1h48s) @project(day-2022-01-26.study)
+  - [x] 스터디 진행 @done(22-01-26 23:41) @project(day-2022-01-26.study)
+  ✘ 병원 보험 서류 처리 @cancelled(22-01-26 23:42) @project(day-2022-01-26.non-dev)
+  ✘ 납부금 팩스 처리 @cancelled(22-01-26 23:42) @project(day-2022-01-26.non-dev)
+  - [x] 행정 처리 @started(22-01-26 07:15) @done(22-01-26 07:34) @lasted(19m18s) @project(day-2022-01-26.job)
+  ✘ [ ] GOP-14062 작업 6 - redis 테스트 4 @cancelled(22-01-26 07:51) @project(day-2022-01-26.job)
+  - [x] GOP-13436 분석 6 @started(22-01-26 13:08) @done(22-01-26 14:29) @lasted(1h21m40s) @project(day-2022-01-26.job)
+  - [x] GOP-13436 분석 7 @started(22-01-26 15:16) @done(22-01-26 15:46) @lasted(30m14s) @project(day-2022-01-26.job)
+  - [x] GOP-14206 분석 1 @started(22-01-26 07:50) @done(22-01-26 11:16) @lasted(3h26m42s) @project(day-2022-01-26.job)
+  - [x] 재택 환경 셋업 4 @started(22-01-26 07:10) @done(22-01-26 07:15) @lasted(5m29s) @project(day-2022-01-26.job)
+  - [x] 데일리 @started(22-01-26 11:16) @done(22-01-26 11:25) @lasted(9m38s) @project(day-2022-01-26.job)
   - [x] 블로그 정리 및 내일 할일 정리 2022-01-24 @started(22-01-24 15:55) @done(22-01-24 15:55) @lasted(52s) @project(day-2022-01-24)
   ✘ [ ] 릿코드 풀기 @cancelled(22-01-26 07:05) @project(day-2022-01-24.study)
   ✘ [ ] 병원 보험 서류 처리 @cancelled(22-01-26 07:05) @project(day-2022-01-24.non-dev)
