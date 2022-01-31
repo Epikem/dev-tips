@@ -6,14 +6,20 @@ day-2022-01-28:
     - [ ] GOP-14206 분석 3
 
 day-2022-01-30:
-  - [ ] 블로그 정리 및 내일 할일 정리 2022-01-30
+  - [x] 블로그 정리 및 내일 할일 정리 2022-01-30 @started(22-01-31 02:27) @done(22-01-31 02:30) @lasted(3m51s)
   study:
     - [x] 책읽기 clean architecture 5장 정리 1 @started(22-01-30 04:59) @done(22-01-30 05:13) @lasted(14m17s)
     - [x] 책읽기 clean architecture 5장 정리 2 @started(22-01-30 08:15) @done(22-01-30 10:09) @lasted(1h54m4s)
     sport:
       - [x] leetcode 문제풀기 https://leetcode.com/problems/longest-palindromic-substring/ @fail @started(22-01-30 02:22) @done(22-01-30 03:28) @lasted(1h6m10s)
-      - [ ] leetcode 문제풀기 2
+      ✘ [ ] leetcode 문제풀기 2 @cancelled(22-01-31 02:30)
 
+day-2022-01-31:
+  - [ ] 블로그 정리 및 내일 할일 정리 2022-01-31
+  study:
+    sport:
+      - [ ] leetcode 문제풀기 2
+      
 week-2022-01-2:
   - [ ] git-secret 적용하기 @medium
   - [ ] 재택 환경 세팅
