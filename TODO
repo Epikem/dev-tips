@@ -1,28 +1,24 @@
-day-2022-02-03:
-  - [x] 블로그 정리 및 내일 할일 정리 2022-02-03 @started(22-02-03 18:23) @done(22-02-03 18:31) @lasted(8m54s)
-  job:
-    - [x] GOP-14151 분석 2 @started(22-02-03 18:15) @done(22-02-03 18:21) @lasted(6m10s)
-    - [x] GOP-13436 분석 8 @started(22-02-03 11:13) @done(22-02-03 12:19) @lasted(1h6m50s)
-    - [x] GOP-13436 로그 추가 @started(22-02-03 14:15) @done(22-02-03 18:15) @lasted(4h22s)
-    ✘ [ ] GOP-14206 분석 3 @cancelled(22-02-03 18:15)
-  study:
-    sport:
-      ✘ [ ] leetcode 문제풀기 2 @cancelled(22-02-04 08:35)
-
 day-2022-02-04:
-  - [ ] 블로그 정리 및 내일 할일 정리 2022-02-04
+  - [x] 블로그 정리 및 내일 할일 정리 2022-02-04 @started(22-02-04 17:29) @done(22-02-04 17:32) @lasted(3m19s)
   job:
-    - [ ] GOP-14151 분석 3
-    - [ ] GOP-14206 분석 3? 또는 지연 전달
+    - [x] GOP-14151 분석 3 @started(22-02-04 09:29) @done(22-02-04 15:28) @lasted(5h59m1s)
+    - [x] GOP-14151 작업 4 @done(22-02-04 17:29)
+    ✘ [ ] GOP-14206 분석 3? 또는 지연 전달 @cancelled(22-02-04 17:29)
+    - [x] 보안 프로그램 설치하기 (GOP-14475) @due(22-02-10) @started(22-02-04 08:41) @done(22-02-04 09:29) @lasted(48m33s)
   study:
     sport:
       - [ ] 책읽기
 
+day-2022-02-07:
+  - [ ] 블로그 정리 및 내일 할일 정리 2022-02-07
+  job:
+    - [ ] GOP-14151 작업 5
+    - [ ] GOP-14206 분석 3? 또는 지연 전달
+    - [ ] 재택 환경 추가 세팅
+
 week-2022-01-3:
   - [ ] git-secret 적용하기 @medium
-  - [ ] 재택 환경 세팅
   - [ ] 연말정산 @high
-  - [ ] 보안 프로그램 설치하기 (GOP-14475) @due(22-02-10)
 
 week-2022-01-3:
   - [ ] 책읽기 - clean architecture 3 - 50p~
@@ -98,6 +94,12 @@ longterm:
   - [ ] 영어 공부하기
 
 Archive:
+  - [x] 블로그 정리 및 내일 할일 정리 2022-02-03 @started(22-02-03 18:23) @done(22-02-03 18:31) @lasted(8m54s) @project(day-2022-02-03)
+  - [x] GOP-14151 분석 2 @started(22-02-03 18:15) @done(22-02-03 18:21) @lasted(6m10s) @project(day-2022-02-03.job)
+  - [x] GOP-13436 분석 8 @started(22-02-03 11:13) @done(22-02-03 12:19) @lasted(1h6m50s) @project(day-2022-02-03.job)
+  - [x] GOP-13436 로그 추가 @started(22-02-03 14:15) @done(22-02-03 18:15) @lasted(4h22s) @project(day-2022-02-03.job)
+  ✘ [ ] GOP-14206 분석 3 @cancelled(22-02-03 18:15) @project(day-2022-02-03.job)
+  ✘ [ ] leetcode 문제풀기 2 @cancelled(22-02-04 08:35) @project(day-2022-02-03.study.sport)
   ✘ [ ] 블로그 정리 및 내일 할일 정리 2022-01-28 @cancelled(22-02-03 09:58) @project(day-2022-01-28)
   - [x] GOP-14151 분석 1 @started(22-01-28 07:19) @done(22-01-28 16:00) @lasted(8h41m9s) @project(day-2022-01-28.job)
   ✘ [ ] GOP-13436 분석 8 @cancelled(22-02-03 09:58) @project(day-2022-01-28.job)
