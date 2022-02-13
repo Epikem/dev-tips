@@ -1,28 +1,27 @@
-day-2022-01-28:
-  - [ ] 블로그 정리 및 내일 할일 정리 2022-01-28
+day-2022-02-09:
+  - [x] 블로그 정리 및 내일 할일 정리 2022-02-09 @done(22-02-09 23:56)
   job:
-    - [ ] GOP-14151 분석 1
-    - [ ] GOP-13436 분석 8
-    - [ ] GOP-14206 분석 3
-
-day-2022-01-30:
-  - [x] 블로그 정리 및 내일 할일 정리 2022-01-30 @started(22-01-31 02:27) @done(22-01-31 02:30) @lasted(3m51s)
+    - [x] GOP-14151 작업 9 - 예제 테스트 추가 @started(22-02-09 09:09) @done(22-02-09 17:07) @lasted(7h58m44s)
+    - [x] 마크님 1on1 @when(22-02-09 15:45) @done(22-02-09 16:59)
+    - [x] 정산 - 마무리 @done(22-02-09 16:59)
   study:
-    - [x] 책읽기 clean architecture 5장 정리 1 @started(22-01-30 04:59) @done(22-01-30 05:13) @lasted(14m17s)
-    - [x] 책읽기 clean architecture 5장 정리 2 @started(22-01-30 08:15) @done(22-01-30 10:09) @lasted(1h54m4s)
+    - [x] 6장 내용 업데이트 @done(22-02-09 21:11)
+    - [x] 스터디 진행 @started(22-02-09 21:51) @done(22-02-09 23:55) @lasted(2h4m3s)
     sport:
-      - [x] leetcode 문제풀기 https://leetcode.com/problems/longest-palindromic-substring/ @fail @started(22-01-30 02:22) @done(22-01-30 03:28) @lasted(1h6m10s)
-      ✘ [ ] leetcode 문제풀기 2 @cancelled(22-01-31 02:30)
+      - [x] 릿코드 다른사람 풀이 추가 @done(22-02-09 21:11)
 
-day-2022-01-31:
-  - [ ] 블로그 정리 및 내일 할일 정리 2022-01-31
-  study:
-    sport:
-      - [ ] leetcode 문제풀기 2
-      
-week-2022-01-2:
+day-2022-02-10:
+  - [ ] 블로그 정리 및 내일 할일 정리 2022-02-10
+  job:
+    - [ ] GOP-14151 작업 10 - 예제 테스트 추가
+    - [ ] GOP-14151 작업 11 - 리뷰 올리기
+
+day-2022-02-16:
+  job:
+    - [ ] 연봉계약서 작성 @from(혜구) @when(22-02-16 15:30) @where(이오스) 
+
+week-2022-01-3:
   - [ ] git-secret 적용하기 @medium
-  - [ ] 재택 환경 세팅
   - [ ] 연말정산 @high
 
 week-2022-01-3:
@@ -99,6 +98,41 @@ longterm:
   - [ ] 영어 공부하기
 
 Archive:
+  - [x] 블로그 정리 및 내일 할일 정리 2022-02-08 @started(22-02-09 08:22) @done(22-02-09 08:29) @lasted(7m45s) @project(day-2022-02-08)
+  - [x] GOP-14151 서브태스크 산정 및 논의 @started(22-02-08 09:36) @done(22-02-08 10:20) @lasted(44m10s) @project(day-2022-02-08.job)
+  - [x] GOP-14151 작업 7 - 예제 테스트 추가 @started(22-02-08 10:20) @done(22-02-08 11:18) @lasted(58m47s) @project(day-2022-02-08.job)
+  - [x] GOP-14151 작업 8 - 예제 테스트 추가 @started(22-02-08 13:38) @done(22-02-08 17:54) @lasted(4h16m47s) @project(day-2022-02-08.job)
+  ✘ [ ] 재택 환경 추가 세팅 - ubuntu @cancelled(22-02-09 08:21) @project(day-2022-02-08.job)
+  - [x] 정산 - 장비지원 항목 처리 @started(22-02-08 13:10) @done(22-02-08 13:38) @lasted(28m26s) @project(day-2022-02-08.job)
+  ✘ [ ] 릿코드 다른사람 풀이 추가 @cancelled(22-02-09 08:22) @project(day-2022-02-08.study.sport)
+  - [x] 블로그 정리 및 내일 할일 정리 2022-02-07 @started(22-02-07 19:49) @done(22-02-07 19:53) @lasted(4m45s) @project(day-2022-02-07)
+  - [x] GOP-14151 작업 5 @started(22-02-07 10:00) @done(22-02-07 14:06) @lasted(4h6m23s) @project(day-2022-02-07.job)
+  - [x] GOP-14151 작업 6 @started(22-02-07 16:13) @done(22-02-07 18:20) @lasted(2h7m50s) @project(day-2022-02-07.job)
+  - [x] GOP-14206 분석 3? 또는 지연 전달 @done(22-02-07 14:06) @project(day-2022-02-07.job)
+  - [x] 재택 환경 추가 세팅 @done(22-02-07 17:08) @project(day-2022-02-07.job)
+  - [x] 정산 @started(22-02-07 14:06) @done(22-02-07 14:43) @lasted(37m28s) @project(day-2022-02-07.job)
+  - [x] 책읽기, 정리 - 클린 아키텍처 6장 @started(22-02-07 18:21) @done(22-02-07 19:48) @lasted(1h27m10s) @project(day-2022-02-07.study)
+  - [x] 블로그 정리 및 내일 할일 정리 2022-02-04 @started(22-02-04 17:29) @done(22-02-04 17:32) @lasted(3m19s) @project(day-2022-02-04)
+  - [x] GOP-14151 분석 3 @started(22-02-04 09:29) @done(22-02-04 15:28) @lasted(5h59m1s) @project(day-2022-02-04.job)
+  - [x] GOP-14151 작업 4 @done(22-02-04 17:29) @project(day-2022-02-04.job)
+  ✘ [ ] GOP-14206 분석 3? 또는 지연 전달 @cancelled(22-02-04 17:29) @project(day-2022-02-04.job)
+  - [x] 보안 프로그램 설치하기 (GOP-14475) @due(22-02-10) @started(22-02-04 08:41) @done(22-02-04 09:29) @lasted(48m33s) @project(day-2022-02-04.job)
+  ✘ [ ] 책읽기 @cancelled(22-02-07 08:55) @project(day-2022-02-04.study.sport)
+  - [x] 블로그 정리 및 내일 할일 정리 2022-02-03 @started(22-02-03 18:23) @done(22-02-03 18:31) @lasted(8m54s) @project(day-2022-02-03)
+  - [x] GOP-14151 분석 2 @started(22-02-03 18:15) @done(22-02-03 18:21) @lasted(6m10s) @project(day-2022-02-03.job)
+  - [x] GOP-13436 분석 8 @started(22-02-03 11:13) @done(22-02-03 12:19) @lasted(1h6m50s) @project(day-2022-02-03.job)
+  - [x] GOP-13436 로그 추가 @started(22-02-03 14:15) @done(22-02-03 18:15) @lasted(4h22s) @project(day-2022-02-03.job)
+  ✘ [ ] GOP-14206 분석 3 @cancelled(22-02-03 18:15) @project(day-2022-02-03.job)
+  ✘ [ ] leetcode 문제풀기 2 @cancelled(22-02-04 08:35) @project(day-2022-02-03.study.sport)
+  ✘ [ ] 블로그 정리 및 내일 할일 정리 2022-01-28 @cancelled(22-02-03 09:58) @project(day-2022-01-28)
+  - [x] GOP-14151 분석 1 @started(22-01-28 07:19) @done(22-01-28 16:00) @lasted(8h41m9s) @project(day-2022-01-28.job)
+  ✘ [ ] GOP-13436 분석 8 @cancelled(22-02-03 09:58) @project(day-2022-01-28.job)
+  ✘ [ ] GOP-14206 분석 3 @cancelled(22-02-03 09:58) @project(day-2022-01-28.job)
+  - [x] 블로그 정리 및 내일 할일 정리 2022-01-30 @started(22-01-31 02:27) @done(22-01-31 02:30) @lasted(3m51s) @project(day-2022-01-30)
+  - [x] 책읽기 clean architecture 5장 정리 1 @started(22-01-30 04:59) @done(22-01-30 05:13) @lasted(14m17s) @project(day-2022-01-30.study)
+  - [x] 책읽기 clean architecture 5장 정리 2 @started(22-01-30 08:15) @done(22-01-30 10:09) @lasted(1h54m4s) @project(day-2022-01-30.study)
+  - [x] leetcode 문제풀기 https://leetcode.com/problems/longest-palindromic-substring/ @fail @started(22-01-30 02:22) @done(22-01-30 03:28) @lasted(1h6m10s) @project(day-2022-01-30.study.sport)
+  ✘ [ ] leetcode 문제풀기 2 @cancelled(22-01-31 02:30) @project(day-2022-01-30.study.sport)
   - [x] 블로그 정리 및 내일 할일 정리 2022-01-27 @started(22-01-27 17:49) @done(22-01-27 17:52) @lasted(3m32s) @project(day-2022-01-27)
   - [x] 병원 보험 서류 처리 @started(22-01-27 17:35) @done(22-01-27 17:49) @lasted(14m31s) @project(day-2022-01-27.non-dev)
   - [x] 납부금 팩스 처리 @done(22-01-27 17:49) @project(day-2022-01-27.non-dev)
