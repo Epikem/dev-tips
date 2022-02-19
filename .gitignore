@@ -6,3 +6,4 @@ images
 .fake
 .ionide
 *-p.md
+.gitsecret/keys/random_seed
