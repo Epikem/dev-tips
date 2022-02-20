@@ -8,4 +8,3 @@ RUN sudo apt-get update \
 # Apply user-specific settings
 # ENV ...
 
-RUN gpg --import ./public.gpg
