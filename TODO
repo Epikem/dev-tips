@@ -1,24 +1,17 @@
-day-2022-02-19:
-  - [x] 블로그 정리 및 내일 할일 정리 2022-02-19 @started(22-02-19 15:03) @done(22-02-19 15:04) @lasted(1m12s)
-  sport:
-    - [x] leetcode 문제풀기 @started(22-02-19 13:21) @done(22-02-19 15:03) @lasted(1h42m23s)
-
-day-2022-02-21:
-  - [x] 블로그 정리 및 내일 할일 정리 2022-02-21 @started(22-02-22 09:25) @done(22-02-22 09:27) @lasted(2m47s)
-  job:
-    - [x] GOP-14151 작업 22 - 프로토콜 구현 @started(22-02-21 14:36) @done(22-02-21 17:44) @lasted(3h8m6s)
-
 day-2022-02-22:
-  - [ ] 블로그 정리 및 내일 할일 정리 2022-02-22
+  - [x] 블로그 정리 및 내일 할일 정리 2022-02-22 @started(22-02-23 09:21) @done(22-02-23 09:22) @lasted(1m48s)
+
+day-2022-02-23:
+  - [ ] 블로그 정리 및 내일 할일 정리 2022-02-23
   job:
-    - [ ] GOP-14151 작업 22 - 프로토콜 구현
+    - [ ] GOP-14151 작업 24 - 프로토콜 테스트
+    - [ ] GOP-14151 작업 25 - 코드 정리 및 리뷰 요청
 
 week-2022-03-1:
   - [ ] git-secret 적용하기 @medium
 
 week-2022-01-3:
   - [ ] 책읽기 - clean architecture 3 - 50p~
-  GopaxAdminReviewBalanceTransferLambdaRole
   
 blog:
   - [ ] 로컬 저장소 정리하기
@@ -91,6 +84,10 @@ longterm:
   - [ ] 영어 공부하기
 
 Archive:
+  - [x] 블로그 정리 및 내일 할일 정리 2022-02-19 @started(22-02-19 15:03) @done(22-02-19 15:04) @lasted(1m12s) @project(day-2022-02-19)
+  - [x] leetcode 문제풀기 @started(22-02-19 13:21) @done(22-02-19 15:03) @lasted(1h42m23s) @project(day-2022-02-19.sport)
+  - [x] 블로그 정리 및 내일 할일 정리 2022-02-21 @started(22-02-22 09:25) @done(22-02-22 09:27) @lasted(2m47s) @project(day-2022-02-21)
+  - [x] GOP-14151 작업 22 - 프로토콜 구현 @started(22-02-21 14:36) @done(22-02-21 17:44) @lasted(3h8m6s) @project(day-2022-02-21.job)
   - [x] 블로그 정리 및 내일 할일 정리 2022-02-18 @done(22-02-19 13:15) @project(day-2022-02-18)
   - [x] GOP-14151 작업 19 - 람다 실행 테스트 1 @started(22-02-18 10:18) @done(22-02-18 10:30) @lasted(12m24s) @project(day-2022-02-18.job)
   - [x] GOP-14151 작업 20 - 이중화 고려 재구조화 @started(22-02-18 10:35) @done(22-02-18 17:16) @lasted(6h41m2s) @project(day-2022-02-18.job)
