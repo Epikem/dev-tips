@@ -1,30 +1,13 @@
-day-2022-03-18:
-  - [x] 블로그 정리 및 내일 할일 정리 2022-03-18 @started(22-03-19 04:46) @done(22-03-19 04:52) @lasted(6m12s)
-  job:
-    - [x] GOP-14770 작업 8 @done(22-03-19 04:46)
-    GOP-14770:
-      - [x] redis 테스트 @started(22-03-18 10:14) @done(22-03-18 10:57) @lasted(43m54s)
-      - [x] 저장 api 구현 @done(22-03-18 10:57)
-      - [x] 로드 api 구현 @done(22-03-18 10:57)
-      - [x] 필요 추가 처리 1 (expect된 특정 정보만 담도록 하기, 원하는 형태의 특정 정보인지 sanity check, ) - client 논의 @started(22-03-18 10:59) @done(22-03-18 11:47) @lasted(48m43s)
-      - [x] 필요 추가 처리 2 (expect된 특정 정보만 담도록 하기, 원하는 형태의 특정 정보인지 sanity check, ) - client 논의 @started(22-03-18 13:01) @done(22-03-18 19:43) @lasted(6h42m16s)
-      - [x] 임시 로그인 후 가능하도록 처리 @started(22-03-18 21:04) @done(22-03-18 22:02) @lasted(58m9s)
-      - [ ] 통합 연동 테스트
-        - [ ] event code 가진 환경 점유
-        - [ ] 기존 계정 있으면 삭제
-        - [ ] 인증 통과 가능하도록 privateRelay overwrite
-        - [ ] refCode링크로 회원가입 진행
-        - [ ] 연동 성공 여부 콘솔 로그로 확인
-    ✘ [ ] GOP-13436 작업 12 - 추가 분석 3 @cancelled(22-03-19 04:47)
-
 day-2022-03-19:
   - [ ] 블로그 정리 및 내일 할일 정리 2022-03-19
   arb:
-    - [ ] pubsub 조사
-    - [ ] di 조사
+    - [x] pubsub 조사 @done(22-03-19 07:33)
+    - [x] di 조사 @started(22-03-19 04:54) @done(22-03-19 07:33) @lasted(2h39m15s)
+    - [ ] rxpy 조사 (추가)
 
 day-2022-03-20:
   job:
+    - [ ] 비밀번호 변경 - 모든 계정 @high
     - [ ] GOP-14770 작업 9
     GOP-14770:
       - [ ] 토큰 요구 api 테스트
@@ -35,10 +18,9 @@ day-2022-03-20:
         - [ ] refCode링크로 회원가입 진행
         - [ ] 연동 성공 여부 콘솔 로그로 확인
 
-    
-
-week-2022-03-2:
-  - [ ] 비밀번호 변경 - 모든 계정
+week-2022-03-3:
+  arb:
+    - [ ] ccxt조사
 
 blog:
   - [ ] 로컬 저장소 정리하기
@@ -111,6 +93,15 @@ longterm:
   - [ ] 영어 공부하기
 
 Archive:
+  - [x] 블로그 정리 및 내일 할일 정리 2022-03-18 @started(22-03-19 04:46) @done(22-03-19 04:52) @lasted(6m12s) @project(day-2022-03-18)
+  - [x] GOP-14770 작업 8 @done(22-03-19 04:46) @project(day-2022-03-18.job)
+  - [x] redis 테스트 @started(22-03-18 10:14) @done(22-03-18 10:57) @lasted(43m54s) @project(day-2022-03-18.job.GOP-14770)
+  - [x] 저장 api 구현 @done(22-03-18 10:57) @project(day-2022-03-18.job.GOP-14770)
+  - [x] 로드 api 구현 @done(22-03-18 10:57) @project(day-2022-03-18.job.GOP-14770)
+  - [x] 필요 추가 처리 1 (expect된 특정 정보만 담도록 하기, 원하는 형태의 특정 정보인지 sanity check, ) - client 논의 @started(22-03-18 10:59) @done(22-03-18 11:47) @lasted(48m43s) @project(day-2022-03-18.job.GOP-14770)
+  - [x] 필요 추가 처리 2 (expect된 특정 정보만 담도록 하기, 원하는 형태의 특정 정보인지 sanity check, ) - client 논의 @started(22-03-18 13:01) @done(22-03-18 19:43) @lasted(6h42m16s) @project(day-2022-03-18.job.GOP-14770)
+  - [x] 임시 로그인 후 가능하도록 처리 @started(22-03-18 21:04) @done(22-03-18 22:02) @lasted(58m9s) @project(day-2022-03-18.job.GOP-14770)
+  ✘ [ ] GOP-13436 작업 12 - 추가 분석 3 @cancelled(22-03-19 04:47) @project(day-2022-03-18.job)
   - [x] 블로그 정리 및 내일 할일 정리 2022-03-17 @started(22-03-18 09:52) @done(22-03-18 10:06) @lasted(14m46s) @project(day-2022-03-17)
   ✘ [ ] GOP-14770 작업 7 - dev에서 테스트 @cancelled(22-03-17 16:11) @project(day-2022-03-17.job)
   - [x] GOP-14770 작업 7 @done(22-03-18 09:52) @project(day-2022-03-17.job)
