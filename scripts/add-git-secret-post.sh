@@ -9,7 +9,14 @@ git add .gitsecret/paths/mapping.cfg $(pwd)/TIL/$1.md.secret;
 git add $(pwd)/TODO;
 # commit and push?
 push=$2;
+# set default
+if [ -z "$push" ]; then
+    push="no-push";
+    echo "no-push";
+fi
+
 if [ $push = "push" ]; then
+    echo "push";
     git commit -m "add $1";
     git push;
 fi
