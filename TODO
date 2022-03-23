@@ -1,21 +1,13 @@
-day-2022-03-22:
-  - [x] 블로그 정리 및 내일 할일 정리 2022-03-22 @started(22-03-23 07:59) @done(22-03-23 08:10) @lasted(11m22s)
-  arb:
-    - [x] pubsub try @done(22-03-23 07:56)
-  job:
-    - [x] GOP-14770 리뷰적용 10 @started(22-03-22 12:33) @done(22-03-22 13:09) @lasted(36m7s)
-    - [x] GOP-13436 분석 10 @done(22-03-22 22:27)
-    ✘ [ ] 경보 기능 테스트 @started(22-03-22 13:09) @cancelled(22-03-22 14:26) @wasted(1h17m34s)
-
 day-2022-03-23:
   - [ ] 블로그 정리 및 내일 할일 정리 2022-03-23
   study:
     - [ ] 스터디 진행
   job:
-    - [ ] 로컬 환경 세팅
-    - [ ] GOP-14770 리뷰적용 10
-    - [ ] GOP-13436 분석 11
-    - [ ] 경보 기능 테스트
+    - [x] 로컬 환경 세팅 @started(22-03-23 08:45) @done(22-03-23 09:45) @lasted(1h2s)
+    - [ ] GOP-14770 feat 리뷰적용 10
+    - [x] GOP-13436 bug 분석 11 @started(22-03-23 13:34) @done(22-03-23 16:44) @lasted(3h10m31s)
+    - [x] 경보 기능 테스트 @started(22-03-23 09:45) @done(22-03-23 09:59) @lasted(14m23s)
+    - [x] 경보 기능 테스트 2 @started(22-03-23 10:19) @done(22-03-23 16:44) @lasted(6h25m34s)
     
 week-2022-03-3:
   arb:
@@ -92,6 +84,11 @@ longterm:
   - [ ] 영어 공부하기
 
 Archive:
+  - [x] 블로그 정리 및 내일 할일 정리 2022-03-22 @started(22-03-23 07:59) @done(22-03-23 08:10) @lasted(11m22s) @project(day-2022-03-22)
+  - [x] pubsub try @done(22-03-23 07:56) @project(day-2022-03-22.arb)
+  - [x] GOP-14770 리뷰적용 10 @started(22-03-22 12:33) @done(22-03-22 13:09) @lasted(36m7s) @project(day-2022-03-22.job)
+  - [x] GOP-13436 분석 10 @done(22-03-22 22:27) @project(day-2022-03-22.job)
+  ✘ [ ] 경보 기능 테스트 @started(22-03-22 13:09) @cancelled(22-03-22 14:26) @wasted(1h17m34s) @project(day-2022-03-22.job)
   - [x] 블로그 정리 및 내일 할일 정리 2022-03-21 @started(22-03-21 17:23) @done(22-03-21 17:26) @lasted(3m57s) @project(day-2022-03-21)
   - [x] 비밀번호 변경 - 모든 계정 @high @done(22-03-21 07:43) @project(day-2022-03-21.job)
   - [x] GOP-14770 작업 9 @started(22-03-21 08:01) @done(22-03-21 09:47) @lasted(1h46m41s) @project(day-2022-03-21.job)
