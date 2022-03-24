@@ -1,13 +1,22 @@
 day-2022-03-23:
-  - [ ] 블로그 정리 및 내일 할일 정리 2022-03-23
+  - [x] 블로그 정리 및 내일 할일 정리 2022-03-23 @started(22-03-24 10:55) @done(22-03-24 10:57) @lasted(2m26s)
   study:
-    - [ ] 스터디 진행
+    ✘ [ ] 스터디 진행 @cancelled(22-03-24 09:44)
   job:
     - [x] 로컬 환경 세팅 @started(22-03-23 08:45) @done(22-03-23 09:45) @lasted(1h2s)
-    - [ ] GOP-14770 feat 리뷰적용 10
+    ✘ [ ] GOP-14770 feat 리뷰적용 10 @cancelled(22-03-24 09:44)
     - [x] GOP-13436 bug 분석 11 @started(22-03-23 13:34) @done(22-03-23 16:44) @lasted(3h10m31s)
     - [x] 경보 기능 테스트 @started(22-03-23 09:45) @done(22-03-23 09:59) @lasted(14m23s)
     - [x] 경보 기능 테스트 2 @started(22-03-23 10:19) @done(22-03-23 16:44) @lasted(6h25m34s)
+
+day-2022-03-24:
+  - [ ] 블로그 정리 및 내일 할일 정리 2022-03-24
+  arb:
+    - [ ] pubsub improve
+  job:
+    - [ ] rdp post migration to local using secret
+    - [ ] GOP-13436 bug track 12
+    - [ ] alert feat test 3
     
 week-2022-03-3:
   arb:
