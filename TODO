@@ -1,22 +1,23 @@
-day-2022-03-23:
-  - [x] 블로그 정리 및 내일 할일 정리 2022-03-23 @started(22-03-24 10:55) @done(22-03-24 10:57) @lasted(2m26s)
-  study:
-    ✘ [ ] 스터디 진행 @cancelled(22-03-24 09:44)
-  job:
-    - [x] 로컬 환경 세팅 @started(22-03-23 08:45) @done(22-03-23 09:45) @lasted(1h2s)
-    ✘ [ ] GOP-14770 feat 리뷰적용 10 @cancelled(22-03-24 09:44)
-    - [x] GOP-13436 bug 분석 11 @started(22-03-23 13:34) @done(22-03-23 16:44) @lasted(3h10m31s)
-    - [x] 경보 기능 테스트 @started(22-03-23 09:45) @done(22-03-23 09:59) @lasted(14m23s)
-    - [x] 경보 기능 테스트 2 @started(22-03-23 10:19) @done(22-03-23 16:44) @lasted(6h25m34s)
-
 day-2022-03-24:
-  - [ ] 블로그 정리 및 내일 할일 정리 2022-03-24
+  - [x] 블로그 정리 및 내일 할일 정리 2022-03-24 @started(22-03-25 01:07) @done(22-03-25 01:09) @lasted(2m8s)
   arb:
-    - [ ] pubsub improve
+    - [x] pubsub improve @started(22-03-24 21:36) @done(22-03-24 22:12) @lasted(36m55s)
+    ✘ [ ] arbitrage detector @started(22-03-24 22:19) @cancelled(22-03-25 01:06) @wasted(2h47m57s)
+  job:
+    ✘ [ ] rdp post migration to local using secret @cancelled(22-03-25 01:08)
+    ✘ [ ] GOP-13436 bug track 12 @cancelled(22-03-25 01:08)
+    - [x] alert feat test 3 @started(22-03-24 12:46) @done(22-03-24 13:57) @lasted(1h11m58s)
+    - [x] alert feat test 4 @started(22-03-24 15:19) @done(22-03-24 19:45) @lasted(4h26m5s)
+    - [x] pc점검 @started(22-03-24 14:14) @done(22-03-24 14:59) @lasted(45m48s)
+
+day-2022-03-25:
+  - [ ] 블로그 정리 및 내일 할일 정리 2022-03-25
+  arb:
+    - [ ] file db
   job:
     - [ ] rdp post migration to local using secret
     - [ ] GOP-13436 bug track 12
-    - [ ] alert feat test 3
+    - [ ] alert feat test 5
     
 week-2022-03-3:
   arb:
@@ -93,6 +94,13 @@ longterm:
   - [ ] 영어 공부하기
 
 Archive:
+  - [x] 블로그 정리 및 내일 할일 정리 2022-03-23 @started(22-03-24 10:55) @done(22-03-24 10:57) @lasted(2m26s) @project(day-2022-03-23)
+  ✘ [ ] 스터디 진행 @cancelled(22-03-24 09:44) @project(day-2022-03-23.study)
+  - [x] 로컬 환경 세팅 @started(22-03-23 08:45) @done(22-03-23 09:45) @lasted(1h2s) @project(day-2022-03-23.job)
+  ✘ [ ] GOP-14770 feat 리뷰적용 10 @cancelled(22-03-24 09:44) @project(day-2022-03-23.job)
+  - [x] GOP-13436 bug 분석 11 @started(22-03-23 13:34) @done(22-03-23 16:44) @lasted(3h10m31s) @project(day-2022-03-23.job)
+  - [x] 경보 기능 테스트 @started(22-03-23 09:45) @done(22-03-23 09:59) @lasted(14m23s) @project(day-2022-03-23.job)
+  - [x] 경보 기능 테스트 2 @started(22-03-23 10:19) @done(22-03-23 16:44) @lasted(6h25m34s) @project(day-2022-03-23.job)
   - [x] 블로그 정리 및 내일 할일 정리 2022-03-22 @started(22-03-23 07:59) @done(22-03-23 08:10) @lasted(11m22s) @project(day-2022-03-22)
   - [x] pubsub try @done(22-03-23 07:56) @project(day-2022-03-22.arb)
   - [x] GOP-14770 리뷰적용 10 @started(22-03-22 12:33) @done(22-03-22 13:09) @lasted(36m7s) @project(day-2022-03-22.job)
