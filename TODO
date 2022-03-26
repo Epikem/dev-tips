@@ -12,18 +12,18 @@ day-2022-03-20:
     - [ ] pubsub 개선
     - [ ] 구조 보고 궁금사항 생각
     - [ ] rxpy 조사 (추가)
+    
+day-2022-03-25:
+  - [ ] 블로그 정리 및 내일 할일 정리 2022-03-25
+  arb:
+    - [ ] file db
   job:
-    - [ ] 비밀번호 변경 - 모든 계정 @high
-    - [ ] GOP-14770 작업 9
-    GOP-14770:
-      - [ ] 토큰 요구 api 테스트
-      - [ ] 통합 연동 테스트
-        - [ ] event code 가진 환경 점유
-        - [ ] 기존 계정 있으면 삭제
-        - [ ] 인증 통과 가능하도록 privateRelay overwrite
-        - [ ] refCode링크로 회원가입 진행
-        - [ ] 연동 성공 여부 콘솔 로그로 확인
-
+    - [ ] rdp post migration to local using secret
+    - [ ] GOP-13436 bug track 12
+    - [x] alert feat test 5 @started(22-03-25 09:10) @done(22-03-25 12:45) @lasted(3h35m49s)
+    - [x] alert feat test 6 @started(22-03-25 13:16) @done(22-03-25 18:33) @lasted(5h17m42s)
+    - [x] 15744 land @done(22-03-25 14:07)
+    
 week-2022-03-3:
   arb:
     - [ ] ccxt조사
@@ -99,6 +99,36 @@ longterm:
   - [ ] 영어 공부하기
 
 Archive:
+  - [x] 블로그 정리 및 내일 할일 정리 2022-03-24 @started(22-03-25 01:07) @done(22-03-25 01:09) @lasted(2m8s) @project(day-2022-03-24)
+  - [x] pubsub improve @started(22-03-24 21:36) @done(22-03-24 22:12) @lasted(36m55s) @project(day-2022-03-24.arb)
+  ✘ [ ] arbitrage detector @started(22-03-24 22:19) @cancelled(22-03-25 01:06) @wasted(2h47m57s) @project(day-2022-03-24.arb)
+  ✘ [ ] rdp post migration to local using secret @cancelled(22-03-25 01:08) @project(day-2022-03-24.job)
+  ✘ [ ] GOP-13436 bug track 12 @cancelled(22-03-25 01:08) @project(day-2022-03-24.job)
+  - [x] alert feat test 3 @started(22-03-24 12:46) @done(22-03-24 13:57) @lasted(1h11m58s) @project(day-2022-03-24.job)
+  - [x] alert feat test 4 @started(22-03-24 15:19) @done(22-03-24 19:45) @lasted(4h26m5s) @project(day-2022-03-24.job)
+  - [x] pc점검 @started(22-03-24 14:14) @done(22-03-24 14:59) @lasted(45m48s) @project(day-2022-03-24.job)
+  - [x] 블로그 정리 및 내일 할일 정리 2022-03-23 @started(22-03-24 10:55) @done(22-03-24 10:57) @lasted(2m26s) @project(day-2022-03-23)
+  ✘ [ ] 스터디 진행 @cancelled(22-03-24 09:44) @project(day-2022-03-23.study)
+  - [x] 로컬 환경 세팅 @started(22-03-23 08:45) @done(22-03-23 09:45) @lasted(1h2s) @project(day-2022-03-23.job)
+  ✘ [ ] GOP-14770 feat 리뷰적용 10 @cancelled(22-03-24 09:44) @project(day-2022-03-23.job)
+  - [x] GOP-13436 bug 분석 11 @started(22-03-23 13:34) @done(22-03-23 16:44) @lasted(3h10m31s) @project(day-2022-03-23.job)
+  - [x] 경보 기능 테스트 @started(22-03-23 09:45) @done(22-03-23 09:59) @lasted(14m23s) @project(day-2022-03-23.job)
+  - [x] 경보 기능 테스트 2 @started(22-03-23 10:19) @done(22-03-23 16:44) @lasted(6h25m34s) @project(day-2022-03-23.job)
+  - [x] 블로그 정리 및 내일 할일 정리 2022-03-22 @started(22-03-23 07:59) @done(22-03-23 08:10) @lasted(11m22s) @project(day-2022-03-22)
+  - [x] pubsub try @done(22-03-23 07:56) @project(day-2022-03-22.arb)
+  - [x] GOP-14770 리뷰적용 10 @started(22-03-22 12:33) @done(22-03-22 13:09) @lasted(36m7s) @project(day-2022-03-22.job)
+  - [x] GOP-13436 분석 10 @done(22-03-22 22:27) @project(day-2022-03-22.job)
+  ✘ [ ] 경보 기능 테스트 @started(22-03-22 13:09) @cancelled(22-03-22 14:26) @wasted(1h17m34s) @project(day-2022-03-22.job)
+  - [x] 블로그 정리 및 내일 할일 정리 2022-03-21 @started(22-03-21 17:23) @done(22-03-21 17:26) @lasted(3m57s) @project(day-2022-03-21)
+  - [x] 비밀번호 변경 - 모든 계정 @high @done(22-03-21 07:43) @project(day-2022-03-21.job)
+  - [x] GOP-14770 작업 9 @started(22-03-21 08:01) @done(22-03-21 09:47) @lasted(1h46m41s) @project(day-2022-03-21.job)
+  - [x] GOP-13436 분석 9 @started(22-03-21 15:45) @done(22-03-21 17:15) @lasted(1h30m45s) @project(day-2022-03-21.job)
+  ✘ [ ] 카페인님 요청사항 - 유의사항 조건 확인 @cancelled(22-03-21 17:23) @project(day-2022-03-21.job)
+  - [x] 토큰 요구 api 테스트 @done(22-03-21 09:47) @project(day-2022-03-21.job.GOP-14770)
+  ✘ [ ] 블로그 정리 및 내일 할일 정리 2022-03-19 @cancelled(22-03-21 07:34) @project(day-2022-03-19)
+  - [x] pubsub 조사 @done(22-03-19 07:33) @project(day-2022-03-19.arb)
+  - [x] di 조사 @started(22-03-19 04:54) @done(22-03-19 07:33) @lasted(2h39m15s) @project(day-2022-03-19.arb)
+  ✘ [ ] rxpy 조사 (추가) @cancelled(22-03-21 07:43) @project(day-2022-03-19.arb)
   - [x] 블로그 정리 및 내일 할일 정리 2022-03-18 @started(22-03-19 04:46) @done(22-03-19 04:52) @lasted(6m12s) @project(day-2022-03-18)
   - [x] GOP-14770 작업 8 @done(22-03-19 04:46) @project(day-2022-03-18.job)
   - [x] redis 테스트 @started(22-03-18 10:14) @done(22-03-18 10:57) @lasted(43m54s) @project(day-2022-03-18.job.GOP-14770)
