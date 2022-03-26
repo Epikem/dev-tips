@@ -1,28 +1,10 @@
-day-2022-03-19:
-  - [x] 블로그 정리 및 내일 할일 정리 2022-03-19 @started(22-03-19 14:54) @done(22-03-19 14:57) @lasted(3m41s)
+day-2022-03-26:
+  - [ ] 블로그 정리 및 내일 할일 정리 2022-03-26
   arb:
-    - [x] pubsub 조사 @done(22-03-19 07:33)
-    - [x] di 조사 @started(22-03-19 04:54) @done(22-03-19 07:33) @lasted(2h39m15s)
-    ✘ [ ] rxpy 조사 (추가) @cancelled(22-03-19 14:55)
-
-day-2022-03-20:
-  - [ ] 블로그 정리 및 내일 할일 정리 2022-03-20
-  arb:
-    - [ ] 모듈1 테스트 구현
-    - [ ] pubsub 개선
-    - [ ] 구조 보고 궁금사항 생각
-    - [ ] rxpy 조사 (추가)
-    
-day-2022-03-25:
-  - [ ] 블로그 정리 및 내일 할일 정리 2022-03-25
-  arb:
-    - [ ] file db
+    - [x] file db @started(22-03-26 06:04) @done(22-03-26 10:12) @lasted(4h8m25s)
   job:
     - [ ] rdp post migration to local using secret
     - [ ] GOP-13436 bug track 12
-    - [x] alert feat test 5 @started(22-03-25 09:10) @done(22-03-25 12:45) @lasted(3h35m49s)
-    - [x] alert feat test 6 @started(22-03-25 13:16) @done(22-03-25 18:33) @lasted(5h17m42s)
-    - [x] 15744 land @done(22-03-25 14:07)
     
 week-2022-03-3:
   arb:
@@ -99,6 +81,13 @@ longterm:
   - [ ] 영어 공부하기
 
 Archive:
+  - [x] 블로그 정리 및 내일 할일 정리 2022-03-19 @started(22-03-19 14:54) @done(22-03-19 14:57) @lasted(3m41s) @project(day-2022-03-19)
+  - [x] pubsub 조사 @done(22-03-19 07:33) @project(day-2022-03-19.arb)
+  - [x] di 조사 @started(22-03-19 04:54) @done(22-03-19 07:33) @lasted(2h39m15s) @project(day-2022-03-19.arb)
+  ✘ [ ] rxpy 조사 (추가) @cancelled(22-03-19 14:55) @project(day-2022-03-19.arb)
+  - [x] alert feat test 5 @started(22-03-25 09:10) @done(22-03-25 12:45) @lasted(3h35m49s) @project(day-2022-03-25.job)
+  - [x] alert feat test 6 @started(22-03-25 13:16) @done(22-03-25 18:33) @lasted(5h17m42s) @project(day-2022-03-25.job)
+  - [x] 15744 land @done(22-03-25 14:07) @project(day-2022-03-25.job)
   - [x] 블로그 정리 및 내일 할일 정리 2022-03-24 @started(22-03-25 01:07) @done(22-03-25 01:09) @lasted(2m8s) @project(day-2022-03-24)
   - [x] pubsub improve @started(22-03-24 21:36) @done(22-03-24 22:12) @lasted(36m55s) @project(day-2022-03-24.arb)
   ✘ [ ] arbitrage detector @started(22-03-24 22:19) @cancelled(22-03-25 01:06) @wasted(2h47m57s) @project(day-2022-03-24.arb)
