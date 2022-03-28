@@ -1,0 +1,18 @@
+{
+	"folders": [
+		{
+			"name": "arb",
+			"path": "../../repos/ArbitrageBotV2"
+		},
+		{
+			"name": "dev-tips",
+			"path": ".."
+		}
+	],	
+	"settings": {
+		// GitHub Compatibility
+		"markdown.extension.toc.githubCompatibility": true,
+		// Range of levels for table of contents. Use `x..y` for level x to y
+		"markdown.extension.toc.levels": "2..6",
+	}
+}	
