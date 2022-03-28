@@ -1,15 +1,24 @@
 day-2022-03-28:
-  - [ ] 블로그 정리 및 내일 할일 정리 2022-03-28
+  - [x] 블로그 정리 및 내일 할일 정리 2022-03-28 @started(22-03-29 07:54) @done(22-03-29 08:04) @lasted(10m49s)
   arb:
-    - [ ] ccxt - request fu
-    - [ ] ccxt - balance order
+    - [x] ccxt - request fu @done(22-03-29 07:55)
+    - [x] ccxt - balance order 1 @started(22-03-28 21:43) @done(22-03-29 00:53) @lasted(3h10m45s)
   job:
-    - [ ] rdp post migration to local using secret
+    ✘ [ ] rdp post migration to local using secret @cancelled(22-03-29 07:57)
     - [x] GOP-13436 bug track 12 @started(22-03-28 09:56) @done(22-03-28 13:37) @lasted(3h41m30s)
     ✘ [ ] jb cfn staging migration @started(22-03-28 14:37) @cancelled(22-03-28 15:48) @wasted(1h11m45s)
     ✘ [ ] study - systems? @started(22-03-28 15:00) @cancelled(22-03-28 15:48) @wasted(48m44s)
     - [x] apply token identification @started(22-03-28 15:49) @done(22-03-28 18:20) @lasted(2h31m53s)
 
+day-2022-03-29:
+  - [ ] 블로그 정리 및 내일 할일 정리 2022-03-29
+  arb:
+    - [ ] ccxt - balance order 2
+  job:
+    - [ ] rdp post migration to local using secret
+    - [ ] GOP-13436 bug track 13
+    - [ ] apply token identification 2
+    
 
 blog:
   - [ ] 로컬 저장소 정리하기
