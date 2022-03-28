@@ -1,11 +1,3 @@
-day-2022-03-26:
-  - [x] [ ] 블로그 정리 및 내일 할일 정리 2022-03-26 @started(22-03-28 09:31) @done(22-03-28 09:33) @lasted(2m36s)
-  arb:
-    - [x] file db @started(22-03-26 06:04) @done(22-03-26 10:12) @lasted(4h8m25s)
-  job:
-    ✘ [ ] rdp post migration to local using secret @cancelled(22-03-28 09:33)
-    ✘ [ ] GOP-13436 bug track 12 @cancelled(22-03-28 09:33)
-    
 day-2022-03-28:
   - [ ] 블로그 정리 및 내일 할일 정리 2022-03-28
   arb:
@@ -13,11 +5,11 @@ day-2022-03-28:
     - [ ] ccxt - balance order
   job:
     - [ ] rdp post migration to local using secret
-    - [ ] GOP-13436 bug track 12
+    - [x] GOP-13436 bug track 12 @started(22-03-28 09:56) @done(22-03-28 13:37) @lasted(3h41m30s)
+    ✘ [ ] jb cfn staging migration @started(22-03-28 14:37) @cancelled(22-03-28 15:48) @wasted(1h11m45s)
+    ✘ [ ] study - systems? @started(22-03-28 15:00) @cancelled(22-03-28 15:48) @wasted(48m44s)
+    - [x] apply token identification @started(22-03-28 15:49) @done(22-03-28 18:20) @lasted(2h31m53s)
 
-week-2022-03-3:
-  arb:
-    ✘ [ ] ccxt조사 @cancelled(22-03-28 09:32)
 
 blog:
   - [ ] 로컬 저장소 정리하기
@@ -90,6 +82,11 @@ longterm:
   - [ ] 영어 공부하기
 
 Archive:
+  - [x] [ ] 블로그 정리 및 내일 할일 정리 2022-03-26 @started(22-03-28 09:31) @done(22-03-28 09:33) @lasted(2m36s) @project(day-2022-03-26)
+  - [x] file db @started(22-03-26 06:04) @done(22-03-26 10:12) @lasted(4h8m25s) @project(day-2022-03-26.arb)
+  ✘ [ ] rdp post migration to local using secret @cancelled(22-03-28 09:33) @project(day-2022-03-26.job)
+  ✘ [ ] GOP-13436 bug track 12 @cancelled(22-03-28 09:33) @project(day-2022-03-26.job)
+  ✘ [ ] ccxt조사 @cancelled(22-03-28 09:32) @project(week-2022-03-3.arb)
   - [x] 블로그 정리 및 내일 할일 정리 2022-03-19 @started(22-03-19 14:54) @done(22-03-19 14:57) @lasted(3m41s) @project(day-2022-03-19)
   - [x] pubsub 조사 @done(22-03-19 07:33) @project(day-2022-03-19.arb)
   - [x] di 조사 @started(22-03-19 04:54) @done(22-03-19 07:33) @lasted(2h39m15s) @project(day-2022-03-19.arb)
