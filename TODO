@@ -1,24 +1,24 @@
-day-2022-03-28:
-  - [x] 블로그 정리 및 내일 할일 정리 2022-03-28 @started(22-03-29 07:54) @done(22-03-29 08:04) @lasted(10m49s)
-  arb:
-    - [x] ccxt - request fu @done(22-03-29 07:55)
-    - [x] ccxt - balance order 1 @started(22-03-28 21:43) @done(22-03-29 00:53) @lasted(3h10m45s)
-  job:
-    ✘ [ ] rdp post migration to local using secret @cancelled(22-03-29 07:57)
-    - [x] GOP-13436 bug track 12 @started(22-03-28 09:56) @done(22-03-28 13:37) @lasted(3h41m30s)
-    ✘ [ ] jb cfn staging migration @started(22-03-28 14:37) @cancelled(22-03-28 15:48) @wasted(1h11m45s)
-    ✘ [ ] study - systems? @started(22-03-28 15:00) @cancelled(22-03-28 15:48) @wasted(48m44s)
-    - [x] apply token identification @started(22-03-28 15:49) @done(22-03-28 18:20) @lasted(2h31m53s)
-
 day-2022-03-29:
-  - [ ] 블로그 정리 및 내일 할일 정리 2022-03-29
+  - [x] 블로그 정리 및 내일 할일 정리 2022-03-29 @started(22-03-30 10:26) @done(22-03-30 10:31) @lasted(5m8s)
+  arb:
+    - [x] ccxt - balance order 2 @done(22-03-30 10:26)
+  job:
+    ✘ [ ] rdp post migration to local using secret @cancelled(22-03-30 10:27)
+    ✘ [ ] GOP-13436 bug track 13 @cancelled(22-03-30 10:27)
+    - [x] apply token identification 2 @started(22-03-29 08:07) @done(22-03-29 12:04) @lasted(3h57m18s)
+    - [x] local proto compile setup @started(22-03-29 13:14) @done(22-03-29 14:59) @lasted(1h45m26s)
+    - [x] asap GOP-15828 @done(22-03-30 10:26)
+    
+day-2022-03-30:
+  - [ ] 블로그 정리 및 내일 할일 정리 2022-03-30
   arb:
     - [ ] ccxt - balance order 2
   job:
     - [ ] rdp post migration to local using secret
     - [ ] GOP-13436 bug track 13
-    - [ ] apply token identification 2
-    
+    - [ ] apply token identification 3
+    - [ ] local proto compile js setup
+    - [ ] asap GOP-15828
 
 blog:
   - [ ] 로컬 저장소 정리하기
@@ -91,6 +91,14 @@ longterm:
   - [ ] 영어 공부하기
 
 Archive:
+  - [x] 블로그 정리 및 내일 할일 정리 2022-03-28 @started(22-03-29 07:54) @done(22-03-29 08:04) @lasted(10m49s) @project(day-2022-03-28)
+  - [x] ccxt - request fu @done(22-03-29 07:55) @project(day-2022-03-28.arb)
+  - [x] ccxt - balance order 1 @started(22-03-28 21:43) @done(22-03-29 00:53) @lasted(3h10m45s) @project(day-2022-03-28.arb)
+  ✘ [ ] rdp post migration to local using secret @cancelled(22-03-29 07:57) @project(day-2022-03-28.job)
+  - [x] GOP-13436 bug track 12 @started(22-03-28 09:56) @done(22-03-28 13:37) @lasted(3h41m30s) @project(day-2022-03-28.job)
+  ✘ [ ] jb cfn staging migration @started(22-03-28 14:37) @cancelled(22-03-28 15:48) @wasted(1h11m45s) @project(day-2022-03-28.job)
+  ✘ [ ] study - systems? @started(22-03-28 15:00) @cancelled(22-03-28 15:48) @wasted(48m44s) @project(day-2022-03-28.job)
+  - [x] apply token identification @started(22-03-28 15:49) @done(22-03-28 18:20) @lasted(2h31m53s) @project(day-2022-03-28.job)
   - [x] [ ] 블로그 정리 및 내일 할일 정리 2022-03-26 @started(22-03-28 09:31) @done(22-03-28 09:33) @lasted(2m36s) @project(day-2022-03-26)
   - [x] file db @started(22-03-26 06:04) @done(22-03-26 10:12) @lasted(4h8m25s) @project(day-2022-03-26.arb)
   ✘ [ ] rdp post migration to local using secret @cancelled(22-03-28 09:33) @project(day-2022-03-26.job)
