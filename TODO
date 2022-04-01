@@ -1,21 +1,3 @@
-day-2022-03-31:
-  - [x] 블로그 정리 및 내일 할일 정리 2022-03-31 @started(22-03-31 23:53) @done(22-04-01 00:00) @lasted(7m10s)
-  sport:
-    ✘ [ ] exc @cancelled(22-03-31 23:53)
-  arb:
-    - [x] ccxt - balance order 3 @started(22-03-31 23:20) @done(22-03-31 23:53) @lasted(33m8s)
-    - [x] discuss @started(22-03-31 20:54) @done(22-03-31 23:13) @lasted(2h19m42s)
-  job:
-    - [ ] rdp post migration to local using secret
-    - [ ] GOP-13436 bug track 13
-    - [ ] apply token identification 5
-    - [ ] local proto compile js setup
-    - [ ] ws test
-    - [x] GOP-15886 1 @started(22-03-31 14:29) @done(22-03-31 15:19) @lasted(50m25s)
-    - [x] attend scrum lec @started(22-03-31 15:19) @done(22-03-31 16:08) @lasted(49m47s)
-    - [x] ad @done(22-03-31 19:08)
-    - [ ] GOP-15886 2
-
 day-2022-04-01:
   - [ ] 블로그 정리 및 내일 할일 정리 2022-04-01
   sport:
@@ -24,13 +6,17 @@ day-2022-04-01:
     - [ ] ccxt - balance order 4 apply review
     - [ ] sendOrder 필요한 필드 정리 (market limit 등)
   job:
-    - [ ] GOP-15886 2
+    - [x] GOP-15886 2 @started(22-04-01 08:08) @done(22-04-01 12:11) @lasted(4h3m45s)
+    - [x] GOP-15886 3 @started(22-04-01 13:19) @done(22-04-01 13:37) @lasted(18m56s)
+    - [x] retrospective @started(22-04-01 13:38) @done(22-04-01 14:21) @lasted(43m21s)
+    - [x] GOP-15886 4 @started(22-04-01 14:21) @done(22-04-01 15:28) @lasted(1h7m13s)
+    - [x] apply token identification 5 @started(22-04-01 15:48) @done(22-04-01 16:05) @lasted(17m7s)
+    ✘ [ ] GOP-15886 5 apply review @started(22-04-01 16:35) @cancelled(22-04-01 17:04) @wasted(29m46s)
     - [ ] ad
-    - [ ] apply token identification 5
-    - [ ] rdp post migration to local using secret
     - [ ] GOP-13436 bug track 13
-    - [ ] local proto compile js setup
     - [ ] ws test
+    - [ ] rdp post migration to local using secret
+    - [ ] local proto compile js setup
     
 arb:
   todos:
@@ -111,6 +97,13 @@ longterm:
   - [ ] 영어 공부하기
 
 Archive:
+  - [x] 블로그 정리 및 내일 할일 정리 2022-03-31 @started(22-03-31 23:53) @done(22-04-01 00:00) @lasted(7m10s) @project(day-2022-03-31)
+  ✘ [ ] exc @cancelled(22-03-31 23:53) @project(day-2022-03-31.sport)
+  - [x] ccxt - balance order 3 @started(22-03-31 23:20) @done(22-03-31 23:53) @lasted(33m8s) @project(day-2022-03-31.arb)
+  - [x] discuss @started(22-03-31 20:54) @done(22-03-31 23:13) @lasted(2h19m42s) @project(day-2022-03-31.arb)
+  - [x] GOP-15886 1 @started(22-03-31 14:29) @done(22-03-31 15:19) @lasted(50m25s) @project(day-2022-03-31.job)
+  - [x] attend scrum lec @started(22-03-31 15:19) @done(22-03-31 16:08) @lasted(49m47s) @project(day-2022-03-31.job)
+  - [x] ad @done(22-03-31 19:08) @project(day-2022-03-31.job)
   - [x] 블로그 정리 및 내일 할일 정리 2022-03-30 @started(22-03-31 09:05) @done(22-03-31 09:54) @lasted(49m3s) @project(day-2022-03-30)
   - [x] exc @started(22-03-30 12:13) @done(22-03-30 12:35) @lasted(22m24s) @project(day-2022-03-30.sport)
   - [x] ccxt - balance order 2 @done(22-03-31 09:03) @project(day-2022-03-30.arb)
