@@ -1,17 +1,31 @@
 day-2022-04-04:
-  - [ ] 블로그 정리 및 내일 할일 정리 2022-04-04
+  - [x] 블로그 정리 및 내일 할일 정리 2022-04-04 @started(22-04-05 08:13) @done(22-04-05 08:17) @lasted(4m8s)
   arb:
-    - [ ] ccxt - balance order 4 apply review
-    - [ ] sendOrder 필요한 필드 정리 (market limit 등)
+    ✘ [ ] ccxt - balance order 4 apply review @cancelled(22-04-05 08:16)
+    ✘ [ ] sendOrder 필요한 필드 정리 (market limit 등) @cancelled(22-04-05 08:16)
   job:
     - [x] GOP-15886 5 apply review @started(22-04-04 13:23) @done(22-04-04 15:30) @lasted(2h7m44s)
     - [x] JB send firewall open request @done(22-04-04 15:30)
     - [x] ad - test - ns @started(22-04-04 15:48) @done(22-04-04 17:04) @lasted(1h16m33s)
     - [x] GOP-15968 1 (internal wallet check logic) @started(22-04-04 17:10) @done(22-04-04 18:45) @lasted(1h35m50s)
-    - [ ] ad - test - pinc
+    ✘ [ ] ad - test - pinc @cancelled(22-04-05 08:16)
     - [x] apply token identification 6 @started(22-04-04 18:45) @done(22-04-04 21:22) @lasted(2h37m2s)
+    ✘ [ ] sec - send firefox open request @cancelled(22-04-05 08:16)
+    ✘ [ ] GOP-13436 bug track 13 @cancelled(22-04-05 08:16)
+
+day-2022-04-05:
+  - [ ] 블로그 정리 및 내일 할일 정리 2022-04-05
+  arb:
+    - [ ] ccxt - balance order 4 apply review
+    - [ ] sendOrder 필요한 필드 정리 (market limit 등)
+  job:
+    - [ ] study - dcad 2 ch
+    - [ ] GOP-15886 5 apply review
+    - [ ] ad - test - ns 2
+    - [ ] GOP-15968 2 (internal wallet check logic)
+    - [ ] ad - test - pinc
+    - [ ] apply token identification 7
     - [ ] sec - send firefox open request
-    - [ ] GOP-13436 bug track 13
 
 arb:
   todos:
