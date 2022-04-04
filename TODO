@@ -1,10 +1,10 @@
 day-2022-04-01:
-  - [ ] 블로그 정리 및 내일 할일 정리 2022-04-01
+  - [x] 블로그 정리 및 내일 할일 정리 2022-04-01 @started(22-04-04 13:19) @done(22-04-04 13:22) @lasted(3m18s)
   sport:
-    - [ ] exc
+    ✘ [ ] exc @cancelled(22-04-04 13:20)
   arb:
-    - [ ] ccxt - balance order 4 apply review
-    - [ ] sendOrder 필요한 필드 정리 (market limit 등)
+    ✘ [ ] ccxt - balance order 4 apply review @cancelled(22-04-04 13:20)
+    ✘ [ ] sendOrder 필요한 필드 정리 (market limit 등) @cancelled(22-04-04 13:20)
   job:
     - [x] GOP-15886 2 @started(22-04-01 08:08) @done(22-04-01 12:11) @lasted(4h3m45s)
     - [x] GOP-15886 3 @started(22-04-01 13:19) @done(22-04-01 13:37) @lasted(18m56s)
@@ -17,12 +17,28 @@ day-2022-04-01:
     - [ ] ws test
     - [ ] rdp post migration to local using secret
     - [ ] local proto compile js setup
-    
+
+day-2022-04-04:
+  - [ ] 블로그 정리 및 내일 할일 정리 2022-04-04
+  arb:
+    - [ ] ccxt - balance order 4 apply review
+    - [ ] sendOrder 필요한 필드 정리 (market limit 등)
+  job:
+    - [ ] GOP-15886 5 apply review
+    - [ ] JB send firewall open request
+    - [ ] apply token identification 6
+    - [ ] sec - send firefox open request
+    - [ ] ad - test
+    - [ ] GOP-13436 bug track 13
+
 arb:
   todos:
     - [ ] sendOrder 필요한 필드 정리 (market limit 등)
 
 job:
+  - [ ] ws test
+  - [ ] rdp post migration to local using secret
+  - [ ] local proto compile js setup
   study:
     - [ ] 의존/구조 분석, 공부하기
 
