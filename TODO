@@ -1,34 +1,16 @@
-day-2022-04-01:
-  - [x] 블로그 정리 및 내일 할일 정리 2022-04-01 @started(22-04-04 13:19) @done(22-04-04 13:22) @lasted(3m18s)
-  sport:
-    ✘ [ ] exc @cancelled(22-04-04 13:20)
-  arb:
-    ✘ [ ] ccxt - balance order 4 apply review @cancelled(22-04-04 13:20)
-    ✘ [ ] sendOrder 필요한 필드 정리 (market limit 등) @cancelled(22-04-04 13:20)
-  job:
-    - [x] GOP-15886 2 @started(22-04-01 08:08) @done(22-04-01 12:11) @lasted(4h3m45s)
-    - [x] GOP-15886 3 @started(22-04-01 13:19) @done(22-04-01 13:37) @lasted(18m56s)
-    - [x] retrospective @started(22-04-01 13:38) @done(22-04-01 14:21) @lasted(43m21s)
-    - [x] GOP-15886 4 @started(22-04-01 14:21) @done(22-04-01 15:28) @lasted(1h7m13s)
-    - [x] apply token identification 5 @started(22-04-01 15:48) @done(22-04-01 16:05) @lasted(17m7s)
-    ✘ [ ] GOP-15886 5 apply review @started(22-04-01 16:35) @cancelled(22-04-01 17:04) @wasted(29m46s)
-    - [ ] ad
-    - [ ] GOP-13436 bug track 13
-    - [ ] ws test
-    - [ ] rdp post migration to local using secret
-    - [ ] local proto compile js setup
-
 day-2022-04-04:
   - [ ] 블로그 정리 및 내일 할일 정리 2022-04-04
   arb:
     - [ ] ccxt - balance order 4 apply review
     - [ ] sendOrder 필요한 필드 정리 (market limit 등)
   job:
-    - [ ] GOP-15886 5 apply review
-    - [ ] JB send firewall open request
-    - [ ] apply token identification 6
+    - [x] GOP-15886 5 apply review @started(22-04-04 13:23) @done(22-04-04 15:30) @lasted(2h7m44s)
+    - [x] JB send firewall open request @done(22-04-04 15:30)
+    - [x] ad - test - ns @started(22-04-04 15:48) @done(22-04-04 17:04) @lasted(1h16m33s)
+    - [x] GOP-15968 1 (internal wallet check logic) @started(22-04-04 17:10) @done(22-04-04 18:45) @lasted(1h35m50s)
+    - [ ] ad - test - pinc
+    - [x] apply token identification 6 @started(22-04-04 18:45) @done(22-04-04 21:22) @lasted(2h37m2s)
     - [ ] sec - send firefox open request
-    - [ ] ad - test
     - [ ] GOP-13436 bug track 13
 
 arb:
@@ -113,6 +95,16 @@ longterm:
   - [ ] 영어 공부하기
 
 Archive:
+  - [x] 블로그 정리 및 내일 할일 정리 2022-04-01 @started(22-04-04 13:19) @done(22-04-04 13:22) @lasted(3m18s) @project(day-2022-04-01)
+  ✘ [ ] exc @cancelled(22-04-04 13:20) @project(day-2022-04-01.sport)
+  ✘ [ ] ccxt - balance order 4 apply review @cancelled(22-04-04 13:20) @project(day-2022-04-01.arb)
+  ✘ [ ] sendOrder 필요한 필드 정리 (market limit 등) @cancelled(22-04-04 13:20) @project(day-2022-04-01.arb)
+  - [x] GOP-15886 2 @started(22-04-01 08:08) @done(22-04-01 12:11) @lasted(4h3m45s) @project(day-2022-04-01.job)
+  - [x] GOP-15886 3 @started(22-04-01 13:19) @done(22-04-01 13:37) @lasted(18m56s) @project(day-2022-04-01.job)
+  - [x] retrospective @started(22-04-01 13:38) @done(22-04-01 14:21) @lasted(43m21s) @project(day-2022-04-01.job)
+  - [x] GOP-15886 4 @started(22-04-01 14:21) @done(22-04-01 15:28) @lasted(1h7m13s) @project(day-2022-04-01.job)
+  - [x] apply token identification 5 @started(22-04-01 15:48) @done(22-04-01 16:05) @lasted(17m7s) @project(day-2022-04-01.job)
+  ✘ [ ] GOP-15886 5 apply review @started(22-04-01 16:35) @cancelled(22-04-01 17:04) @wasted(29m46s) @project(day-2022-04-01.job)
   - [x] 블로그 정리 및 내일 할일 정리 2022-03-31 @started(22-03-31 23:53) @done(22-04-01 00:00) @lasted(7m10s) @project(day-2022-03-31)
   ✘ [ ] exc @cancelled(22-03-31 23:53) @project(day-2022-03-31.sport)
   - [x] ccxt - balance order 3 @started(22-03-31 23:20) @done(22-03-31 23:53) @lasted(33m8s) @project(day-2022-03-31.arb)
