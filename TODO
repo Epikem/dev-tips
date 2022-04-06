@@ -1,38 +1,34 @@
-day-2022-04-05:
-  - [x] 블로그 정리 및 내일 할일 정리 2022-04-05 @started(22-04-06 09:23) @done(22-04-06 09:24) @lasted(1m44s)
-  arb:
-    ✘ [ ] ccxt - balance order 4 apply review @cancelled(22-04-06 09:23)
-    ✘ [ ] sendOrder 필요한 필드 정리 (market limit 등) @cancelled(22-04-06 09:23)
-  job:
-    - [x] jb const update 1 @started(22-04-05 08:17) @done(22-04-05 10:30) @lasted(2h13m43s)
-    - [x] GOP-15968 2 (internal wallet check logic) @started(22-04-05 10:30) @done(22-04-05 11:28) @lasted(58m6s)
-    - [x] study - dcad 2 ch @started(22-04-05 12:01) @done(22-04-05 13:01) @lasted(1h43s)
-    - [x] daily @started(22-04-05 13:02) @done(22-04-05 13:13) @lasted(11m14s)
-    - [x] apply token identification 7 @started(22-04-05 13:18) @done(22-04-05 17:12) @lasted(3h54m56s)
-    - [x] apply token identification 8 @started(22-04-05 20:19) @done(22-04-05 23:41) @lasted(3h22m48s)
-    ✘ [ ] GOP-15968 3 (wallet add not internal bug) @cancelled(22-04-06 09:23)
-    ✘ [ ] GOP-15886 5 apply review @cancelled(22-04-06 09:23)
-    ✘ [ ] ad - test - ns 2 @cancelled(22-04-06 09:23)
-    ✘ [ ] ad - test - pinc @cancelled(22-04-06 09:23)
-    ✘ [ ] sec - send firefox open request @cancelled(22-04-06 09:23)
-
 day-2022-04-06:
-  - [ ] 블로그 정리 및 내일 할일 정리 2022-04-06
+  - [x] 블로그 정리 및 내일 할일 정리 2022-04-06 @started(22-04-07 07:19) @done(22-04-07 07:21) @lasted(2m34s)
   arb:
-    - [ ] ccxt - balance order 4 apply review
-    - [ ] sendOrder 필요한 필드 정리 (market limit 등)
+    ✘ [ ] ccxt - balance order 4 apply review @cancelled(22-04-07 07:22)
+    ✘ [ ] sendOrder 필요한 필드 정리 (market limit 등) @cancelled(22-04-07 07:22)
   job:
-    - [ ] GOP-15968 3 (wallet add not internal bug)
-    - [ ] GOP-15886 5 apply review
-    - [ ] ad - test - ns 2
-    - [ ] ad - test - pinc
-    - [ ] sec - send firefox open request
+    - [x] GOP-15968 3 (wallet add not internal bug) @started(22-04-06 09:44) @done(22-04-06 13:15) @lasted(3h31m23s)
+    - [x] apply token identification 9 @started(22-04-06 13:15) @done(22-04-06 20:15) @lasted(7h)
+    - [x] GOP-15886 5 apply review @done(22-04-07 07:19)
+    ✘ [ ] ad - test - ns 2 @cancelled(22-04-07 07:22)
+    ✘ [ ] ad - test - pinc @cancelled(22-04-07 07:22)
+    ✘ [ ] sec - send firefox open request @cancelled(22-04-07 07:22)
+
+day-2022-04-07:
+  - [ ] 블로그 정리 및 내일 할일 정리 2022-04-07
+  job:
+    - [ ] jb add elb health check handler
+    - [ ] apply token identification 10
 
 arb:
   todos:
+    - [ ] ccxt - use async
+    - [ ] ccxt - balance order 4 apply review
     - [ ] sendOrder 필요한 필드 정리 (market limit 등)
 
 job:
+  - [ ] GOP-15968 3 (wallet add not internal bug)
+  - [ ] GOP-15886 5 apply review
+  - [ ] ad - test - ns 2
+  - [ ] ad - test - pinc
+  - [ ] sec - send firefox open request
   - [ ] ws test
   - [ ] rdp post migration to local using secret
   - [ ] local proto compile js setup
@@ -110,6 +106,20 @@ longterm:
   - [ ] 영어 공부하기
 
 Archive:
+  - [x] 블로그 정리 및 내일 할일 정리 2022-04-05 @started(22-04-06 09:23) @done(22-04-06 09:24) @lasted(1m44s) @project(day-2022-04-05)
+  ✘ [ ] ccxt - balance order 4 apply review @cancelled(22-04-06 09:23) @project(day-2022-04-05.arb)
+  ✘ [ ] sendOrder 필요한 필드 정리 (market limit 등) @cancelled(22-04-06 09:23) @project(day-2022-04-05.arb)
+  - [x] jb const update 1 @started(22-04-05 08:17) @done(22-04-05 10:30) @lasted(2h13m43s) @project(day-2022-04-05.job)
+  - [x] GOP-15968 2 (internal wallet check logic) @started(22-04-05 10:30) @done(22-04-05 11:28) @lasted(58m6s) @project(day-2022-04-05.job)
+  - [x] study - dcad 2 ch @started(22-04-05 12:01) @done(22-04-05 13:01) @lasted(1h43s) @project(day-2022-04-05.job)
+  - [x] daily @started(22-04-05 13:02) @done(22-04-05 13:13) @lasted(11m14s) @project(day-2022-04-05.job)
+  - [x] apply token identification 7 @started(22-04-05 13:18) @done(22-04-05 17:12) @lasted(3h54m56s) @project(day-2022-04-05.job)
+  - [x] apply token identification 8 @started(22-04-05 20:19) @done(22-04-05 23:41) @lasted(3h22m48s) @project(day-2022-04-05.job)
+  ✘ [ ] GOP-15968 3 (wallet add not internal bug) @cancelled(22-04-06 09:23) @project(day-2022-04-05.job)
+  ✘ [ ] GOP-15886 5 apply review @cancelled(22-04-06 09:23) @project(day-2022-04-05.job)
+  ✘ [ ] ad - test - ns 2 @cancelled(22-04-06 09:23) @project(day-2022-04-05.job)
+  ✘ [ ] ad - test - pinc @cancelled(22-04-06 09:23) @project(day-2022-04-05.job)
+  ✘ [ ] sec - send firefox open request @cancelled(22-04-06 09:23) @project(day-2022-04-05.job)
   - [x] 블로그 정리 및 내일 할일 정리 2022-04-04 @started(22-04-05 08:13) @done(22-04-05 08:17) @lasted(4m8s) @project(day-2022-04-04)
   ✘ [ ] ccxt - balance order 4 apply review @cancelled(22-04-05 08:16) @project(day-2022-04-04.arb)
   ✘ [ ] sendOrder 필요한 필드 정리 (market limit 등) @cancelled(22-04-05 08:16) @project(day-2022-04-04.arb)
