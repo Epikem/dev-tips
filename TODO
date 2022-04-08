@@ -1,15 +1,15 @@
-day-2022-04-07:
-  - [x] 블로그 정리 및 내일 할일 정리 2022-04-07 @started(22-04-08 08:07) @done(22-04-08 08:17) @lasted(10m37s)
-  job:
-    - [x] jb add elb health check handler @started(22-04-07 07:23) @done(22-04-07 09:45) @lasted(2h22m34s)
-    - [x] apply token identification 10 @started(22-04-07 10:09) @done(22-04-07 14:16) @lasted(4h7m46s)
-    - [x] jb add elb health check handler 2 @started(22-04-07 14:16) @done(22-04-07 14:47) @lasted(31m33s)
-    - [x] apply token identification 10 @started(22-04-07 14:47) @done(22-04-08 00:07) @lasted(9h20m10s)
-
 day-2022-04-08:
   - [ ] 블로그 정리 및 내일 할일 정리 2022-04-08
+  sport:
+    - [x] exc 15 12 8 @started(22-04-08 12:32) @done(22-04-08 12:37) @lasted(5m53s)
   job:
-    - [ ] apply token identification 11
+    - [x] apply token identification 11 @started(22-04-08 08:26) @done(22-04-08 11:59) @lasted(3h33m6s)
+    - [x] fix polling @started(22-04-08 13:29) @done(22-04-08 13:39) @lasted(10m59s)
+    ✘ [ ] jb handle network msg @started(22-04-08 13:40) @cancelled(22-04-08 14:55) @wasted(1h15m41s)
+    - [x] jb handle network msg @started(22-04-08 14:56) @done(22-04-08 18:03) @lasted(3h7m50s)
+    - [x] add request polling @done(22-04-08 18:04)
+    - [ ] apply token identification 12 review
+    - [ ] remove whitelist 
     
 arb:
   todos:
@@ -100,6 +100,11 @@ longterm:
   - [ ] 영어 공부하기
 
 Archive:
+  - [x] 블로그 정리 및 내일 할일 정리 2022-04-07 @started(22-04-08 08:07) @done(22-04-08 08:17) @lasted(10m37s) @project(day-2022-04-07)
+  - [x] jb add elb health check handler @started(22-04-07 07:23) @done(22-04-07 09:45) @lasted(2h22m34s) @project(day-2022-04-07.job)
+  - [x] apply token identification 10 @started(22-04-07 10:09) @done(22-04-07 14:16) @lasted(4h7m46s) @project(day-2022-04-07.job)
+  - [x] jb add elb health check handler 2 @started(22-04-07 14:16) @done(22-04-07 14:47) @lasted(31m33s) @project(day-2022-04-07.job)
+  - [x] apply token identification 10 @started(22-04-07 14:47) @done(22-04-08 00:07) @lasted(9h20m10s) @project(day-2022-04-07.job)
   - [x] 블로그 정리 및 내일 할일 정리 2022-04-06 @started(22-04-07 07:19) @done(22-04-07 07:21) @lasted(2m34s) @project(day-2022-04-06)
   ✘ [ ] ccxt - balance order 4 apply review @cancelled(22-04-07 07:22) @project(day-2022-04-06.arb)
   ✘ [ ] sendOrder 필요한 필드 정리 (market limit 등) @cancelled(22-04-07 07:22) @project(day-2022-04-06.arb)
