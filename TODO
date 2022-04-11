@@ -1,5 +1,5 @@
 day-2022-04-08:
-  - [ ] 블로그 정리 및 내일 할일 정리 2022-04-08
+  - [x] 블로그 정리 및 내일 할일 정리 2022-04-08 @done(22-04-11 12:27)
   sport:
     - [x] exc 15 12 8 @started(22-04-08 12:32) @done(22-04-08 12:37) @lasted(5m53s)
   job:
@@ -8,9 +8,19 @@ day-2022-04-08:
     ✘ [ ] jb handle network msg @started(22-04-08 13:40) @cancelled(22-04-08 14:55) @wasted(1h15m41s)
     - [x] jb handle network msg @started(22-04-08 14:56) @done(22-04-08 18:03) @lasted(3h7m50s)
     - [x] add request polling @done(22-04-08 18:04)
-    - [ ] apply token identification 12 review
-    - [ ] remove whitelist 
-    
+    ✘ [ ] apply token identification 12 review @cancelled(22-04-11 12:27)
+    ✘ [ ] remove whitelist @cancelled(22-04-11 12:27)
+
+day-2022-04-11:
+  - [ ] 블로그 정리 및 내일 할일 정리 2022-04-11
+  study:
+    - [ ] leetcode solve
+    - [ ] read clean architecture
+  job:
+    - [ ] do paperwork
+    - [ ] apply token identification 12 review 1
+    - [ ] remove whitelist 1
+
 arb:
   todos:
     - [ ] ccxt - use async
