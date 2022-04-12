@@ -1,24 +1,17 @@
-day-2022-04-11:
-  - [x] 블로그 정리 및 내일 할일 정리 2022-04-11 @started(22-04-11 23:51) @done(22-04-11 23:53) @lasted(2m13s)
-  study:
-    - [x] leetcode solve @done(22-04-11 22:44)
-    ✘ [ ] read clean architecture @cancelled(22-04-11 23:52)
-  job:
-    - [x] remove whitelist 1 @started(22-04-11 12:38) @done(22-04-11 09:39) @lasted(3h 1m 7s)
-    - [x] do paperwork @started(22-04-11 15:49) @done(22-04-11 16:54) @lasted(1h5m24s)
-    - [x] apply token identification 12 review 1 @started(22-04-11 14:36) @done(22-04-11 15:48) @lasted(1h12m40s)
-    - [x] refactor jb 2 @started(22-04-11 16:54) @done(22-04-11 17:53) @lasted(59m43s)
-    - [x] remove whitelist 2 @started(22-04-11 13:32) @done(22-04-11 14:36) @lasted(1h4m11s)
-    - [x] refactor jb 3 @started(22-04-11 23:15) @done(22-04-11 23:51) @lasted(36m12s)
-
 day-2022-04-12:
   - [ ] 블로그 정리 및 내일 할일 정리 2022-04-12
   study:
     - [ ] read clean architecture
   job:
+    - [x] notify remove whitelist done @started(22-04-12 09:07) @done(22-04-12 09:13) @lasted(6m8s)
+    - [x] handle review request @started(22-04-12 09:25) @done(22-04-12 09:47) @lasted(22m37s)
+    - [x] fu ad i9n @started(22-04-12 10:29) @done(22-04-12 10:44) @lasted(15m22s)
+    - [x] refactor jb 4 @started(22-04-12 10:44) @done(22-04-12 13:22) @lasted(2h38m53s)
+    - [x] jb handle edd error case @started(22-04-12 13:23) @done(22-04-12 14:44) @lasted(1h21m33s)
+    - [x] GOP-16107 @started(22-04-12 14:44) @done(22-04-12 17:19) @lasted(2h35m43s)
+    - [x] apply review D10153 1 @started(22-04-12 17:19) @done(22-04-12 19:20) @lasted(2h1m47s)
+    - [ ] test ad i9n
     - [ ] reminder token identification 12 review 1
-    - [ ] notify remove whitelist done
-    - [ ] refactor jb 4
 
 arb:
   todos:
@@ -109,6 +102,15 @@ longterm:
   - [ ] 영어 공부하기
 
 Archive:
+  - [x] 블로그 정리 및 내일 할일 정리 2022-04-11 @started(22-04-11 23:51) @done(22-04-11 23:53) @lasted(2m13s) @project(day-2022-04-11)
+  - [x] leetcode solve @done(22-04-11 22:44) @project(day-2022-04-11.study)
+  ✘ [ ] read clean architecture @cancelled(22-04-11 23:52) @project(day-2022-04-11.study)
+  - [x] remove whitelist 1 @started(22-04-11 12:38) @done(22-04-11 09:39) @lasted(3h 1m 7s) @project(day-2022-04-11.job)
+  - [x] do paperwork @started(22-04-11 15:49) @done(22-04-11 16:54) @lasted(1h5m24s) @project(day-2022-04-11.job)
+  - [x] apply token identification 12 review 1 @started(22-04-11 14:36) @done(22-04-11 15:48) @lasted(1h12m40s) @project(day-2022-04-11.job)
+  - [x] refactor jb 2 @started(22-04-11 16:54) @done(22-04-11 17:53) @lasted(59m43s) @project(day-2022-04-11.job)
+  - [x] remove whitelist 2 @started(22-04-11 13:32) @done(22-04-11 14:36) @lasted(1h4m11s) @project(day-2022-04-11.job)
+  - [x] refactor jb 3 @started(22-04-11 23:15) @done(22-04-11 23:51) @lasted(36m12s) @project(day-2022-04-11.job)
   - [x] 블로그 정리 및 내일 할일 정리 2022-04-08 @done(22-04-11 12:27) @project(day-2022-04-08)
   - [x] exc 15 12 8 @started(22-04-08 12:32) @done(22-04-08 12:37) @lasted(5m53s) @project(day-2022-04-08.sport)
   - [x] apply token identification 11 @started(22-04-08 08:26) @done(22-04-08 11:59) @lasted(3h33m6s) @project(day-2022-04-08.job)
