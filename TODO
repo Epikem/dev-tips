@@ -1,7 +1,7 @@
 day-2022-04-12:
-  - [ ] 블로그 정리 및 내일 할일 정리 2022-04-12
+  - [x] 블로그 정리 및 내일 할일 정리 2022-04-12 @started(22-04-12 23:15) @done(22-04-12 23:21) @lasted(6m37s)
   study:
-    - [ ] read clean architecture
+    - [x] read clean architecture @started(22-04-12 22:49) @done(22-04-12 23:15) @lasted(26m40s)
   job:
     - [x] notify remove whitelist done @started(22-04-12 09:07) @done(22-04-12 09:13) @lasted(6m8s)
     - [x] handle review request @started(22-04-12 09:25) @done(22-04-12 09:47) @lasted(22m37s)
@@ -10,8 +10,18 @@ day-2022-04-12:
     - [x] jb handle edd error case @started(22-04-12 13:23) @done(22-04-12 14:44) @lasted(1h21m33s)
     - [x] GOP-16107 @started(22-04-12 14:44) @done(22-04-12 17:19) @lasted(2h35m43s)
     - [x] apply review D10153 1 @started(22-04-12 17:19) @done(22-04-12 19:20) @lasted(2h1m47s)
-    - [ ] test ad i9n
-    - [ ] reminder token identification 12 review 1
+    - [x] test ad i9n @started(22-04-12 22:27) @done(22-04-12 22:49) @lasted(22m29s)
+    - [x] reminder token identification 12 review 1 @done(22-04-12 22:49)
+
+day-2022-04-13:
+  - [ ] 블로그 정리 및 내일 할일 정리 2022-04-13
+  study:
+    - [ ] do study
+  job:
+    - [ ] apply jb task reviews
+    - [ ] discuss with mark about crypto module task
+    - [ ] add verify crypto address lambda
+    - [ ] fu ad i9n 2
 
 arb:
   todos:
