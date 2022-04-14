@@ -1,25 +1,30 @@
-day-2022-04-13:
-  - [x] 블로그 정리 및 내일 할일 정리 2022-04-13 @started(22-04-14 09:40) @done(22-04-14 09:42) @lasted(2m3s)
-  study:
-    - [x] do study @started(22-04-13 22:03) @done(22-04-13 23:03) @lasted(1h)
-  job:
-    - [x] apply jb task reviews @done(22-04-14 09:41)
-    - [x] discuss with mark about crypto module task @done(22-04-14 09:41)
-    ✘ [ ] add verify crypto address lambda @cancelled(22-04-14 09:41)
-    ✘ [ ] fu ad i9n 2 @cancelled(22-04-14 09:41)
-
 day-2022-04-14:
-  - [ ] 블로그 정리 및 내일 할일 정리 2022-04-14
+  - [x] 블로그 정리 및 내일 할일 정리 2022-04-14 @started(22-04-15 07:39) @done(22-04-15 07:45) @lasted(6m49s)
   job:
-    - [ ] do more rest task
+    - [x] do rest jb task @started(22-04-14 09:46) @done(22-04-14 12:22) @lasted(2h36m25s)
+    - [x] planning and scrum lec @started(22-04-14 13:33) @done(22-04-14 15:36) @lasted(2h3m13s)
+    - [x] fix jb diff @started(22-04-14 15:51) @done(22-04-14 18:32) @lasted(2h41m33s)
+    ✘ [ ] apply jb task reviews @cancelled(22-04-15 07:45)
+    ✘ [ ] add verify crypto address lambda @cancelled(22-04-15 07:45)
+    ✘ [ ] fu ad i9n 2 @cancelled(22-04-15 07:45)
+  arb:
+    ✘ [ ] do some work @cancelled(22-04-15 07:45)
+  study:
+    ✘ [ ] study clean architecture on rxjs? @cancelled(22-04-15 07:45)
+    ✘ [ ] prepare next study @cancelled(22-04-15 07:45)
+
+day-2022-04-15:
+  - [ ] 블로그 정리 및 내일 할일 정리 2022-04-15
+  job:
+    - [ ] jb conn reset task
     - [ ] apply jb task reviews
-    - [ ] add verify crypto address lambda
     - [ ] fu ad i9n 2
   arb:
     - [ ] do some work
-  study:
-    - [ ] study clean architecture on rxjs?
-    - [ ] prepare next study
+
+study:
+  - [ ] study clean architecture on rxjs?
+  - [ ] prepare next study
 
 arb:
   todos:
@@ -28,6 +33,7 @@ arb:
     - [ ] sendOrder 필요한 필드 정리 (market limit 등)
 
 job:
+  - [ ] add verify crypto address lambda
   - [ ] GOP-15968 3 (wallet add not internal bug)
   - [ ] GOP-15886 5 apply review
   - [ ] ad - test - ns 2
@@ -110,6 +116,12 @@ longterm:
   - [ ] 영어 공부하기
 
 Archive:
+  - [x] 블로그 정리 및 내일 할일 정리 2022-04-13 @started(22-04-14 09:40) @done(22-04-14 09:42) @lasted(2m3s) @project(day-2022-04-13)
+  - [x] do study @started(22-04-13 22:03) @done(22-04-13 23:03) @lasted(1h) @project(day-2022-04-13.study)
+  - [x] apply jb task reviews @done(22-04-14 09:41) @project(day-2022-04-13.job)
+  - [x] discuss with mark about crypto module task @done(22-04-14 09:41) @project(day-2022-04-13.job)
+  ✘ [ ] add verify crypto address lambda @cancelled(22-04-14 09:41) @project(day-2022-04-13.job)
+  ✘ [ ] fu ad i9n 2 @cancelled(22-04-14 09:41) @project(day-2022-04-13.job)
   - [x] 블로그 정리 및 내일 할일 정리 2022-04-12 @started(22-04-12 23:15) @done(22-04-12 23:21) @lasted(6m37s) @project(day-2022-04-12)
   - [x] read clean architecture @started(22-04-12 22:49) @done(22-04-12 23:15) @lasted(26m40s) @project(day-2022-04-12.study)
   - [x] notify remove whitelist done @started(22-04-12 09:07) @done(22-04-12 09:13) @lasted(6m8s) @project(day-2022-04-12.job)
