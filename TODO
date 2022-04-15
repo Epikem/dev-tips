@@ -1,22 +1,8 @@
-day-2022-04-14:
-  - [x] 블로그 정리 및 내일 할일 정리 2022-04-14 @started(22-04-15 07:39) @done(22-04-15 07:45) @lasted(6m49s)
-  job:
-    - [x] do rest jb task @started(22-04-14 09:46) @done(22-04-14 12:22) @lasted(2h36m25s)
-    - [x] planning and scrum lec @started(22-04-14 13:33) @done(22-04-14 15:36) @lasted(2h3m13s)
-    - [x] fix jb diff @started(22-04-14 15:51) @done(22-04-14 18:32) @lasted(2h41m33s)
-    ✘ [ ] apply jb task reviews @cancelled(22-04-15 07:45)
-    ✘ [ ] add verify crypto address lambda @cancelled(22-04-15 07:45)
-    ✘ [ ] fu ad i9n 2 @cancelled(22-04-15 07:45)
-  arb:
-    ✘ [ ] do some work @cancelled(22-04-15 07:45)
-  study:
-    ✘ [ ] study clean architecture on rxjs? @cancelled(22-04-15 07:45)
-    ✘ [ ] prepare next study @cancelled(22-04-15 07:45)
-
 day-2022-04-15:
   - [ ] 블로그 정리 및 내일 할일 정리 2022-04-15
   job:
-    - [ ] jb conn reset task
+    - [x] jb conn reset task @started(22-04-15 07:48) @done(22-04-15 08:41) @lasted(53m39s)
+    - [x] 회의 @started(22-04-15 10:36) @done(22-04-15 11:45) @lasted(1h9m7s)
     - [ ] apply jb task reviews
     - [ ] fu ad i9n 2
   arb:
@@ -116,6 +102,16 @@ longterm:
   - [ ] 영어 공부하기
 
 Archive:
+  - [x] 블로그 정리 및 내일 할일 정리 2022-04-14 @started(22-04-15 07:39) @done(22-04-15 07:45) @lasted(6m49s) @project(day-2022-04-14)
+  - [x] do rest jb task @started(22-04-14 09:46) @done(22-04-14 12:22) @lasted(2h36m25s) @project(day-2022-04-14.job)
+  - [x] planning and scrum lec @started(22-04-14 13:33) @done(22-04-14 15:36) @lasted(2h3m13s) @project(day-2022-04-14.job)
+  - [x] fix jb diff @started(22-04-14 15:51) @done(22-04-14 18:32) @lasted(2h41m33s) @project(day-2022-04-14.job)
+  ✘ [ ] apply jb task reviews @cancelled(22-04-15 07:45) @project(day-2022-04-14.job)
+  ✘ [ ] add verify crypto address lambda @cancelled(22-04-15 07:45) @project(day-2022-04-14.job)
+  ✘ [ ] fu ad i9n 2 @cancelled(22-04-15 07:45) @project(day-2022-04-14.job)
+  ✘ [ ] do some work @cancelled(22-04-15 07:45) @project(day-2022-04-14.arb)
+  ✘ [ ] study clean architecture on rxjs? @cancelled(22-04-15 07:45) @project(day-2022-04-14.study)
+  ✘ [ ] prepare next study @cancelled(22-04-15 07:45) @project(day-2022-04-14.study)
   - [x] 블로그 정리 및 내일 할일 정리 2022-04-13 @started(22-04-14 09:40) @done(22-04-14 09:42) @lasted(2m3s) @project(day-2022-04-13)
   - [x] do study @started(22-04-13 22:03) @done(22-04-13 23:03) @lasted(1h) @project(day-2022-04-13.study)
   - [x] apply jb task reviews @done(22-04-14 09:41) @project(day-2022-04-13.job)
