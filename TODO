@@ -1,12 +1,17 @@
 day-2022-04-15:
-  - [ ] 블로그 정리 및 내일 할일 정리 2022-04-15
+  - [x] 블로그 정리 및 내일 할일 정리 2022-04-15 @started(22-04-16 00:58) @done(22-04-16 00:59) @lasted(1m19s)
   job:
     - [x] jb conn reset task @started(22-04-15 07:48) @done(22-04-15 08:41) @lasted(53m39s)
     - [x] 회의 @started(22-04-15 10:36) @done(22-04-15 11:45) @lasted(1h9m7s)
-    - [ ] apply jb task reviews
-    - [ ] fu ad i9n 2
+    ✘ [ ] apply jb task reviews @cancelled(22-04-16 00:58)
+    ✘ [ ] fu ad i9n 2 @cancelled(22-04-16 00:58)
   arb:
-    - [ ] do some work
+    - [x] do some work @done(22-04-16 00:58)
+
+day-2022-04-16:
+  - [ ] 블로그 정리 및 내일 할일 정리 2022-04-16
+  arb:
+    - [ ] ccxt send order/get balance
 
 study:
   - [ ] study clean architecture on rxjs?
