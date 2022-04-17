@@ -1,17 +1,16 @@
-day-2022-04-15:
-  - [x] 블로그 정리 및 내일 할일 정리 2022-04-15 @started(22-04-16 00:58) @done(22-04-16 00:59) @lasted(1m19s)
-  job:
-    - [x] jb conn reset task @started(22-04-15 07:48) @done(22-04-15 08:41) @lasted(53m39s)
-    - [x] 회의 @started(22-04-15 10:36) @done(22-04-15 11:45) @lasted(1h9m7s)
-    ✘ [ ] apply jb task reviews @cancelled(22-04-16 00:58)
-    ✘ [ ] fu ad i9n 2 @cancelled(22-04-16 00:58)
-  arb:
-    - [x] do some work @done(22-04-16 00:58)
-
 day-2022-04-16:
-  - [ ] 블로그 정리 및 내일 할일 정리 2022-04-16
+  ✘ [ ] 블로그 정리 및 내일 할일 정리 2022-04-16 @cancelled(22-04-17 06:30)
+  study:
+    ✘ [ ] leetcode ps @cancelled(22-04-17 06:30)
   arb:
-    - [ ] ccxt send order/get balance
+    - [x] ccxt send order/get balance @started(22-04-16 00:59) @done(22-04-16 03:02) @lasted(2h3m3s)
+
+day-2022-04-17:
+  - [ ] 블로그 정리 및 내일 할일 정리 2022-04-17
+  study:
+    - [x] leetcode ps @started(22-04-17 05:35) @done(22-04-17 06:24) @lasted(49m21s)
+  arb:
+    - [x] ccxt send order/get balance @started(22-04-17 06:30) @done(22-04-17 09:32) @lasted(3h2m55s)
 
 study:
   - [ ] study clean architecture on rxjs?
@@ -107,6 +106,12 @@ longterm:
   - [ ] 영어 공부하기
 
 Archive:
+  - [x] 블로그 정리 및 내일 할일 정리 2022-04-15 @started(22-04-16 00:58) @done(22-04-16 00:59) @lasted(1m19s) @project(day-2022-04-15)
+  - [x] jb conn reset task @started(22-04-15 07:48) @done(22-04-15 08:41) @lasted(53m39s) @project(day-2022-04-15.job)
+  - [x] 회의 @started(22-04-15 10:36) @done(22-04-15 11:45) @lasted(1h9m7s) @project(day-2022-04-15.job)
+  ✘ [ ] apply jb task reviews @cancelled(22-04-16 00:58) @project(day-2022-04-15.job)
+  ✘ [ ] fu ad i9n 2 @cancelled(22-04-16 00:58) @project(day-2022-04-15.job)
+  - [x] do some work @done(22-04-16 00:58) @project(day-2022-04-15.arb)
   - [x] 블로그 정리 및 내일 할일 정리 2022-04-14 @started(22-04-15 07:39) @done(22-04-15 07:45) @lasted(6m49s) @project(day-2022-04-14)
   - [x] do rest jb task @started(22-04-14 09:46) @done(22-04-14 12:22) @lasted(2h36m25s) @project(day-2022-04-14.job)
   - [x] planning and scrum lec @started(22-04-14 13:33) @done(22-04-14 15:36) @lasted(2h3m13s) @project(day-2022-04-14.job)
