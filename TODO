@@ -6,11 +6,24 @@ day-2022-04-16:
     - [x] ccxt send order/get balance @started(22-04-16 00:59) @done(22-04-16 03:02) @lasted(2h3m3s)
 
 day-2022-04-17:
-  - [ ] 블로그 정리 및 내일 할일 정리 2022-04-17
+  - [x] 블로그 정리 및 내일 할일 정리 2022-04-17 @started(22-04-18 09:08) @done(22-04-18 09:17) @lasted(9m18s)
   study:
     - [x] leetcode ps @started(22-04-17 05:35) @done(22-04-17 06:24) @lasted(49m21s)
   arb:
     - [x] ccxt send order/get balance @started(22-04-17 06:30) @done(22-04-17 09:32) @lasted(3h2m55s)
+
+
+day-2022-04-18:
+  - [ ] 블로그 정리 및 내일 할일 정리 2022-04-18
+  job:
+    - [ ] apply jb task review
+    - [ ] jb task
+    - [ ] ad task
+  study:
+    - [ ] read data study book
+  arb:
+    - [ ] ccxt send order/get balance
+    
 
 study:
   - [ ] study clean architecture on rxjs?
