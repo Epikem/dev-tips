@@ -1,16 +1,27 @@
 day-2022-04-18:
-  - [ ] 블로그 정리 및 내일 할일 정리 2022-04-18
+  - [x] 블로그 정리 및 내일 할일 정리 2022-04-18 @started(22-04-19 10:45) @done(22-04-19 10:55) @lasted(10m30s)
   sport:
     - [x] exc.15.12.8 @started(22-04-18 12:42) @done(22-04-18 12:49) @lasted(7m2s)
   job:
     - [x] apply jb task review @started(22-04-18 09:31) @done(22-04-18 11:17) @lasted(1h46m4s)
     - [x] jb task @started(22-04-18 12:49) @done(22-04-18 19:02) @lasted(6h13m52s)
+    ✘ [ ] ad task @cancelled(22-04-19 10:55)
+  study:
+    ✘ [ ] read data study book @cancelled(22-04-19 10:55)
+  arb:
+    ✘ [ ] ccxt send order/get balance @cancelled(22-04-19 10:55)
+
+day-2022-04-19:
+  - [ ] 블로그 정리 및 내일 할일 정리 2022-04-19
+  job:
+    - [ ] update jb tasks
+    - [ ] jb task
     - [ ] ad task
   study:
     - [ ] read data study book
   arb:
     - [ ] ccxt send order/get balance
-    
+
 study:
   - [ ] study clean architecture on rxjs?
   - [ ] prepare next study - clean architecture
