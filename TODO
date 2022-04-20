@@ -1,14 +1,23 @@
 day-2022-04-19:
-  - [ ] 블로그 정리 및 내일 할일 정리 2022-04-19
+  - [x] 블로그 정리 및 내일 할일 정리 2022-04-19 @started(22-04-20 12:45) @done(22-04-20 12:46) @lasted(1m52s)
   job:
     - [x] study @done(22-04-19 13:40)
     - [x] update jb tasks @started(22-04-19 13:44) @done(22-04-19 17:32) @lasted(3h48m57s)
     - [x] jb task - improve lambda error handling @started(22-04-19 17:33) @done(22-04-19 19:08) @lasted(1h35m43s)
-    - [ ] ad task
+    ✘ [ ] ad task @cancelled(22-04-20 12:46)
   study:
     - [x] read data study book @done(22-04-19 13:39)
   arb:
-    - [ ] ccxt send order/get balance
+    - [x] ccxt send order/get balance @done(22-04-20 12:45)
+
+day-2022-04-20:
+  - [ ] 블로그 정리 및 내일 할일 정리 2022-04-20
+  job:
+    - [ ] jb task - improve lambda error handling 2
+    - [ ] jb task - improve logs
+    - [ ] ad task
+  study:
+    - [ ] clean architecture & leet study
 
 study:
   - [ ] study clean architecture on rxjs?
@@ -17,7 +26,7 @@ study:
 
 arb:
   todos:
-    - [ ] ccxt - use async
+    - [ ] ccxt send order/get balance 2
     - [ ] ccxt - balance order 4 apply review
     - [ ] sendOrder 필요한 필드 정리 (market limit 등)
 
