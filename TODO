@@ -1,28 +1,14 @@
-day-2022-04-20:
-  - [x] 블로그 정리 및 내일 할일 정리 2022-04-20 @started(22-04-20 23:18) @done(22-04-20 23:19) @lasted(1m56s)
-  job:
-    - [x] jb task - improve lambda error handling 2 @started(22-04-20 15:47) @done(22-04-20 17:17) @lasted(1h30m46s)
-    - [x] jb task - add error cases @started(22-04-20 17:26) @done(22-04-20 17:57) @lasted(31m4s)
-    - [x] jb task - improve connection rebase @done(22-04-20 17:57)
-    - [x] jb task - improve logs @started(22-04-20 17:57) @done(22-04-20 21:40) @lasted(3h43m39s)
-    ✘ [ ] test jb tasks @cancelled(22-04-20 23:16)
-    ✘ [ ] ad task @cancelled(22-04-20 23:16)
-  arb:
-    - [x] ccxt send order/get balance 2 @started(22-04-20 21:40) @done(22-04-20 23:16) @lasted(1h36m10s)
-  study:
-    ✘ [ ] clean architecture & leet study @cancelled(22-04-20 21:39)
-
 day-2022-04-21:
   - [ ] 블로그 정리 및 내일 할일 정리 2022-04-21
   job:
-    - [ ] jb task - improve lambda error handling 3
-    - [ ] jb task - add error cases 2
-    - [ ] jb task - improve connection 2
-    - [ ] jb task - improve logs 2
-    - [ ] test jb tasks 2
+    - [x] jb task - improve logs 2 @started(22-04-21 09:19) @done(22-04-21 14:03) @lasted(4h44m19s)
+    - [x] jb task - improve lambda error handling 3 @started(22-04-21 14:23) @done(22-04-21 17:49) @lasted(3h26m31s)
+    - [x] jb task - add error cases 2 @done(22-04-21 12:55)
+    - [x] jb task - improve connection 2 @done(22-04-21 14:23)
+    - [x] jb task - improve logs 3 @started(22-04-21 18:37) @done(22-04-21 19:17) @lasted(40m30s)
+    - [x] test jb tasks 2 @done(22-04-21 19:17)
   arb:
     - [ ] ccxt send order/get balance 3
-
 
 study:
   - [ ] study clean architecture on rxjs?
@@ -118,6 +104,15 @@ longterm:
   - [ ] 영어 공부하기
 
 Archive:
+  - [x] 블로그 정리 및 내일 할일 정리 2022-04-20 @started(22-04-20 23:18) @done(22-04-20 23:19) @lasted(1m56s) @project(day-2022-04-20)
+  - [x] jb task - improve lambda error handling 2 @started(22-04-20 15:47) @done(22-04-20 17:17) @lasted(1h30m46s) @project(day-2022-04-20.job)
+  - [x] jb task - add error cases @started(22-04-20 17:26) @done(22-04-20 17:57) @lasted(31m4s) @project(day-2022-04-20.job)
+  - [x] jb task - improve connection rebase @done(22-04-20 17:57) @project(day-2022-04-20.job)
+  - [x] jb task - improve logs @started(22-04-20 17:57) @done(22-04-20 21:40) @lasted(3h43m39s) @project(day-2022-04-20.job)
+  ✘ [ ] test jb tasks @cancelled(22-04-20 23:16) @project(day-2022-04-20.job)
+  ✘ [ ] ad task @cancelled(22-04-20 23:16) @project(day-2022-04-20.job)
+  - [x] ccxt send order/get balance 2 @started(22-04-20 21:40) @done(22-04-20 23:16) @lasted(1h36m10s) @project(day-2022-04-20.arb)
+  ✘ [ ] clean architecture & leet study @cancelled(22-04-20 21:39) @project(day-2022-04-20.study)
   - [x] 블로그 정리 및 내일 할일 정리 2022-04-19 @started(22-04-20 12:45) @done(22-04-20 12:46) @lasted(1m52s) @project(day-2022-04-19)
   - [x] study @done(22-04-19 13:40) @project(day-2022-04-19.job)
   - [x] update jb tasks @started(22-04-19 13:44) @done(22-04-19 17:32) @lasted(3h48m57s) @project(day-2022-04-19.job)
