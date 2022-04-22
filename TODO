@@ -1,5 +1,5 @@
 day-2022-04-21:
-  - [ ] 블로그 정리 및 내일 할일 정리 2022-04-21
+  - [x] 블로그 정리 및 내일 할일 정리 2022-04-21 @started(22-04-22 10:40) @done(22-04-22 10:40) @lasted(57s)
   job:
     - [x] jb task - improve logs 2 @started(22-04-21 09:19) @done(22-04-21 14:03) @lasted(4h44m19s)
     - [x] jb task - improve lambda error handling 3 @started(22-04-21 14:23) @done(22-04-21 17:49) @lasted(3h26m31s)
@@ -8,7 +8,16 @@ day-2022-04-21:
     - [x] jb task - improve logs 3 @started(22-04-21 18:37) @done(22-04-21 19:17) @lasted(40m30s)
     - [x] test jb tasks 2 @done(22-04-21 19:17)
   arb:
+    ✘ [ ] ccxt send order/get balance 3 @cancelled(22-04-22 10:40)
+
+day-2022-04-21:
+  - [ ] 블로그 정리 및 내일 할일 정리 2022-04-21
+  job:
+    - [ ] apply reviews
+    - [ ] jb tasks
+  arb:
     - [ ] ccxt send order/get balance 3
+    
 
 study:
   - [ ] study clean architecture on rxjs?
