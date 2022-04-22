@@ -1,24 +1,12 @@
-day-2022-04-21:
-  - [x] 블로그 정리 및 내일 할일 정리 2022-04-21 @started(22-04-22 10:40) @done(22-04-22 10:40) @lasted(57s)
+day-2022-04-22:
+  - [ ] 블로그 정리 및 내일 할일 정리 2022-04-22
   job:
-    - [x] jb task - improve logs 2 @started(22-04-21 09:19) @done(22-04-21 14:03) @lasted(4h44m19s)
-    - [x] jb task - improve lambda error handling 3 @started(22-04-21 14:23) @done(22-04-21 17:49) @lasted(3h26m31s)
-    - [x] jb task - add error cases 2 @done(22-04-21 12:55)
-    - [x] jb task - improve connection 2 @done(22-04-21 14:23)
-    - [x] jb task - improve logs 3 @started(22-04-21 18:37) @done(22-04-21 19:17) @lasted(40m30s)
-    - [x] test jb tasks 2 @done(22-04-21 19:17)
-  arb:
-    ✘ [ ] ccxt send order/get balance 3 @cancelled(22-04-22 10:40)
-
-day-2022-04-21:
-  - [ ] 블로그 정리 및 내일 할일 정리 2022-04-21
-  job:
+    - [x] jb block deregister @started(22-04-22 10:59) @done(22-04-22 18:12) @lasted(7h13m49s)
     - [ ] apply reviews
     - [ ] jb tasks
   arb:
     - [ ] ccxt send order/get balance 3
     
-
 study:
   - [ ] study clean architecture on rxjs?
   - [ ] prepare next study - clean architecture
@@ -113,6 +101,14 @@ longterm:
   - [ ] 영어 공부하기
 
 Archive:
+  - [x] 블로그 정리 및 내일 할일 정리 2022-04-21 @started(22-04-22 10:40) @done(22-04-22 10:40) @lasted(57s) @project(day-2022-04-21)
+  - [x] jb task - improve logs 2 @started(22-04-21 09:19) @done(22-04-21 14:03) @lasted(4h44m19s) @project(day-2022-04-21.job)
+  - [x] jb task - improve lambda error handling 3 @started(22-04-21 14:23) @done(22-04-21 17:49) @lasted(3h26m31s) @project(day-2022-04-21.job)
+  - [x] jb task - add error cases 2 @done(22-04-21 12:55) @project(day-2022-04-21.job)
+  - [x] jb task - improve connection 2 @done(22-04-21 14:23) @project(day-2022-04-21.job)
+  - [x] jb task - improve logs 3 @started(22-04-21 18:37) @done(22-04-21 19:17) @lasted(40m30s) @project(day-2022-04-21.job)
+  - [x] test jb tasks 2 @done(22-04-21 19:17) @project(day-2022-04-21.job)
+  ✘ [ ] ccxt send order/get balance 3 @cancelled(22-04-22 10:40) @project(day-2022-04-21.arb)
   - [x] 블로그 정리 및 내일 할일 정리 2022-04-20 @started(22-04-20 23:18) @done(22-04-20 23:19) @lasted(1m56s) @project(day-2022-04-20)
   - [x] jb task - improve lambda error handling 2 @started(22-04-20 15:47) @done(22-04-20 17:17) @lasted(1h30m46s) @project(day-2022-04-20.job)
   - [x] jb task - add error cases @started(22-04-20 17:26) @done(22-04-20 17:57) @lasted(31m4s) @project(day-2022-04-20.job)
