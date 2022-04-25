@@ -1,16 +1,26 @@
 day-2022-04-22:
-  - [ ] 블로그 정리 및 내일 할일 정리 2022-04-22
+  - [x] 블로그 정리 및 내일 할일 정리 2022-04-22 @started(22-04-25 09:38) @done(22-04-25 09:39) @lasted(1m39s)
   job:
     - [x] jb block deregister @started(22-04-22 10:59) @done(22-04-22 18:12) @lasted(7h13m49s)
-    - [ ] apply reviews
+    ✘ [ ] apply reviews @cancelled(22-04-25 09:39)
+    ✘ [ ] jb tasks @cancelled(22-04-25 09:39)
+  arb:
+    ✘ [ ] ccxt send order/get balance 3 @cancelled(22-04-25 09:39)
+    
+day-2022-04-25:
+  - [ ] 블로그 정리 및 내일 할일 정리 2022-04-25
+  job:
+    - [ ] jb block deregister apply review
+    - [ ] reminder reviews
     - [ ] jb tasks
   arb:
     - [ ] ccxt send order/get balance 3
-    
+  study:
+    - [ ] prepare next study - data study
+
 study:
   - [ ] study clean architecture on rxjs?
   - [ ] prepare next study - clean architecture
-  - [ ] prepare next study - data study
 
 arb:
   todos:
