@@ -1,22 +1,22 @@
-day-2022-04-22:
-  - [x] 블로그 정리 및 내일 할일 정리 2022-04-22 @started(22-04-25 09:38) @done(22-04-25 09:39) @lasted(1m39s)
-  job:
-    - [x] jb block deregister @started(22-04-22 10:59) @done(22-04-22 18:12) @lasted(7h13m49s)
-    ✘ [ ] apply reviews @cancelled(22-04-25 09:39)
-    ✘ [ ] jb tasks @cancelled(22-04-25 09:39)
-  arb:
-    ✘ [ ] ccxt send order/get balance 3 @cancelled(22-04-25 09:39)
-    
 day-2022-04-25:
   - [ ] 블로그 정리 및 내일 할일 정리 2022-04-25
   job:
-    - [ ] jb block deregister apply review
-    - [ ] reminder reviews
-    - [ ] jb tasks
+    - [x] jb block deregister apply review @started(22-04-25 09:40) @done(22-04-25 11:14) @lasted(1h34m)
+    - [x] jb block deregister apply review 2 @started(22-04-25 12:56) @done(22-04-25 13:11) @lasted(15m57s)
+    - [x] reminder reviews @started(22-04-25 13:11) @done(22-04-25 13:20) @lasted(9m48s)
+    - [x] jb tasks @started(22-04-25 14:44) @done(22-04-25 14:56) @lasted(12m50s)
+    - [x] split verify 1 @started(22-04-25 16:21) @done(22-04-25 17:44) @lasted(1h23m56s)
+    - [x] prepare prod @started(22-04-25 17:45) @done(22-04-25 21:08) @lasted(3h23m34s)
+    - [x] split verify 2 @started(22-04-25 21:08) @done(22-04-25 22:45) @lasted(1h37m19s)
+    - [ ] jb tasks 2 
   arb:
     - [ ] ccxt send order/get balance 3
   study:
     - [ ] prepare next study - data study
+
+day-2022-04-26:
+  job:
+    - [ ] give tech orientation @at(16:00) @est(1h)
 
 study:
   - [ ] study clean architecture on rxjs?
@@ -111,6 +111,11 @@ longterm:
   - [ ] 영어 공부하기
 
 Archive:
+  - [x] 블로그 정리 및 내일 할일 정리 2022-04-22 @started(22-04-25 09:38) @done(22-04-25 09:39) @lasted(1m39s) @project(day-2022-04-22)
+  - [x] jb block deregister @started(22-04-22 10:59) @done(22-04-22 18:12) @lasted(7h13m49s) @project(day-2022-04-22.job)
+  ✘ [ ] apply reviews @cancelled(22-04-25 09:39) @project(day-2022-04-22.job)
+  ✘ [ ] jb tasks @cancelled(22-04-25 09:39) @project(day-2022-04-22.job)
+  ✘ [ ] ccxt send order/get balance 3 @cancelled(22-04-25 09:39) @project(day-2022-04-22.arb)
   - [x] 블로그 정리 및 내일 할일 정리 2022-04-21 @started(22-04-22 10:40) @done(22-04-22 10:40) @lasted(57s) @project(day-2022-04-21)
   - [x] jb task - improve logs 2 @started(22-04-21 09:19) @done(22-04-21 14:03) @lasted(4h44m19s) @project(day-2022-04-21.job)
   - [x] jb task - improve lambda error handling 3 @started(22-04-21 14:23) @done(22-04-21 17:49) @lasted(3h26m31s) @project(day-2022-04-21.job)
