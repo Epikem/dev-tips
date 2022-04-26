@@ -1,26 +1,22 @@
-day-2022-04-25:
-  - [x] 블로그 정리 및 내일 할일 정리 2022-04-25 @started(22-04-26 10:57) @done(22-04-26 10:58) @lasted(1m29s)
-  job:
-    - [x] jb block deregister apply review @started(22-04-25 09:40) @done(22-04-25 11:14) @lasted(1h34m)
-    - [x] jb block deregister apply review 2 @started(22-04-25 12:56) @done(22-04-25 13:11) @lasted(15m57s)
-    - [x] reminder reviews @started(22-04-25 13:11) @done(22-04-25 13:20) @lasted(9m48s)
-    - [x] jb tasks @started(22-04-25 14:44) @done(22-04-25 14:56) @lasted(12m50s)
-    - [x] split verify 1 @started(22-04-25 16:21) @done(22-04-25 17:44) @lasted(1h23m56s)
-    - [x] prepare prod @started(22-04-25 17:45) @done(22-04-25 21:08) @lasted(3h23m34s)
-    - [x] split verify 2 @started(22-04-25 21:08) @done(22-04-25 22:45) @lasted(1h37m19s)
-    ✘ [ ] jb tasks 2 @cancelled(22-04-26 10:58)
-  arb:
-    ✘ [ ] ccxt send order/get balance 3 @cancelled(22-04-26 10:58)
-  study:
-    ✘ [ ] prepare next study - data study @cancelled(22-04-26 10:58)
-
 day-2022-04-26:
-  - [ ] 블로그 정리 및 내일 할일 정리 2022-04-26
+  - [x] 블로그 정리 및 내일 할일 정리 2022-04-26 @started(22-04-26 23:17) @done(22-04-26 23:22) @lasted(5m2s)
   job:
-    - [ ] jb tasks 3
+    - [x] prepare tech orientation 1 @started(22-04-26 12:48) @done(22-04-26 12:53) @lasted(5m51s)
+    - [x] jb tasks 3 @started(22-04-26 12:53) @done(22-04-26 13:12) @lasted(19m10s)
+    - [x] prepare tech orientation 2 @started(22-04-26 13:12) @done(22-04-26 13:57) @lasted(45m36s)
+    - [x] jb tasks 4 @started(22-04-26 13:57) @done(22-04-26 16:01) @lasted(2h4m22s)
+    - [x] give tech orientation @at(16:00) @est(1h) @started(22-04-26 16:01) @done(22-04-26 17:44) @lasted(1h43m42s)
+    - [x] jb tasks 5 @started(22-04-26 21:09) @done(22-04-26 22:08) @lasted(59m15s)
+    - [x] split verify 3 @done(22-04-26 23:18)
+    ✘ [ ] ad task 1 @cancelled(22-04-26 23:17)
+    ✘ [ ] refactor jb codes @cancelled(22-04-26 23:18)
+
+day-2022-04-27:
+  - [ ] 블로그 정리 및 내일 할일 정리 2022-04-27
+  job:
     - [ ] refactor jb codes
-    - [ ] split verify 3
-    - [ ] give tech orientation @at(16:00) @est(1h)
+    - [ ] split verify 4
+    - [ ] ad task 1
 
 study:
   - [ ] study clean architecture on rxjs?
@@ -116,6 +112,17 @@ longterm:
   - [ ] 영어 공부하기
 
 Archive:
+  - [x] 블로그 정리 및 내일 할일 정리 2022-04-25 @started(22-04-26 10:57) @done(22-04-26 10:58) @lasted(1m29s) @project(day-2022-04-25)
+  - [x] jb block deregister apply review @started(22-04-25 09:40) @done(22-04-25 11:14) @lasted(1h34m) @project(day-2022-04-25.job)
+  - [x] jb block deregister apply review 2 @started(22-04-25 12:56) @done(22-04-25 13:11) @lasted(15m57s) @project(day-2022-04-25.job)
+  - [x] reminder reviews @started(22-04-25 13:11) @done(22-04-25 13:20) @lasted(9m48s) @project(day-2022-04-25.job)
+  - [x] jb tasks @started(22-04-25 14:44) @done(22-04-25 14:56) @lasted(12m50s) @project(day-2022-04-25.job)
+  - [x] split verify 1 @started(22-04-25 16:21) @done(22-04-25 17:44) @lasted(1h23m56s) @project(day-2022-04-25.job)
+  - [x] prepare prod @started(22-04-25 17:45) @done(22-04-25 21:08) @lasted(3h23m34s) @project(day-2022-04-25.job)
+  - [x] split verify 2 @started(22-04-25 21:08) @done(22-04-25 22:45) @lasted(1h37m19s) @project(day-2022-04-25.job)
+  ✘ [ ] jb tasks 2 @cancelled(22-04-26 10:58) @project(day-2022-04-25.job)
+  ✘ [ ] ccxt send order/get balance 3 @cancelled(22-04-26 10:58) @project(day-2022-04-25.arb)
+  ✘ [ ] prepare next study - data study @cancelled(22-04-26 10:58) @project(day-2022-04-25.study)
   - [x] 블로그 정리 및 내일 할일 정리 2022-04-22 @started(22-04-25 09:38) @done(22-04-25 09:39) @lasted(1m39s) @project(day-2022-04-22)
   - [x] jb block deregister @started(22-04-22 10:59) @done(22-04-22 18:12) @lasted(7h13m49s) @project(day-2022-04-22.job)
   ✘ [ ] apply reviews @cancelled(22-04-25 09:39) @project(day-2022-04-22.job)
