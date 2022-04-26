@@ -1,5 +1,5 @@
 day-2022-04-25:
-  - [ ] 블로그 정리 및 내일 할일 정리 2022-04-25
+  - [x] 블로그 정리 및 내일 할일 정리 2022-04-25 @started(22-04-26 10:57) @done(22-04-26 10:58) @lasted(1m29s)
   job:
     - [x] jb block deregister apply review @started(22-04-25 09:40) @done(22-04-25 11:14) @lasted(1h34m)
     - [x] jb block deregister apply review 2 @started(22-04-25 12:56) @done(22-04-25 13:11) @lasted(15m57s)
@@ -8,19 +8,24 @@ day-2022-04-25:
     - [x] split verify 1 @started(22-04-25 16:21) @done(22-04-25 17:44) @lasted(1h23m56s)
     - [x] prepare prod @started(22-04-25 17:45) @done(22-04-25 21:08) @lasted(3h23m34s)
     - [x] split verify 2 @started(22-04-25 21:08) @done(22-04-25 22:45) @lasted(1h37m19s)
-    - [ ] jb tasks 2 
+    ✘ [ ] jb tasks 2 @cancelled(22-04-26 10:58)
   arb:
-    - [ ] ccxt send order/get balance 3
+    ✘ [ ] ccxt send order/get balance 3 @cancelled(22-04-26 10:58)
   study:
-    - [ ] prepare next study - data study
+    ✘ [ ] prepare next study - data study @cancelled(22-04-26 10:58)
 
 day-2022-04-26:
+  - [ ] 블로그 정리 및 내일 할일 정리 2022-04-26
   job:
+    - [ ] jb tasks 3
+    - [ ] refactor jb codes
+    - [ ] split verify 3
     - [ ] give tech orientation @at(16:00) @est(1h)
 
 study:
   - [ ] study clean architecture on rxjs?
   - [ ] prepare next study - clean architecture
+  - [ ] prepare next study - data study
 
 arb:
   todos:
