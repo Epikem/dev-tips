@@ -1,12 +1,21 @@
-day-2022-04-27:
-  - [ ] 블로그 정리 및 내일 할일 정리 2022-04-27
+day-2022-04-28:
+  - [x] 블로그 정리 및 내일 할일 정리 2022-04-28 @started(22-04-28 20:54) @done(22-04-28 20:55) @lasted(1m39s)
+  arb:
+    - [x] setup jetson nano server @started(22-04-28 19:32) @done(22-04-28 20:53) @lasted(1h21m36s)
   job:
-    - [x] ad task 1 @started(22-04-27 10:01) @done(22-04-27 15:53) @lasted(5h52m20s)
-    - [x] ad task 2 - check @started(22-04-27 15:53) @done(22-04-27 16:27) @lasted(34m11s)
-    - [x] jb task @started(22-04-27 16:27) @done(22-04-27 16:54) @lasted(27m29s)
-    - [x] ad task 3 - create event key @started(22-04-27 17:04) @done(22-04-27 17:26) @lasted(22m10s)
-    - [x] refactor jb codes @started(22-04-27 17:42) @done(22-04-27 19:02) @lasted(1h20m23s)
-    - [ ] split verify 4
+    - [x] add masked log to jb @started(22-04-28 10:42) @done(22-04-28 15:24) @lasted(4h42m5s)
+    - [x] track redis problem @started(22-04-28 15:25) @done(22-04-28 19:12) @lasted(3h47m51s)
+    ✘ [ ] ad task apply review @cancelled(22-04-28 20:55)
+    ✘ [ ] jb task @cancelled(22-04-28 20:55)
+
+day-2022-04-29:
+  - [ ] 블로그 정리 및 내일 할일 정리 2022-04-29
+  arb:
+    - [ ] fee feature
+  job:
+    - [ ] add masked log to jb - test
+    - [ ] track redis problem - test
+    - [ ] ad task apply review
 
 study:
   - [ ] study clean architecture on rxjs?
@@ -39,7 +48,7 @@ blog:
   - [ ] tip 추가: 알고리즘 - 비교적 안전한 소수 덧셈 알고리즘 (https://en.wikipedia.org/wiki/Kahan_summation_algorithm)
   - [ ] tip 추가: raspberry pi 팬 설치하기 (rpi pwm fan 설치 - 2021-07-04)
   - [ ] tip 추가: raspberry pi - code-server - rust-analyzer 설치하기 (2021-08-05)
-  - [ ] tip 추가: aws cloudfront를 활용하여 http를 https로 래핑하기
+  - [ ] tip 추가: aws cloudfront를 활용하여 http를 https로 래핑하기 (2022-04-28)
   - [ ] tip 추가: ntp 포트(udp/123) 막혀있을 때 htpdate로 시간 동기화하기 (https://askubuntu.com/questions/1292225/ntp-port-is-blocked-how-to-sync-time-18-04)
   - [ ] tip 추가: docker container간 서비스 커뮤니케이션 및 `[::]`
   - [ ] tip 추가: 개발자 도구에서 웹소켓 디버깅하기 + primus write helper (https://streami.slack.com/archives/D02S2293YFJ/p1641877801030100)
@@ -102,6 +111,13 @@ longterm:
   - [ ] 영어 공부하기
 
 Archive:
+  - [x] 블로그 정리 및 내일 할일 정리 2022-04-27 @started(22-04-28 10:27) @done(22-04-28 10:28) @lasted(1m4s) @project(day-2022-04-27)
+  - [x] ad task 1 @started(22-04-27 10:01) @done(22-04-27 15:53) @lasted(5h52m20s) @project(day-2022-04-27.job)
+  - [x] ad task 2 - check @started(22-04-27 15:53) @done(22-04-27 16:27) @lasted(34m11s) @project(day-2022-04-27.job)
+  - [x] jb task @started(22-04-27 16:27) @done(22-04-27 16:54) @lasted(27m29s) @project(day-2022-04-27.job)
+  - [x] ad task 3 - create event key @started(22-04-27 17:04) @done(22-04-27 17:26) @lasted(22m10s) @project(day-2022-04-27.job)
+  - [x] refactor jb codes @started(22-04-27 17:42) @done(22-04-27 19:02) @lasted(1h20m23s) @project(day-2022-04-27.job)
+  ✘ [ ] split verify 4 @cancelled(22-04-28 10:27) @project(day-2022-04-27.job)
   - [x] 블로그 정리 및 내일 할일 정리 2022-04-26 @started(22-04-26 23:17) @done(22-04-26 23:22) @lasted(5m2s) @project(day-2022-04-26)
   - [x] prepare tech orientation 1 @started(22-04-26 12:48) @done(22-04-26 12:53) @lasted(5m51s) @project(day-2022-04-26.job)
   - [x] jb tasks 3 @started(22-04-26 12:53) @done(22-04-26 13:12) @lasted(19m10s) @project(day-2022-04-26.job)
