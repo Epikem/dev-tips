@@ -1,19 +1,10 @@
-day-2022-04-28:
-  - [x] 블로그 정리 및 내일 할일 정리 2022-04-28 @started(22-04-28 20:54) @done(22-04-28 20:55) @lasted(1m39s)
-  arb:
-    - [x] setup jetson nano server @started(22-04-28 19:32) @done(22-04-28 20:53) @lasted(1h21m36s)
-  job:
-    - [x] add masked log to jb @started(22-04-28 10:42) @done(22-04-28 15:24) @lasted(4h42m5s)
-    - [x] track redis problem @started(22-04-28 15:25) @done(22-04-28 19:12) @lasted(3h47m51s)
-    ✘ [ ] ad task apply review @cancelled(22-04-28 20:55)
-    ✘ [ ] jb task @cancelled(22-04-28 20:55)
-
 day-2022-04-29:
   - [ ] 블로그 정리 및 내일 할일 정리 2022-04-29
   arb:
     - [ ] fee feature
   job:
-    - [ ] add masked log to jb - test
+    - [x] add masked log to jb - test @started(22-04-29 10:02) @done(22-04-29 14:52) @lasted(4h50m48s)
+    - [x] improve jb message handling @started(22-04-29 14:53) @done(22-04-29 19:04) @lasted(4h11m50s)
     - [ ] track redis problem - test
     - [ ] ad task apply review
 
@@ -111,6 +102,12 @@ longterm:
   - [ ] 영어 공부하기
 
 Archive:
+  - [x] 블로그 정리 및 내일 할일 정리 2022-04-28 @started(22-04-28 20:54) @done(22-04-28 20:55) @lasted(1m39s) @project(day-2022-04-28)
+  - [x] setup jetson nano server @started(22-04-28 19:32) @done(22-04-28 20:53) @lasted(1h21m36s) @project(day-2022-04-28.arb)
+  - [x] add masked log to jb @started(22-04-28 10:42) @done(22-04-28 15:24) @lasted(4h42m5s) @project(day-2022-04-28.job)
+  - [x] track redis problem @started(22-04-28 15:25) @done(22-04-28 19:12) @lasted(3h47m51s) @project(day-2022-04-28.job)
+  ✘ [ ] ad task apply review @cancelled(22-04-28 20:55) @project(day-2022-04-28.job)
+  ✘ [ ] jb task @cancelled(22-04-28 20:55) @project(day-2022-04-28.job)
   - [x] 블로그 정리 및 내일 할일 정리 2022-04-27 @started(22-04-28 10:27) @done(22-04-28 10:28) @lasted(1m4s) @project(day-2022-04-27)
   - [x] ad task 1 @started(22-04-27 10:01) @done(22-04-27 15:53) @lasted(5h52m20s) @project(day-2022-04-27.job)
   - [x] ad task 2 - check @started(22-04-27 15:53) @done(22-04-27 16:27) @lasted(34m11s) @project(day-2022-04-27.job)
