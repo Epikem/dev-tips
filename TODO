@@ -1,12 +1,25 @@
 day-2022-04-29:
-  - [ ] 블로그 정리 및 내일 할일 정리 2022-04-29
+  - [x] 블로그 정리 및 내일 할일 정리 2022-04-29 @started(22-05-02 11:11) @done(22-05-02 11:14) @lasted(3m42s)
   arb:
-    - [ ] fee feature
+    ✘ [ ] fee feature @cancelled(22-05-02 11:11)
   job:
     - [x] add masked log to jb - test @started(22-04-29 10:02) @done(22-04-29 14:52) @lasted(4h50m48s)
     - [x] improve jb message handling @started(22-04-29 14:53) @done(22-04-29 19:04) @lasted(4h11m50s)
+    ✘ [ ] track redis problem - test @cancelled(22-05-02 11:14)
+    ✘ [ ] ad task apply review @cancelled(22-05-02 11:14)
+
+day-2022-05-02:
+  - [ ] 블로그 정리 및 내일 할일 정리 2022-05-02
+  job:
+    - [ ] improve jb code
+    - [ ] add masked log to jb - test
+    - [ ] improve jb message handling
     - [ ] track redis problem - test
     - [ ] ad task apply review
+  study:
+    - [ ] read data book
+  arb:
+    - [ ] fee feature
 
 study:
   - [ ] study clean architecture on rxjs?
