@@ -1,21 +1,21 @@
-day-2022-04-29:
-  - [x] 블로그 정리 및 내일 할일 정리 2022-04-29 @started(22-05-02 11:11) @done(22-05-02 11:14) @lasted(3m42s)
-  arb:
-    ✘ [ ] fee feature @cancelled(22-05-02 11:11)
-  job:
-    - [x] add masked log to jb - test @started(22-04-29 10:02) @done(22-04-29 14:52) @lasted(4h50m48s)
-    - [x] improve jb message handling @started(22-04-29 14:53) @done(22-04-29 19:04) @lasted(4h11m50s)
-    ✘ [ ] track redis problem - test @cancelled(22-05-02 11:14)
-    ✘ [ ] ad task apply review @cancelled(22-05-02 11:14)
-
 day-2022-05-02:
-  - [ ] 블로그 정리 및 내일 할일 정리 2022-05-02
+  - [x] 블로그 정리 및 내일 할일 정리 2022-05-02 @started(22-05-02 23:03) @done(22-05-02 23:04) @lasted(1m11s)
   job:
-    - [ ] improve jb code
-    - [ ] add masked log to jb - test
-    - [ ] improve jb message handling
-    - [ ] track redis problem - test
-    - [ ] ad task apply review
+    - [x] improve jb code 2 @started(22-05-02 12:13) @done(22-05-02 17:28) @lasted(5h15m58s)
+    - [x] track redis problem - test @started(22-05-02 17:29) @done(22-05-02 17:58) @lasted(29m46s)
+    - [x] ad task apply review @started(22-05-02 20:51) @done(22-05-02 23:01) @lasted(2h10m16s)
+    ✘ [ ] add masked log to jb - test @cancelled(22-05-02 23:03)
+  study:
+    - [x] read data book @done(22-05-02 23:03)
+  arb:
+    ✘ [ ] fee feature @cancelled(22-05-02 23:03)
+
+day-2022-05-03:
+  - [ ] 블로그 정리 및 내일 할일 정리 2022-05-03
+  job:
+    - [ ] ad task apply review 2
+    - [ ] add masked log to jb 2
+    - [ ] improve jb code 3 - apply review
   study:
     - [ ] read data book
   arb:
@@ -32,6 +32,7 @@ arb:
     - [ ] sendOrder 필요한 필드 정리 (market limit 등)
 
 job:
+  - [ ] jb handle broken status
   - [ ] add verify crypto address lambda
   - [ ] GOP-15968 3 (wallet add not internal bug)
   - [ ] GOP-15886 5 apply review
@@ -57,7 +58,7 @@ blog:
   - [ ] tip 추가: docker container간 서비스 커뮤니케이션 및 `[::]`
   - [ ] tip 추가: 개발자 도구에서 웹소켓 디버깅하기 + primus write helper (https://streami.slack.com/archives/D02S2293YFJ/p1641877801030100)
   - [ ] 후기 추가: kakao 2022 2차
-  
+
   meta:
     - [ ] 블로그 테마 이주: https://chirpy.cotes.info/ (이거도 좋음 NexT.Muse)
     - [ ] 수동 연도 업데이트 필요
@@ -93,7 +94,7 @@ job:
   - [ ] cv update @high
   https://www.naver-recruit.com/?utm_source=gdn&utm_medium=cpc&utm_campaign=gdn_cpc&gclid=EAIaIQobChMIp5mGtq7k7wIVLcNMAh2mbQxwEAEYASAAEgJaSvD_BwE
   - [ ] 라인 지원 https://careers.linecorp.com/ko/jobs/773
-  - [ ] lg cns 지원 https://apply.lg.com/app/job/RetrieveJobNoticesDetail.rpi    
+  - [ ] lg cns 지원 https://apply.lg.com/app/job/RetrieveJobNoticesDetail.rpi
 
 study:
   math:
@@ -103,7 +104,7 @@ study:
 
 other:
   - [ ] 북마크 정리하기
-  - [ ] 도커파일로 분리 개발환경 만들기 (마운트 활용, 소스 sync 및 ssh 연동, 소리 활성화) 
+  - [ ] 도커파일로 분리 개발환경 만들기 (마운트 활용, 소스 sync 및 ssh 연동, 소리 활성화)
   - [ ] 여권 재발급
   - [ ] e-residency 발급
   - [ ] watch - star trek (movie)
@@ -115,6 +116,12 @@ longterm:
   - [ ] 영어 공부하기
 
 Archive:
+  - [x] 블로그 정리 및 내일 할일 정리 2022-04-29 @started(22-05-02 11:11) @done(22-05-02 11:14) @lasted(3m42s) @project(day-2022-04-29)
+  ✘ [ ] fee feature @cancelled(22-05-02 11:11) @project(day-2022-04-29.arb)
+  - [x] add masked log to jb - test @started(22-04-29 10:02) @done(22-04-29 14:52) @lasted(4h50m48s) @project(day-2022-04-29.job)
+  - [x] improve jb message handling @started(22-04-29 14:53) @done(22-04-29 19:04) @lasted(4h11m50s) @project(day-2022-04-29.job)
+  ✘ [ ] track redis problem - test @cancelled(22-05-02 11:14) @project(day-2022-04-29.job)
+  ✘ [ ] ad task apply review @cancelled(22-05-02 11:14) @project(day-2022-04-29.job)
   - [x] 블로그 정리 및 내일 할일 정리 2022-04-28 @started(22-04-28 20:54) @done(22-04-28 20:55) @lasted(1m39s) @project(day-2022-04-28)
   - [x] setup jetson nano server @started(22-04-28 19:32) @done(22-04-28 20:53) @lasted(1h21m36s) @project(day-2022-04-28.arb)
   - [x] add masked log to jb @started(22-04-28 10:42) @done(22-04-28 15:24) @lasted(4h42m5s) @project(day-2022-04-28.job)
