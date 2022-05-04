@@ -1,20 +1,7 @@
-day-2022-05-03:
-  - [x] 블로그 정리 및 내일 할일 정리 2022-05-03 @started(22-05-03 19:07) @done(22-05-03 19:07) @lasted(53s)
+day-2022-05-04:
+  - [ ] 블로그 정리 및 내일 할일 정리 2022-05-04
   job:
-    - [x] ad task apply review 2 @started(22-05-03 09:53) @done(22-05-03 15:45) @lasted(5h52m26s)
-    - [x] tech onboarding 2 @started(22-05-03 15:45) @done(22-05-03 18:06) @lasted(2h21m38s)
-    - [x] ad task apply review 3 @done(22-05-03 19:06)
-    - [ ] add masked log to jb 2
-    - [ ] improve jb code 3 - apply review
-  study:
-    - [x] data study @done(22-05-03 19:07)
-  arb:
-    - [ ] fee feature
-
-day-2022-05-03:
-  - [ ] 블로그 정리 및 내일 할일 정리 2022-05-03 @started(22-05-03 19:07)
-  job:
-    - [ ] ad task apply review 4
+    - [x] ad task apply review 4 @started(22-05-04 10:12) @done(22-05-04 19:17) @lasted(9h5m48s)
     - [ ] add masked log to jb 2
     - [ ] improve jb code 3 - apply review
   study:
@@ -33,6 +20,8 @@ arb:
     - [ ] sendOrder 필요한 필드 정리 (market limit 등)
 
 job:
+  - [ ] ad task apply review 5 - refactor mock sql
+  - [ ] ad task apply review 5 - lint
   - [ ] jb handle broken status
   - [ ] add verify crypto address lambda
   - [ ] GOP-15968 3 (wallet add not internal bug)
@@ -117,6 +106,14 @@ longterm:
   - [ ] 영어 공부하기
 
 Archive:
+  - [x] 블로그 정리 및 내일 할일 정리 2022-05-03 @started(22-05-03 19:07) @done(22-05-03 19:07) @lasted(53s) @project(day-2022-05-03)
+  - [x] ad task apply review 2 @started(22-05-03 09:53) @done(22-05-03 15:45) @lasted(5h52m26s) @project(day-2022-05-03.job)
+  - [x] tech onboarding 2 @started(22-05-03 15:45) @done(22-05-03 18:06) @lasted(2h21m38s) @project(day-2022-05-03.job)
+  - [x] ad task apply review 3 @done(22-05-03 19:06) @project(day-2022-05-03.job)
+  ✘ [ ] add masked log to jb 2 @cancelled(22-05-03 19:12) @project(day-2022-05-03.job)
+  ✘ [ ] improve jb code 3 - apply review @cancelled(22-05-03 19:12) @project(day-2022-05-03.job)
+  - [x] data study @done(22-05-03 19:07) @project(day-2022-05-03.study)
+  ✘ [ ] fee feature @cancelled(22-05-03 19:12) @project(day-2022-05-03.arb)
   - [x] 블로그 정리 및 내일 할일 정리 2022-05-02 @started(22-05-02 23:03) @done(22-05-02 23:04) @lasted(1m11s) @project(day-2022-05-02)
   - [x] improve jb code 2 @started(22-05-02 12:13) @done(22-05-02 17:28) @lasted(5h15m58s) @project(day-2022-05-02.job)
   - [x] track redis problem - test @started(22-05-02 17:29) @done(22-05-02 17:58) @lasted(29m46s) @project(day-2022-05-02.job)
