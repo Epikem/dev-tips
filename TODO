@@ -1,22 +1,23 @@
-day-2022-05-04:
-  - [x] 블로그 정리 및 내일 할일 정리 2022-05-04 @started(22-05-09 10:53) @done(22-05-09 11:09) @lasted(16m7s)
-  job:
-    - [x] ad task apply review 4 @started(22-05-04 10:12) @done(22-05-04 19:17) @lasted(9h5m48s)
-    ✘ [ ] add masked log to jb 2 @cancelled(22-05-09 11:08)
-    ✘ [ ] improve jb code 3 - apply review @cancelled(22-05-09 11:08)
-  study:
-    - [x] leet study @done(22-05-09 10:51)
-  arb:
-    ✘ [ ] fee feature @cancelled(22-05-09 11:08)
-
 day-2022-05-09:
-  - [ ] 블로그 정리 및 내일 할일 정리 2022-05-04
+  - [x] 블로그 정리 및 내일 할일 정리 2022-05-09 @started(22-05-09 22:51) @done(22-05-09 22:53) @lasted(2m55s)
   job:
-    - [ ] ad task apply review 5
-    - [ ] add masked log to jb 2
-    - [ ] improve jb code 3 - apply review
+    - [x] ad task apply review 5 @started(22-05-09 11:09) @done(22-05-09 16:40) @lasted(5h31m38s)
+    - [x] ad task apply review 6 @started(22-05-09 17:36) @done(22-05-09 21:26) @lasted(3h50m9s)
+    - [x] add masked log to jb 2 reminder @done(22-05-09 22:51)
+    ✘ [ ] GOP-16696 @cancelled(22-05-09 22:52)
+    ✘ [ ] GOP-16440 @cancelled(22-05-09 22:52)
   study:
-    - [ ] read data book
+    - [x] read data book @started(22-05-09 21:37) @done(22-05-09 22:51) @lasted(1h14m24s)
+
+day-2022-05-10:
+  - [ ] 블로그 정리 및 내일 할일 정리 2022-05-10
+  job:
+    - [ ] ad task 7
+    - [ ] GOP-16696 caching
+    - [ ] GOP-16440
+  study:
+    - [x] read data book @started(22-05-09 21:37) @done(22-05-09 22:51) @lasted(1h14m24s)
+
 
 study:
   - [ ] study clean architecture on rxjs?
@@ -116,6 +117,12 @@ longterm:
   - [ ] 영어 공부하기
 
 Archive:
+  - [x] 블로그 정리 및 내일 할일 정리 2022-05-04 @started(22-05-09 10:53) @done(22-05-09 11:09) @lasted(16m7s) @project(day-2022-05-04)
+  - [x] ad task apply review 4 @started(22-05-04 10:12) @done(22-05-04 19:17) @lasted(9h5m48s) @project(day-2022-05-04.job)
+  ✘ [ ] add masked log to jb 2 @cancelled(22-05-09 11:08) @project(day-2022-05-04.job)
+  ✘ [ ] improve jb code 3 - apply review @cancelled(22-05-09 11:08) @project(day-2022-05-04.job)
+  - [x] leet study @done(22-05-09 10:51) @project(day-2022-05-04.study)
+  ✘ [ ] fee feature @cancelled(22-05-09 11:08) @project(day-2022-05-04.arb)
   - [x] 블로그 정리 및 내일 할일 정리 2022-05-03 @started(22-05-03 19:07) @done(22-05-03 19:07) @lasted(53s) @project(day-2022-05-03)
   - [x] ad task apply review 2 @started(22-05-03 09:53) @done(22-05-03 15:45) @lasted(5h52m26s) @project(day-2022-05-03.job)
   - [x] tech onboarding 2 @started(22-05-03 15:45) @done(22-05-03 18:06) @lasted(2h21m38s) @project(day-2022-05-03.job)
