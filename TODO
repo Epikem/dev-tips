@@ -1,13 +1,22 @@
 day-2022-05-04:
-  - [ ] 블로그 정리 및 내일 할일 정리 2022-05-04
+  - [x] 블로그 정리 및 내일 할일 정리 2022-05-04 @started(22-05-09 10:53) @done(22-05-09 11:09) @lasted(16m7s)
   job:
     - [x] ad task apply review 4 @started(22-05-04 10:12) @done(22-05-04 19:17) @lasted(9h5m48s)
+    ✘ [ ] add masked log to jb 2 @cancelled(22-05-09 11:08)
+    ✘ [ ] improve jb code 3 - apply review @cancelled(22-05-09 11:08)
+  study:
+    - [x] leet study @done(22-05-09 10:51)
+  arb:
+    ✘ [ ] fee feature @cancelled(22-05-09 11:08)
+
+day-2022-05-09:
+  - [ ] 블로그 정리 및 내일 할일 정리 2022-05-04
+  job:
+    - [ ] ad task apply review 5
     - [ ] add masked log to jb 2
     - [ ] improve jb code 3 - apply review
   study:
-    - [ ] leet study
-  arb:
-    - [ ] fee feature
+    - [ ] read data book
 
 study:
   - [ ] study clean architecture on rxjs?
@@ -16,6 +25,7 @@ study:
 
 arb:
   todos:
+    - [ ] fee feature 2
     - [ ] ccxt - balance order 4 apply review
     - [ ] sendOrder 필요한 필드 정리 (market limit 등)
 
