@@ -1,23 +1,24 @@
-day-2022-05-11:
-  - [x] 블로그 정리 및 내일 할일 정리 2022-05-11 @started(22-05-16 09:06) @done(22-05-16 09:12) @lasted(6m48s)
-  job:
-    ✘ [ ] GOP-16696 caching 2 @cancelled(22-05-16 09:09)
-    ✘ [ ] ad task 11 add ad proxy @cancelled(22-05-16 09:09)
-    ✘ [ ] GOP-16875 @cancelled(22-05-16 09:09)
-    ✘ [ ] GOP-16440 @cancelled(22-05-16 09:08)
-  study:
-    ✘ [ ] leet study @cancelled(22-05-16 09:09)
-
 day-2022-05-16:
-  - [ ] 블로그 정리 및 내일 할일 정리 2022-05-16
+  - [x] 블로그 정리 및 내일 할일 정리 2022-05-16 @started(22-05-16 19:10) @done(22-05-16 19:14) @lasted(4m2s)
   job:
-    - [ ] GOP-16696 caching 2
-    - [ ] ad task 11 add ad proxy
-    - [ ] GOP-16875
+    - [x] GOP-16696 caching 2 @started(22-05-16 09:14) @done(22-05-16 11:26) @lasted(2h12m40s)
+    - [x] GOP-16696 caching 3 @started(22-05-16 13:42) @done(22-05-16 18:09) @lasted(4h27m22s)
+    - [x] ad task 11 add ad proxy @done(22-05-16 19:09)
+    ✘ [ ] GOP-16875 re-enable app push noti @cancelled(22-05-16 19:10)
+    ✘ [ ] GOP-16440 @cancelled(22-05-16 19:10)
+  study:
+    - [ ] read data book
+    - [ ] prepare chapter 8
+  arb:
+    - [ ] fee 조사
+
+day-2022-05-17:
+  - [ ] 블로그 정리 및 내일 할일 정리 2022-05-17
+  job:
+    - [ ] GOP-16875 re-enable app push noti
     - [ ] GOP-16440
   study:
-    - [ ] leet study
-
+    - [ ] read data book
 
 study:
   - [ ] study clean architecture on rxjs?
@@ -119,6 +120,12 @@ longterm:
   - [ ] 영어 공부하기
 
 Archive:
+  - [x] 블로그 정리 및 내일 할일 정리 2022-05-11 @started(22-05-16 09:06) @done(22-05-16 09:12) @lasted(6m48s) @project(day-2022-05-11)
+  ✘ [ ] GOP-16696 caching 2 @cancelled(22-05-16 09:09) @project(day-2022-05-11.job)
+  ✘ [ ] ad task 11 add ad proxy @cancelled(22-05-16 09:09) @project(day-2022-05-11.job)
+  ✘ [ ] GOP-16875 @cancelled(22-05-16 09:09) @project(day-2022-05-11.job)
+  ✘ [ ] GOP-16440 @cancelled(22-05-16 09:08) @project(day-2022-05-11.job)
+  ✘ [ ] leet study @cancelled(22-05-16 09:09) @project(day-2022-05-11.study)
   - [x] 블로그 정리 및 내일 할일 정리 2022-05-10 @started(22-05-11 08:23) @done(22-05-11 08:32) @lasted(9m25s) @project(day-2022-05-10)
   - [x] ad task 7 discuss @done(22-05-10 13:00) @project(day-2022-05-10.job)
   - [x] ad task 8 add proxy @started(22-05-10 13:00) @done(22-05-10 15:32) @lasted(2h32m24s) @project(day-2022-05-10.job)
