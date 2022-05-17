@@ -7,13 +7,14 @@ day-2022-05-16:
     ✘ [ ] GOP-16875 re-enable app push noti @cancelled(22-05-16 19:10)
     ✘ [ ] GOP-16440 @cancelled(22-05-16 19:10)
   study:
-    - [ ] read data book
-    - [ ] prepare chapter 8
+    - [x] read data book @done(22-05-17 09:30)
+    ✘ [ ] prepare chapter 8 @cancelled(22-05-17 09:30)
   arb:
-    - [ ] fee 조사
+    ✘ [ ] fee 조사 @cancelled(22-05-17 09:30)
 
 day-2022-05-17:
   - [ ] 블로그 정리 및 내일 할일 정리 2022-05-17
+  - [ ] update fun list
   job:
     - [ ] GOP-16875 re-enable app push noti
     - [ ] GOP-16440
