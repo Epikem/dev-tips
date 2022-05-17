@@ -1,21 +1,10 @@
-day-2022-05-16:
-  - [x] 블로그 정리 및 내일 할일 정리 2022-05-16 @started(22-05-16 19:10) @done(22-05-16 19:14) @lasted(4m2s)
-  job:
-    - [x] GOP-16696 caching 2 @started(22-05-16 09:14) @done(22-05-16 11:26) @lasted(2h12m40s)
-    - [x] GOP-16696 caching 3 @started(22-05-16 13:42) @done(22-05-16 18:09) @lasted(4h27m22s)
-    - [x] ad task 11 add ad proxy @done(22-05-16 19:09)
-    ✘ [ ] GOP-16875 re-enable app push noti @cancelled(22-05-16 19:10)
-    ✘ [ ] GOP-16440 @cancelled(22-05-16 19:10)
-  study:
-    - [x] read data book @done(22-05-17 09:30)
-    ✘ [ ] prepare chapter 8 @cancelled(22-05-17 09:30)
-  arb:
-    ✘ [ ] fee 조사 @cancelled(22-05-17 09:30)
-
 day-2022-05-17:
   - [ ] 블로그 정리 및 내일 할일 정리 2022-05-17
   - [ ] update fun list
   job:
+    - [x] add ad proxy api data @done(22-05-17 15:05)
+    - [x] GOP-17166 error on attempt exceed @started(22-05-17 15:05) @done(22-05-17 18:36) @lasted(3h31m42s)
+    - [x] jb task apply code review @started(22-05-17 18:38) @done(22-05-17 18:52) @lasted(14m2s)
     - [ ] GOP-16875 re-enable app push noti
     - [ ] GOP-16440
   study:
@@ -121,6 +110,15 @@ longterm:
   - [ ] 영어 공부하기
 
 Archive:
+  - [x] 블로그 정리 및 내일 할일 정리 2022-05-16 @started(22-05-16 19:10) @done(22-05-16 19:14) @lasted(4m2s) @project(day-2022-05-16)
+  - [x] GOP-16696 caching 2 @started(22-05-16 09:14) @done(22-05-16 11:26) @lasted(2h12m40s) @project(day-2022-05-16.job)
+  - [x] GOP-16696 caching 3 @started(22-05-16 13:42) @done(22-05-16 18:09) @lasted(4h27m22s) @project(day-2022-05-16.job)
+  - [x] ad task 11 add ad proxy @done(22-05-16 19:09) @project(day-2022-05-16.job)
+  ✘ [ ] GOP-16875 re-enable app push noti @cancelled(22-05-16 19:10) @project(day-2022-05-16.job)
+  ✘ [ ] GOP-16440 @cancelled(22-05-16 19:10) @project(day-2022-05-16.job)
+  - [x] read data book @done(22-05-17 09:30) @project(day-2022-05-16.study)
+  ✘ [ ] prepare chapter 8 @cancelled(22-05-17 09:30) @project(day-2022-05-16.study)
+  ✘ [ ] fee 조사 @cancelled(22-05-17 09:30) @project(day-2022-05-16.arb)
   - [x] 블로그 정리 및 내일 할일 정리 2022-05-11 @started(22-05-16 09:06) @done(22-05-16 09:12) @lasted(6m48s) @project(day-2022-05-11)
   ✘ [ ] GOP-16696 caching 2 @cancelled(22-05-16 09:09) @project(day-2022-05-11.job)
   ✘ [ ] ad task 11 add ad proxy @cancelled(22-05-16 09:09) @project(day-2022-05-11.job)
