@@ -1,23 +1,21 @@
-day-2022-05-17:
-  - [x] 블로그 정리 및 내일 할일 정리 2022-05-17 @started(22-05-18 09:09) @done(22-05-18 09:12) @lasted(3m45s)
-  ✘ [ ] update fun list @cancelled(22-05-18 09:12)
-  job:
-    - [x] add ad proxy api data @done(22-05-17 15:05)
-    - [x] GOP-17166 error on attempt exceed @started(22-05-17 15:05) @done(22-05-17 18:36) @lasted(3h31m42s)
-    - [x] jb task apply code review @started(22-05-17 18:38) @done(22-05-17 18:52) @lasted(14m2s)
-    ✘ [ ] GOP-16875 re-enable app push noti @cancelled(22-05-18 09:12)
-    ✘ [ ] GOP-16440 @cancelled(22-05-18 09:12)
-  study:
-    - [x] data study @done(22-05-18 09:12)
-
 day-2022-05-18:
   - [ ] 블로그 정리 및 내일 할일 정리 2022-05-18
   - [ ] update fun list
   job:
-    - [ ] GOP-17166 error on attempt exceed 2
+    - [x] GOP-17166 error on attempt exceed 2 @started(22-05-18 09:13) @done(22-05-18 10:00) @lasted(47m12s)
+    - [x] GOP-16985 create test accounts @started(22-05-18 10:00) @done(22-05-18 11:18) @lasted(1h18m36s)
+    - [x] GOP-17166 error on attempt exceed 3 @started(22-05-18 12:53) @done(22-05-18 14:05) @lasted(1h12m44s)
+    - [x] GOP-15993 limit another api @done(22-05-18 14:51)
+    - [x] GOP-16875 re-enable app push noti @started(22-05-18 14:05) @done(22-05-18 14:50) @lasted(45m28s)
+    - [x] GOP-16440 error on bank deposit shortage @started(22-05-18 14:52) @done(22-05-18 16:11) @lasted(1h19m23s)
+    - [x] GOP-17166 error on verification attempt exceed 3 @started(22-05-18 17:43) @done(22-05-18 19:19) @lasted(1h36m14s)
+    - [ ] GOP-16696 settlebank availability caching - apply review 1
+    - [ ] GOP-15993 limit another bank account register api 2 - add
+    - [ ] GOP-16440 error on bank deposit shortage 2
+    - [ ] GOP-16875 re-enable app push noti 2
+    - [ ] GOP-16985 create test accounts 2
     - [ ] jb task apply code review 2
-    - [ ] GOP-16875 re-enable app push noti
-    - [ ] GOP-16440
+    - [ ] story point discussion
   arb:
     - [ ] investigate fee rates
   study:
@@ -123,6 +121,14 @@ longterm:
   - [ ] 영어 공부하기
 
 Archive:
+  - [x] 블로그 정리 및 내일 할일 정리 2022-05-17 @started(22-05-18 09:09) @done(22-05-18 09:12) @lasted(3m45s) @project(day-2022-05-17)
+  ✘ [ ] update fun list @cancelled(22-05-18 09:12) @project(day-2022-05-17)
+  - [x] add ad proxy api data @done(22-05-17 15:05) @project(day-2022-05-17.job)
+  - [x] GOP-17166 error on attempt exceed @started(22-05-17 15:05) @done(22-05-17 18:36) @lasted(3h31m42s) @project(day-2022-05-17.job)
+  - [x] jb task apply code review @started(22-05-17 18:38) @done(22-05-17 18:52) @lasted(14m2s) @project(day-2022-05-17.job)
+  ✘ [ ] GOP-16875 re-enable app push noti @cancelled(22-05-18 09:12) @project(day-2022-05-17.job)
+  ✘ [ ] GOP-16440 @cancelled(22-05-18 09:12) @project(day-2022-05-17.job)
+  - [x] data study @done(22-05-18 09:12) @project(day-2022-05-17.study)
   - [x] 블로그 정리 및 내일 할일 정리 2022-05-16 @started(22-05-16 19:10) @done(22-05-16 19:14) @lasted(4m2s) @project(day-2022-05-16)
   - [x] GOP-16696 caching 2 @started(22-05-16 09:14) @done(22-05-16 11:26) @lasted(2h12m40s) @project(day-2022-05-16.job)
   - [x] GOP-16696 caching 3 @started(22-05-16 13:42) @done(22-05-16 18:09) @lasted(4h27m22s) @project(day-2022-05-16.job)
