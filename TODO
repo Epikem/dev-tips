@@ -1,14 +1,27 @@
 day-2022-05-17:
-  - [ ] 블로그 정리 및 내일 할일 정리 2022-05-17
-  - [ ] update fun list
+  - [x] 블로그 정리 및 내일 할일 정리 2022-05-17 @started(22-05-18 09:09) @done(22-05-18 09:12) @lasted(3m45s)
+  ✘ [ ] update fun list @cancelled(22-05-18 09:12)
   job:
     - [x] add ad proxy api data @done(22-05-17 15:05)
     - [x] GOP-17166 error on attempt exceed @started(22-05-17 15:05) @done(22-05-17 18:36) @lasted(3h31m42s)
     - [x] jb task apply code review @started(22-05-17 18:38) @done(22-05-17 18:52) @lasted(14m2s)
+    ✘ [ ] GOP-16875 re-enable app push noti @cancelled(22-05-18 09:12)
+    ✘ [ ] GOP-16440 @cancelled(22-05-18 09:12)
+  study:
+    - [x] data study @done(22-05-18 09:12)
+
+day-2022-05-18:
+  - [ ] 블로그 정리 및 내일 할일 정리 2022-05-18
+  - [ ] update fun list
+  job:
+    - [ ] GOP-17166 error on attempt exceed 2
+    - [ ] jb task apply code review 2
     - [ ] GOP-16875 re-enable app push noti
     - [ ] GOP-16440
+  arb:
+    - [ ] investigate fee rates
   study:
-    - [ ] read data book
+    - [ ] leet study
 
 study:
   - [ ] study clean architecture on rxjs?
