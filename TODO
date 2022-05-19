@@ -1,6 +1,6 @@
 day-2022-05-18:
-  - [ ] 블로그 정리 및 내일 할일 정리 2022-05-18
-  - [ ] update fun list
+  - [x] 블로그 정리 및 내일 할일 정리 2022-05-18 @started(22-05-19 08:59) @done(22-05-19 09:02) @lasted(3m54s)
+  ✘ [ ] update fun list @cancelled(22-05-19 09:02)
   job:
     - [x] GOP-17166 error on attempt exceed 2 @started(22-05-18 09:13) @done(22-05-18 10:00) @lasted(47m12s)
     - [x] GOP-16985 create test accounts @started(22-05-18 10:00) @done(22-05-18 11:18) @lasted(1h18m36s)
@@ -9,6 +9,22 @@ day-2022-05-18:
     - [x] GOP-16875 re-enable app push noti @started(22-05-18 14:05) @done(22-05-18 14:50) @lasted(45m28s)
     - [x] GOP-16440 error on bank deposit shortage @started(22-05-18 14:52) @done(22-05-18 16:11) @lasted(1h19m23s)
     - [x] GOP-17166 error on verification attempt exceed 3 @started(22-05-18 17:43) @done(22-05-18 19:19) @lasted(1h36m14s)
+    ✘ [ ] GOP-16696 settlebank availability caching - apply review 1 @cancelled(22-05-19 09:02)
+    ✘ [ ] GOP-15993 limit another bank account register api 2 - add @cancelled(22-05-19 09:02)
+    ✘ [ ] GOP-16440 error on bank deposit shortage 2 @cancelled(22-05-19 09:02)
+    ✘ [ ] GOP-16875 re-enable app push noti 2 @cancelled(22-05-19 09:02)
+    ✘ [ ] GOP-16985 create test accounts 2 @cancelled(22-05-19 09:02)
+    ✘ [ ] jb task apply code review 2 @cancelled(22-05-19 09:02)
+    ✘ [ ] story point discussion @cancelled(22-05-19 09:02)
+  arb:
+    ✘ [ ] investigate fee rates @cancelled(22-05-19 09:02)
+  study:
+    - [x] leet study @done(22-05-19 09:02)
+
+day-2022-05-19:
+  - [ ] 블로그 정리 및 내일 할일 정리 2022-05-19
+  - [ ] update fun list
+  job:
     - [ ] GOP-16696 settlebank availability caching - apply review 1
     - [ ] GOP-15993 limit another bank account register api 2 - add
     - [ ] GOP-16440 error on bank deposit shortage 2
