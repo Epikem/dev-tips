@@ -1,5 +1,5 @@
 day-2022-05-19:
-  - [ ] 블로그 정리 및 내일 할일 정리 2022-05-19
+  - [x] 블로그 정리 및 내일 할일 정리 2022-05-19 @started(22-05-20 10:06) @done(22-05-20 10:13) @lasted(7m4s)
   - [ ] update fun list
   job:
     - [x] GOP-17166 error on attempt exceed 4 @started(22-05-19 09:05) @done(22-05-19 09:33) @lasted(28m7s)
@@ -10,6 +10,21 @@ day-2022-05-19:
     - [x] review 2 @started(22-05-19 12:44) @done(22-05-19 13:01) @lasted(17m12s)
     - [x] GOP-17310 @high @due(22-05-31) @started(22-05-19 15:01) @done(22-05-19 15:22) @lasted(21m27s)
     - [x] GOP-17166 error on attempt exceed 5 @started(22-05-19 15:44) @done(22-05-19 17:57) @lasted(2h13m33s)
+    - [ ] GOP-17166 error on attempt exceed 6
+    - [ ] GOP-15993 limit another bank account register api 2 - add
+    - [ ] GOP-16440 error on balance shortage 2
+    - [ ] GOP-16985 create test accounts 2
+    - [ ] jb task apply code review 2
+  arb:
+    - [ ] investigate fee rates
+  study:
+    - [ ] leet study
+
+day-2022-05-20:
+  - [ ] 블로그 정리 및 내일 할일 정리 2022-05-20
+  - [ ] update fun list
+  job:
+    - [ ] GOP-17310 @high @due(22-05-31)
     - [ ] GOP-17166 error on attempt exceed 6
     - [ ] GOP-15993 limit another bank account register api 2 - add
     - [ ] GOP-16440 error on balance shortage 2
