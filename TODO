@@ -11,7 +11,7 @@ day-2022-05-20:
     - [ ] GOP-16440 error on balance shortage 2
     - [ ] jb task apply code review 2
   arb:
-    - [ ] investigate fee rates
+    - [x] investigate fee rates @started(22-05-20 18:34) @done(22-05-20 19:30) @lasted(56m54s)
   study:
     - [ ] leet study
 
