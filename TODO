@@ -1,32 +1,32 @@
-day-2022-05-20:
-  - [ ] 블로그 정리 및 내일 할일 정리 2022-05-20
+day-2022-05-23:
+  - [ ] 블로그 정리 및 내일 할일 정리 2022-05-23
   - [ ] update fun list
   job:
-    - [x] GOP-17166 error on attempt exceed 6 @started(22-05-20 10:13) @done(22-05-20 10:17) @lasted(4m36s)
-    - [x] GOP-17310 2 @high @due(22-05-31) @started(22-05-20 10:18) @done(22-05-20 10:34) @lasted(16m28s)
-    - [x] GOP-15993 limit another bank account register api 2 - add @started(22-05-20 10:36) @done(22-05-20 11:12) @lasted(36m47s)
-    - [x] GOP-15993 limit another bank account register api 3 @started(22-05-20 13:31) @done(22-05-20 14:58) @lasted(1h27m16s)
-    - [x] GOP-16985 create test accounts 2 @done(22-05-20 18:12)
+    - [x] cs ticket @highest @started(22-05-23 10:54) @done(22-05-23 13:28) @lasted(2h34m53s)
+    - [x] GOP-17299 @started(22-05-23 13:29) @done(22-05-23 13:42) @lasted(13m10s)
+    - [x] GOP-16440 error on balance shortage 2 @started(22-05-23 13:42) @done(22-05-23 14:57) @lasted(1h15m21s)
+    - [x] GOP-11556 local login @started(22-05-23 15:20) @done(22-05-23 16:55) @lasted(1h35m10s)
+    - [x] ad task @started(22-05-23 16:55) @done(22-05-23 18:24) @lasted(1h29m39s)
+    - [x] ad task @started(22-05-23 20:51) @done(22-05-23 22:51) @lasted(2h10s)
+    - [ ] GOP-11556 local login 2
     - [ ] GOP-17310 2 @high @due(22-05-31)
-    - [ ] GOP-16440 error on balance shortage 2
+    - [ ] GOP-17360 @high @due(22-05-31)
     - [ ] jb task apply code review 2
-  arb:
-    - [x] investigate fee rates @started(22-05-20 18:34) @done(22-05-20 19:30) @lasted(56m54s)
   study:
     - [ ] leet study
 
 study:
-  - [ ] study clean architecture on rxjs?
   - [ ] prepare next study - clean architecture
   - [ ] prepare next study - data study
 
 arb:
   todos:
-    - [ ] fee feature 2
-    - [ ] ccxt - balance order 4 apply review
-    - [ ] sendOrder 필요한 필드 정리 (market limit 등)
+    - [ ] sendOrder 필요한 필드 추가?
+    - [ ] strategy logic 변경 반영
+    - [ ] 직접 돌리기
 
 job:
+  - [ ] study clean architecture on rxjs?
   - [ ] ad task apply review 5 - refactor mock sql
   - [ ] ad task apply review 5 - lint
   - [ ] jb handle broken status
@@ -113,6 +113,18 @@ longterm:
   - [ ] 영어 공부하기
 
 Archive:
+  - [x] 블로그 정리 및 내일 할일 정리 2022-05-20 @started(22-05-23 10:38) @done(22-05-23 10:54) @lasted(16m24s) @project(day-2022-05-20)
+  ✘ [ ] update fun list @cancelled(22-05-23 10:41) @project(day-2022-05-20)
+  - [x] GOP-17166 error on attempt exceed 6 @started(22-05-20 10:13) @done(22-05-20 10:17) @lasted(4m36s) @project(day-2022-05-20.job)
+  - [x] GOP-17310 2 @high @due(22-05-31) @started(22-05-20 10:18) @done(22-05-20 10:34) @lasted(16m28s) @project(day-2022-05-20.job)
+  - [x] GOP-15993 limit another bank account register api 2 - add @started(22-05-20 10:36) @done(22-05-20 11:12) @lasted(36m47s) @project(day-2022-05-20.job)
+  - [x] GOP-15993 limit another bank account register api 3 @started(22-05-20 13:31) @done(22-05-20 14:58) @lasted(1h27m16s) @project(day-2022-05-20.job)
+  - [x] GOP-16985 create test accounts 2 @done(22-05-20 18:12) @project(day-2022-05-20.job)
+  ✘ [ ] GOP-17310 2 @high @due(22-05-31) @cancelled(22-05-23 10:40) @project(day-2022-05-20.job)
+  ✘ [ ] GOP-16440 error on balance shortage 2 @cancelled(22-05-23 10:40) @project(day-2022-05-20.job)
+  ✘ [ ] jb task apply code review 2 @cancelled(22-05-23 10:40) @project(day-2022-05-20.job)
+  - [x] investigate fee rates @started(22-05-20 18:34) @done(22-05-20 19:30) @lasted(56m54s) @project(day-2022-05-20.arb)
+  ✘ [ ] leet study @cancelled(22-05-23 10:40) @project(day-2022-05-20.study)
   - [x] 블로그 정리 및 내일 할일 정리 2022-05-19 @started(22-05-20 10:06) @done(22-05-20 10:13) @lasted(7m4s) @project(day-2022-05-19)
   - [x] GOP-17166 error on attempt exceed 4 @started(22-05-19 09:05) @done(22-05-19 09:33) @lasted(28m7s) @project(day-2022-05-19.job)
   - [x] GOP-16696 settlebank availability caching - apply review 1 @started(22-05-19 09:33) @done(22-05-19 10:50) @lasted(1h17m8s) @project(day-2022-05-19.job)
