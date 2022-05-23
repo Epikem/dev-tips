@@ -1,5 +1,5 @@
 day-2022-05-23:
-  - [ ] 블로그 정리 및 내일 할일 정리 2022-05-23
+  - [x] 블로그 정리 및 내일 할일 정리 2022-05-23 @started(22-05-24 08:53) @done(22-05-24 08:54) @lasted(1m42s)
   - [ ] update fun list
   job:
     - [x] cs ticket @highest @started(22-05-23 10:54) @done(22-05-23 13:28) @lasted(2h34m53s)
@@ -8,6 +8,17 @@ day-2022-05-23:
     - [x] GOP-11556 local login @started(22-05-23 15:20) @done(22-05-23 16:55) @lasted(1h35m10s)
     - [x] ad task @started(22-05-23 16:55) @done(22-05-23 18:24) @lasted(1h29m39s)
     - [x] ad task @started(22-05-23 20:51) @done(22-05-23 22:51) @lasted(2h10s)
+    - [ ] GOP-11556 local login 2
+    - [ ] GOP-17310 2 @high @due(22-05-31)
+    - [ ] GOP-17360 @high @due(22-05-31)
+    - [ ] jb task apply code review 2
+  study:
+    - [ ] leet study
+
+day-2022-05-24:
+  - [ ] 블로그 정리 및 내일 할일 정리 2022-05-24
+  - [ ] update fun list
+  job:
     - [ ] GOP-11556 local login 2
     - [ ] GOP-17310 2 @high @due(22-05-31)
     - [ ] GOP-17360 @high @due(22-05-31)
