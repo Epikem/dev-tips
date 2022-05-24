@@ -1,28 +1,18 @@
-day-2022-05-23:
-  - [x] 블로그 정리 및 내일 할일 정리 2022-05-23 @started(22-05-24 08:53) @done(22-05-24 08:54) @lasted(1m42s)
-  - [ ] update fun list
-  job:
-    - [x] cs ticket @highest @started(22-05-23 10:54) @done(22-05-23 13:28) @lasted(2h34m53s)
-    - [x] GOP-17299 @started(22-05-23 13:29) @done(22-05-23 13:42) @lasted(13m10s)
-    - [x] GOP-16440 error on balance shortage 2 @started(22-05-23 13:42) @done(22-05-23 14:57) @lasted(1h15m21s)
-    - [x] GOP-11556 local login @started(22-05-23 15:20) @done(22-05-23 16:55) @lasted(1h35m10s)
-    - [x] ad task @started(22-05-23 16:55) @done(22-05-23 18:24) @lasted(1h29m39s)
-    - [x] ad task @started(22-05-23 20:51) @done(22-05-23 22:51) @lasted(2h10s)
-    - [ ] GOP-11556 local login 2
-    - [ ] GOP-17310 2 @high @due(22-05-31)
-    - [ ] GOP-17360 @high @due(22-05-31)
-    - [ ] jb task apply code review 2
-  study:
-    - [ ] leet study
-
 day-2022-05-24:
   - [ ] 블로그 정리 및 내일 할일 정리 2022-05-24
   - [ ] update fun list
   job:
+    - [x] GOP-15993 limit bai apply review @started(22-05-24 09:09) @done(22-05-24 09:12) @lasted(3m5s)
+    - [x] GOP-11556 local login 2 @started(22-05-24 09:12) @done(22-05-24 11:29) @lasted(2h17m5s)
+    - [x] GOP-17360 @high @due(22-05-26) @started(22-05-24 13:30) @done(22-05-24 17:56) @lasted(4h26m32s)
+    - [ ] GOP-17310 2 @high @due(22-05-26)
+    - [ ] GOP-17310 3 @high @due(22-05-26)
+    - [ ] GOP-17408 share server
     - [ ] GOP-11556 local login 2
-    - [ ] GOP-17310 2 @high @due(22-05-31)
-    - [ ] GOP-17360 @high @due(22-05-31)
     - [ ] jb task apply code review 2
+    study:
+      - [x] study clean architecture on rxjs? @started(22-05-24 10:19) @done(22-05-24 11:29) @lasted(1h10m8s)
+      - [ ] study clean architecture on rxjs?
   study:
     - [ ] leet study
 
@@ -37,7 +27,6 @@ arb:
     - [ ] 직접 돌리기
 
 job:
-  - [ ] study clean architecture on rxjs?
   - [ ] ad task apply review 5 - refactor mock sql
   - [ ] ad task apply review 5 - lint
   - [ ] jb handle broken status
@@ -124,6 +113,13 @@ longterm:
   - [ ] 영어 공부하기
 
 Archive:
+  - [x] 블로그 정리 및 내일 할일 정리 2022-05-23 @started(22-05-24 08:53) @done(22-05-24 08:54) @lasted(1m42s) @project(day-2022-05-23)
+  - [x] cs ticket @highest @started(22-05-23 10:54) @done(22-05-23 13:28) @lasted(2h34m53s) @project(day-2022-05-23.job)
+  - [x] GOP-17299 @started(22-05-23 13:29) @done(22-05-23 13:42) @lasted(13m10s) @project(day-2022-05-23.job)
+  - [x] GOP-16440 error on balance shortage 2 @started(22-05-23 13:42) @done(22-05-23 14:57) @lasted(1h15m21s) @project(day-2022-05-23.job)
+  - [x] GOP-11556 local login @started(22-05-23 15:20) @done(22-05-23 16:55) @lasted(1h35m10s) @project(day-2022-05-23.job)
+  - [x] ad task @started(22-05-23 16:55) @done(22-05-23 18:24) @lasted(1h29m39s) @project(day-2022-05-23.job)
+  - [x] ad task @started(22-05-23 20:51) @done(22-05-23 22:51) @lasted(2h10s) @project(day-2022-05-23.job)
   - [x] 블로그 정리 및 내일 할일 정리 2022-05-20 @started(22-05-23 10:38) @done(22-05-23 10:54) @lasted(16m24s) @project(day-2022-05-20)
   ✘ [ ] update fun list @cancelled(22-05-23 10:41) @project(day-2022-05-20)
   - [x] GOP-17166 error on attempt exceed 6 @started(22-05-20 10:13) @done(22-05-20 10:17) @lasted(4m36s) @project(day-2022-05-20.job)
