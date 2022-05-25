@@ -1,5 +1,5 @@
 day-2022-05-24:
-  - [ ] 블로그 정리 및 내일 할일 정리 2022-05-24
+  - [x] 블로그 정리 및 내일 할일 정리 2022-05-24 @started(22-05-25 11:12) @done(22-05-25 11:13) @lasted(1m48s)
   - [ ] update fun list
   job:
     - [x] GOP-15993 limit bai apply review @started(22-05-24 09:09) @done(22-05-24 09:12) @lasted(3m5s)
@@ -14,7 +14,22 @@ day-2022-05-24:
       - [x] study clean architecture on rxjs? @started(22-05-24 10:19) @done(22-05-24 11:29) @lasted(1h10m8s)
       - [ ] study clean architecture on rxjs?
   study:
-    - [x] leet study @started(22-05-24 19:02) @done(22-05-24 20:37) @lasted(1h35m9s)
+    - [x] leet study solve problem @started(22-05-24 19:02) @done(22-05-24 20:37) @lasted(1h35m9s)
+
+day-2022-05-25:
+  - [ ] 블로그 정리 및 내일 할일 정리 2022-05-25
+  - [ ] update fun list
+  job:
+    - [ ] GOP-17360 2 @high @due(22-05-26)
+    - [ ] GOP-17310 2 @high @due(22-05-26)
+    - [ ] GOP-17310 3 @high @due(22-05-26)
+    - [ ] GOP-17408 share server
+    - [ ] GOP-11556 local login 2
+    - [ ] jb task apply code review 2
+    study:
+      - [ ] study clean architecture on rxjs?
+  study:
+    - [ ] leet study
 
 study:
   - [ ] prepare next study - clean architecture
