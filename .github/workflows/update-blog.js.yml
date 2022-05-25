@@ -10,7 +10,7 @@ on:
     branches: [ main ]
   # schedule:
   # - cron: "0 2 * * 1-5"
-  
+
 jobs:
   build:
     env:
@@ -35,14 +35,14 @@ jobs:
       uses: actions/setup-node@v1 # use v1 while subdirectory not supported
       with:
         node-version: ${{ matrix.node-version }}
-        # cache: 'npm' 
+        # cache: 'npm'
         # working-directory: ./scripts/blog-updater  # subdirectory not yet supported: https://github.com/actions/setup-node/pull/299
     - name: test
       run: npm ci && npm test
     - name: process posts
       run: npm run process
     - name: public to blog
-      env: 
+      env:
         API_TOKEN_GITHUB: ${{ secrets.UPDATE_BLOG }}
       run: |
         git clone https://epikem:$GITHUB_TOKEN@github.com/epikem/epikem.github.io
@@ -54,9 +54,11 @@ jobs:
         git checkout main
         pwd
         cp -R ../private/_posts/$YEAR ./_posts
-        
+
         git add .
         git commit -m "copy posts from dev-tips $(date +'%Y-%m-%d')"
+
+        echo 'push to github'
     - name: GitHub Push
       uses: ad-m/github-push-action@v0.6.0
       with:
