@@ -1,30 +1,17 @@
-day-2022-05-25:
-  - [x] 블로그 정리 및 내일 할일 정리 2022-05-25 @started(22-05-26 10:22) @done(22-05-26 10:24) @lasted(2m4s)
-  - [ ] update fun list
-  job:
-    - [x] GOP-17360 2 @high @due(22-05-26) @started(22-05-25 11:14) @done(22-05-25 14:36) @lasted(3h22m5s)
-    - [x] GOP-17310 3 @high @due(22-05-26) @done(22-05-25 14:47)
-    - [x] GOP-17424 @high @started(22-05-25 14:47) @done(22-05-25 17:11) @lasted(2h24m35s)
-    - [ ] GOP-17408 share server @medium
-    - [ ] GOP-11556 local login 2
-    - [ ] jb task apply code review 2
-    study:
-      - [ ] study clean architecture on rxjs?
-  study:
-    - [ ] leet study
-
 day-2022-05-26:
   - [ ] 블로그 정리 및 내일 할일 정리 2022-05-26
   - [ ] update fun list
   job:
-    - [ ] GOP-17424 2 @high
-    - [ ] GOP-17408 share server @medium
+    - [x] GOP-17408 share server 2 @medium @started(22-05-26 10:25) @done(22-05-26 11:59) @lasted(1h34m47s)
+    - [x] GOP-17408 share server 3 @started(22-05-26 13:17) @done(22-05-26 13:57) @lasted(40m21s)
+    - [x] GOP-17424, etc kakao msg edit 2 @high @started(22-05-26 14:00) @done(22-05-26 14:16) @lasted(16m30s)
+    - [x] GOP-17408 share server 4 @started(22-05-26 14:16) @done(22-05-26 18:38) @lasted(4h22m34s)
+    - [ ] GOP-17408 share server 5
     - [ ] GOP-11556 local login 2
     - [ ] jb task apply code review 2
     study:
-      - [ ] study clean architecture on rxjs?
-  study:
-    - [ ] leet study
+      - [ ] study clean architecture on rxjs 2
+      - [ ] prepare ch 8
 
 study:
   - [ ] prepare next study - clean architecture
@@ -123,6 +110,10 @@ longterm:
   - [ ] 영어 공부하기
 
 Archive:
+  - [x] 블로그 정리 및 내일 할일 정리 2022-05-25 @started(22-05-26 10:22) @done(22-05-26 10:24) @lasted(2m4s) @project(day-2022-05-25)
+  - [x] GOP-17360 2 @high @due(22-05-26) @started(22-05-25 11:14) @done(22-05-25 14:36) @lasted(3h22m5s) @project(day-2022-05-25.job)
+  - [x] GOP-17310 3 @high @due(22-05-26) @done(22-05-25 14:47) @project(day-2022-05-25.job)
+  - [x] GOP-17424 @high @started(22-05-25 14:47) @done(22-05-25 17:11) @lasted(2h24m35s) @project(day-2022-05-25.job)
   - [x] 블로그 정리 및 내일 할일 정리 2022-05-24 @started(22-05-25 11:12) @done(22-05-25 11:13) @lasted(1m48s) @project(day-2022-05-24)
   - [x] GOP-15993 limit bai apply review @started(22-05-24 09:09) @done(22-05-24 09:12) @lasted(3m5s) @project(day-2022-05-24.job)
   - [x] GOP-11556 local login 2 @started(22-05-24 09:12) @done(22-05-24 11:29) @lasted(2h17m5s) @project(day-2022-05-24.job)
