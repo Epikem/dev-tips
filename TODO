@@ -1,11 +1,23 @@
 day-2022-05-26:
-  - [ ] 블로그 정리 및 내일 할일 정리 2022-05-26
+  - [x] 블로그 정리 및 내일 할일 정리 2022-05-26 @started(22-05-27 10:08) @done(22-05-27 10:21) @lasted(13m32s)
   - [ ] update fun list
   job:
     - [x] GOP-17408 share server 2 @medium @started(22-05-26 10:25) @done(22-05-26 11:59) @lasted(1h34m47s)
     - [x] GOP-17408 share server 3 @started(22-05-26 13:17) @done(22-05-26 13:57) @lasted(40m21s)
     - [x] GOP-17424, etc kakao msg edit 2 @high @started(22-05-26 14:00) @done(22-05-26 14:16) @lasted(16m30s)
     - [x] GOP-17408 share server 4 @started(22-05-26 14:16) @done(22-05-26 18:38) @lasted(4h22m34s)
+    - [ ] GOP-17408 share server 5
+    - [ ] GOP-11556 local login 2
+    - [ ] jb task apply code review 2
+    study:
+      - [ ] study clean architecture on rxjs 2
+      - [ ] prepare ch 8
+
+day-2022-05-27:
+  - [ ] 블로그 정리 및 내일 할일 정리 2022-05-27
+  - [ ] update fun list
+  job:
+    - [ ] GOP-17588 cs
     - [ ] GOP-17408 share server 5
     - [ ] GOP-11556 local login 2
     - [ ] jb task apply code review 2
