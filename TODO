@@ -1,20 +1,10 @@
-day-2022-05-30:
-  - [x] 블로그 정리 및 내일 할일 정리 2022-05-30 @started(22-05-31 09:05) @done(22-05-31 09:19) @lasted(14m31s)
-  job:
-    - [x] GOP-17620 cs ticket @started(22-05-30 13:03) @done(22-05-30 14:01) @lasted(58m12s)
-    - [x] GOP-17408 share server 5 @started(22-05-30 14:01) @done(22-05-30 22:24) @lasted(8h23m15s)
-    - [ ] GOP-11556 local login 2
-    - [ ] jb task apply code review 2
-    study:
-      - [ ] study clean architecture on rxjs 2
-      - [ ] prepare ch 8
-
 day-2022-05-31:
   - [ ] 블로그 정리 및 내일 할일 정리 2022-05-31
   job:
-    - [ ] GOP-17166 error on attempt exceed 6
+    - [x] GOP-17166 error on attempt exceed 6 apply review @started(22-05-31 09:23) @done(22-05-31 18:41) @lasted(9h18m16s)
+    - [ ] GOP-17408 share server 6
     - [ ] GOP-11556 local login 2
-    - [ ] jb task apply code review 2
+    - [ ] jb task apply code review 2 pwd
     study:
       - [ ] data study
       - [ ] study clean architecture on rxjs 2
@@ -118,6 +108,9 @@ longterm:
   - [ ] 영어 공부하기
 
 Archive:
+  - [x] 블로그 정리 및 내일 할일 정리 2022-05-30 @started(22-05-31 09:05) @done(22-05-31 09:19) @lasted(14m31s) @project(day-2022-05-30)
+  - [x] GOP-17620 cs ticket @started(22-05-30 13:03) @done(22-05-30 14:01) @lasted(58m12s) @project(day-2022-05-30.job)
+  - [x] GOP-17408 share server 5 @started(22-05-30 14:01) @done(22-05-30 22:24) @lasted(8h23m15s) @project(day-2022-05-30.job)
   - [x] 블로그 정리 및 내일 할일 정리 2022-05-29 @started(22-05-30 11:24) @done(22-05-30 11:37) @lasted(13m23s) @project(day-2022-05-29)
   - [x] update fun list @started(22-05-29 10:39) @done(22-05-29 11:19) @lasted(40m27s) @project(day-2022-05-29)
   - [x] 출금수수료 작업 @done(22-05-30 11:27) @project(day-2022-05-29.arb)
