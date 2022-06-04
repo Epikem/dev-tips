@@ -1,5 +1,5 @@
 day-2022-05-31:
-  - [ ] 블로그 정리 및 내일 할일 정리 2022-05-31
+  - [x] 블로그 정리 및 내일 할일 정리 2022-05-31 @started(22-06-04 18:06) @done(22-06-04 18:08) @lasted(2m33s)
   arb:
     - [x] fix database @started(22-06-02 23:05) @done(22-06-02 23:50) @lasted(45m41s)
   job:
@@ -8,7 +8,20 @@ day-2022-05-31:
     - [ ] GOP-11556 local login 2
     - [ ] jb task apply code review 2 pwd
     study:
-      - [ ] data study
+      - [x] data study @done(22-06-04 17:52)
+      - [ ] study clean architecture on rxjs 2
+      - [ ] prepare ch 8
+
+day-2022-06-04:
+  - [ ] 블로그 정리 및 내일 할일 정리 2022-06-04
+  arb:
+    - [ ] test cancelorder
+    - [ ] 시스템 사용해보기 (register, detect 돌리기, save, load 사용)
+  job:
+    - [ ] GOP-17408 share server 6
+    - [ ] GOP-11556 local login 2
+    - [ ] jb task apply code review 2 pwd
+    study:
       - [ ] study clean architecture on rxjs 2
       - [ ] prepare ch 8
 
