@@ -1,21 +1,7 @@
-day-2022-05-31:
-  - [x] 블로그 정리 및 내일 할일 정리 2022-05-31 @started(22-06-04 18:06) @done(22-06-04 18:08) @lasted(2m33s)
-  arb:
-    - [x] fix database @started(22-06-02 23:05) @done(22-06-02 23:50) @lasted(45m41s)
-  job:
-    - [x] GOP-17166 error on attempt exceed 6 apply review @started(22-05-31 09:23) @done(22-05-31 18:41) @lasted(9h18m16s)
-    - [ ] GOP-17408 share server 6
-    - [ ] GOP-11556 local login 2
-    - [ ] jb task apply code review 2 pwd
-    study:
-      - [x] data study @done(22-06-04 17:52)
-      - [ ] study clean architecture on rxjs 2
-      - [ ] prepare ch 8
-
 day-2022-06-04:
   - [ ] 블로그 정리 및 내일 할일 정리 2022-06-04
   arb:
-    - [ ] test cancelorder
+    - [x] test cancelorder, add interface @started(22-06-04 18:18) @done(22-06-04 18:48) @lasted(30m33s)
     - [ ] 시스템 사용해보기 (register, detect 돌리기, save, load 사용)
   job:
     - [ ] GOP-17408 share server 6
@@ -123,6 +109,10 @@ longterm:
   - [ ] 영어 공부하기
 
 Archive:
+  - [x] 블로그 정리 및 내일 할일 정리 2022-05-31 @started(22-06-04 18:06) @done(22-06-04 18:08) @lasted(2m33s) @project(day-2022-05-31)
+  - [x] fix database @started(22-06-02 23:05) @done(22-06-02 23:50) @lasted(45m41s) @project(day-2022-05-31.arb)
+  - [x] GOP-17166 error on attempt exceed 6 apply review @started(22-05-31 09:23) @done(22-05-31 18:41) @lasted(9h18m16s) @project(day-2022-05-31.job)
+  - [x] data study @done(22-06-04 17:52) @project(day-2022-05-31.job.study)
   - [x] 블로그 정리 및 내일 할일 정리 2022-05-30 @started(22-05-31 09:05) @done(22-05-31 09:19) @lasted(14m31s) @project(day-2022-05-30)
   - [x] GOP-17620 cs ticket @started(22-05-30 13:03) @done(22-05-30 14:01) @lasted(58m12s) @project(day-2022-05-30.job)
   - [x] GOP-17408 share server 5 @started(22-05-30 14:01) @done(22-05-30 22:24) @lasted(8h23m15s) @project(day-2022-05-30.job)
