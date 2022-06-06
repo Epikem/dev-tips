@@ -1,7 +1,23 @@
 day-2022-06-04:
-  - [ ] 블로그 정리 및 내일 할일 정리 2022-06-04
+  - [x] 블로그 정리 및 내일 할일 정리 2022-06-04 @started(22-06-06 14:24) @done(22-06-06 14:32) @lasted(8m38s)
   arb:
     - [x] test cancelorder, add interface @started(22-06-04 18:18) @done(22-06-04 18:48) @lasted(30m33s)
+    - [x] discuss @started(22-06-04 22:11) @done(22-06-04 23:23) @lasted(1h12m37s)
+    - [x] fix db @done(22-06-06 14:25)
+    - [x] update formular @done(22-06-06 14:25)
+    - [ ] fix cancel order tc
+    - [ ] 시스템 사용해보기 (register, detect 돌리기, save, load 사용)
+  job:
+    - [ ] GOP-17408 share server 6
+    - [ ] GOP-11556 local login 2
+    - [ ] jb task apply code review 2 pwd
+    study:
+      - [ ] study clean architecture on rxjs 2
+      - [ ] prepare ch 8
+
+day-2022-06-06:
+  - [ ] 블로그 정리 및 내일 할일 정리 2022-06-06
+  arb:
     - [ ] 시스템 사용해보기 (register, detect 돌리기, save, load 사용)
   job:
     - [ ] GOP-17408 share server 6
@@ -17,6 +33,7 @@ study:
 
 arb:
   todos:
+    - [ ] 운영법 알려주기
     - [ ] 출금수수료 작업 2
     - [ ] sendOrder 필요한 필드 추가?
     - [ ] strategy logic 변경 반영
