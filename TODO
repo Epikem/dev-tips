@@ -1,5 +1,5 @@
 day-2022-06-06:
-  - [ ] 블로그 정리 및 내일 할일 정리 2022-06-06
+  - [x] 블로그 정리 및 내일 할일 정리 2022-06-06 @started(22-06-07 07:16) @done(22-06-07 07:18) @lasted(2m20s)
   arb:
     - [ ] 시스템 사용해보기 (register, detect 돌리기, save, load 사용)
   job:
@@ -11,12 +11,28 @@ day-2022-06-06:
       - [x] prepare ch 8 - 2 @started(22-06-06 15:29) @done(22-06-06 17:48) @lasted(2h19m40s)
       - [ ] study clean architecture on rxjs 2
 
+day-2022-06-07:
+  - [ ] 블로그 정리 및 내일 할일 정리 2022-06-06
+  arb:
+    - [ ] 시스템 사용해보기 (register, detect 돌리기, save, load 사용)
+  job:
+    - [ ] cleanup jb tickets
+    - [ ] GOP-17408 share server 6
+    - [ ] GOP-11556 local login 2
+    - [ ] jb task apply code review 2 pwd
+    study:
+      - [ ] data study
+      - [ ] prepare ch 8 - 3
+      - [ ] study clean architecture on rxjs 2
+
 study:
   - [ ] prepare next study - clean architecture
   - [ ] prepare next study - data study
 
 arb:
   todos:
+    - [ ] get passport
+    - [ ] waizrx 가입
     - [ ] 운영법 알려주기
     - [ ] 출금수수료 작업 2
     - [ ] sendOrder 필요한 필드 추가?
