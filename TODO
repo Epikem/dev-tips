@@ -1,27 +1,19 @@
-day-2022-06-06:
-  - [x] 블로그 정리 및 내일 할일 정리 2022-06-06 @started(22-06-07 07:16) @done(22-06-07 07:18) @lasted(2m20s)
-  arb:
-    - [ ] 시스템 사용해보기 (register, detect 돌리기, save, load 사용)
-  job:
-    - [ ] GOP-17408 share server 6
-    - [ ] GOP-11556 local login 2
-    - [ ] jb task apply code review 2 pwd
-    study:
-      - [x] prepare ch 8 - 1 @started(22-06-06 14:41) @done(22-06-06 14:57) @lasted(16m59s)
-      - [x] prepare ch 8 - 2 @started(22-06-06 15:29) @done(22-06-06 17:48) @lasted(2h19m40s)
-      - [ ] study clean architecture on rxjs 2
-
 day-2022-06-07:
   - [ ] 블로그 정리 및 내일 할일 정리 2022-06-06
   arb:
     - [ ] 시스템 사용해보기 (register, detect 돌리기, save, load 사용)
   job:
-    - [ ] cleanup jb tickets
+    - [x] cleanup jb tickets @started(22-06-07 07:23) @done(22-06-07 07:38) @lasted(15m29s)
+    - [x] GOP-17680 lint script @started(22-06-07 07:40) @done(22-06-07 08:41) @lasted(1h1m8s)
+    - [x] GOP-17680 lint script 2 @started(22-06-07 09:26) @done(22-06-07 09:51) @lasted(25m17s)
+    - [x] GOP-17648 share server 7 connect 1 @started(22-06-07 09:51) @done(22-06-07 11:55) @lasted(2h4m7s)
+    - [x] daily @started(22-06-07 13:02) @done(22-06-07 13:23) @lasted(21m2s)
+    - [x] GOP-17648 share server 7 connect 2 @started(22-06-07 15:24) @done(22-06-07 16:27) @lasted(1h3m47s)
     - [ ] GOP-17408 share server 6
     - [ ] GOP-11556 local login 2
     - [ ] jb task apply code review 2 pwd
     study:
-      - [ ] data study
+      - [x] data study @started(22-06-07 12:12) @done(22-06-07 13:01) @lasted(49m59s)
       - [ ] prepare ch 8 - 3
       - [ ] study clean architecture on rxjs 2
 
@@ -126,6 +118,9 @@ longterm:
   - [ ] 영어 공부하기
 
 Archive:
+  - [x] 블로그 정리 및 내일 할일 정리 2022-06-06 @started(22-06-07 07:16) @done(22-06-07 07:18) @lasted(2m20s) @project(day-2022-06-06)
+  - [x] prepare ch 8 - 1 @started(22-06-06 14:41) @done(22-06-06 14:57) @lasted(16m59s) @project(day-2022-06-06.job.study)
+  - [x] prepare ch 8 - 2 @started(22-06-06 15:29) @done(22-06-06 17:48) @lasted(2h19m40s) @project(day-2022-06-06.job.study)
   - [x] 블로그 정리 및 내일 할일 정리 2022-06-04 @started(22-06-06 14:24) @done(22-06-06 14:32) @lasted(8m38s) @project(day-2022-06-04)
   - [x] test cancelorder, add interface @started(22-06-04 18:18) @done(22-06-04 18:48) @lasted(30m33s) @project(day-2022-06-04.arb)
   - [x] discuss @started(22-06-04 22:11) @done(22-06-04 23:23) @lasted(1h12m37s) @project(day-2022-06-04.arb)
