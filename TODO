@@ -1,12 +1,18 @@
-day-2022-06-08:
-  - [x] 블로그 정리 및 내일 할일 정리 2022-06-08 @started(22-06-09 09:02) @done(22-06-09 09:02) @lasted(47s)
+day-2022-06-09:
+  - [x] 블로그 정리 및 내일 할일 정리 2022-06-09 @started(22-06-09 19:21) @done(22-06-09 19:24) @lasted(3m56s)
   job:
-    - [x] GOP-17648 share server 7 connect 3 @started(22-06-08 11:25) @done(22-06-08 14:13) @lasted(2h48m8s)
-    - [x] GOP-17874 cs ticket @started(22-06-08 14:13) @done(22-06-08 15:02) @lasted(49m20s)
-    - [x] sprint planning @started(22-06-08 15:02) @done(22-06-08 16:13) @lasted(1h11m24s)
-    - [x] GOP-17874 cs ticket 2 @started(22-06-08 16:13) @done(22-06-08 17:46) @lasted(1h33m52s)
-    - [ ] GOP-17648 share server 7 connect 4
-    - [ ] GOP-17408 share server 6
+    - [x] GOP-17897 cs ticket 1 @started(22-06-09 09:14) @done(22-06-09 09:39) @lasted(25m1s)
+    - [x] GOP-17680 lint scripts apply review @done(22-06-09 10:39)
+    - [x] GOP-17408 apply review @started(22-06-09 10:40) @done(22-06-09 12:03) @lasted(1h23m51s)
+    - [x] GOP-17904 cs ticket @started(22-06-09 12:06) @done(22-06-09 12:59) @lasted(53m16s)
+    - [x] daily @started(22-06-09 13:03) @done(22-06-09 13:09) @lasted(6m30s)
+    - [x] GOP-17932 @started(22-06-09 13:13) @done(22-06-09 13:33) @lasted(20m29s)
+    - [x] sprint planning @started(22-06-09 13:33) @done(22-06-09 14:42) @lasted(1h9m6s)
+    - [x] GOP-17932 2 @done(22-06-09 14:42)
+    - [x] GOP-17680 lint scripts apply review @started(22-06-09 14:45) @done(22-06-09 15:58) @lasted(1h13m8s)
+    - [x] GOP-17648 share server 7 lint @started(22-06-09 15:58) @done(22-06-09 17:37) @lasted(1h39m26s)
+    - [x] GOP-17648 share server 8 @started(22-06-09 17:37) @done(22-06-09 19:20) @lasted(1h43m27s)
+    - [ ] GOP-17904 cs ticket 2
     - [ ] GOP-11556 local login 2
     - [ ] jb task apply code review 2 pwd
     study:
@@ -15,13 +21,12 @@ day-2022-06-08:
   arb:
     - [ ] 시스템 사용해보기 (register, detect 돌리기, save, load 사용)
 
-day-2022-06-09:
-  - [ ] 블로그 정리 및 내일 할일 정리 2022-06-09
+day-2022-06-10:
+  - [ ] 블로그 정리 및 내일 할일 정리 2022-06-10
   job:
-    - [ ] GOP-17897 cs ticket 4
-    - [ ] GOP-17907 cs ticket 5
-    - [ ] GOP-17648 share server 7 connect 4
-    - [ ] GOP-17408 share server 6
+    - [ ] GOP-17646 deploy share server script review reminder
+    - [ ] GOP-17648 share server 9
+    - [ ] GOP-17904 cs ticket 2
     - [ ] GOP-11556 local login 2
     - [ ] jb task apply code review 2 pwd
     study:
@@ -131,6 +136,11 @@ longterm:
   - [ ] 영어 공부하기
 
 Archive:
+  - [x] 블로그 정리 및 내일 할일 정리 2022-06-08 @started(22-06-09 09:02) @done(22-06-09 09:02) @lasted(47s) @project(day-2022-06-08)
+  - [x] GOP-17648 share server 7 connect 3 @started(22-06-08 11:25) @done(22-06-08 14:13) @lasted(2h48m8s) @project(day-2022-06-08.job)
+  - [x] GOP-17874 cs ticket @started(22-06-08 14:13) @done(22-06-08 15:02) @lasted(49m20s) @project(day-2022-06-08.job)
+  - [x] sprint planning @started(22-06-08 15:02) @done(22-06-08 16:13) @lasted(1h11m24s) @project(day-2022-06-08.job)
+  - [x] GOP-17874 cs ticket 2 @started(22-06-08 16:13) @done(22-06-08 17:46) @lasted(1h33m52s) @project(day-2022-06-08.job)
   - [x] 블로그 정리 및 내일 할일 정리 2022-06-07 @started(22-06-08 11:01) @done(22-06-08 11:01) @lasted(54s) @project(day-2022-06-07)
   - [x] cleanup jb tickets @started(22-06-07 07:23) @done(22-06-07 07:38) @lasted(15m29s) @project(day-2022-06-07.job)
   - [x] GOP-17680 lint script @started(22-06-07 07:40) @done(22-06-07 08:41) @lasted(1h1m8s) @project(day-2022-06-07.job)
