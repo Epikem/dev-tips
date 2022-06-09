@@ -1,10 +1,25 @@
 day-2022-06-08:
-  - [ ] 블로그 정리 및 내일 할일 정리 2022-06-08
+  - [x] 블로그 정리 및 내일 할일 정리 2022-06-08 @started(22-06-09 09:02) @done(22-06-09 09:02) @lasted(47s)
   job:
     - [x] GOP-17648 share server 7 connect 3 @started(22-06-08 11:25) @done(22-06-08 14:13) @lasted(2h48m8s)
     - [x] GOP-17874 cs ticket @started(22-06-08 14:13) @done(22-06-08 15:02) @lasted(49m20s)
     - [x] sprint planning @started(22-06-08 15:02) @done(22-06-08 16:13) @lasted(1h11m24s)
     - [x] GOP-17874 cs ticket 2 @started(22-06-08 16:13) @done(22-06-08 17:46) @lasted(1h33m52s)
+    - [ ] GOP-17648 share server 7 connect 4
+    - [ ] GOP-17408 share server 6
+    - [ ] GOP-11556 local login 2
+    - [ ] jb task apply code review 2 pwd
+    study:
+      - [ ] prepare ch 8 - 3
+      - [ ] study clean architecture on rxjs 2
+  arb:
+    - [ ] 시스템 사용해보기 (register, detect 돌리기, save, load 사용)
+
+day-2022-06-09:
+  - [ ] 블로그 정리 및 내일 할일 정리 2022-06-09
+  job:
+    - [ ] GOP-17897 cs ticket 4
+    - [ ] GOP-17907 cs ticket 5
     - [ ] GOP-17648 share server 7 connect 4
     - [ ] GOP-17408 share server 6
     - [ ] GOP-11556 local login 2
