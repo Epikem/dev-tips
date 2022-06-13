@@ -1,6 +1,6 @@
 day-2022-06-13:
   - [x] 5월 포스트 아카이빙 @started(22-06-13 22:47) @done(22-06-13 22:49) @lasted(2m16s)
-  - [ ] 블로그 정리 및 내일 할일 정리 2022-06-13
+  - [x] 블로그 정리 및 내일 할일 정리 2022-06-13 @started(22-06-14 08:30) @done(22-06-14 08:52) @lasted(22m44s)
   job:
     - [x] jaden mentioned cs ticket @started(22-06-13 09:15) @done(22-06-13 09:19) @lasted(4m26s)
     - [x] meta mentioned cs ticket @started(22-06-13 09:25) @done(22-06-13 10:33) @lasted(1h8m43s)
@@ -11,9 +11,9 @@ day-2022-06-13:
     - [x] GOP-17648 share server 11 apply review 2 @started(22-06-13 13:39) @done(22-06-13 19:17) @lasted(5h38m50s)
     - [x] cs ticket - gop-17990 @started(22-06-13 19:25) @done(22-06-13 19:38) @lasted(13m13s)
     - [x] 테이블 정보 정리 https://streami.slack.com/archives/GBF5KEJNQ/p1655084617013649 @started(22-06-13 19:39) @done(22-06-13 20:30) @lasted(51m52s)
+    - [x] GOP-17904 cs ticket 2 @done(22-06-14 08:33)
     - [ ] GOP-17680 refactor script 2
     - [ ] GOP-17646 deploy share server script apply review
-    - [ ] GOP-17904 cs ticket 2
     - [ ] jb task apply code review 2 pwd
     sport:
       - [x] exc @started(22-06-13 20:57) @done(22-06-13 22:08) @lasted(1h11m43s)
@@ -23,9 +23,24 @@ day-2022-06-13:
   arb:
     - [ ] 시스템 사용해보기 (register, detect 돌리기, save, load 사용)
 
+day-2022-06-14:
+  - [ ] 블로그 정리 및 내일 할일 정리 2022-06-14
+  job:
+    - [ ] request rds table access
+    - [ ] GOP-18028 airdrop
+    - [ ] GOP-17680 refactor script 2
+    - [ ] GOP-17646 deploy share server script apply review
+    - [ ] jb task apply code review 2 pwd
+  sport:
+    - [ ] exc
+  study:
+    - [ ] study clean architecture on rxjs 2 - console
+
 study:
   - [ ] prepare next study - clean architecture
   - [ ] prepare next study - data study
+  - [ ] study clean architecture on rxjs 3 - db (redis?)
+  - [ ] study clean architecture on rxjs 4 - web (express)
 
 arb:
   todos:
