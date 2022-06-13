@@ -1,19 +1,13 @@
-day-2022-06-09:
-  - [x] 블로그 정리 및 내일 할일 정리 2022-06-09 @started(22-06-09 19:21) @done(22-06-09 19:24) @lasted(3m56s)
+day-2022-06-10:
+  - [x] 블로그 정리 및 내일 할일 정리 2022-06-10 @started(22-06-13 09:05) @done(22-06-13 09:09) @lasted(4m32s)
   job:
-    - [x] GOP-17897 cs ticket 1 @started(22-06-09 09:14) @done(22-06-09 09:39) @lasted(25m1s)
-    - [x] GOP-17680 lint scripts apply review @done(22-06-09 10:39)
-    - [x] GOP-17408 apply review @started(22-06-09 10:40) @done(22-06-09 12:03) @lasted(1h23m51s)
-    - [x] GOP-17904 cs ticket @started(22-06-09 12:06) @done(22-06-09 12:59) @lasted(53m16s)
-    - [x] daily @started(22-06-09 13:03) @done(22-06-09 13:09) @lasted(6m30s)
-    - [x] GOP-17932 @started(22-06-09 13:13) @done(22-06-09 13:33) @lasted(20m29s)
-    - [x] sprint planning @started(22-06-09 13:33) @done(22-06-09 14:42) @lasted(1h9m6s)
-    - [x] GOP-17932 2 @done(22-06-09 14:42)
-    - [x] GOP-17680 lint scripts apply review @started(22-06-09 14:45) @done(22-06-09 15:58) @lasted(1h13m8s)
-    - [x] GOP-17648 share server 7 lint @started(22-06-09 15:58) @done(22-06-09 17:37) @lasted(1h39m26s)
-    - [x] GOP-17648 share server 8 @started(22-06-09 17:37) @done(22-06-09 19:20) @lasted(1h43m27s)
+    - [x] GOP-17648 share server 9 @started(22-06-10 09:55) @done(22-06-10 11:22) @lasted(1h27m12s)
+    - [x] daily @done(22-06-10 13:38)
+    - [x] retrospective @started(22-06-10 13:38) @done(22-06-10 15:05) @lasted(1h27m56s)
+    - [x] GOP-17680 refactor script @started(22-06-10 15:06) @done(22-06-10 15:39) @lasted(33m57s)
+    - [x] GOP-17648 share server 10 apply review @started(22-06-10 15:40) @done(22-06-10 18:00) @lasted(2h20m55s)
+    - [ ] GOP-17646 deploy share server script apply review
     - [ ] GOP-17904 cs ticket 2
-    - [ ] GOP-11556 local login 2
     - [ ] jb task apply code review 2 pwd
     study:
       - [ ] prepare ch 8 - 3
@@ -22,18 +16,25 @@ day-2022-06-09:
     - [ ] 시스템 사용해보기 (register, detect 돌리기, save, load 사용)
 
 day-2022-06-10:
+  - [ ] 5월 포스트 아카이빙
   - [ ] 블로그 정리 및 내일 할일 정리 2022-06-10
   job:
-    - [ ] GOP-17646 deploy share server script review reminder
-    - [ ] GOP-17648 share server 9
+    - [ ] jaden mentioned cs ticket
+    - [ ] cs ticket - gop-17990
+    - [ ] meta mentioned cs ticket
+    - [ ] daily 1
+    - [ ] doraeming retrospective
+    - [ ] GOP-17680 refactor script 2
+    - [ ] GOP-17648 share server 11 apply review 2
+    - [ ] GOP-17646 deploy share server script apply review
     - [ ] GOP-17904 cs ticket 2
-    - [ ] GOP-11556 local login 2
     - [ ] jb task apply code review 2 pwd
     study:
       - [ ] prepare ch 8 - 3
       - [ ] study clean architecture on rxjs 2
   arb:
     - [ ] 시스템 사용해보기 (register, detect 돌리기, save, load 사용)
+
 
 study:
   - [ ] prepare next study - clean architecture
@@ -136,6 +137,18 @@ longterm:
   - [ ] 영어 공부하기
 
 Archive:
+  - [x] 블로그 정리 및 내일 할일 정리 2022-06-09 @started(22-06-09 19:21) @done(22-06-09 19:24) @lasted(3m56s) @project(day-2022-06-09)
+  - [x] GOP-17897 cs ticket 1 @started(22-06-09 09:14) @done(22-06-09 09:39) @lasted(25m1s) @project(day-2022-06-09.job)
+  - [x] GOP-17680 lint scripts apply review @done(22-06-09 10:39) @project(day-2022-06-09.job)
+  - [x] GOP-17408 apply review @started(22-06-09 10:40) @done(22-06-09 12:03) @lasted(1h23m51s) @project(day-2022-06-09.job)
+  - [x] GOP-17904 cs ticket @started(22-06-09 12:06) @done(22-06-09 12:59) @lasted(53m16s) @project(day-2022-06-09.job)
+  - [x] daily @started(22-06-09 13:03) @done(22-06-09 13:09) @lasted(6m30s) @project(day-2022-06-09.job)
+  - [x] GOP-17932 @started(22-06-09 13:13) @done(22-06-09 13:33) @lasted(20m29s) @project(day-2022-06-09.job)
+  - [x] sprint planning @started(22-06-09 13:33) @done(22-06-09 14:42) @lasted(1h9m6s) @project(day-2022-06-09.job)
+  - [x] GOP-17932 2 @done(22-06-09 14:42) @project(day-2022-06-09.job)
+  - [x] GOP-17680 lint scripts apply review @started(22-06-09 14:45) @done(22-06-09 15:58) @lasted(1h13m8s) @project(day-2022-06-09.job)
+  - [x] GOP-17648 share server 7 lint @started(22-06-09 15:58) @done(22-06-09 17:37) @lasted(1h39m26s) @project(day-2022-06-09.job)
+  - [x] GOP-17648 share server 8 @started(22-06-09 17:37) @done(22-06-09 19:20) @lasted(1h43m27s) @project(day-2022-06-09.job)
   - [x] 블로그 정리 및 내일 할일 정리 2022-06-08 @started(22-06-09 09:02) @done(22-06-09 09:02) @lasted(47s) @project(day-2022-06-08)
   - [x] GOP-17648 share server 7 connect 3 @started(22-06-08 11:25) @done(22-06-08 14:13) @lasted(2h48m8s) @project(day-2022-06-08.job)
   - [x] GOP-17874 cs ticket @started(22-06-08 14:13) @done(22-06-08 15:02) @lasted(49m20s) @project(day-2022-06-08.job)
