@@ -1,40 +1,27 @@
-day-2022-06-10:
-  - [x] 블로그 정리 및 내일 할일 정리 2022-06-10 @started(22-06-13 09:05) @done(22-06-13 09:09) @lasted(4m32s)
+day-2022-06-13:
+  - [x] 5월 포스트 아카이빙 @started(22-06-13 22:47) @done(22-06-13 22:49) @lasted(2m16s)
+  - [ ] 블로그 정리 및 내일 할일 정리 2022-06-13
   job:
-    - [x] GOP-17648 share server 9 @started(22-06-10 09:55) @done(22-06-10 11:22) @lasted(1h27m12s)
-    - [x] daily @done(22-06-10 13:38)
-    - [x] retrospective @started(22-06-10 13:38) @done(22-06-10 15:05) @lasted(1h27m56s)
-    - [x] GOP-17680 refactor script @started(22-06-10 15:06) @done(22-06-10 15:39) @lasted(33m57s)
-    - [x] GOP-17648 share server 10 apply review @started(22-06-10 15:40) @done(22-06-10 18:00) @lasted(2h20m55s)
-    - [ ] GOP-17646 deploy share server script apply review
-    - [ ] GOP-17904 cs ticket 2
-    - [ ] jb task apply code review 2 pwd
-    study:
-      - [ ] prepare ch 8 - 3
-      - [ ] study clean architecture on rxjs 2
-  arb:
-    - [ ] 시스템 사용해보기 (register, detect 돌리기, save, load 사용)
-
-day-2022-06-10:
-  - [ ] 5월 포스트 아카이빙
-  - [ ] 블로그 정리 및 내일 할일 정리 2022-06-10
-  job:
-    - [ ] jaden mentioned cs ticket
-    - [ ] cs ticket - gop-17990
-    - [ ] meta mentioned cs ticket
-    - [ ] daily 1
-    - [ ] doraeming retrospective
+    - [x] jaden mentioned cs ticket @started(22-06-13 09:15) @done(22-06-13 09:19) @lasted(4m26s)
+    - [x] meta mentioned cs ticket @started(22-06-13 09:25) @done(22-06-13 10:33) @lasted(1h8m43s)
+    - [x] daily 1 @started(22-06-13 11:14) @done(22-06-13 11:38) @lasted(24m37s)
+    ✘ [ ] track nice 500 error @cancelled(22-06-13 13:25)
+    - [x] check remote work? @done(22-06-13 13:25)
+    - [x] doraeming retrospective @started(22-06-13 13:25) @done(22-06-13 14:32) @lasted(1h7m34s)
+    - [x] GOP-17648 share server 11 apply review 2 @started(22-06-13 13:39) @done(22-06-13 19:17) @lasted(5h38m50s)
+    - [x] cs ticket - gop-17990 @started(22-06-13 19:25) @done(22-06-13 19:38) @lasted(13m13s)
+    - [x] 테이블 정보 정리 https://streami.slack.com/archives/GBF5KEJNQ/p1655084617013649 @started(22-06-13 19:39) @done(22-06-13 20:30) @lasted(51m52s)
     - [ ] GOP-17680 refactor script 2
-    - [ ] GOP-17648 share server 11 apply review 2
     - [ ] GOP-17646 deploy share server script apply review
     - [ ] GOP-17904 cs ticket 2
     - [ ] jb task apply code review 2 pwd
+    sport:
+      - [x] exc @started(22-06-13 20:57) @done(22-06-13 22:08) @lasted(1h11m43s)
     study:
       - [ ] prepare ch 8 - 3
       - [ ] study clean architecture on rxjs 2
   arb:
     - [ ] 시스템 사용해보기 (register, detect 돌리기, save, load 사용)
-
 
 study:
   - [ ] prepare next study - clean architecture
@@ -137,6 +124,12 @@ longterm:
   - [ ] 영어 공부하기
 
 Archive:
+  - [x] 블로그 정리 및 내일 할일 정리 2022-06-10 @started(22-06-13 09:05) @done(22-06-13 09:09) @lasted(4m32s) @project(day-2022-06-10)
+  - [x] GOP-17648 share server 9 @started(22-06-10 09:55) @done(22-06-10 11:22) @lasted(1h27m12s) @project(day-2022-06-10.job)
+  - [x] daily @done(22-06-10 13:38) @project(day-2022-06-10.job)
+  - [x] retrospective @started(22-06-10 13:38) @done(22-06-10 15:05) @lasted(1h27m56s) @project(day-2022-06-10.job)
+  - [x] GOP-17680 refactor script @started(22-06-10 15:06) @done(22-06-10 15:39) @lasted(33m57s) @project(day-2022-06-10.job)
+  - [x] GOP-17648 share server 10 apply review @started(22-06-10 15:40) @done(22-06-10 18:00) @lasted(2h20m55s) @project(day-2022-06-10.job)
   - [x] 블로그 정리 및 내일 할일 정리 2022-06-09 @started(22-06-09 19:21) @done(22-06-09 19:24) @lasted(3m56s) @project(day-2022-06-09)
   - [x] GOP-17897 cs ticket 1 @started(22-06-09 09:14) @done(22-06-09 09:39) @lasted(25m1s) @project(day-2022-06-09.job)
   - [x] GOP-17680 lint scripts apply review @done(22-06-09 10:39) @project(day-2022-06-09.job)
@@ -170,136 +163,3 @@ Archive:
   - [x] discuss @started(22-06-04 22:11) @done(22-06-04 23:23) @lasted(1h12m37s) @project(day-2022-06-04.arb)
   - [x] fix db @done(22-06-06 14:25) @project(day-2022-06-04.arb)
   - [x] update formular @done(22-06-06 14:25) @project(day-2022-06-04.arb)
-  - [x] 블로그 정리 및 내일 할일 정리 2022-05-31 @started(22-06-04 18:06) @done(22-06-04 18:08) @lasted(2m33s) @project(day-2022-05-31)
-  - [x] fix database @started(22-06-02 23:05) @done(22-06-02 23:50) @lasted(45m41s) @project(day-2022-05-31.arb)
-  - [x] GOP-17166 error on attempt exceed 6 apply review @started(22-05-31 09:23) @done(22-05-31 18:41) @lasted(9h18m16s) @project(day-2022-05-31.job)
-  - [x] data study @done(22-06-04 17:52) @project(day-2022-05-31.job.study)
-  - [x] 블로그 정리 및 내일 할일 정리 2022-05-30 @started(22-05-31 09:05) @done(22-05-31 09:19) @lasted(14m31s) @project(day-2022-05-30)
-  - [x] GOP-17620 cs ticket @started(22-05-30 13:03) @done(22-05-30 14:01) @lasted(58m12s) @project(day-2022-05-30.job)
-  - [x] GOP-17408 share server 5 @started(22-05-30 14:01) @done(22-05-30 22:24) @lasted(8h23m15s) @project(day-2022-05-30.job)
-  - [x] 블로그 정리 및 내일 할일 정리 2022-05-29 @started(22-05-30 11:24) @done(22-05-30 11:37) @lasted(13m23s) @project(day-2022-05-29)
-  - [x] update fun list @started(22-05-29 10:39) @done(22-05-29 11:19) @lasted(40m27s) @project(day-2022-05-29)
-  - [x] 출금수수료 작업 @done(22-05-30 11:27) @project(day-2022-05-29.arb)
-  - [x] 블로그 정리 및 내일 할일 정리 2022-05-26 @started(22-05-29 10:34) @done(22-05-29 10:35) @lasted(1m) @project(day-2022-05-26)
-  - [x] GOP-17408 share server 2 @medium @started(22-05-26 10:25) @done(22-05-26 11:59) @lasted(1h34m47s) @project(day-2022-05-26.job)
-  - [x] GOP-17408 share server 3 @started(22-05-26 13:17) @done(22-05-26 13:57) @lasted(40m21s) @project(day-2022-05-26.job)
-  - [x] GOP-17424, etc kakao msg edit 2 @high @started(22-05-26 14:00) @done(22-05-26 14:16) @lasted(16m30s) @project(day-2022-05-26.job)
-  - [x] GOP-17408 share server 4 @started(22-05-26 14:16) @done(22-05-26 18:38) @lasted(4h22m34s) @project(day-2022-05-26.job)
-  - [x] 블로그 정리 및 내일 할일 정리 2022-05-25 @started(22-05-26 10:22) @done(22-05-26 10:24) @lasted(2m4s) @project(day-2022-05-25)
-  - [x] GOP-17360 2 @high @due(22-05-26) @started(22-05-25 11:14) @done(22-05-25 14:36) @lasted(3h22m5s) @project(day-2022-05-25.job)
-  - [x] GOP-17310 3 @high @due(22-05-26) @done(22-05-25 14:47) @project(day-2022-05-25.job)
-  - [x] GOP-17424 @high @started(22-05-25 14:47) @done(22-05-25 17:11) @lasted(2h24m35s) @project(day-2022-05-25.job)
-  - [x] 블로그 정리 및 내일 할일 정리 2022-05-24 @started(22-05-25 11:12) @done(22-05-25 11:13) @lasted(1m48s) @project(day-2022-05-24)
-  - [x] GOP-15993 limit bai apply review @started(22-05-24 09:09) @done(22-05-24 09:12) @lasted(3m5s) @project(day-2022-05-24.job)
-  - [x] GOP-11556 local login 2 @started(22-05-24 09:12) @done(22-05-24 11:29) @lasted(2h17m5s) @project(day-2022-05-24.job)
-  - [x] GOP-17360 @high @due(22-05-26) @started(22-05-24 13:30) @done(22-05-24 17:56) @lasted(4h26m32s) @project(day-2022-05-24.job)
-  - [x] study clean architecture on rxjs? @started(22-05-24 10:19) @done(22-05-24 11:29) @lasted(1h10m8s) @project(day-2022-05-24.job.study)
-  - [x] leet study solve problem @started(22-05-24 19:02) @done(22-05-24 20:37) @lasted(1h35m9s) @project(day-2022-05-24.study)
-  - [x] 블로그 정리 및 내일 할일 정리 2022-05-23 @started(22-05-24 08:53) @done(22-05-24 08:54) @lasted(1m42s) @project(day-2022-05-23)
-  - [x] cs ticket @highest @started(22-05-23 10:54) @done(22-05-23 13:28) @lasted(2h34m53s) @project(day-2022-05-23.job)
-  - [x] GOP-17299 @started(22-05-23 13:29) @done(22-05-23 13:42) @lasted(13m10s) @project(day-2022-05-23.job)
-  - [x] GOP-16440 error on balance shortage 2 @started(22-05-23 13:42) @done(22-05-23 14:57) @lasted(1h15m21s) @project(day-2022-05-23.job)
-  - [x] GOP-11556 local login @started(22-05-23 15:20) @done(22-05-23 16:55) @lasted(1h35m10s) @project(day-2022-05-23.job)
-  - [x] ad task @started(22-05-23 16:55) @done(22-05-23 18:24) @lasted(1h29m39s) @project(day-2022-05-23.job)
-  - [x] ad task @started(22-05-23 20:51) @done(22-05-23 22:51) @lasted(2h10s) @project(day-2022-05-23.job)
-  - [x] 블로그 정리 및 내일 할일 정리 2022-05-20 @started(22-05-23 10:38) @done(22-05-23 10:54) @lasted(16m24s) @project(day-2022-05-20)
-  ✘ [ ] update fun list @cancelled(22-05-23 10:41) @project(day-2022-05-20)
-  - [x] GOP-17166 error on attempt exceed 6 @started(22-05-20 10:13) @done(22-05-20 10:17) @lasted(4m36s) @project(day-2022-05-20.job)
-  - [x] GOP-17310 2 @high @due(22-05-31) @started(22-05-20 10:18) @done(22-05-20 10:34) @lasted(16m28s) @project(day-2022-05-20.job)
-  - [x] GOP-15993 limit another bank account register api 2 - add @started(22-05-20 10:36) @done(22-05-20 11:12) @lasted(36m47s) @project(day-2022-05-20.job)
-  - [x] GOP-15993 limit another bank account register api 3 @started(22-05-20 13:31) @done(22-05-20 14:58) @lasted(1h27m16s) @project(day-2022-05-20.job)
-  - [x] GOP-16985 create test accounts 2 @done(22-05-20 18:12) @project(day-2022-05-20.job)
-  ✘ [ ] GOP-17310 2 @high @due(22-05-31) @cancelled(22-05-23 10:40) @project(day-2022-05-20.job)
-  ✘ [ ] GOP-16440 error on balance shortage 2 @cancelled(22-05-23 10:40) @project(day-2022-05-20.job)
-  ✘ [ ] jb task apply code review 2 @cancelled(22-05-23 10:40) @project(day-2022-05-20.job)
-  - [x] investigate fee rates @started(22-05-20 18:34) @done(22-05-20 19:30) @lasted(56m54s) @project(day-2022-05-20.arb)
-  ✘ [ ] leet study @cancelled(22-05-23 10:40) @project(day-2022-05-20.study)
-  - [x] 블로그 정리 및 내일 할일 정리 2022-05-19 @started(22-05-20 10:06) @done(22-05-20 10:13) @lasted(7m4s) @project(day-2022-05-19)
-  - [x] GOP-17166 error on attempt exceed 4 @started(22-05-19 09:05) @done(22-05-19 09:33) @lasted(28m7s) @project(day-2022-05-19.job)
-  - [x] GOP-16696 settlebank availability caching - apply review 1 @started(22-05-19 09:33) @done(22-05-19 10:50) @lasted(1h17m8s) @project(day-2022-05-19.job)
-  - [x] GOP-16875 re-enable app push noti 2 @started(22-05-19 11:00) @done(22-05-19 11:09) @lasted(9m) @project(day-2022-05-19.job)
-  - [x] review 1 @started(22-05-19 11:17) @done(22-05-19 11:21) @lasted(4m28s) @project(day-2022-05-19.job)
-  - [x] GOP-17299 ad task 12 fix auth @high @started(22-05-19 12:30) @done(22-05-19 12:44) @lasted(14m17s) @project(day-2022-05-19.job)
-  - [x] review 2 @started(22-05-19 12:44) @done(22-05-19 13:01) @lasted(17m12s) @project(day-2022-05-19.job)
-  - [x] GOP-17310 @high @due(22-05-31) @started(22-05-19 15:01) @done(22-05-19 15:22) @lasted(21m27s) @project(day-2022-05-19.job)
-  - [x] GOP-17166 error on attempt exceed 5 @started(22-05-19 15:44) @done(22-05-19 17:57) @lasted(2h13m33s) @project(day-2022-05-19.job)
-  - [x] 블로그 정리 및 내일 할일 정리 2022-05-18 @started(22-05-19 08:59) @done(22-05-19 09:02) @lasted(3m54s) @project(day-2022-05-18)
-  ✘ [ ] update fun list @cancelled(22-05-19 09:02) @project(day-2022-05-18)
-  - [x] GOP-17166 error on attempt exceed 2 @started(22-05-18 09:13) @done(22-05-18 10:00) @lasted(47m12s) @project(day-2022-05-18.job)
-  - [x] GOP-16985 create test accounts @started(22-05-18 10:00) @done(22-05-18 11:18) @lasted(1h18m36s) @project(day-2022-05-18.job)
-  - [x] GOP-17166 error on attempt exceed 3 @started(22-05-18 12:53) @done(22-05-18 14:05) @lasted(1h12m44s) @project(day-2022-05-18.job)
-  - [x] GOP-15993 limit another api @done(22-05-18 14:51) @project(day-2022-05-18.job)
-  - [x] GOP-16875 re-enable app push noti @started(22-05-18 14:05) @done(22-05-18 14:50) @lasted(45m28s) @project(day-2022-05-18.job)
-  - [x] GOP-16440 error on bank deposit shortage @started(22-05-18 14:52) @done(22-05-18 16:11) @lasted(1h19m23s) @project(day-2022-05-18.job)
-  - [x] GOP-17166 error on verification attempt exceed 3 @started(22-05-18 17:43) @done(22-05-18 19:19) @lasted(1h36m14s) @project(day-2022-05-18.job)
-  ✘ [ ] GOP-16696 settlebank availability caching - apply review 1 @cancelled(22-05-19 09:02) @project(day-2022-05-18.job)
-  ✘ [ ] GOP-15993 limit another bank account register api 2 - add @cancelled(22-05-19 09:02) @project(day-2022-05-18.job)
-  ✘ [ ] GOP-16440 error on bank deposit shortage 2 @cancelled(22-05-19 09:02) @project(day-2022-05-18.job)
-  ✘ [ ] GOP-16875 re-enable app push noti 2 @cancelled(22-05-19 09:02) @project(day-2022-05-18.job)
-  ✘ [ ] GOP-16985 create test accounts 2 @cancelled(22-05-19 09:02) @project(day-2022-05-18.job)
-  ✘ [ ] jb task apply code review 2 @cancelled(22-05-19 09:02) @project(day-2022-05-18.job)
-  ✘ [ ] story point discussion @cancelled(22-05-19 09:02) @project(day-2022-05-18.job)
-  ✘ [ ] investigate fee rates @cancelled(22-05-19 09:02) @project(day-2022-05-18.arb)
-  - [x] leet study @done(22-05-19 09:02) @project(day-2022-05-18.study)
-  - [x] 블로그 정리 및 내일 할일 정리 2022-05-17 @started(22-05-18 09:09) @done(22-05-18 09:12) @lasted(3m45s) @project(day-2022-05-17)
-  ✘ [ ] update fun list @cancelled(22-05-18 09:12) @project(day-2022-05-17)
-  - [x] add ad proxy api data @done(22-05-17 15:05) @project(day-2022-05-17.job)
-  - [x] GOP-17166 error on attempt exceed @started(22-05-17 15:05) @done(22-05-17 18:36) @lasted(3h31m42s) @project(day-2022-05-17.job)
-  - [x] jb task apply code review @started(22-05-17 18:38) @done(22-05-17 18:52) @lasted(14m2s) @project(day-2022-05-17.job)
-  ✘ [ ] GOP-16875 re-enable app push noti @cancelled(22-05-18 09:12) @project(day-2022-05-17.job)
-  ✘ [ ] GOP-16440 @cancelled(22-05-18 09:12) @project(day-2022-05-17.job)
-  - [x] data study @done(22-05-18 09:12) @project(day-2022-05-17.study)
-  - [x] 블로그 정리 및 내일 할일 정리 2022-05-16 @started(22-05-16 19:10) @done(22-05-16 19:14) @lasted(4m2s) @project(day-2022-05-16)
-  - [x] GOP-16696 caching 2 @started(22-05-16 09:14) @done(22-05-16 11:26) @lasted(2h12m40s) @project(day-2022-05-16.job)
-  - [x] GOP-16696 caching 3 @started(22-05-16 13:42) @done(22-05-16 18:09) @lasted(4h27m22s) @project(day-2022-05-16.job)
-  - [x] ad task 11 add ad proxy @done(22-05-16 19:09) @project(day-2022-05-16.job)
-  ✘ [ ] GOP-16875 re-enable app push noti @cancelled(22-05-16 19:10) @project(day-2022-05-16.job)
-  ✘ [ ] GOP-16440 @cancelled(22-05-16 19:10) @project(day-2022-05-16.job)
-  - [x] read data book @done(22-05-17 09:30) @project(day-2022-05-16.study)
-  ✘ [ ] prepare chapter 8 @cancelled(22-05-17 09:30) @project(day-2022-05-16.study)
-  ✘ [ ] fee 조사 @cancelled(22-05-17 09:30) @project(day-2022-05-16.arb)
-  - [x] 블로그 정리 및 내일 할일 정리 2022-05-11 @started(22-05-16 09:06) @done(22-05-16 09:12) @lasted(6m48s) @project(day-2022-05-11)
-  ✘ [ ] GOP-16696 caching 2 @cancelled(22-05-16 09:09) @project(day-2022-05-11.job)
-  ✘ [ ] ad task 11 add ad proxy @cancelled(22-05-16 09:09) @project(day-2022-05-11.job)
-  ✘ [ ] GOP-16875 @cancelled(22-05-16 09:09) @project(day-2022-05-11.job)
-  ✘ [ ] GOP-16440 @cancelled(22-05-16 09:08) @project(day-2022-05-11.job)
-  ✘ [ ] leet study @cancelled(22-05-16 09:09) @project(day-2022-05-11.study)
-  - [x] 블로그 정리 및 내일 할일 정리 2022-05-10 @started(22-05-11 08:23) @done(22-05-11 08:32) @lasted(9m25s) @project(day-2022-05-10)
-  - [x] ad task 7 discuss @done(22-05-10 13:00) @project(day-2022-05-10.job)
-  - [x] ad task 8 add proxy @started(22-05-10 13:00) @done(22-05-10 15:32) @lasted(2h32m24s) @project(day-2022-05-10.job)
-  - [x] ad task 9 add proxy @started(22-05-10 15:54) @done(22-05-10 18:24) @lasted(2h30m26s) @project(day-2022-05-10.job)
-  - [x] GOP-16696 caching 1 @started(22-05-10 18:40) @done(22-05-10 18:42) @lasted(2m7s) @project(day-2022-05-10.job)
-  - [x] ad task 10 add proxy @started(22-05-10 18:42) @done(22-05-10 19:09) @lasted(27m51s) @project(day-2022-05-10.job)
-  ✘ [ ] GOP-16875 @cancelled(22-05-11 08:24) @project(day-2022-05-10.job)
-  ✘ [ ] GOP-16440 @cancelled(22-05-11 08:24) @project(day-2022-05-10.job)
-  ✘ [ ] data study @cancelled(22-05-10 22:50) @project(day-2022-05-10.study)
-  - [x] prepare clean architecture study @done(22-05-11 08:22) @project(day-2022-05-10.study)
-  - [x] leet study @started(22-05-11 05:51) @done(22-05-11 07:09) @lasted(1h18m24s) @project(day-2022-05-10.study)
-  - [x] 블로그 정리 및 내일 할일 정리 2022-05-09 @started(22-05-09 22:51) @done(22-05-09 22:53) @lasted(2m55s) @project(day-2022-05-09)
-  - [x] ad task apply review 5 @started(22-05-09 11:09) @done(22-05-09 16:40) @lasted(5h31m38s) @project(day-2022-05-09.job)
-  - [x] ad task apply review 6 @started(22-05-09 17:36) @done(22-05-09 21:26) @lasted(3h50m9s) @project(day-2022-05-09.job)
-  - [x] add masked log to jb 2 reminder @done(22-05-09 22:51) @project(day-2022-05-09.job)
-  ✘ [ ] GOP-16696 @cancelled(22-05-09 22:52) @project(day-2022-05-09.job)
-  ✘ [ ] GOP-16440 @cancelled(22-05-09 22:52) @project(day-2022-05-09.job)
-  - [x] read data book @started(22-05-09 21:37) @done(22-05-09 22:51) @lasted(1h14m24s) @project(day-2022-05-09.study)
-  - [x] 블로그 정리 및 내일 할일 정리 2022-05-04 @started(22-05-09 10:53) @done(22-05-09 11:09) @lasted(16m7s) @project(day-2022-05-04)
-  - [x] ad task apply review 4 @started(22-05-04 10:12) @done(22-05-04 19:17) @lasted(9h5m48s) @project(day-2022-05-04.job)
-  ✘ [ ] add masked log to jb 2 @cancelled(22-05-09 11:08) @project(day-2022-05-04.job)
-  ✘ [ ] improve jb code 3 - apply review @cancelled(22-05-09 11:08) @project(day-2022-05-04.job)
-  - [x] leet study @done(22-05-09 10:51) @project(day-2022-05-04.study)
-  ✘ [ ] fee feature @cancelled(22-05-09 11:08) @project(day-2022-05-04.arb)
-  - [x] 블로그 정리 및 내일 할일 정리 2022-05-03 @started(22-05-03 19:07) @done(22-05-03 19:07) @lasted(53s) @project(day-2022-05-03)
-  - [x] ad task apply review 2 @started(22-05-03 09:53) @done(22-05-03 15:45) @lasted(5h52m26s) @project(day-2022-05-03.job)
-  - [x] tech onboarding 2 @started(22-05-03 15:45) @done(22-05-03 18:06) @lasted(2h21m38s) @project(day-2022-05-03.job)
-  - [x] ad task apply review 3 @done(22-05-03 19:06) @project(day-2022-05-03.job)
-  ✘ [ ] add masked log to jb 2 @cancelled(22-05-03 19:12) @project(day-2022-05-03.job)
-  ✘ [ ] improve jb code 3 - apply review @cancelled(22-05-03 19:12) @project(day-2022-05-03.job)
-  - [x] data study @done(22-05-03 19:07) @project(day-2022-05-03.study)
-  ✘ [ ] fee feature @cancelled(22-05-03 19:12) @project(day-2022-05-03.arb)
-  - [x] 블로그 정리 및 내일 할일 정리 2022-05-02 @started(22-05-02 23:03) @done(22-05-02 23:04) @lasted(1m11s) @project(day-2022-05-02)
-  - [x] improve jb code 2 @started(22-05-02 12:13) @done(22-05-02 17:28) @lasted(5h15m58s) @project(day-2022-05-02.job)
-  - [x] track redis problem - test @started(22-05-02 17:29) @done(22-05-02 17:58) @lasted(29m46s) @project(day-2022-05-02.job)
-  - [x] ad task apply review @started(22-05-02 20:51) @done(22-05-02 23:01) @lasted(2h10m16s) @project(day-2022-05-02.job)
-  ✘ [ ] add masked log to jb - test @cancelled(22-05-02 23:03) @project(day-2022-05-02.job)
-  - [x] read data book @done(22-05-02 23:03) @project(day-2022-05-02.study)
-  ✘ [ ] fee feature @cancelled(22-05-02 23:03) @project(day-2022-05-02.arb)
