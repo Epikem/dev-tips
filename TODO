@@ -1,39 +1,42 @@
-day-2022-06-13:
-  - [x] 5월 포스트 아카이빙 @started(22-06-13 22:47) @done(22-06-13 22:49) @lasted(2m16s)
-  - [x] 블로그 정리 및 내일 할일 정리 2022-06-13 @started(22-06-14 08:30) @done(22-06-14 08:52) @lasted(22m44s)
+day-2022-06-14:
+  - [x] 블로그 정리 및 내일 할일 정리 2022-06-14 @started(22-06-14 23:50) @done(22-06-14 23:52) @lasted(2m19s)
   job:
-    - [x] jaden mentioned cs ticket @started(22-06-13 09:15) @done(22-06-13 09:19) @lasted(4m26s)
-    - [x] meta mentioned cs ticket @started(22-06-13 09:25) @done(22-06-13 10:33) @lasted(1h8m43s)
-    - [x] daily 1 @started(22-06-13 11:14) @done(22-06-13 11:38) @lasted(24m37s)
-    ✘ [ ] track nice 500 error @cancelled(22-06-13 13:25)
-    - [x] check remote work? @done(22-06-13 13:25)
-    - [x] doraeming retrospective @started(22-06-13 13:25) @done(22-06-13 14:32) @lasted(1h7m34s)
-    - [x] GOP-17648 share server 11 apply review 2 @started(22-06-13 13:39) @done(22-06-13 19:17) @lasted(5h38m50s)
-    - [x] cs ticket - gop-17990 @started(22-06-13 19:25) @done(22-06-13 19:38) @lasted(13m13s)
-    - [x] 테이블 정보 정리 https://streami.slack.com/archives/GBF5KEJNQ/p1655084617013649 @started(22-06-13 19:39) @done(22-06-13 20:30) @lasted(51m52s)
-    - [x] GOP-17904 cs ticket 2 @done(22-06-14 08:33)
-    - [ ] GOP-17680 refactor script 2
+    - [x] request rds table access @started(22-06-14 08:57) @done(22-06-14 09:08) @lasted(11m26s)
+    - [x] GOP-18028 airdrop 2 @started(22-06-14 09:47) @done(22-06-14 09:57) @lasted(10m10s)
+    - [x] GOP-17680 refactor script 2 @started(22-06-14 09:57) @done(22-06-14 10:07) @lasted(10m37s)
+    - [x] GOP-16696 settlebank caching @started(22-06-14 10:14) @done(22-06-14 10:23) @lasted(9m1s)
+    - [x] daily @done(22-06-14 13:02)
+    - [x] drm daily @started(22-06-14 13:02) @done(22-06-14 13:13) @lasted(11m30s)
+    - [x] GOP-17648 apply review @started(22-06-14 14:28) @done(22-06-14 15:24) @lasted(56m32s)
+    - [x] GOP-17408 apply review 2 @started(22-06-14 16:46) @done(22-06-14 18:23) @lasted(1h37m17s)
+    - [x] GOP-17408 apply review 3 @started(22-06-14 18:38) @done(22-06-14 19:46) @lasted(1h8m39s)
+    - [x] GOP-17166 rebase and land @started(22-06-14 19:46) @done(22-06-14 19:51) @lasted(5m11s)
+    - [ ] GOP-17680 refactor script 3 apply review
+    - [ ] GOP-17648 apply review 2
+    - [ ] GOP-18028 airdrop 2
     - [ ] GOP-17646 deploy share server script apply review
     - [ ] jb task apply code review 2 pwd
-    sport:
-      - [x] exc @started(22-06-13 20:57) @done(22-06-13 22:08) @lasted(1h11m43s)
-    study:
-      - [ ] prepare ch 8 - 3
-      - [ ] study clean architecture on rxjs 2
+  sport:
+    - [x] exc @done(22-06-14 23:29)
+  study:
+    - [ ] study clean architecture on rxjs 2 - console
   arb:
-    - [ ] 시스템 사용해보기 (register, detect 돌리기, save, load 사용)
+    - [x] fix vanishing database @started(22-06-14 23:29) @done(22-06-14 23:50) @lasted(21m3s)
 
-day-2022-06-14:
-  - [ ] 블로그 정리 및 내일 할일 정리 2022-06-14
+day-2022-06-15:
+  - [ ] 블로그 정리 및 내일 할일 정리 2022-06-15
   job:
-    - [ ] request rds table access
-    - [ ] GOP-18028 airdrop
-    - [ ] GOP-17680 refactor script 2
+    - [ ] check mark mentioned ticket - log track
+    - [ ] GOP-17408 private relay deploy script apply review
+    - [ ] GOP-17680 refactor script 3 apply review
+    - [ ] GOP-17648 apply review 2
+    - [ ] GOP-18028 airdrop 2
     - [ ] GOP-17646 deploy share server script apply review
     - [ ] jb task apply code review 2 pwd
   sport:
     - [ ] exc
   study:
+    - [ ] leet study
     - [ ] study clean architecture on rxjs 2 - console
 
 study:
@@ -139,6 +142,19 @@ longterm:
   - [ ] 영어 공부하기
 
 Archive:
+  - [x] 5월 포스트 아카이빙 @started(22-06-13 22:47) @done(22-06-13 22:49) @lasted(2m16s) @project(day-2022-06-13)
+  - [x] 블로그 정리 및 내일 할일 정리 2022-06-13 @started(22-06-14 08:30) @done(22-06-14 08:52) @lasted(22m44s) @project(day-2022-06-13)
+  - [x] jaden mentioned cs ticket @started(22-06-13 09:15) @done(22-06-13 09:19) @lasted(4m26s) @project(day-2022-06-13.job)
+  - [x] meta mentioned cs ticket @started(22-06-13 09:25) @done(22-06-13 10:33) @lasted(1h8m43s) @project(day-2022-06-13.job)
+  - [x] daily 1 @started(22-06-13 11:14) @done(22-06-13 11:38) @lasted(24m37s) @project(day-2022-06-13.job)
+  ✘ [ ] track nice 500 error @cancelled(22-06-13 13:25) @project(day-2022-06-13.job)
+  - [x] check remote work? @done(22-06-13 13:25) @project(day-2022-06-13.job)
+  - [x] doraeming retrospective @started(22-06-13 13:25) @done(22-06-13 14:32) @lasted(1h7m34s) @project(day-2022-06-13.job)
+  - [x] GOP-17648 share server 11 apply review 2 @started(22-06-13 13:39) @done(22-06-13 19:17) @lasted(5h38m50s) @project(day-2022-06-13.job)
+  - [x] cs ticket - gop-17990 @started(22-06-13 19:25) @done(22-06-13 19:38) @lasted(13m13s) @project(day-2022-06-13.job)
+  - [x] 테이블 정보 정리 https://streami.slack.com/archives/GBF5KEJNQ/p1655084617013649 @started(22-06-13 19:39) @done(22-06-13 20:30) @lasted(51m52s) @project(day-2022-06-13.job)
+  - [x] GOP-17904 cs ticket 2 @done(22-06-14 08:33) @project(day-2022-06-13.job)
+  - [x] exc @started(22-06-13 20:57) @done(22-06-13 22:08) @lasted(1h11m43s) @project(day-2022-06-13.job.sport)
   - [x] 블로그 정리 및 내일 할일 정리 2022-06-10 @started(22-06-13 09:05) @done(22-06-13 09:09) @lasted(4m32s) @project(day-2022-06-10)
   - [x] GOP-17648 share server 9 @started(22-06-10 09:55) @done(22-06-10 11:22) @lasted(1h27m12s) @project(day-2022-06-10.job)
   - [x] daily @done(22-06-10 13:38) @project(day-2022-06-10.job)
