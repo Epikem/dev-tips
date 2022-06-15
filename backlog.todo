@@ -1,0 +1,69 @@
+blog:
+  - [ ] 로컬 저장소 정리하기
+  - [ ] tips 정리하기 @in-month
+  - [ ] tip 추가: 브라우저로 컴파일하는 타입스크립트에서 확장자 없이 import하는법
+  - [ ] tip 추가: 타입스크립트 타입에 따른 동작 분기 - 어떤 타입의 배열인지 체크하기
+  - [ ] tip 추가: 알고리즘 - 비교적 안전한 소수 덧셈 알고리즘 (https://en.wikipedia.org/wiki/Kahan_summation_algorithm)
+  - [ ] tip 추가: raspberry pi 팬 설치하기 (rpi pwm fan 설치 - 2021-07-04)
+  - [ ] tip 추가: raspberry pi - code-server - rust-analyzer 설치하기 (2021-08-05)
+  - [ ] tip 추가: aws cloudfront를 활용하여 http를 https로 래핑하기 (2022-04-28)
+  - [ ] tip 추가: ntp 포트(udp/123) 막혀있을 때 htpdate로 시간 동기화하기 (https://askubuntu.com/questions/1292225/ntp-port-is-blocked-how-to-sync-time-18-04)
+  - [ ] tip 추가: docker container간 서비스 커뮤니케이션 및 `[::]`
+  - [ ] tip 추가: 개발자 도구에서 웹소켓 디버깅하기 + primus write helper (https://streami.slack.com/archives/D02S2293YFJ/p1641877801030100)
+  - [ ] 후기 추가: kakao 2022 2차
+
+  meta:
+    - [ ] 블로그 테마 이주: https://chirpy.cotes.info/ (이거도 좋음 NexT.Muse)
+    - [ ] 수동 연도 업데이트 필요
+    - [ ] 이미지 업로드 방안 개선 필요 (깃헙 이슈 활용?)
+    - [ ] 태그 이름 변경 등 관리
+    - [ ] 포스트 목록에서 요약 등 노출
+    - [ ] 기본 포스트 목록에서 log포스트 제외
+    - [ ] github actions 러너에서 캐시 활용
+    - [ ] toc 처리 개선 (마크다운에 포함, 블로그에선 전용 toc 사용)
+
+project:
+  epis:
+    - [ ] 기본 인프라 서비스 구현
+      - [ ] k8s 클러스터 구성
+      - [ ] 서비스 디스커버리
+      - [ ] ci/cd
+      - [ ] 테스트 구조
+      - [ ] 모니터링
+    - [ ] 기본 쇼핑, 장바구니, 유저 서비스, 로그인 서비스 구현
+    - [ ] 테스트 추가
+    - [ ] 스트레스 테스트 추가
+
+sport:
+  - [ ] rust solve에 아래 모듈 적용하기
+  https://github.com/EbTech/rust-algorithms/blob/master/src/scanner.rs
+  - [ ] https://www.acmicpc.net/problem/20117 다시풀기
+  - [ ] bj 2812 다시풀기
+  - [ ] bj 2616 다시풀기
+  - [ ] bj 21317 다시풀기
+
+job:
+  - [ ] 백텍지원 (백두테크놀로지스)
+  - [ ] cv update @high
+  https://www.naver-recruit.com/?utm_source=gdn&utm_medium=cpc&utm_campaign=gdn_cpc&gclid=EAIaIQobChMIp5mGtq7k7wIVLcNMAh2mbQxwEAEYASAAEgJaSvD_BwE
+  - [ ] 라인 지원 https://careers.linecorp.com/ko/jobs/773
+  - [ ] lg cns 지원 https://apply.lg.com/app/job/RetrieveJobNoticesDetail.rpi
+
+study:
+  math:
+    - [ ] 선형대수 - 수학적벡터 문제풀이
+  rl:
+    - [ ] 복습하기 https://github.com/sjchoi86/rl_tutorial/
+
+other:
+  - [ ] 북마크 정리하기
+  - [ ] 도커파일로 분리 개발환경 만들기 (마운트 활용, 소스 sync 및 ssh 연동, 소리 활성화)
+  - [ ] 여권 재발급
+  - [ ] e-residency 발급
+  - [ ] watch - star trek (movie)
+  - [ ] watch - minority report (movie)
+  - [ ] blog markdown parse @longterm
+
+longterm:
+  - [ ] cs 공부하기
+  - [ ] 영어 공부하기
