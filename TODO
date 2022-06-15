@@ -1,19 +1,39 @@
 day-2022-06-15:
-  - [ ] 블로그 정리 및 내일 할일 정리 2022-06-15
+  - [x] 블로그 정리 및 내일 할일 정리 2022-06-15 @started(22-06-15 23:55) @done(22-06-15 23:58) @lasted(3m)
   - [x] archive old todos @started(22-06-15 07:32) @done(22-06-15 07:33) @lasted(1m8s)
+  - [x] pill @done(22-06-15 23:56)
   job:
     - [x] check mark mentioned ticket - log track @done(22-06-15 08:02)
     - [x] GOP-17408 private relay deploy script apply review @started(22-06-15 08:01) @done(22-06-15 08:27) @lasted(26m57s)
     - [x] GOP-17648 apply review 2 @started(22-06-15 08:41) @done(22-06-15 10:54) @lasted(2h13m15s)
-    - [ ] GOP-17648 apply review 3
-    - [ ] GOP-17680 refactor script 3 apply review
-    - [ ] GOP-18028 airdrop 2
+    - [x] GOP-17648 apply review 3 @started(22-06-15 10:58) @done(22-06-15 11:18) @lasted(20m52s)
+    - [x] daily @started(22-06-15 11:18) @done(22-06-15 11:43) @lasted(25m57s)
+    - [x] GOP-17680 refactor script 3 apply review @done(22-06-15 13:02)
+    - [x] drm daily @started(22-06-15 13:02) @done(22-06-15 13:07) @lasted(5m19s)
+    - [x] GOP-17408 private relay deploy script apply review 2 @started(22-06-15 13:04) @done(22-06-15 13:47) @lasted(43m49s)
+    - [x] GOP-17648 apply review 4 @started(22-06-15 14:13) @done(22-06-15 17:41) @lasted(3h28m15s)
+    - [x] GOP-17648 apply review 5 @started(22-06-15 21:39) @done(22-06-15 23:55) @lasted(2h16m52s)
     - [ ] GOP-17646 deploy share server script apply review
     - [ ] jb task apply code review 2 pwd
   sport:
-    - [ ] exc
+    ✘ [ ] exc @cancelled(22-06-15 22:17)
   study:
-    - [ ] leet study
+    ✘ [ ] leet study @cancelled(22-06-15 22:17)
+
+day-2022-06-16:
+  - [ ] 블로그 정리 및 내일 할일 정리 2022-06-16
+  - [ ] pill
+  job:
+    - [ ] land meta accepted ticket
+    - [ ] continue mark mentioned ticket
+    - [ ] daily
+    - [ ] GOP-17680 refactor script 4 apply review 2
+    - [ ] drm daily
+    - [ ] GOP-17408 private relay deploy script apply review 3
+    - [ ] GOP-17648 apply review 6
+    - [ ] GOP-17646 ?
+  sport:
+    - [ ] exc
 
 study:
   - [ ] study clean architecture on rxjs 2 - console
