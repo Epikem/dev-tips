@@ -1,37 +1,26 @@
-day-2022-06-15:
-  - [x] 블로그 정리 및 내일 할일 정리 2022-06-15 @started(22-06-15 23:55) @done(22-06-15 23:58) @lasted(3m)
-  - [x] archive old todos @started(22-06-15 07:32) @done(22-06-15 07:33) @lasted(1m8s)
-  - [x] pill @done(22-06-15 23:56)
-  job:
-    - [x] check mark mentioned ticket - log track @done(22-06-15 08:02)
-    - [x] GOP-17408 private relay deploy script apply review @started(22-06-15 08:01) @done(22-06-15 08:27) @lasted(26m57s)
-    - [x] GOP-17648 apply review 2 @started(22-06-15 08:41) @done(22-06-15 10:54) @lasted(2h13m15s)
-    - [x] GOP-17648 apply review 3 @started(22-06-15 10:58) @done(22-06-15 11:18) @lasted(20m52s)
-    - [x] daily @started(22-06-15 11:18) @done(22-06-15 11:43) @lasted(25m57s)
-    - [x] GOP-17680 refactor script 3 apply review @done(22-06-15 13:02)
-    - [x] drm daily @started(22-06-15 13:02) @done(22-06-15 13:07) @lasted(5m19s)
-    - [x] GOP-17408 private relay deploy script apply review 2 @started(22-06-15 13:04) @done(22-06-15 13:47) @lasted(43m49s)
-    - [x] GOP-17648 apply review 4 @started(22-06-15 14:13) @done(22-06-15 17:41) @lasted(3h28m15s)
-    - [x] GOP-17648 apply review 5 @started(22-06-15 21:39) @done(22-06-15 23:55) @lasted(2h16m52s)
-    - [ ] GOP-17646 deploy share server script apply review
-    - [ ] jb task apply code review 2 pwd
-  sport:
-    ✘ [ ] exc @cancelled(22-06-15 22:17)
-  study:
-    ✘ [ ] leet study @cancelled(22-06-15 22:17)
-
 day-2022-06-16:
-  - [ ] 블로그 정리 및 내일 할일 정리 2022-06-16
+  - [x] 블로그 정리 및 내일 할일 정리 2022-06-16 @started(22-06-16 19:57) @done(22-06-16 20:07) @lasted(10m28s)
   - [ ] pill
   job:
-    - [ ] land meta accepted ticket
-    - [ ] continue mark mentioned ticket
-    - [ ] daily
-    - [ ] GOP-17680 refactor script 4 apply review 2
-    - [ ] drm daily
-    - [ ] GOP-17408 private relay deploy script apply review 3
-    - [ ] GOP-17648 apply review 6
-    - [ ] GOP-17646 ?
+    - [x] drm daily @done(22-06-16 14:30)
+    - [x] sprint planning @started(22-06-16 13:34) @done(22-06-16 14:30) @lasted(56m17s)
+    - [x] GOP-17648 apply review 6 @started(22-06-16 14:31) @done(22-06-16 15:28) @lasted(57m31s)
+    - [x] GOP-17680 refactor script 4 apply review 2 @started(22-06-16 15:29) @done(22-06-16 15:31) @lasted(2m3s)
+    - [x] GOP-17680 land @started(22-06-16 15:41) @done(22-06-16 15:43) @lasted(2m8s)
+    - [x] GOP-17646 fargate deploy script review @started(22-06-16 15:31) @done(22-06-16 17:06) @lasted(1h35m47s)
+    - [x] continue mark mentioned ticket @done(22-06-16 20:00)
+    - [ ] GOP-17648 apply review 7
+    - [ ] land meta accepted ticket -> refactor
+  sport:
+    - [ ] exc
+
+day-2022-06-17:
+  - [ ] 블로그 정리 및 내일 할일 정리 2022-06-17
+  - [ ] pill
+  job:
+    - [ ] GOP-17974 review
+    - [ ] GOP-17648 apply review 7
+    - [ ] land meta accepted ticket -> refactor
   sport:
     - [ ] exc
 
@@ -65,6 +54,21 @@ job:
   - [ ] local proto compile js setup
 
 Archive:
+  - [x] 블로그 정리 및 내일 할일 정리 2022-06-15 @started(22-06-15 23:55) @done(22-06-15 23:58) @lasted(3m) @project(day-2022-06-15)
+  - [x] archive old todos @started(22-06-15 07:32) @done(22-06-15 07:33) @lasted(1m8s) @project(day-2022-06-15)
+  - [x] pill @done(22-06-15 23:56) @project(day-2022-06-15)
+  - [x] check mark mentioned ticket - log track @done(22-06-15 08:02) @project(day-2022-06-15.job)
+  - [x] GOP-17408 private relay deploy script apply review @started(22-06-15 08:01) @done(22-06-15 08:27) @lasted(26m57s) @project(day-2022-06-15.job)
+  - [x] GOP-17648 apply review 2 @started(22-06-15 08:41) @done(22-06-15 10:54) @lasted(2h13m15s) @project(day-2022-06-15.job)
+  - [x] GOP-17648 apply review 3 @started(22-06-15 10:58) @done(22-06-15 11:18) @lasted(20m52s) @project(day-2022-06-15.job)
+  - [x] daily @started(22-06-15 11:18) @done(22-06-15 11:43) @lasted(25m57s) @project(day-2022-06-15.job)
+  - [x] GOP-17680 refactor script 3 apply review @done(22-06-15 13:02) @project(day-2022-06-15.job)
+  - [x] drm daily @started(22-06-15 13:02) @done(22-06-15 13:07) @lasted(5m19s) @project(day-2022-06-15.job)
+  - [x] GOP-17408 private relay deploy script apply review 2 @started(22-06-15 13:04) @done(22-06-15 13:47) @lasted(43m49s) @project(day-2022-06-15.job)
+  - [x] GOP-17648 apply review 4 @started(22-06-15 14:13) @done(22-06-15 17:41) @lasted(3h28m15s) @project(day-2022-06-15.job)
+  - [x] GOP-17648 apply review 5 @started(22-06-15 21:39) @done(22-06-15 23:55) @lasted(2h16m52s) @project(day-2022-06-15.job)
+  ✘ [ ] exc @cancelled(22-06-15 22:17) @project(day-2022-06-15.sport)
+  ✘ [ ] leet study @cancelled(22-06-15 22:17) @project(day-2022-06-15.study)
   - [x] 블로그 정리 및 내일 할일 정리 2022-06-14 @started(22-06-14 23:50) @done(22-06-14 23:52) @lasted(2m19s) @project(day-2022-06-14)
   - [x] request rds table access @started(22-06-14 08:57) @done(22-06-14 09:08) @lasted(11m26s) @project(day-2022-06-14.job)
   - [x] GOP-18028 airdrop 2 @started(22-06-14 09:47) @done(22-06-14 09:57) @lasted(10m10s) @project(day-2022-06-14.job)
