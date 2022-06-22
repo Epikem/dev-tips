@@ -1,33 +1,30 @@
-day-2022-06-21:
-  - [x] 블로그 정리 및 내일 할일 정리 2022-06-21 @started(22-06-21 23:40) @done(22-06-21 23:41) @lasted(1m14s)
-  - [x] pill @done(22-06-21 23:09)
-  job:
-    ✘ [ ] private relay refactor @started(22-06-21 09:13) @cancelled(22-06-21 10:18) @wasted(1h5m7s)
-    - [x] daily @done(22-06-21 12:32)
-    - [x] refactor jb @started(22-06-21 13:34) @done(22-06-21 14:34) @lasted(1h9s)
-    - [x] GOP-17974 review 2 @started(22-06-21 14:35) @done(22-06-21 15:52) @lasted(1h17m26s)
-    - [x] GOP-18291 check @started(22-06-21 15:52) @done(22-06-21 16:30) @lasted(38m35s)
-    - [x] split verify 1 @started(22-06-21 16:31) @done(22-06-21 18:10) @lasted(1h39m19s)
-    - [ ] split verify 2 - test lambda
-    - [ ] GOP-18291 check 2
-    - [ ] GOP-17648 apply review 7
-  study:
-    - [x] data study @started(22-06-21 12:22) @done(22-06-21 13:07) @lasted(45m25s)
-    - [x] 8장 스터디 준비 @started(22-06-21 23:09) @done(22-06-21 23:41) @lasted(32m4s)
-  sport:
-    ✘ [ ] exc @cancelled(22-06-21 23:09)
-
 day-2022-06-22:
-  - [ ] 블로그 정리 및 내일 할일 정리 2022-06-22
-  - [ ] pill
+  - [x] 블로그 정리 및 내일 할일 정리 2022-06-22 @started(22-06-22 23:41) @done(22-06-22 23:42) @lasted(1m50s)
+  - [x] pill @done(22-06-22 23:40)
   job:
+    - [x] split verify 2 - test lambda @started(22-06-22 09:32) @done(22-06-22 11:59) @lasted(2h27m8s)
+    - [x] split verify 3 - test lambda @started(22-06-22 13:10) @done(22-06-22 14:00) @lasted(50m34s)
+    - [x] story point meeting @started(22-06-22 15:16) @done(22-06-22 15:49) @lasted(33m57s)
     - [ ] GOP-17974 review 2
     - [ ] GOP-18291 check 2
-    - [ ] split verify 2 - test lambda
+    - [ ] GOP-17648 apply review 7
+  study:
+    - [x] 8장 스터디 준비 2 @started(22-06-22 20:15) @done(22-06-22 20:22) @lasted(7m33s)
+    - [ ] 8장 스터디 준비 3
+  sport:
+    - [x] exc @started(22-06-22 20:25) @done(22-06-22 20:35) @lasted(10m44s)
+    20-15-10-10
+
+day-2022-06-23:
+  - [ ] 블로그 정리 및 내일 할일 정리 2022-06-23
+  - [ ] pill
+  job:
+    - [ ] split verify 4 - test lambda
+    - [ ] GOP-17974 review 2
     - [ ] GOP-18291 check 2
     - [ ] GOP-17648 apply review 7
   study:
-    - [ ] 7장 스터디 준비
+    - [ ] 8장 스터디 준비 3
   sport:
     - [ ] exc
 
@@ -61,6 +58,17 @@ job:
   - [ ] local proto compile js setup
 
 Archive:
+  - [x] 블로그 정리 및 내일 할일 정리 2022-06-21 @started(22-06-21 23:40) @done(22-06-21 23:41) @lasted(1m14s) @project(day-2022-06-21)
+  - [x] pill @done(22-06-21 23:09) @project(day-2022-06-21)
+  ✘ [ ] private relay refactor @started(22-06-21 09:13) @cancelled(22-06-21 10:18) @wasted(1h5m7s) @project(day-2022-06-21.job)
+  - [x] daily @done(22-06-21 12:32) @project(day-2022-06-21.job)
+  - [x] refactor jb @started(22-06-21 13:34) @done(22-06-21 14:34) @lasted(1h9s) @project(day-2022-06-21.job)
+  - [x] GOP-17974 review 2 @started(22-06-21 14:35) @done(22-06-21 15:52) @lasted(1h17m26s) @project(day-2022-06-21.job)
+  - [x] GOP-18291 check @started(22-06-21 15:52) @done(22-06-21 16:30) @lasted(38m35s) @project(day-2022-06-21.job)
+  - [x] split verify 1 @started(22-06-21 16:31) @done(22-06-21 18:10) @lasted(1h39m19s) @project(day-2022-06-21.job)
+  - [x] data study @started(22-06-21 12:22) @done(22-06-21 13:07) @lasted(45m25s) @project(day-2022-06-21.study)
+  - [x] 8장 스터디 준비 @started(22-06-21 23:09) @done(22-06-21 23:41) @lasted(32m4s) @project(day-2022-06-21.study)
+  ✘ [ ] exc @cancelled(22-06-21 23:09) @project(day-2022-06-21.sport)
   - [x] 블로그 정리 및 내일 할일 정리 2022-06-20 @started(22-06-21 09:06) @done(22-06-21 09:09) @lasted(3m29s) @project(day-2022-06-20)
   - [x] pill @done(22-06-20 22:50) @project(day-2022-06-20)
   - [x] daily @done(22-06-20 12:59) @project(day-2022-06-20.job)
