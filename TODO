@@ -1,25 +1,11 @@
-day-2022-06-23:
-  - [x] 블로그 정리 및 내일 할일 정리 2022-06-23 @started(22-06-23 18:17) @done(22-06-23 18:18) @lasted(1m29s)
-  - [ ] pill
-  job:
-    - [x] split verify 4 - test lambda @started(22-06-23 10:56) @done(22-06-23 11:14) @lasted(18m53s)
-    - [x] sprint planning @started(22-06-23 13:32) @done(22-06-23 15:18) @lasted(1h46m35s)
-    이번 스프린트 - 기존 배포 스크립트 린트 적용, private relay 공유기능
-    다음 스프린트 - 공유기능 마무리, verify crypto address 모듈 분리 및 람다 추가 작업
-    - [x] split verify 5 - upload lambda @started(22-06-23 15:29) @done(22-06-23 16:21) @lasted(52m48s)
-    - [x] GOP-18374 cancel orders @started(22-06-23 16:21) @done(22-06-23 17:26) @lasted(1h5m35s)
-    - [ ] split verify 6 - upload lambda @started(22-06-23 17:31)
-    - [ ] GOP-17974 review 2
-    - [ ] GOP-18291 check 2
-    - [ ] GOP-17648 apply review 7
-
 day-2022-06-24:
   - [ ] 블로그 정리 및 내일 할일 정리 2022-06-24
   - [ ] pill
   job:
-    - [ ] split verify 7 - fix lambda
+    - [x] split verify 7 - fix lambda @started(22-06-24 13:16) @done(22-06-24 19:29) @lasted(6h13m11s)
+    - [x] GOP-18402 - cs ticket @started(22-06-24 14:32) @done(22-06-24 17:21) @lasted(2h49m)
     - [ ] GOP-17974 review 2
-    - [ ] GOP-18291 check 2
+    - [ ] GOP-18318 update circulation
     - [ ] GOP-17648 apply review 7
   study:
     - [ ] 8장 스터디 준비 3
@@ -56,6 +42,13 @@ job:
   - [ ] local proto compile js setup
 
 Archive:
+  - [x] 블로그 정리 및 내일 할일 정리 2022-06-23 @started(22-06-23 18:17) @done(22-06-23 18:18) @lasted(1m29s) @project(day-2022-06-23)
+  - [x] pill @done(22-06-24 10:56) @project(day-2022-06-23)
+  - [x] split verify 4 - test lambda @started(22-06-23 10:56) @done(22-06-23 11:14) @lasted(18m53s) @project(day-2022-06-23.job)
+  - [x] sprint planning @started(22-06-23 13:32) @done(22-06-23 15:18) @lasted(1h46m35s) @project(day-2022-06-23.job)
+  - [x] split verify 5 - upload lambda @started(22-06-23 15:29) @done(22-06-23 16:21) @lasted(52m48s) @project(day-2022-06-23.job)
+  - [x] GOP-18374 cancel orders @started(22-06-23 16:21) @done(22-06-23 17:26) @lasted(1h5m35s) @project(day-2022-06-23.job)
+  - [x] split verify 6 - upload lambda @started(22-06-23 17:31) @done(22-06-23 18:20) @lasted(49m24s) @project(day-2022-06-23.job)
   - [x] 블로그 정리 및 내일 할일 정리 2022-06-22 @started(22-06-22 23:41) @done(22-06-22 23:42) @lasted(1m50s) @project(day-2022-06-22)
   - [x] pill @done(22-06-22 23:40) @project(day-2022-06-22)
   - [x] split verify 2 - test lambda @started(22-06-22 09:32) @done(22-06-22 11:59) @lasted(2h27m8s) @project(day-2022-06-22.job)
