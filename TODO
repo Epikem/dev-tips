@@ -1,9 +1,23 @@
 day-2022-06-24:
   - [ ] 블로그 정리 및 내일 할일 정리 2022-06-24
-  - [ ] pill
+  - [x] pill @done(22-06-27 09:40)
   job:
     - [x] split verify 7 - fix lambda @started(22-06-24 13:16) @done(22-06-24 19:29) @lasted(6h13m11s)
     - [x] GOP-18402 - cs ticket @started(22-06-24 14:32) @done(22-06-24 17:21) @lasted(2h49m)
+    - [ ] GOP-17974 review 2
+    - [ ] GOP-18318 update circulation
+    - [ ] GOP-17648 apply review 7
+  study:
+    - [ ] 8장 스터디 준비 3
+  sport:
+    - [ ] exc
+
+day-2022-06-27:
+  - [ ] 블로그 정리 및 내일 할일 정리 2022-06-24
+  - [ ] pill
+  job:
+    - [ ] split verify 8 - refactor
+    - [ ] GOP-18402 - cs ticket
     - [ ] GOP-17974 review 2
     - [ ] GOP-18318 update circulation
     - [ ] GOP-17648 apply review 7
