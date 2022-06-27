@@ -1,28 +1,18 @@
-day-2022-06-24:
-  - [ ] 블로그 정리 및 내일 할일 정리 2022-06-24
-  - [x] pill @done(22-06-27 09:40)
-  job:
-    - [x] split verify 7 - fix lambda @started(22-06-24 13:16) @done(22-06-24 19:29) @lasted(6h13m11s)
-    - [x] GOP-18402 - cs ticket @started(22-06-24 14:32) @done(22-06-24 17:21) @lasted(2h49m)
-    - [ ] GOP-17974 review 2
-    - [ ] GOP-18318 update circulation
-    - [ ] GOP-17648 apply review 7
-  study:
-    - [ ] 8장 스터디 준비 3
-  sport:
-    - [ ] exc
-
 day-2022-06-27:
   - [ ] 블로그 정리 및 내일 할일 정리 2022-06-24
-  - [ ] pill
+  - [x] pill @done(22-06-27 22:52)
   job:
-    - [ ] split verify 8 - refactor
-    - [ ] GOP-18402 - cs ticket
+    - [x] split verify 8 - refactor @started(22-06-27 10:31) @done(22-06-27 11:11) @lasted(40m46s)
+    - [x] drm daily + retrospective + sprint planning @started(22-06-27 13:40) @done(22-06-27 14:27) @lasted(47m5s)
+    - [x] spec review meeting @started(22-06-27 15:03) @done(22-06-27 15:29) @lasted(26m58s)
+    - [x] GOP-17646 deploy script land @started(22-06-27 16:31) @done(22-06-27 18:19) @lasted(1h48m31s)
+    - [ ] GOP-17648 apply review 7
+    - [ ] split verify 9
     - [ ] GOP-17974 review 2
     - [ ] GOP-18318 update circulation
-    - [ ] GOP-17648 apply review 7
   study:
-    - [ ] 8장 스터디 준비 3
+    - [x] 8장 스터디 준비 3 @started(22-06-27 22:06) @done(22-06-27 22:52) @lasted(46m2s)
+    upload images to nano, prepare
   sport:
     - [ ] exc
 
@@ -44,8 +34,6 @@ arb:
     - [ ] 직접 돌리기
 
 job:
-  - [ ] ad task apply review 5 - refactor mock sql
-  - [ ] ad task apply review 5 - lint
   - [ ] jb handle broken status
   - [ ] add verify crypto address lambda
   - [ ] GOP-15968 3 (wallet add not internal bug)
@@ -56,6 +44,9 @@ job:
   - [ ] local proto compile js setup
 
 Archive:
+  - [x] pill @done(22-06-27 09:40) @project(day-2022-06-24)
+  - [x] split verify 7 - fix lambda @started(22-06-24 13:16) @done(22-06-24 19:29) @lasted(6h13m11s) @project(day-2022-06-24.job)
+  - [x] GOP-18402 - cs ticket @started(22-06-24 14:32) @done(22-06-24 17:21) @lasted(2h49m) @project(day-2022-06-24.job)
   - [x] 블로그 정리 및 내일 할일 정리 2022-06-23 @started(22-06-23 18:17) @done(22-06-23 18:18) @lasted(1m29s) @project(day-2022-06-23)
   - [x] pill @done(22-06-24 10:56) @project(day-2022-06-23)
   - [x] split verify 4 - test lambda @started(22-06-23 10:56) @done(22-06-23 11:14) @lasted(18m53s) @project(day-2022-06-23.job)
