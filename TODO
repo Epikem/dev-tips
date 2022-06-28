@@ -1,32 +1,32 @@
-day-2022-06-27:
-  - [x] 블로그 정리 및 내일 할일 정리 2022-06-27 @started(22-06-28 10:02) @done(22-06-28 10:06) @lasted(4m40s)
-  - [x] pill @done(22-06-27 22:52)
-  job:
-    - [x] split verify 8 - refactor @started(22-06-27 10:31) @done(22-06-27 11:11) @lasted(40m46s)
-    - [x] drm daily + retrospective + sprint planning @started(22-06-27 13:40) @done(22-06-27 14:27) @lasted(47m5s)
-    - [x] spec review meeting @started(22-06-27 15:03) @done(22-06-27 15:29) @lasted(26m58s)
-    - [x] GOP-17646 deploy script land @started(22-06-27 16:31) @done(22-06-27 18:19) @lasted(1h48m31s)
-    - [ ] GOP-17648 apply review 7
-    - [ ] split verify 9
-    - [ ] GOP-17974 review 2
-    ✘ [ ] GOP-18318 update circulation @cancelled(22-06-28 10:06)
-  study:
-    - [x] 8장 스터디 준비 3 @started(22-06-27 22:06) @done(22-06-27 22:52) @lasted(46m2s)
-    upload images to nano, prepare
-  sport:
-    - [ ] exc
-
 day-2022-06-28:
-  - [ ] 블로그 정리 및 내일 할일 정리 2022-06-28
+  - [x] 블로그 정리 및 내일 할일 정리 2022-06-28 @started(22-06-28 18:40) @done(22-06-28 18:41) @lasted(1m26s)
   - [ ] pill
   job:
-    - [ ] split verify 9
-    - [ ] daily
-    - [ ] drm daily
+    - [x] GOP-15886 split verify 9 @started(22-06-28 10:10) @done(22-06-28 11:31) @lasted(1h21m22s)
+    - [x] GOP-15886 split verify 10 @done(22-06-28 17:50)
+    - [x] daily @done(22-06-28 17:50)
+    - [x] drm daily @done(22-06-28 17:50)
+    - [x] GOP-18509 jb task @started(22-06-28 18:00) @done(22-06-28 18:34) @lasted(34m31s)
     - [ ] GOP-8059 create tickets
     - [ ] GOP-17648 apply review 7
   study:
-    - [ ] 8장 스터디 - 1
+    - [x] 8장 스터디 - 1 @done(22-06-28 18:36)
+  sport:
+    - [ ] exc
+
+day-2022-06-29:
+  - [ ] 블로그 정리 및 내일 할일 정리 2022-06-29
+  - [ ] pill
+  job:
+    - [ ] GOP-15886 split verify 11 apply review
+    - [ ] GOP-18509 jb task 2 - investigate data
+    - [ ] GOP-18509 jb task 3 - handle new type service message
+    - [ ] GOP-18509 jb task 4 - add new lambda
+    - [ ] daily
+    - [ ] drm daily
+    - [ ] GOP-17648 apply review 7
+  study:
+    - [ ] 8장 다음 부분 준비 1
   sport:
     - [ ] exc
 
@@ -48,6 +48,8 @@ arb:
     - [ ] 직접 돌리기
 
 job:
+  - [ ] GOP-8059 create tickets
+  - [ ] 8장 스터디 - 2
   - [ ] GOP-18318 update circulation
   - [ ] jb handle broken status
   - [ ] add verify crypto address lambda
@@ -59,6 +61,14 @@ job:
   - [ ] local proto compile js setup
 
 Archive:
+  - [x] 블로그 정리 및 내일 할일 정리 2022-06-27 @started(22-06-28 10:02) @done(22-06-28 10:06) @lasted(4m40s) @project(day-2022-06-27)
+  - [x] pill @done(22-06-27 22:52) @project(day-2022-06-27)
+  - [x] split verify 8 - refactor @started(22-06-27 10:31) @done(22-06-27 11:11) @lasted(40m46s) @project(day-2022-06-27.job)
+  - [x] drm daily + retrospective + sprint planning @started(22-06-27 13:40) @done(22-06-27 14:27) @lasted(47m5s) @project(day-2022-06-27.job)
+  - [x] spec review meeting @started(22-06-27 15:03) @done(22-06-27 15:29) @lasted(26m58s) @project(day-2022-06-27.job)
+  - [x] GOP-17646 deploy script land @started(22-06-27 16:31) @done(22-06-27 18:19) @lasted(1h48m31s) @project(day-2022-06-27.job)
+  ✘ [ ] GOP-18318 update circulation @cancelled(22-06-28 10:06) @project(day-2022-06-27.job)
+  - [x] 8장 스터디 준비 3 @started(22-06-27 22:06) @done(22-06-27 22:52) @lasted(46m2s) @project(day-2022-06-27.study)
   - [x] pill @done(22-06-27 09:40) @project(day-2022-06-24)
   - [x] split verify 7 - fix lambda @started(22-06-24 13:16) @done(22-06-24 19:29) @lasted(6h13m11s) @project(day-2022-06-24.job)
   - [x] GOP-18402 - cs ticket @started(22-06-24 14:32) @done(22-06-24 17:21) @lasted(2h49m) @project(day-2022-06-24.job)
