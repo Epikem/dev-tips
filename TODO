@@ -1,5 +1,5 @@
 day-2022-06-27:
-  - [ ] 블로그 정리 및 내일 할일 정리 2022-06-24
+  - [x] 블로그 정리 및 내일 할일 정리 2022-06-27 @started(22-06-28 10:02) @done(22-06-28 10:06) @lasted(4m40s)
   - [x] pill @done(22-06-27 22:52)
   job:
     - [x] split verify 8 - refactor @started(22-06-27 10:31) @done(22-06-27 11:11) @lasted(40m46s)
@@ -9,10 +9,24 @@ day-2022-06-27:
     - [ ] GOP-17648 apply review 7
     - [ ] split verify 9
     - [ ] GOP-17974 review 2
-    - [ ] GOP-18318 update circulation
+    ✘ [ ] GOP-18318 update circulation @cancelled(22-06-28 10:06)
   study:
     - [x] 8장 스터디 준비 3 @started(22-06-27 22:06) @done(22-06-27 22:52) @lasted(46m2s)
     upload images to nano, prepare
+  sport:
+    - [ ] exc
+
+day-2022-06-28:
+  - [ ] 블로그 정리 및 내일 할일 정리 2022-06-28
+  - [ ] pill
+  job:
+    - [ ] split verify 9
+    - [ ] daily
+    - [ ] drm daily
+    - [ ] GOP-8059 create tickets
+    - [ ] GOP-17648 apply review 7
+  study:
+    - [ ] 8장 스터디 - 1
   sport:
     - [ ] exc
 
@@ -34,6 +48,7 @@ arb:
     - [ ] 직접 돌리기
 
 job:
+  - [ ] GOP-18318 update circulation
   - [ ] jb handle broken status
   - [ ] add verify crypto address lambda
   - [ ] GOP-15968 3 (wallet add not internal bug)
