@@ -1,29 +1,36 @@
-day-2022-06-28:
-  - [x] 블로그 정리 및 내일 할일 정리 2022-06-28 @started(22-06-28 18:40) @done(22-06-28 18:41) @lasted(1m26s)
-  - [ ] pill
+day-2022-06-29:
+  - [x] 블로그 정리 및 내일 할일 정리 2022-06-29 @started(22-06-29 22:42) @done(22-06-29 22:53) @lasted(11m47s)
+  - [x] pill @done(22-06-29 22:42)
   job:
-    - [x] GOP-15886 split verify 9 @started(22-06-28 10:10) @done(22-06-28 11:31) @lasted(1h21m22s)
-    - [x] GOP-15886 split verify 10 @done(22-06-28 17:50)
-    - [x] daily @done(22-06-28 17:50)
-    - [x] drm daily @done(22-06-28 17:50)
-    - [x] GOP-18509 jb task @started(22-06-28 18:00) @done(22-06-28 18:34) @lasted(34m31s)
-    - [ ] GOP-8059 create tickets
+    - [x] GOP-18509 jb task 2 - investigate data @started(22-06-29 10:55) @done(22-06-29 13:47) @lasted(2h52m12s)
+    - [x] daily @done(22-06-29 14:07)
+    - [x] drm daily @done(22-06-29 13:08)
+    - [x] gdr daily @started(22-06-29 14:06) @done(22-06-29 14:39) @lasted(33m41s)
+    - [x] create tickets @started(22-06-29 14:40) @done(22-06-29 14:57) @lasted(17m21s)
+    - [x] story points @started(22-06-29 14:59) @done(22-06-29 15:59) @lasted(1h21s)
+    ✘ [ ] oms review @cancelled(22-06-29 17:24)
+    - [x] write guide doc @started(22-06-29 16:01) @done(22-06-29 17:24) @lasted(1h23m21s)
+    - [x] tech onboarding @started(22-06-29 17:36) @done(22-06-29 18:29) @lasted(53m32s)
+    - [x] GOP-18509 jb task 3 - test crypto @started(22-06-29 19:30) @done(22-06-29 19:58) @lasted(28m48s)
+    - [ ] GOP-18509 jb task 4 - handle new type service message
+    - [ ] GOP-15886 split verify 11 apply review
+    - [ ] GOP-18509 jb task 5 - add new lambda
     - [ ] GOP-17648 apply review 7
   study:
-    - [x] 8장 스터디 - 1 @done(22-06-28 18:36)
+    - [ ] 8장 다음 부분 준비 1
   sport:
     - [ ] exc
 
-day-2022-06-29:
-  - [ ] 블로그 정리 및 내일 할일 정리 2022-06-29
+day-2022-06-30:
+  - [ ] 블로그 정리 및 내일 할일 정리 2022-06-30
   - [ ] pill
   job:
-    - [ ] GOP-15886 split verify 11 apply review
-    - [ ] GOP-18509 jb task 2 - investigate data
-    - [ ] GOP-18509 jb task 3 - handle new type service message
-    - [ ] GOP-18509 jb task 4 - add new lambda
+    - [ ] gdr daily
     - [ ] daily
-    - [ ] drm daily
+    - [ ] GOP-15886 split verify 11 apply review
+    - [ ] GOP-18509 jb task 4 - test mock channel
+    - [ ] GOP-18509 jb task 5 - add new lambda
+    - [ ] GOP-18509 jb task 6 - handle new type service message
     - [ ] GOP-17648 apply review 7
   study:
     - [ ] 8장 다음 부분 준비 1
@@ -61,6 +68,14 @@ job:
   - [ ] local proto compile js setup
 
 Archive:
+  - [x] 블로그 정리 및 내일 할일 정리 2022-06-28 @started(22-06-28 18:40) @done(22-06-28 18:41) @lasted(1m26s) @project(day-2022-06-28)
+  - [x] pill @done(22-06-29 10:51) @project(day-2022-06-28)
+  - [x] GOP-15886 split verify 9 @started(22-06-28 10:10) @done(22-06-28 11:31) @lasted(1h21m22s) @project(day-2022-06-28.job)
+  - [x] GOP-15886 split verify 10 @done(22-06-28 17:50) @project(day-2022-06-28.job)
+  - [x] daily @done(22-06-28 17:50) @project(day-2022-06-28.job)
+  - [x] drm daily @done(22-06-28 17:50) @project(day-2022-06-28.job)
+  - [x] GOP-18509 jb task @started(22-06-28 18:00) @done(22-06-28 18:34) @lasted(34m31s) @project(day-2022-06-28.job)
+  - [x] 8장 스터디 - 1 @done(22-06-28 18:36) @project(day-2022-06-28.study)
   - [x] 블로그 정리 및 내일 할일 정리 2022-06-27 @started(22-06-28 10:02) @done(22-06-28 10:06) @lasted(4m40s) @project(day-2022-06-27)
   - [x] pill @done(22-06-27 22:52) @project(day-2022-06-27)
   - [x] split verify 8 - refactor @started(22-06-27 10:31) @done(22-06-27 11:11) @lasted(40m46s) @project(day-2022-06-27.job)
