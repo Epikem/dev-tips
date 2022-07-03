@@ -21,7 +21,7 @@ day-2022-07-01:
     - [ ] exc
 
 day-2022-07-02:
-  - [ ] 블로그 정리 및 내일 할일 정리 2022-07-02
+  - [x] 블로그 정리 및 내일 할일 정리 2022-07-02 @started(22-07-03 17:31) @done(22-07-03 17:33) @lasted(2m23s)
   - [ ] pill
   job:
     - [ ] GOP-18509 jb task 7 - add lambda to lambda invoke
@@ -36,6 +36,34 @@ day-2022-07-02:
   sport:
     - [ ] exc
 
+day-2022-07-03:
+  - [ ] 블로그 정리 및 내일 할일 정리 2022-07-03
+  - [ ] pill
+  arb:
+    - [ ] sendOrder 필요한 필드 추가?
+    - [ ] 직접 돌리기
+  study:
+    - [ ] 8장 다음 부분 준비 1
+    - [ ] rxjs 학습
+  sport:
+    - [ ] exc
+
+day-2022-07-04:
+  - [ ] 블로그 정리 및 내일 할일 정리 2022-07-04
+  - [ ] pill
+  job:
+    - [ ] GOP-18509 jb task 7 - add lambda to lambda invoke
+    - [ ] GOP-18509 jb task 8 - freeze logic
+    - [ ] GOP-18509 jb task 9 - handle new type service message
+    - [ ] GOP-18318 update circulation 2
+    - [ ] GOP-15886 split verify 11 apply review
+    - [ ] cs ticket (new) - delay
+    - [ ] GOP-17648 apply review 7
+  study:
+    - [ ] 8장 다음 부분 준비 1
+  sport:
+    - [ ] exc
+    
 study:
   - [ ] study clean architecture on rxjs 2 - console
   - [ ] prepare next study - clean architecture
@@ -49,7 +77,6 @@ arb:
     - [ ] waizrx 가입
     - [ ] 운영법 알려주기
     - [ ] 출금수수료 작업 2
-    - [ ] sendOrder 필요한 필드 추가?
     - [ ] strategy logic 변경 반영
     - [ ] 직접 돌리기
 
