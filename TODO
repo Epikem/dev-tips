@@ -1,41 +1,3 @@
-day-2022-07-01:
-  - [x] 블로그 정리 및 내일 할일 정리 2022-07-01 @started(22-07-01 23:31) @done(22-07-01 23:32) @lasted(1m37s)
-  - [x] pill @done(22-07-01 23:31)
-  job:
-    - [x] GOP-18318 update circulation 1 @started(22-07-01 09:07) @done(22-07-01 09:33) @lasted(26m31s)
-    - [x] GOP-18509 jb task 4 - test mock channel @started(22-07-01 09:35) @done(22-07-01 12:06) @lasted(2h31m56s)
-    - [x] gdr daily @done(22-07-01 10:55)
-    - [x] daily @done(22-07-01 13:14)
-    - [x] qa/staging deploy @started(22-07-01 13:27) @done(22-07-01 14:59) @lasted(1h32m36s)
-    - [x] cs deactivation @done(22-07-01 14:59)
-    - [x] GOP-18509 jb task 5 - test mock channel 2 @started(22-07-01 17:48) @done(22-07-01 19:23) @lasted(1h35m18s)
-    - [x] GOP-18509 jb task 6 - add mock lambda @done(22-07-01 23:14)
-    - [ ] GOP-18318 update circulation 2
-    - [ ] GOP-15886 split verify 11 apply review
-    - [ ] cs ticket (new)
-    - [ ] GOP-18509 jb task 7 - handle new type service message
-    - [ ] GOP-17648 apply review 7
-  study:
-    - [ ] 8장 다음 부분 준비 1
-  sport:
-    - [ ] exc
-
-day-2022-07-02:
-  - [x] 블로그 정리 및 내일 할일 정리 2022-07-02 @started(22-07-03 17:31) @done(22-07-03 17:33) @lasted(2m23s)
-  - [ ] pill
-  job:
-    - [ ] GOP-18509 jb task 7 - add lambda to lambda invoke
-    - [ ] GOP-18509 jb task 8 - freeze logic
-    - [ ] GOP-18509 jb task 9 - handle new type service message
-    - [ ] GOP-18318 update circulation 2
-    - [ ] GOP-15886 split verify 11 apply review
-    - [ ] cs ticket (new) - delay
-    - [ ] GOP-17648 apply review 7
-  study:
-    - [ ] 8장 다음 부분 준비 1
-  sport:
-    - [ ] exc
-
 day-2022-07-03:
   - [ ] 블로그 정리 및 내일 할일 정리 2022-07-03
   - [ ] pill
@@ -43,8 +5,8 @@ day-2022-07-03:
     - [ ] sendOrder 필요한 필드 추가?
     - [ ] 직접 돌리기
   study:
-    - [ ] 8장 다음 부분 준비 1
-    - [ ] rxjs 학습
+    - [x] 8장 다음 부분 준비 1 @started(22-07-03 17:34) @done(22-07-03 17:50) @lasted(16m50s)
+    - [x] rxjs 학습 @started(22-07-03 18:12) @done(22-07-03 20:58) @lasted(2h46m31s)
   sport:
     - [ ] exc
 
@@ -60,7 +22,7 @@ day-2022-07-04:
     - [ ] cs ticket (new) - delay
     - [ ] GOP-17648 apply review 7
   study:
-    - [ ] 8장 다음 부분 준비 1
+    - [ ] 8장 다음 부분 준비 2
   sport:
     - [ ] exc
     
@@ -93,6 +55,17 @@ job:
   - [ ] local proto compile js setup
 
 Archive:
+  - [x] 블로그 정리 및 내일 할일 정리 2022-07-01 @started(22-07-01 23:31) @done(22-07-01 23:32) @lasted(1m37s) @project(day-2022-07-01)
+  - [x] pill @done(22-07-01 23:31) @project(day-2022-07-01)
+  - [x] GOP-18318 update circulation 1 @started(22-07-01 09:07) @done(22-07-01 09:33) @lasted(26m31s) @project(day-2022-07-01.job)
+  - [x] GOP-18509 jb task 4 - test mock channel @started(22-07-01 09:35) @done(22-07-01 12:06) @lasted(2h31m56s) @project(day-2022-07-01.job)
+  - [x] gdr daily @done(22-07-01 10:55) @project(day-2022-07-01.job)
+  - [x] daily @done(22-07-01 13:14) @project(day-2022-07-01.job)
+  - [x] qa/staging deploy @started(22-07-01 13:27) @done(22-07-01 14:59) @lasted(1h32m36s) @project(day-2022-07-01.job)
+  - [x] cs deactivation @done(22-07-01 14:59) @project(day-2022-07-01.job)
+  - [x] GOP-18509 jb task 5 - test mock channel 2 @started(22-07-01 17:48) @done(22-07-01 19:23) @lasted(1h35m18s) @project(day-2022-07-01.job)
+  - [x] GOP-18509 jb task 6 - add mock lambda @done(22-07-01 23:14) @project(day-2022-07-01.job)
+  - [x] 블로그 정리 및 내일 할일 정리 2022-07-02 @started(22-07-03 17:31) @done(22-07-03 17:33) @lasted(2m23s) @project(day-2022-07-02)
   - [x] 블로그 정리 및 내일 할일 정리 2022-06-29 @started(22-06-29 22:42) @done(22-06-29 22:53) @lasted(11m47s) @project(day-2022-06-29)
   - [x] pill @done(22-06-29 22:42) @project(day-2022-06-29)
   - [x] GOP-18509 jb task 2 - investigate data @started(22-06-29 10:55) @done(22-06-29 13:47) @lasted(2h52m12s) @project(day-2022-06-29.job)
