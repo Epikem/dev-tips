@@ -1,28 +1,40 @@
-day-2022-07-03:
-  - [ ] 블로그 정리 및 내일 할일 정리 2022-07-03
-  - [x] pill @done(22-07-04 09:03)
-  arb:
-    - [ ] sendOrder 필요한 필드 추가?
-    - [ ] 직접 돌리기
+day-2022-07-04:
+  - [x] 블로그 정리 및 내일 할일 정리 2022-07-04 @started(22-07-04 23:57) @done(22-07-04 23:59) @lasted(2m4s)
+  - [x] pill @done(22-07-04 23:47)
+  job:
+    - [x] GOP-18665 cs ticket 1 - krw @done(22-07-04 09:16)
+    - [x] GOP-18509 jb task 7 - add lambda to lambda invoke @started(22-07-04 09:27) @done(22-07-04 10:53) @lasted(1h26m14s)
+    - [x] GOP-15886 split verify 11 apply review @started(22-07-04 10:54) @done(22-07-04 13:53) @lasted(2h59m16s)
+    - [x] GOP-15886 split verify 12 apply review @done(22-07-04 14:25)
+    ✘ [ ] GOP-18509 jb task 8 - handle new type service message @started(22-07-04 14:25) @cancelled(22-07-04 17:48) @wasted(3h23m55s)
+    - [x] GOP-18665 cs ticket 2 - krw @started(22-07-04 14:06) @done(22-07-04 17:51) @lasted(3h45m30s)
+    - [x] GOP-18509 jb task 9 - request test message @done(22-07-04 17:51)
+    - [x] GOP-15886 split verify 13 apply review @started(22-07-04 21:11) @done(22-07-04 23:21) @lasted(2h10m54s)
+    - [x] GOP-18318 update circulation 2 @done(22-07-04 23:58)
+    - [ ] GOP-18703 jb task 10 - work on interface
+    - [ ] GOP-18509 jb task 11 - work on freeze logic
+    - [ ] GOP-18665 cs ticket 3 - reminder
+    - [ ] ticket - update 약관
+    - [ ] GOP-17648 apply review 7
   study:
-    - [x] 8장 다음 부분 준비 1 @started(22-07-03 17:34) @done(22-07-03 17:50) @lasted(16m50s)
-    - [x] rxjs 학습 @started(22-07-03 18:12) @done(22-07-03 20:58) @lasted(2h46m31s)
+    - [x] 8장 다음 부분 준비 2 @started(22-07-04 23:22) @done(22-07-04 23:57) @lasted(35m47s)
   sport:
     - [ ] exc
 
-day-2022-07-04:
-  - [ ] 블로그 정리 및 내일 할일 정리 2022-07-04
+day-2022-07-05:
+  - [ ] 블로그 정리 및 내일 할일 정리 2022-07-05
   - [ ] pill
   job:
-    - [ ] GOP-18509 jb task 7 - add lambda to lambda invoke
-    - [ ] GOP-18509 jb task 8 - freeze logic
-    - [ ] GOP-18509 jb task 9 - handle new type service message
-    - [ ] GOP-18318 update circulation 2
-    - [ ] GOP-15886 split verify 11 apply review
-    - [ ] cs ticket (new) - delay
+    - [ ] GOP-18665 cs ticket 3 - krw
+    - [ ] GOP-15886 split verify 14 apply review
+    - [ ] GOP-18703 jb task 10 - work on interface
+    - [ ] GOP-18509 jb task 11 - work on freeze logic
+    - [ ] GOP-18665 cs ticket 3 - reminder
+    - [ ] ticket - update 약관
+    - [ ] GOP-18318 update circulation 3
     - [ ] GOP-17648 apply review 7
   study:
-    - [ ] 8장 다음 부분 준비 2
+    - [x] 8장 다음 부분 준비 2 @started(22-07-04 23:22) @done(22-07-04 23:57) @lasted(35m47s)
   sport:
     - [ ] exc
 
@@ -43,6 +55,7 @@ arb:
     - [ ] 직접 돌리기
 
 job:
+  - [ ] GOP-18688
   - [ ] GOP-8059 create tickets
   - [ ] 8장 스터디 - 2
   - [ ] jb handle broken status
@@ -55,6 +68,9 @@ job:
   - [ ] local proto compile js setup
 
 Archive:
+  - [x] pill @done(22-07-04 09:03) @project(day-2022-07-03)
+  - [x] 8장 다음 부분 준비 1 @started(22-07-03 17:34) @done(22-07-03 17:50) @lasted(16m50s) @project(day-2022-07-03.study)
+  - [x] rxjs 학습 @started(22-07-03 18:12) @done(22-07-03 20:58) @lasted(2h46m31s) @project(day-2022-07-03.study)
   - [x] 블로그 정리 및 내일 할일 정리 2022-07-01 @started(22-07-01 23:31) @done(22-07-01 23:32) @lasted(1m37s) @project(day-2022-07-01)
   - [x] pill @done(22-07-01 23:31) @project(day-2022-07-01)
   - [x] GOP-18318 update circulation 1 @started(22-07-01 09:07) @done(22-07-01 09:33) @lasted(26m31s) @project(day-2022-07-01.job)
