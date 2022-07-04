@@ -1,6 +1,6 @@
 day-2022-07-03:
   - [ ] 블로그 정리 및 내일 할일 정리 2022-07-03
-  - [ ] pill
+  - [x] pill @done(22-07-04 09:03)
   arb:
     - [ ] sendOrder 필요한 필드 추가?
     - [ ] 직접 돌리기
@@ -25,7 +25,7 @@ day-2022-07-04:
     - [ ] 8장 다음 부분 준비 2
   sport:
     - [ ] exc
-    
+
 study:
   - [ ] study clean architecture on rxjs 2 - console
   - [ ] prepare next study - clean architecture
