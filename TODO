@@ -1,42 +1,44 @@
-day-2022-07-06:
-  - [x] 블로그 정리 및 내일 할일 정리 2022-07-06 @started(22-07-07 07:36) @done(22-07-07 09:06) @lasted(1h30m52s)
-  - [x] pill @done(22-07-06 10:46)
-  job:
-    - [x] gdr daily @done(22-07-06 10:46)
-    - [x] daily @started(22-07-06 11:14) @done(22-07-06 11:25) @lasted(11m45s)
-    - [x] jb plan review @done(22-07-06 15:33)
-    - [x] story point meeting @started(22-07-06 15:34) @done(22-07-06 16:42) @lasted(1h8m44s)
-    - [x] GOP-15404 jb cfn - use js lambda @started(22-07-06 16:52) @done(22-07-06 17:53) @lasted(1h1m50s)
-    - [x] GOP-15404 jb cfn - apply review @started(22-07-06 21:43) @done(22-07-06 22:07) @lasted(24m41s)
-    - [x] GOP-15403 process jb to gopax lambda - 1 @started(22-07-06 22:19) @done(22-07-06 23:30) @lasted(1h11m21s)
-    - [ ] cs ticket - event
-    - [ ] GOP-15404 jb cfn - test (need staging cfn)
-    - [ ] GOP-18614 jb task 12 - work on freeze logic
-    - [ ] jb refactor - reminder 2
-    - [ ] GOP-18703 jb task 11 - work on interface 2
-    - [ ] GOP-16770 land jb refactor 2
-    - [ ] GOP-18665 cs ticket 3 - krw
-    - [ ] ticket - update 약관
-    - [ ] GOP-17648 apply review 7
-  sport:
-    - [ ] exc
-
 day-2022-07-07:
-  - [ ] 블로그 정리 및 내일 할일 정리 2022-07-07
-  - [ ] pill
+  - [x] 블로그 정리 및 내일 할일 정리 2022-07-07 @started(22-07-07 23:28) @done(22-07-07 23:29) @lasted(1m23s)
+  - [x] pill @done(22-07-07 23:15)
   job:
-    - [x] cs ticket - witch event 1 @started(22-07-07 07:47) @done(22-07-07 09:06) @lasted(1h19m38s)
-    - [ ] cs ticket - witch event 2
-    - [ ] gdr daily
-    - [ ] sprint planning
-    - [ ] GOP-15404 jb add dummy lambda - refactor
+    - [x] cs ticket - witch event 1 @started(22-07-07 07:47) @done(22-07-07 09:06) @lasted(1h19m38s) @project(day-2022-07-07.job)
+    - [x] GOP-15404 jb add dummy lambda - refactor @started(22-07-07 09:12) @done(22-07-07 09:44) @lasted(32m23s)
+    - [x] GOP-16770 land jb refactor 2 @started(22-07-07 09:44) @done(22-07-07 09:54) @lasted(10m40s)
+    - [x] gdr daily @started(22-07-07 10:45) @done(22-07-07 11:06) @lasted(21m54s)
+    - [x] GOP-18703 jb task 11 - work on interface 2 @started(22-07-07 09:55) @done(22-07-07 11:06) @lasted(1h11m59s)
+    - [x] GOP-18703 jb task 12 land @started(22-07-07 12:31) @done(22-07-07 13:33) @lasted(1h2m55s)
+    - [x] cs ticket - witch event 2 @done(22-07-07 14:46)
+    - [x] sprint planning @started(22-07-07 13:34) @done(22-07-07 14:46) @lasted(1h12m9s)
+    - [x] GOP-15403 work on interface lambda logic @started(22-07-07 14:46) @done(22-07-07 15:23) @lasted(37m2s)
+    - [x] GOP-18823 D10660 @started(22-07-07 15:24) @done(22-07-07 16:44) @lasted(1h20m42s)
+    - [x] GOP-15403 work on interface lambda logic 2 @started(22-07-07 16:52) @done(22-07-07 16:58) @lasted(6m19s)
+    - [x] GOP-18649 ticket - update 약관 @started(22-07-07 18:03) @done(22-07-07 18:53) @lasted(50m44s)
+    - [x] GOP-15403 work on interface lambda logic 3 @started(22-07-07 22:24) @done(22-07-07 23:28) @lasted(1h4m12s)
+    - [ ] GOP-15403 work on interface lambda logic 4
+    - [ ] GOP-18649 ticket - update 약관 2
+    - [ ] GOP-15404 jb add dummy lambda - refactor 2
     - [ ] GOP-15404 jb add dummy lambda - test (need staging cfn)
     - [ ] GOP-18614 jb task 12 - work on freeze logic
     - [ ] jb refactor - reminder 2
-    - [ ] GOP-18703 jb task 11 - work on interface 2
-    - [ ] GOP-16770 land jb refactor 2
     - [ ] GOP-18665 cs ticket 3 - krw
-    - [ ] ticket - update 약관
+    - [ ] GOP-17648 apply review 7
+  sport:
+    - [x] exc @started(22-07-07 21:11) @done(22-07-07 21:26) @lasted(15m55s)
+
+day-2022-07-08:
+  - [ ] 블로그 정리 및 내일 할일 정리 2022-07-08
+  - [ ] pill
+  job:
+    - [ ] gdr daily
+    - [ ] daily
+    - [ ] sprint retrospective
+    - [ ] GOP-18649 ticket - update 약관 2
+    - [ ] GOP-15404 jb add dummy lambda - refactor 2
+    - [ ] GOP-15404 jb add dummy lambda - test (need staging cfn)
+    - [ ] GOP-18614 jb task 12 - work on freeze logic
+    - [ ] jb refactor - reminder 2
+    - [ ] GOP-18665 cs ticket 3 - krw
     - [ ] GOP-17648 apply review 7
   sport:
     - [ ] exc
@@ -72,6 +74,15 @@ job:
   - [ ] local proto compile js setup
 
 Archive:
+  - [x] 블로그 정리 및 내일 할일 정리 2022-07-06 @started(22-07-07 07:36) @done(22-07-07 09:06) @lasted(1h30m52s) @project(day-2022-07-06)
+  - [x] pill @done(22-07-06 10:46) @project(day-2022-07-06)
+  - [x] gdr daily @done(22-07-06 10:46) @project(day-2022-07-06.job)
+  - [x] daily @started(22-07-06 11:14) @done(22-07-06 11:25) @lasted(11m45s) @project(day-2022-07-06.job)
+  - [x] jb plan review @done(22-07-06 15:33) @project(day-2022-07-06.job)
+  - [x] story point meeting @started(22-07-06 15:34) @done(22-07-06 16:42) @lasted(1h8m44s) @project(day-2022-07-06.job)
+  - [x] GOP-15404 jb cfn - use js lambda @started(22-07-06 16:52) @done(22-07-06 17:53) @lasted(1h1m50s) @project(day-2022-07-06.job)
+  - [x] GOP-15404 jb cfn - apply review @started(22-07-06 21:43) @done(22-07-06 22:07) @lasted(24m41s) @project(day-2022-07-06.job)
+  - [x] GOP-15403 process jb to gopax lambda - 1 @started(22-07-06 22:19) @done(22-07-06 23:30) @lasted(1h11m21s) @project(day-2022-07-06.job)
   - [x] 블로그 정리 및 내일 할일 정리 2022-07-05 @started(22-07-05 21:26) @done(22-07-05 21:28) @lasted(2m3s) @project(day-2022-07-05)
   - [x] GOP-18318 update circulation 3 @started(22-07-05 10:46) @done(22-07-05 10:48) @lasted(2m6s) @project(day-2022-07-05.job)
   - [x] GOP-15886 split verify 14 apply review @started(22-07-05 10:55) @done(22-07-05 11:05) @lasted(10m20s) @project(day-2022-07-05.job)
