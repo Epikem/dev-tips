@@ -1,43 +1,33 @@
-day-2022-07-07:
-  - [x] 블로그 정리 및 내일 할일 정리 2022-07-07 @started(22-07-07 23:28) @done(22-07-07 23:29) @lasted(1m23s)
-  - [x] pill @done(22-07-07 23:15)
+day-2022-07-08:
+  - [x] 블로그 정리 및 내일 할일 정리 2022-07-08 @started(22-07-11 08:19) @done(22-07-11 08:23) @lasted(4m54s)
+  - [x] pill @done(22-07-11 08:19)
   job:
-    - [x] cs ticket - witch event 1 @started(22-07-07 07:47) @done(22-07-07 09:06) @lasted(1h19m38s) @project(day-2022-07-07.job)
-    - [x] GOP-15404 jb add dummy lambda - refactor @started(22-07-07 09:12) @done(22-07-07 09:44) @lasted(32m23s)
-    - [x] GOP-16770 land jb refactor 2 @started(22-07-07 09:44) @done(22-07-07 09:54) @lasted(10m40s)
-    - [x] gdr daily @started(22-07-07 10:45) @done(22-07-07 11:06) @lasted(21m54s)
-    - [x] GOP-18703 jb task 11 - work on interface 2 @started(22-07-07 09:55) @done(22-07-07 11:06) @lasted(1h11m59s)
-    - [x] GOP-18703 jb task 12 land @started(22-07-07 12:31) @done(22-07-07 13:33) @lasted(1h2m55s)
-    - [x] cs ticket - witch event 2 @done(22-07-07 14:46)
-    - [x] sprint planning @started(22-07-07 13:34) @done(22-07-07 14:46) @lasted(1h12m9s)
-    - [x] GOP-15403 work on interface lambda logic @started(22-07-07 14:46) @done(22-07-07 15:23) @lasted(37m2s)
-    - [x] GOP-18823 D10660 @started(22-07-07 15:24) @done(22-07-07 16:44) @lasted(1h20m42s)
-    - [x] GOP-15403 work on interface lambda logic 2 @started(22-07-07 16:52) @done(22-07-07 16:58) @lasted(6m19s)
-    - [x] GOP-18649 ticket - update 약관 @started(22-07-07 18:03) @done(22-07-07 18:53) @lasted(50m44s)
-    - [x] GOP-15403 work on interface lambda logic 3 @started(22-07-07 22:24) @done(22-07-07 23:28) @lasted(1h4m12s)
-    - [ ] GOP-15403 work on interface lambda logic 4
-    - [ ] GOP-18649 ticket - update 약관 2
-    - [ ] GOP-15404 jb add dummy lambda - refactor 2
-    - [ ] GOP-15404 jb add dummy lambda - test (need staging cfn)
+    - [x] GOP-15404 jb add dummy lambda - refactor 2 @started(22-07-08 09:31) @done(22-07-08 09:44) @lasted(13m34s)
+    - [x] GOP-18649 ticket - update 약관 2 @started(22-07-08 09:44) @done(22-07-08 09:57) @lasted(13m57s)
+    - [x] gdr daily @done(22-07-08 11:21)
+    - [x] daily @started(22-07-08 11:21) @done(22-07-08 12:00) @lasted(39m40s)
+    - [x] GOP-15404 jb add dummy lambda - test (need staging cfn) @started(22-07-08 11:05) @done(22-07-08 12:00) @lasted(55m43s)
+    - [x] GOP-15403 work on interface lambda logic 4 @started(22-07-08 12:45) @done(22-07-08 13:23) @lasted(38m36s)
+    - [x] 행정 작업 @done(22-07-08 14:24)
+    - [x] sprint retrospective @started(22-07-08 13:35) @done(22-07-08 14:49) @lasted(1h14m9s)
+    - [x] GOP-18876 fix dp plan @started(22-07-08 15:06) @done(22-07-08 15:16) @lasted(10m43s)
+    - [x] GOP-15403 work on interface lambda logic 5 @started(22-07-08 16:10) @done(22-07-08 17:30) @lasted(1h20m36s)
+    - [ ] GOP-15403 work on interface lambda logic 6
     - [ ] GOP-18614 jb task 12 - work on freeze logic
-    - [ ] jb refactor - reminder 2
     - [ ] GOP-18665 cs ticket 3 - krw
     - [ ] GOP-17648 apply review 7
   sport:
-    - [x] exc @started(22-07-07 21:11) @done(22-07-07 21:26) @lasted(15m55s)
+    - [ ] exc
 
-day-2022-07-08:
-  - [ ] 블로그 정리 및 내일 할일 정리 2022-07-08
+day-2022-07-11:
+  - [ ] 블로그 정리 및 내일 할일 정리 2022-07-11
   - [ ] pill
   job:
-    - [ ] gdr daily
     - [ ] daily
-    - [ ] sprint retrospective
-    - [ ] GOP-18649 ticket - update 약관 2
-    - [ ] GOP-15404 jb add dummy lambda - refactor 2
-    - [ ] GOP-15404 jb add dummy lambda - test (need staging cfn)
+    - [ ] gdr daily
+    - [ ] GOP-15404 jb add dummy lambda 3
+    - [ ] GOP-15403 work on interface lambda logic 6
     - [ ] GOP-18614 jb task 12 - work on freeze logic
-    - [ ] jb refactor - reminder 2
     - [ ] GOP-18665 cs ticket 3 - krw
     - [ ] GOP-17648 apply review 7
   sport:
@@ -74,6 +64,22 @@ job:
   - [ ] local proto compile js setup
 
 Archive:
+  - [x] 블로그 정리 및 내일 할일 정리 2022-07-07 @started(22-07-07 23:28) @done(22-07-07 23:29) @lasted(1m23s) @project(day-2022-07-07)
+  - [x] pill @done(22-07-07 23:15) @project(day-2022-07-07)
+  - [x] cs ticket - witch event 1 @started(22-07-07 07:47) @done(22-07-07 09:06) @lasted(1h19m38s) @project(day-2022-07-07.job) @project(day-2022-07-07.job)
+  - [x] GOP-15404 jb add dummy lambda - refactor @started(22-07-07 09:12) @done(22-07-07 09:44) @lasted(32m23s) @project(day-2022-07-07.job)
+  - [x] GOP-16770 land jb refactor 2 @started(22-07-07 09:44) @done(22-07-07 09:54) @lasted(10m40s) @project(day-2022-07-07.job)
+  - [x] gdr daily @started(22-07-07 10:45) @done(22-07-07 11:06) @lasted(21m54s) @project(day-2022-07-07.job)
+  - [x] GOP-18703 jb task 11 - work on interface 2 @started(22-07-07 09:55) @done(22-07-07 11:06) @lasted(1h11m59s) @project(day-2022-07-07.job)
+  - [x] GOP-18703 jb task 12 land @started(22-07-07 12:31) @done(22-07-07 13:33) @lasted(1h2m55s) @project(day-2022-07-07.job)
+  - [x] cs ticket - witch event 2 @done(22-07-07 14:46) @project(day-2022-07-07.job)
+  - [x] sprint planning @started(22-07-07 13:34) @done(22-07-07 14:46) @lasted(1h12m9s) @project(day-2022-07-07.job)
+  - [x] GOP-15403 work on interface lambda logic @started(22-07-07 14:46) @done(22-07-07 15:23) @lasted(37m2s) @project(day-2022-07-07.job)
+  - [x] GOP-18823 D10660 @started(22-07-07 15:24) @done(22-07-07 16:44) @lasted(1h20m42s) @project(day-2022-07-07.job)
+  - [x] GOP-15403 work on interface lambda logic 2 @started(22-07-07 16:52) @done(22-07-07 16:58) @lasted(6m19s) @project(day-2022-07-07.job)
+  - [x] GOP-18649 ticket - update 약관 @started(22-07-07 18:03) @done(22-07-07 18:53) @lasted(50m44s) @project(day-2022-07-07.job)
+  - [x] GOP-15403 work on interface lambda logic 3 @started(22-07-07 22:24) @done(22-07-07 23:28) @lasted(1h4m12s) @project(day-2022-07-07.job)
+  - [x] exc @started(22-07-07 21:11) @done(22-07-07 21:26) @lasted(15m55s) @project(day-2022-07-07.sport)
   - [x] 블로그 정리 및 내일 할일 정리 2022-07-06 @started(22-07-07 07:36) @done(22-07-07 09:06) @lasted(1h30m52s) @project(day-2022-07-06)
   - [x] pill @done(22-07-06 10:46) @project(day-2022-07-06)
   - [x] gdr daily @done(22-07-06 10:46) @project(day-2022-07-06.job)
