@@ -1,35 +1,32 @@
 day-2022-07-11:
-  - [x] 블로그 정리 및 내일 할일 정리 2022-07-11 @started(22-07-12 09:04) @done(22-07-12 09:06) @lasted(2m28s)
+  - [x] 블로그 정리 및 내일 할일 정리 2022-07-11 @started(22-07-12 19:19) @done(22-07-12 19:56) @lasted(37m39s)
   - [x] setup new work env @done(22-07-11 14:21)
-  - [x] pill @done(22-07-12 09:04)
+  - [x] pill @done(22-07-12 19:56)
   job:
     - [x] GOP-15403 work on interface lambda logic 6 @started(22-07-11 08:26) @done(22-07-11 11:54) @lasted(3h28m)
     - [x] daily @done(22-07-11 14:20)
     - [x] gdr daily @done(22-07-11 14:20)
     - [x] GOP-15403 work on interface lambda logic 7 @started(22-07-11 14:20) @done(22-07-11 15:30) @lasted(1h10m4s)
-    - [x] GOP-18614 jb task 12 - work on freeze logic @started(22-07-11 15:52) @done(22-07-11 20:59) @lasted(5h7m23s)
-    - [x] GOP-18614 jb task 13 - work on freeze logic 2 @started(22-07-11 22:10) @done(22-07-12 23:04) @lasted(54m54s)
-    - [ ] GOP-18614 jb task 13 - work on freeze logic 3
-    - [ ] GOP-15403 work on interface lambda logic 8
-    - [ ] GOP-15404 jb add dummy lambda 3
-    - [ ] GOP-18665 cs ticket 3 - krw
-    - [ ] GOP-17648 apply review 7
-  sport:
-    - [x] exc @done(22-07-12 09:05)
-
-day-2022-07-12:
-  - [ ] 블로그 정리 및 내일 할일 정리 2022-07-12
-  - [ ] pill
-  job:
-    - [ ] daily
-    - [ ] gdr daily
-    - [ ] GOP-18614 jb task 13 - work on freeze logic 3
+    - [ ] GOP-18614 jb task 12 - work on freeze logic
     - [ ] GOP-15403 work on interface lambda logic 8
     - [ ] GOP-15404 jb add dummy lambda 3
     - [ ] GOP-18665 cs ticket 3 - krw
     - [ ] GOP-17648 apply review 7
   sport:
     - [ ] exc
+
+day-2022-07-12:
+  - [ ] 블로그 정리 및 내일 할일 정리 2022-07-12
+  - [ ] pill
+  job:
+    - [ ] GOP-18614 jb task 12 - work on freeze logic
+    - [ ] GOP-15403 work on interface lambda logic 8
+    - [ ] GOP-15404 jb add dummy lambda 3
+    - [ ] GOP-18665 cs ticket 3 - krw
+    - [ ] GOP-17648 apply review 7
+  sport:
+    - [ ] exc
+
 
 study:
   - [ ] db study prep ch11 - 1
@@ -49,7 +46,7 @@ arb:
     - [ ] 직접 돌리기
 
 job:
-  - [ ] GOP-18688
+  - [ ] GOP-18688 @due(22-07-21)
   - [ ] GOP-8059 create tickets
   - [ ] 8장 스터디 - 2
   - [ ] jb handle broken status
@@ -90,7 +87,7 @@ Archive:
   - [x] GOP-18649 ticket - update 약관 @started(22-07-07 18:03) @done(22-07-07 18:53) @lasted(50m44s) @project(day-2022-07-07.job)
   - [x] GOP-15403 work on interface lambda logic 3 @started(22-07-07 22:24) @done(22-07-07 23:28) @lasted(1h4m12s) @project(day-2022-07-07.job)
   - [x] exc @started(22-07-07 21:11) @done(22-07-07 21:26) @lasted(15m55s) @project(day-2022-07-07.sport)
-  - [x] 블로그 정리 및 내일 할일 정리 2022-07-06 @started(22-07-07 07:36) @done(22-07-07 09:06) @lasted(1h30m52s) @project(day-2022-07-06)
+    - [x] 블로그 정리 및 내일 할일 정리 2022-07-06 @started(22-07-07 07:36) @done(22-07-07 09:06) @lasted(1h30m52s) @project(day-2022-07-06)
   - [x] pill @done(22-07-06 10:46) @project(day-2022-07-06)
   - [x] gdr daily @done(22-07-06 10:46) @project(day-2022-07-06.job)
   - [x] daily @started(22-07-06 11:14) @done(22-07-06 11:25) @lasted(11m45s) @project(day-2022-07-06.job)
