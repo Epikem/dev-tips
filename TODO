@@ -1,13 +1,8 @@
-day-2022-07-11:
-  - [x] 블로그 정리 및 내일 할일 정리 2022-07-11 @started(22-07-12 19:19) @done(22-07-12 19:56) @lasted(37m39s)
-  - [x] setup new work env @done(22-07-11 14:21)
-  - [x] pill @done(22-07-12 19:56)
+day-2022-07-12:
+  - [x] 블로그 정리 및 내일 할일 정리 2022-07-12 @started(22-07-12 23:58) @done(22-07-12 23:59) @lasted(1m31s)
+  - [x] pill @done(22-07-12 23:58)
   job:
-    - [x] GOP-15403 work on interface lambda logic 6 @started(22-07-11 08:26) @done(22-07-11 11:54) @lasted(3h28m)
-    - [x] daily @done(22-07-11 14:20)
-    - [x] gdr daily @done(22-07-11 14:20)
-    - [x] GOP-15403 work on interface lambda logic 7 @started(22-07-11 14:20) @done(22-07-11 15:30) @lasted(1h10m4s)
-    - [ ] GOP-18614 jb task 12 - work on freeze logic
+    - [x] GOP-18614 jb task 12 - work on freeze logic @started(22-07-12 20:59) @done(22-07-12 23:58) @lasted(2h59m18s)
     - [ ] GOP-15403 work on interface lambda logic 8
     - [ ] GOP-15404 jb add dummy lambda 3
     - [ ] GOP-18665 cs ticket 3 - krw
@@ -15,18 +10,18 @@ day-2022-07-11:
   sport:
     - [ ] exc
 
-day-2022-07-12:
-  - [ ] 블로그 정리 및 내일 할일 정리 2022-07-12
+day-2022-07-13:
+  - [ ] 블로그 정리 및 내일 할일 정리 2022-07-13
   - [ ] pill
   job:
-    - [ ] GOP-18614 jb task 12 - work on freeze logic
+    - [ ] GOP-18753 review
+    - [ ] GOP-18614 jb task 13 - work on freeze logic 2
     - [ ] GOP-15403 work on interface lambda logic 8
     - [ ] GOP-15404 jb add dummy lambda 3
     - [ ] GOP-18665 cs ticket 3 - krw
     - [ ] GOP-17648 apply review 7
   sport:
     - [ ] exc
-
 
 study:
   - [ ] db study prep ch11 - 1
@@ -59,6 +54,13 @@ job:
   - [ ] local proto compile js setup
 
 Archive:
+  - [x] 블로그 정리 및 내일 할일 정리 2022-07-11 @started(22-07-12 19:19) @done(22-07-12 19:56) @lasted(37m39s) @project(day-2022-07-11)
+  - [x] setup new work env @done(22-07-11 14:21) @project(day-2022-07-11)
+  - [x] pill @done(22-07-12 19:56) @project(day-2022-07-11)
+  - [x] GOP-15403 work on interface lambda logic 6 @started(22-07-11 08:26) @done(22-07-11 11:54) @lasted(3h28m) @project(day-2022-07-11.job)
+  - [x] daily @done(22-07-11 14:20) @project(day-2022-07-11.job)
+  - [x] gdr daily @done(22-07-11 14:20) @project(day-2022-07-11.job)
+  - [x] GOP-15403 work on interface lambda logic 7 @started(22-07-11 14:20) @done(22-07-11 15:30) @lasted(1h10m4s) @project(day-2022-07-11.job)
   - [x] 블로그 정리 및 내일 할일 정리 2022-07-08 @started(22-07-11 08:19) @done(22-07-11 08:23) @lasted(4m54s) @project(day-2022-07-08)
   - [x] pill @done(22-07-11 08:19) @project(day-2022-07-08)
   - [x] GOP-15404 jb add dummy lambda - refactor 2 @started(22-07-08 09:31) @done(22-07-08 09:44) @lasted(13m34s) @project(day-2022-07-08.job)
