@@ -1,29 +1,12 @@
-day-2022-07-13:
-  - [x] 블로그 정리 및 내일 할일 정리 2022-07-13 @started(22-07-13 22:59) @done(22-07-13 23:00) @lasted(1m31s)
-  - [ ] pill
-  job:
-    - [x] GOP-18614 jb task 13 - work on freeze logic 2 @started(22-07-13 10:39) @done(22-07-13 11:29) @lasted(50m25s)
-    - [x] story point meeting @done(22-07-13 17:00)
-    - [x] GOP-19038 cs ticket - remove phone number @started(22-07-13 17:01) @done(22-07-13 17:49) @lasted(48m7s)
-    - [x] GOP-19041 cs ticket - deregister @started(22-07-13 17:01) @done(22-07-13 22:06) @lasted(5h5m6s)
-    - [x] GOP-18614 jb task 14 - work on freeze logic 3 @done(22-07-13 22:06)
-    - [x] GOP-15403 jb 15 - work on interface lambda logic 8 @started(22-07-13 22:06) @done(22-07-13 22:42) @lasted(36m46s)
-    - [ ] GOP-19057 jb 16 - try decrypt seed128
-    - [ ] GOP-18614 jb 17 - work on freeze logic 4
-    - [ ] GOP-15403 jb 18 - work on interface lambda logic 9
-    - [ ] GOP-18753 review
-    - [ ] GOP-15404 jb add dummy lambda 3
-    - [ ] GOP-18665 cs ticket 3 - krw
-    - [ ] GOP-17648 apply review 7
-  sport:
-    - [ ] exc
-
 day-2022-07-14:
-  - [ ] 블로그 정리 및 내일 할일 정리 2022-07-14
+  - [x] 블로그 정리 및 내일 할일 정리 2022-07-14 @started(22-07-14 21:41) @done(22-07-14 21:41) @lasted(24s)
   - [ ] pill
   job:
-    - [ ] GOP-19057 jb 16 - try decrypt seed128
-    - [ ] GOP-18614 jb 17 - work on freeze logic 4
+    - [x] GOP-19057 jb 16 - try decrypt seed128 @started(22-07-14 09:32) @done(22-07-14 11:24) @lasted(1h52m40s)
+    - [x] jb task - integration & test @started(22-07-14 18:02) @done(22-07-14 20:52) @lasted(2h50m45s)
+    - [x] GOP-18614 jb 17 - freeze logic apply review @started(22-07-14 20:52) @done(22-07-14 21:10) @lasted(18m12s)
+    - [ ] GOP-19057 jb 17 - try decrypt seed128 2
+    - [ ] update personal data sheet
     - [ ] GOP-15403 jb 18 - work on interface lambda logic 9
     - [ ] GOP-18753 review
     - [ ] GOP-15404 jb add dummy lambda 3
@@ -32,6 +15,19 @@ day-2022-07-14:
   sport:
     - [ ] exc
 
+day-2022-07-15:
+  - [ ] 블로그 정리 및 내일 할일 정리 2022-07-15
+  - [ ] pill
+  job:
+    - [ ] GOP-19057 jb 17 - try decrypt seed128 2
+    - [ ] update personal data sheet
+    - [ ] GOP-15403 jb 18 - work on interface lambda logic 9
+    - [ ] GOP-18753 review
+    - [ ] GOP-15404 jb add dummy lambda 3
+    - [ ] GOP-18665 cs ticket 3 - krw
+    - [ ] GOP-17648 apply review 7
+  sport:
+    - [ ] exc
 
 study:
   - [ ] db study prep ch11 - 1
@@ -64,6 +60,13 @@ job:
   - [ ] local proto compile js setup
 
 Archive:
+  - [x] 블로그 정리 및 내일 할일 정리 2022-07-13 @started(22-07-13 22:59) @done(22-07-13 23:00) @lasted(1m31s) @project(day-2022-07-13)
+  - [x] GOP-18614 jb task 13 - work on freeze logic 2 @started(22-07-13 10:39) @done(22-07-13 11:29) @lasted(50m25s) @project(day-2022-07-13.job)
+  - [x] story point meeting @done(22-07-13 17:00) @project(day-2022-07-13.job)
+  - [x] GOP-19038 cs ticket - remove phone number @started(22-07-13 17:01) @done(22-07-13 17:49) @lasted(48m7s) @project(day-2022-07-13.job)
+  - [x] GOP-19041 cs ticket - deregister @started(22-07-13 17:01) @done(22-07-13 22:06) @lasted(5h5m6s) @project(day-2022-07-13.job)
+  - [x] GOP-18614 jb task 14 - work on freeze logic 3 @done(22-07-13 22:06) @project(day-2022-07-13.job)
+  - [x] GOP-15403 jb 15 - work on interface lambda logic 8 @started(22-07-13 22:06) @done(22-07-13 22:42) @lasted(36m46s) @project(day-2022-07-13.job)
   - [x] 블로그 정리 및 내일 할일 정리 2022-07-12 @started(22-07-12 23:58) @done(22-07-12 23:59) @lasted(1m31s) @project(day-2022-07-12)
   - [x] pill @done(22-07-12 23:58) @project(day-2022-07-12)
   - [x] GOP-18614 jb task 12 - work on freeze logic @started(22-07-12 20:59) @done(22-07-12 23:58) @lasted(2h59m18s) @project(day-2022-07-12.job)
