@@ -1,26 +1,12 @@
-day-2022-07-14:
-  - [x] 블로그 정리 및 내일 할일 정리 2022-07-14 @started(22-07-14 21:41) @done(22-07-14 21:41) @lasted(24s)
-  - [ ] pill
-  job:
-    - [x] GOP-19057 jb 16 - try decrypt seed128 @started(22-07-14 09:32) @done(22-07-14 11:24) @lasted(1h52m40s)
-    - [x] jb task - integration & test @started(22-07-14 18:02) @done(22-07-14 20:52) @lasted(2h50m45s)
-    - [x] GOP-18614 jb 17 - freeze logic apply review @started(22-07-14 20:52) @done(22-07-14 21:10) @lasted(18m12s)
-    - [ ] GOP-19057 jb 17 - try decrypt seed128 2
-    - [ ] update personal data sheet
-    - [ ] GOP-15403 jb 18 - work on interface lambda logic 9
-    - [ ] GOP-18753 review
-    - [ ] GOP-15404 jb add dummy lambda 3
-    - [ ] GOP-18665 cs ticket 3 - krw
-    - [ ] GOP-17648 apply review 7
-  sport:
-    - [ ] exc
-
 day-2022-07-15:
   - [ ] 블로그 정리 및 내일 할일 정리 2022-07-15
   - [ ] pill
   job:
+    - [x] update personal data sheet @started(22-07-15 14:08) @done(22-07-15 14:15) @lasted(7m21s)
+    - [x] jb review @started(22-07-15 16:44) @done(22-07-15 20:21) @lasted(3h37m30s)
+    - [ ] move user_v2.js to shared
     - [ ] GOP-19057 jb 17 - try decrypt seed128 2
-    - [ ] update personal data sheet
+    - [ ] GOP-18688 @due(22-07-21)
     - [ ] GOP-15403 jb 18 - work on interface lambda logic 9
     - [ ] GOP-18753 review
     - [ ] GOP-15404 jb add dummy lambda 3
@@ -60,6 +46,10 @@ job:
   - [ ] local proto compile js setup
 
 Archive:
+  - [x] 블로그 정리 및 내일 할일 정리 2022-07-14 @started(22-07-14 21:41) @done(22-07-14 21:41) @lasted(24s) @project(day-2022-07-14)
+  - [x] GOP-19057 jb 16 - try decrypt seed128 @started(22-07-14 09:32) @done(22-07-14 11:24) @lasted(1h52m40s) @project(day-2022-07-14.job)
+  - [x] jb task - integration & test @started(22-07-14 18:02) @done(22-07-14 20:52) @lasted(2h50m45s) @project(day-2022-07-14.job)
+  - [x] GOP-18614 jb 17 - freeze logic apply review @started(22-07-14 20:52) @done(22-07-14 21:10) @lasted(18m12s) @project(day-2022-07-14.job)
   - [x] 블로그 정리 및 내일 할일 정리 2022-07-13 @started(22-07-13 22:59) @done(22-07-13 23:00) @lasted(1m31s) @project(day-2022-07-13)
   - [x] GOP-18614 jb task 13 - work on freeze logic 2 @started(22-07-13 10:39) @done(22-07-13 11:29) @lasted(50m25s) @project(day-2022-07-13.job)
   - [x] story point meeting @done(22-07-13 17:00) @project(day-2022-07-13.job)
