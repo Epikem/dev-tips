@@ -1,10 +1,7 @@
-day-2022-07-14:
-  - [x] 블로그 정리 및 내일 할일 정리 2022-07-14 @started(22-07-14 21:41) @done(22-07-14 21:41) @lasted(24s)
-  - [ ] pill
+day-2022-07-15:
+  - [x] 블로그 정리 및 내일 할일 정리 2022-07-15 @started(22-07-17 18:51) @done(22-07-17 18:52) @lasted(1m59s)
+  - [x] pill @done(22-07-17 18:51)
   job:
-    - [x] GOP-19057 jb 16 - try decrypt seed128 @started(22-07-14 09:32) @done(22-07-14 11:24) @lasted(1h52m40s)
-    - [x] jb task - integration & test @started(22-07-14 18:02) @done(22-07-14 20:52) @lasted(2h50m45s)
-    - [x] GOP-18614 jb 17 - freeze logic apply review @started(22-07-14 20:52) @done(22-07-14 21:10) @lasted(18m12s)
     - [ ] GOP-19057 jb 17 - try decrypt seed128 2
     - [ ] update personal data sheet
     - [ ] GOP-15403 jb 18 - work on interface lambda logic 9
@@ -13,10 +10,19 @@ day-2022-07-14:
     - [ ] GOP-18665 cs ticket 3 - krw
     - [ ] GOP-17648 apply review 7
   sport:
+    - [x] db study prep ch11 - 2 @started(22-07-16 10:51) @done(22-07-16 11:36) @lasted(45m10s)
+    - [x] db study prep ch11 - 3 @started(22-07-16 12:00) @done(22-07-16 13:47) @lasted(1h47m33s)
     - [ ] exc
 
-day-2022-07-15:
-  - [ ] 블로그 정리 및 내일 할일 정리 2022-07-15
+day-2022-07-17:
+  - [ ] 블로그 정리 및 내일 할일 정리 2022-07-17
+  - [ ] pill
+  sport:
+    - [ ] db study prep ch11 - 4
+    - [ ] exc
+
+day-2022-07-18:
+  - [ ] 블로그 정리 및 내일 할일 정리 2022-07-18
   - [ ] pill
   job:
     - [ ] GOP-19057 jb 17 - try decrypt seed128 2
@@ -27,10 +33,11 @@ day-2022-07-15:
     - [ ] GOP-18665 cs ticket 3 - krw
     - [ ] GOP-17648 apply review 7
   sport:
+    - [ ] db study prep ch11 - 4
     - [ ] exc
 
 study:
-  - [ ] db study prep ch11 - 1
+  - [ ] db study prep ch11 - 4
   - [ ] study clean architecture on rxjs 2 - console
   - [ ] prepare next study - clean architecture
   - [ ] prepare next study - data study
@@ -60,6 +67,10 @@ job:
   - [ ] local proto compile js setup
 
 Archive:
+  - [x] 블로그 정리 및 내일 할일 정리 2022-07-14 @started(22-07-14 21:41) @done(22-07-14 21:41) @lasted(24s) @project(day-2022-07-14)
+  - [x] GOP-19057 jb 16 - try decrypt seed128 @started(22-07-14 09:32) @done(22-07-14 11:24) @lasted(1h52m40s) @project(day-2022-07-14.job)
+  - [x] jb task - integration & test @started(22-07-14 18:02) @done(22-07-14 20:52) @lasted(2h50m45s) @project(day-2022-07-14.job)
+  - [x] GOP-18614 jb 17 - freeze logic apply review @started(22-07-14 20:52) @done(22-07-14 21:10) @lasted(18m12s) @project(day-2022-07-14.job)
   - [x] 블로그 정리 및 내일 할일 정리 2022-07-13 @started(22-07-13 22:59) @done(22-07-13 23:00) @lasted(1m31s) @project(day-2022-07-13)
   - [x] GOP-18614 jb task 13 - work on freeze logic 2 @started(22-07-13 10:39) @done(22-07-13 11:29) @lasted(50m25s) @project(day-2022-07-13.job)
   - [x] story point meeting @done(22-07-13 17:00) @project(day-2022-07-13.job)
