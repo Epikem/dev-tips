@@ -1,21 +1,30 @@
-day-2022-07-17:
-  - [x] 블로그 정리 및 내일 할일 정리 2022-07-17 @started(22-07-17 23:14) @done(22-07-17 23:20) @lasted(6m59s)
-  - [x] pill @done(22-07-17 23:21)
-  study:
-    - [x] db study prep ch11 - 4 @started(22-07-17 21:50) @done(22-07-17 21:56) @lasted(6m46s)
-    - [x] db study prep binlog - 1 @started(22-07-17 22:02) @done(22-07-17 23:06) @lasted(1h4m49s)
+day-2022-07-18:
+  - [x] 블로그 정리 및 내일 할일 정리 2022-07-18 @started(22-07-18 23:39) @done(22-07-18 23:41) @lasted(2m4s)
+  - [x] pill @done(22-07-18 23:41)
+  job:
+    - [x] move user_v2.js to shared @started(22-07-18 08:51) @done(22-07-18 10:48) @lasted(1h57m35s)
+    - [x] gdr daily @started(22-07-18 10:48) @done(22-07-18 11:08) @lasted(20m9s)
+    - [x] daily @done(22-07-18 16:21)
+    - [x] jb task - apply review @done(22-07-18 16:21) @lated(5h)
+    - [x] GOP-15886 split verify 15 fix network @started(22-07-18 16:27) @done(22-07-18 20:38) @lasted(4h11m47s)
+    - [x] GOP-15886 split verify 16 fix network @started(22-07-18 22:00) @done(22-07-18 23:39) @lasted(1h39m6s)
+    - [ ] GOP-19057 jb 17 - try decrypt seed128 2
+    - [ ] GOP-15403 jb 18 - work on interface lambda logic 9
+    - [ ] GOP-18753 review
+    - [ ] GOP-15404 jb add dummy lambda 3
+    - [ ] GOP-18665 cs ticket 3 - krw
+    - [ ] GOP-17648 apply review 7
   sport:
     - [ ] exc
 
-day-2022-07-18:
-  - [ ] 블로그 정리 및 내일 할일 정리 2022-07-18
+day-2022-07-19:
+  - [ ] 블로그 정리 및 내일 할일 정리 2022-07-19
   - [ ] pill
   job:
-    - [x] update personal data sheet @started(22-07-15 14:08) @done(22-07-15 14:15) @lasted(7m21s)
-    - [x] jb review @started(22-07-15 16:44) @done(22-07-15 20:21) @lasted(3h37m30s)
-    - [ ] move user_v2.js to shared
+    - [ ] GOP-15886 split verify 17 fix network
+    - [ ] plan blended price design meeting
+    - [ ] jb task resume
     - [ ] GOP-19057 jb 17 - try decrypt seed128 2
-    - [ ] GOP-18688 @due(22-07-21)
     - [ ] GOP-15403 jb 18 - work on interface lambda logic 9
     - [ ] GOP-18753 review
     - [ ] GOP-15404 jb add dummy lambda 3
@@ -43,7 +52,7 @@ arb:
     - [ ] 직접 돌리기
 
 job:
-  - [ ] GOP-18688 @due(22-07-21)
+  - [ ] GOP-18688 @due(22-07-28)
   - [ ] GOP-8059 create tickets
   - [ ] 8장 스터디 - 2
   - [ ] jb handle broken status
@@ -56,6 +65,10 @@ job:
   - [ ] local proto compile js setup
 
 Archive:
+  - [x] 블로그 정리 및 내일 할일 정리 2022-07-17 @started(22-07-17 23:14) @done(22-07-17 23:20) @lasted(6m59s) @project(day-2022-07-17)
+  - [x] pill @done(22-07-17 23:21) @project(day-2022-07-17)
+  - [x] db study prep ch11 - 4 @started(22-07-17 21:50) @done(22-07-17 21:56) @lasted(6m46s) @project(day-2022-07-17.study)
+  - [x] db study prep binlog - 1 @started(22-07-17 22:02) @done(22-07-17 23:06) @lasted(1h4m49s) @project(day-2022-07-17.study)
   - [x] 블로그 정리 및 내일 할일 정리 2022-07-15 @started(22-07-17 18:51) @done(22-07-17 18:52) @lasted(1m59s) @project(day-2022-07-15)
   - [x] pill @done(22-07-17 18:51) @project(day-2022-07-15)
   - [x] db study prep ch11 - 2 @started(22-07-16 10:51) @done(22-07-16 11:36) @lasted(45m10s) @project(day-2022-07-15.sport)
