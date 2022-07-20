@@ -1,34 +1,35 @@
-day-2022-07-19:
-  - [x] 블로그 정리 및 내일 할일 정리 2022-07-19 @started(22-07-19 20:25) @done(22-07-19 20:26) @lasted(1m55s)
+day-2022-07-20:
+  - [x] 블로그 정리 및 내일 할일 정리 2022-07-20 @started(22-07-20 22:39) @done(22-07-20 22:43) @lasted(4m52s)
   - [ ] pill
   job:
-    - [x] receive mac @done(22-07-19 10:31)
-    - [x] jb task resume @started(22-07-19 10:31) @done(22-07-19 11:18) @lasted(47m1s)
-    - [x] daily @started(22-07-19 11:18) @done(22-07-19 11:28) @lasted(10m16s)
-    - [x] jb task - dp plans @started(22-07-19 13:45) @done(22-07-19 15:04) @lasted(1h19m55s)
-    - [x] jb task - create test data @started(22-07-19 15:05) @done(22-07-19 16:50) @lasted(1h45m38s)
-    - [x] create blended price epic @done(22-07-19 16:50)
-    - [x] cs ticket @started(22-07-19 16:50) @done(22-07-19 18:24) @lasted(1h34m30s)
-    ✘ [ ] plan blended price design meeting @cancelled(22-07-19 20:25)
-    - [ ] GOP-15886 split verify 17 fix network
-    - [ ] GOP-19057 jb 17 - try decrypt seed128 2
-    - [ ] GOP-15403 jb 18 - work on interface lambda logic 9
+    - [x] open story point meeting session @done(22-07-20 10:25)
+    - [x] re setup mac on office network @started(22-07-20 10:25) @done(22-07-20 13:34) @lasted(3h9m22s)
+    - [x] request jb reviews @started(22-07-20 11:18) @done(22-07-20 13:35) @lasted(2h17m4s)
+    - [x] gdr daily @started(22-07-20 10:43) @done(22-07-20 11:02) @lasted(19m47s)
+    - [x] daily @started(22-07-20 11:18) @done(22-07-20 11:32) @lasted(14m49s)
+    - [x] GOP-15886 split verify 17 - split to three @started(22-07-20 13:09) @done(22-07-20 15:08) @lasted(1h59m23s)
+    qa에서 테스트 필요. blocked -> 걍 cfn 옵션 변경하는게 빠를듯.
+    - [x] GOP-18614 jb 17 - freeze logic apply review @started(22-07-20 15:31) @done(22-07-20 15:44) @lasted(13m32s)
+    - [x] run story point meeting @done(22-07-20 18:34)
+    - [x] pc check @done(22-07-20 21:29)
+    - [x] GOP-18614 jb 18 - freeze logic apply review @started(22-07-20 21:56) @done(22-07-20 22:38) @lasted(42m54s)
+    - [ ] GOP-15403 jb 19 - work on interface lambda logic 9
     - [ ] GOP-18753 review
     - [ ] GOP-15404 jb add dummy lambda 3
     - [ ] GOP-18665 cs ticket 3 - krw
     - [ ] GOP-17648 apply review 7
   sport:
-    - [x] db study @done(22-07-20 10:04)
     - [ ] exc
 
-day-2022-07-20:
-  - [ ] 블로그 정리 및 내일 할일 정리 2022-07-20
+day-2022-07-21:
+  - [ ] 블로그 정리 및 내일 할일 정리 2022-07-21
   - [ ] pill
   job:
-    - [ ] request jb reviews
-    - [ ] GOP-15886 split verify 17 - split to three
-    - [ ] GOP-19057 jb 17 - try decrypt seed128 2
-    - [ ] GOP-15403 jb 18 - work on interface lambda logic 9
+    - [ ] gdr daily
+    - [ ] daily
+    - [ ] blended price task
+    - [ ] GOP-15886 split verify 18 - split to three (update cfn and test)
+    - [ ] GOP-15403 jb 19 - work on interface lambda logic 9
     - [ ] GOP-18753 review
     - [ ] GOP-15404 jb add dummy lambda 3
     - [ ] GOP-18665 cs ticket 3 - krw
@@ -67,6 +68,16 @@ job:
   - [ ] local proto compile js setup
 
 Archive:
+  - [x] 블로그 정리 및 내일 할일 정리 2022-07-19 @started(22-07-19 20:25) @done(22-07-19 20:26) @lasted(1m55s) @project(day-2022-07-19)
+  - [x] receive mac @done(22-07-19 10:31) @project(day-2022-07-19.job)
+  - [x] jb task resume @started(22-07-19 10:31) @done(22-07-19 11:18) @lasted(47m1s) @project(day-2022-07-19.job)
+  - [x] daily @started(22-07-19 11:18) @done(22-07-19 11:28) @lasted(10m16s) @project(day-2022-07-19.job)
+  - [x] jb task - dp plans @started(22-07-19 13:45) @done(22-07-19 15:04) @lasted(1h19m55s) @project(day-2022-07-19.job)
+  - [x] jb task - create test data @started(22-07-19 15:05) @done(22-07-19 16:50) @lasted(1h45m38s) @project(day-2022-07-19.job)
+  - [x] create blended price epic @done(22-07-19 16:50) @project(day-2022-07-19.job)
+  - [x] cs ticket @started(22-07-19 16:50) @done(22-07-19 18:24) @lasted(1h34m30s) @project(day-2022-07-19.job)
+  ✘ [ ] plan blended price design meeting @cancelled(22-07-19 20:25) @project(day-2022-07-19.job)
+  - [x] db study @done(22-07-20 10:04) @project(day-2022-07-19.sport)
   - [x] 블로그 정리 및 내일 할일 정리 2022-07-18 @started(22-07-18 23:39) @done(22-07-18 23:41) @lasted(2m4s) @project(day-2022-07-18)
   - [x] pill @done(22-07-18 23:41) @project(day-2022-07-18)
   - [x] move user_v2.js to shared @started(22-07-18 08:51) @done(22-07-18 10:48) @lasted(1h57m35s) @project(day-2022-07-18.job)
