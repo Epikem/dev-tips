@@ -1,29 +1,16 @@
-day-2022-07-18:
-  - [x] 블로그 정리 및 내일 할일 정리 2022-07-18 @started(22-07-18 23:39) @done(22-07-18 23:41) @lasted(2m4s)
-  - [x] pill @done(22-07-18 23:41)
-  job:
-    - [x] move user_v2.js to shared @started(22-07-18 08:51) @done(22-07-18 10:48) @lasted(1h57m35s)
-    - [x] gdr daily @started(22-07-18 10:48) @done(22-07-18 11:08) @lasted(20m9s)
-    - [x] daily @done(22-07-18 16:21)
-    - [x] jb task - apply review @done(22-07-18 16:21) @lated(5h)
-    - [x] GOP-15886 split verify 15 fix network @started(22-07-18 16:27) @done(22-07-18 20:38) @lasted(4h11m47s)
-    - [x] GOP-15886 split verify 16 fix network @started(22-07-18 22:00) @done(22-07-18 23:39) @lasted(1h39m6s)
-    - [ ] GOP-19057 jb 17 - try decrypt seed128 2
-    - [ ] GOP-15403 jb 18 - work on interface lambda logic 9
-    - [ ] GOP-18753 review
-    - [ ] GOP-15404 jb add dummy lambda 3
-    - [ ] GOP-18665 cs ticket 3 - krw
-    - [ ] GOP-17648 apply review 7
-  sport:
-    - [ ] exc
-
 day-2022-07-19:
-  - [ ] 블로그 정리 및 내일 할일 정리 2022-07-19
+  - [x] 블로그 정리 및 내일 할일 정리 2022-07-19 @started(22-07-19 20:25) @done(22-07-19 20:26) @lasted(1m55s)
   - [ ] pill
   job:
+    - [x] receive mac @done(22-07-19 10:31)
+    - [x] jb task resume @started(22-07-19 10:31) @done(22-07-19 11:18) @lasted(47m1s)
+    - [x] daily @started(22-07-19 11:18) @done(22-07-19 11:28) @lasted(10m16s)
+    - [x] jb task - dp plans @started(22-07-19 13:45) @done(22-07-19 15:04) @lasted(1h19m55s)
+    - [x] jb task - create test data @started(22-07-19 15:05) @done(22-07-19 16:50) @lasted(1h45m38s)
+    - [x] create blended price epic @done(22-07-19 16:50)
+    - [x] cs ticket @started(22-07-19 16:50) @done(22-07-19 18:24) @lasted(1h34m30s)
+    ✘ [ ] plan blended price design meeting @cancelled(22-07-19 20:25)
     - [ ] GOP-15886 split verify 17 fix network
-    - [ ] plan blended price design meeting
-    - [ ] jb task resume
     - [ ] GOP-19057 jb 17 - try decrypt seed128 2
     - [ ] GOP-15403 jb 18 - work on interface lambda logic 9
     - [ ] GOP-18753 review
@@ -31,7 +18,22 @@ day-2022-07-19:
     - [ ] GOP-18665 cs ticket 3 - krw
     - [ ] GOP-17648 apply review 7
   sport:
-    - [ ] db study prep ch11 - 4
+    - [x] db study @done(22-07-20 10:04)
+    - [ ] exc
+
+day-2022-07-20:
+  - [ ] 블로그 정리 및 내일 할일 정리 2022-07-20
+  - [ ] pill
+  job:
+    - [ ] request jb reviews
+    - [ ] GOP-15886 split verify 17 - split to three
+    - [ ] GOP-19057 jb 17 - try decrypt seed128 2
+    - [ ] GOP-15403 jb 18 - work on interface lambda logic 9
+    - [ ] GOP-18753 review
+    - [ ] GOP-15404 jb add dummy lambda 3
+    - [ ] GOP-18665 cs ticket 3 - krw
+    - [ ] GOP-17648 apply review 7
+  sport:
     - [ ] exc
 
 study:
@@ -65,6 +67,14 @@ job:
   - [ ] local proto compile js setup
 
 Archive:
+  - [x] 블로그 정리 및 내일 할일 정리 2022-07-18 @started(22-07-18 23:39) @done(22-07-18 23:41) @lasted(2m4s) @project(day-2022-07-18)
+  - [x] pill @done(22-07-18 23:41) @project(day-2022-07-18)
+  - [x] move user_v2.js to shared @started(22-07-18 08:51) @done(22-07-18 10:48) @lasted(1h57m35s) @project(day-2022-07-18.job)
+  - [x] gdr daily @started(22-07-18 10:48) @done(22-07-18 11:08) @lasted(20m9s) @project(day-2022-07-18.job)
+  - [x] daily @done(22-07-18 16:21) @project(day-2022-07-18.job)
+  - [x] jb task - apply review @done(22-07-18 16:21) @lated(5h) @project(day-2022-07-18.job)
+  - [x] GOP-15886 split verify 15 fix network @started(22-07-18 16:27) @done(22-07-18 20:38) @lasted(4h11m47s) @project(day-2022-07-18.job)
+  - [x] GOP-15886 split verify 16 fix network @started(22-07-18 22:00) @done(22-07-18 23:39) @lasted(1h39m6s) @project(day-2022-07-18.job)
   - [x] 블로그 정리 및 내일 할일 정리 2022-07-17 @started(22-07-17 23:14) @done(22-07-17 23:20) @lasted(6m59s) @project(day-2022-07-17)
   - [x] pill @done(22-07-17 23:21) @project(day-2022-07-17)
   - [x] db study prep ch11 - 4 @started(22-07-17 21:50) @done(22-07-17 21:56) @lasted(6m46s) @project(day-2022-07-17.study)
