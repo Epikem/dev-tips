@@ -1,14 +1,11 @@
-day-2022-07-21:
-  - [x] 블로그 정리 및 내일 할일 정리 2022-07-21 @done(22-07-22 10:47)
-  - [x] pill @done(22-07-21 23:05)
+day-2022-07-22:
+  - [x] 블로그 정리 및 내일 할일 정리 2022-07-22 @started(22-07-22 21:34) @done(22-07-22 21:35) @lasted(1m47s)
+  - [x] pill @done(22-07-22 21:36)
   job:
-    - [x] gdr daily @done(22-07-21 13:47)
-    - [x] sprint planning @started(22-07-21 13:48) @done(22-07-21 14:29) @lasted(41m49s)
-    - [x] blendedPrice discussion @at(15:00) @started(22-07-21 15:06) @done(22-07-21 15:27) @lasted(21m48s)
-    - [x] GOP-15886 split verify 18 - split to three (update cfn and test) @started(22-07-21 16:04) @done(22-07-21 23:26) @lasted(7h22m57s)
-    - [x] jb task - make jb manage table @started(22-07-21 16:35) @done(22-07-21 23:27) @lasted(6h52m4s)
-    - [x jb task - test jb manage table feat - make new acc on frog @started(22-07-21 23:32) @done(22-07-21 23:59) @lasted(27m38s)
-    - [ ] jb task - test jb manage table feat - make new acc on frog
+    - [x] gdr daily @started(22-07-22 10:47) @done(22-07-22 11:16) @lasted(29m24s)
+    - [x] daily @done(22-07-22 13:12)
+    ✘ [ ] jb task - test jb manage table feat - make new acc on frog @cancelled(22-07-22 13:12)
+    - [x] jb task - test jb manage table feat - try test using log on frog @started(22-07-22 13:13) @done(22-07-22 20:13) @lasted(7h35s)
     - [ ] update spec doc https://streami.atlassian.net/wiki/spaces/LAB/pages/1101234236
     - [ ] blended price task
     - [ ] GOP-15403 jb 19 - work on interface lambda logic 9
@@ -19,12 +16,11 @@ day-2022-07-21:
   sport:
     - [ ] exc
 
-day-2022-07-22:
-  - [ ] 블로그 정리 및 내일 할일 정리 2022-07-22
+day-2022-07-25:
+  - [ ] 블로그 정리 및 내일 할일 정리 2022-07-25
   - [ ] pill
   job:
-    - [ ] gdr daily
-    - [ ] jb task - test jb manage table feat - make new acc on frog
+    - [ ] jb task - test jb manage table feat - apply fix, review request
     - [ ] update spec doc https://streami.atlassian.net/wiki/spaces/LAB/pages/1101234236
     - [ ] blended price task
     - [ ] GOP-15403 jb 19 - work on interface lambda logic 9
@@ -66,6 +62,14 @@ job:
   - [ ] local proto compile js setup
 
 Archive:
+  - [x] 블로그 정리 및 내일 할일 정리 2022-07-21 @done(22-07-22 10:47) @project(day-2022-07-21)
+  - [x] pill @done(22-07-21 23:05) @project(day-2022-07-21)
+  - [x] gdr daily @done(22-07-21 13:47) @project(day-2022-07-21.job)
+  - [x] sprint planning @started(22-07-21 13:48) @done(22-07-21 14:29) @lasted(41m49s) @project(day-2022-07-21.job)
+  - [x] blendedPrice discussion @at(15:00) @started(22-07-21 15:06) @done(22-07-21 15:27) @lasted(21m48s) @project(day-2022-07-21.job)
+  - [x] GOP-15886 split verify 18 - split to three (update cfn and test) @started(22-07-21 16:04) @done(22-07-21 23:26) @lasted(7h22m57s) @project(day-2022-07-21.job)
+  - [x] jb task - make jb manage table @started(22-07-21 16:35) @done(22-07-21 23:27) @lasted(6h52m4s) @project(day-2022-07-21.job)
+  - [x jb task - test jb manage table feat - make new acc on frog @started(22-07-21 23:32) @done(22-07-21 23:59) @lasted(27m38s) @project(day-2022-07-21.job)
   - [x] 블로그 정리 및 내일 할일 정리 2022-07-20 @started(22-07-20 22:39) @done(22-07-20 22:43) @lasted(4m52s) @project(day-2022-07-20)
   - [x] open story point meeting session @done(22-07-20 10:25) @project(day-2022-07-20.job)
   - [x] re setup mac on office network @started(22-07-20 10:25) @done(22-07-20 13:34) @lasted(3h9m22s) @project(day-2022-07-20.job)
