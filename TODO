@@ -1,18 +1,16 @@
-day-2022-07-20:
-  - [x] 블로그 정리 및 내일 할일 정리 2022-07-20 @started(22-07-20 22:39) @done(22-07-20 22:43) @lasted(4m52s)
-  - [ ] pill
+day-2022-07-21:
+  - [x] 블로그 정리 및 내일 할일 정리 2022-07-21 @done(22-07-22 10:47)
+  - [x] pill @done(22-07-21 23:05)
   job:
-    - [x] open story point meeting session @done(22-07-20 10:25)
-    - [x] re setup mac on office network @started(22-07-20 10:25) @done(22-07-20 13:34) @lasted(3h9m22s)
-    - [x] request jb reviews @started(22-07-20 11:18) @done(22-07-20 13:35) @lasted(2h17m4s)
-    - [x] gdr daily @started(22-07-20 10:43) @done(22-07-20 11:02) @lasted(19m47s)
-    - [x] daily @started(22-07-20 11:18) @done(22-07-20 11:32) @lasted(14m49s)
-    - [x] GOP-15886 split verify 17 - split to three @started(22-07-20 13:09) @done(22-07-20 15:08) @lasted(1h59m23s)
-    qa에서 테스트 필요. blocked -> 걍 cfn 옵션 변경하는게 빠를듯.
-    - [x] GOP-18614 jb 17 - freeze logic apply review @started(22-07-20 15:31) @done(22-07-20 15:44) @lasted(13m32s)
-    - [x] run story point meeting @done(22-07-20 18:34)
-    - [x] pc check @done(22-07-20 21:29)
-    - [x] GOP-18614 jb 18 - freeze logic apply review @started(22-07-20 21:56) @done(22-07-20 22:38) @lasted(42m54s)
+    - [x] gdr daily @done(22-07-21 13:47)
+    - [x] sprint planning @started(22-07-21 13:48) @done(22-07-21 14:29) @lasted(41m49s)
+    - [x] blendedPrice discussion @at(15:00) @started(22-07-21 15:06) @done(22-07-21 15:27) @lasted(21m48s)
+    - [x] GOP-15886 split verify 18 - split to three (update cfn and test) @started(22-07-21 16:04) @done(22-07-21 23:26) @lasted(7h22m57s)
+    - [x] jb task - make jb manage table @started(22-07-21 16:35) @done(22-07-21 23:27) @lasted(6h52m4s)
+    - [x jb task - test jb manage table feat - make new acc on frog @started(22-07-21 23:32) @done(22-07-21 23:59) @lasted(27m38s)
+    - [ ] jb task - test jb manage table feat - make new acc on frog
+    - [ ] update spec doc https://streami.atlassian.net/wiki/spaces/LAB/pages/1101234236
+    - [ ] blended price task
     - [ ] GOP-15403 jb 19 - work on interface lambda logic 9
     - [ ] GOP-18753 review
     - [ ] GOP-15404 jb add dummy lambda 3
@@ -21,14 +19,14 @@ day-2022-07-20:
   sport:
     - [ ] exc
 
-day-2022-07-21:
-  - [ ] 블로그 정리 및 내일 할일 정리 2022-07-21
+day-2022-07-22:
+  - [ ] 블로그 정리 및 내일 할일 정리 2022-07-22
   - [ ] pill
   job:
     - [ ] gdr daily
-    - [ ] daily
+    - [ ] jb task - test jb manage table feat - make new acc on frog
+    - [ ] update spec doc https://streami.atlassian.net/wiki/spaces/LAB/pages/1101234236
     - [ ] blended price task
-    - [ ] GOP-15886 split verify 18 - split to three (update cfn and test)
     - [ ] GOP-15403 jb 19 - work on interface lambda logic 9
     - [ ] GOP-18753 review
     - [ ] GOP-15404 jb add dummy lambda 3
@@ -68,6 +66,17 @@ job:
   - [ ] local proto compile js setup
 
 Archive:
+  - [x] 블로그 정리 및 내일 할일 정리 2022-07-20 @started(22-07-20 22:39) @done(22-07-20 22:43) @lasted(4m52s) @project(day-2022-07-20)
+  - [x] open story point meeting session @done(22-07-20 10:25) @project(day-2022-07-20.job)
+  - [x] re setup mac on office network @started(22-07-20 10:25) @done(22-07-20 13:34) @lasted(3h9m22s) @project(day-2022-07-20.job)
+  - [x] request jb reviews @started(22-07-20 11:18) @done(22-07-20 13:35) @lasted(2h17m4s) @project(day-2022-07-20.job)
+  - [x] gdr daily @started(22-07-20 10:43) @done(22-07-20 11:02) @lasted(19m47s) @project(day-2022-07-20.job)
+  - [x] daily @started(22-07-20 11:18) @done(22-07-20 11:32) @lasted(14m49s) @project(day-2022-07-20.job)
+  - [x] GOP-15886 split verify 17 - split to three @started(22-07-20 13:09) @done(22-07-20 15:08) @lasted(1h59m23s) @project(day-2022-07-20.job)
+  - [x] GOP-18614 jb 17 - freeze logic apply review @started(22-07-20 15:31) @done(22-07-20 15:44) @lasted(13m32s) @project(day-2022-07-20.job)
+  - [x] run story point meeting @done(22-07-20 18:34) @project(day-2022-07-20.job)
+  - [x] pc check @done(22-07-20 21:29) @project(day-2022-07-20.job)
+  - [x] GOP-18614 jb 18 - freeze logic apply review @started(22-07-20 21:56) @done(22-07-20 22:38) @lasted(42m54s) @project(day-2022-07-20.job)
   - [x] 블로그 정리 및 내일 할일 정리 2022-07-19 @started(22-07-19 20:25) @done(22-07-19 20:26) @lasted(1m55s) @project(day-2022-07-19)
   - [x] receive mac @done(22-07-19 10:31) @project(day-2022-07-19.job)
   - [x] jb task resume @started(22-07-19 10:31) @done(22-07-19 11:18) @lasted(47m1s) @project(day-2022-07-19.job)
