@@ -11,8 +11,14 @@ import { u } from 'unist-builder';
 import _ from 'lodash';
 import tagHandler from './tag-handler.js';
 
+// get current year
+const getCurrentYear = () => {
+  const date = new Date();
+  return date.getFullYear();
+}
+
 // WORKING DIRECTORY: ./scripts/blog-updater
-const YEAR = process.env.YEAR || '2021';
+const YEAR = process.env.YEAR || getCurrentYear();
 // const IN_DIR = './src/' + YEAR;
 const IN_DIR = path.join(process.env.SOURCE_DIR || './src/' + YEAR);
 // const OUT_DIR = './src/test-out-dir';
@@ -37,46 +43,46 @@ const files = fs.readdirSync(IN_DIR);
 const run = () => {
   files.forEach(filename => {
     let filenameinfo = path.parse(filename);
-  
+
     if(filenameinfo.ext != '.md') {
       console.info('skip file', filename);
       return;
     }
-  
+
     const readFilePath = path.join(IN_DIR, filename);
-    
+
     const file_info = {
       // NOTE: USING FILENAME AS DATE, 다른 로그 할때는 변경할것.
       date: filenameinfo.name.slice(0,10),
       private: filenameinfo.name.slice(-2) == '-p',
       filenameinfo
     };
-  
+
     if(file_info.private){
       console.warn('private. skipping', filename);
       return;
     }
-  
+
     const readFile = fs.readFileSync(readFilePath, {
       encoding: 'utf8'
     });
-  
+
     // PROCESS
     const result = processFile(readFile, {
       ...file_info,
     });
-  
+
     console.info('done', filename);
     // console.info('done', filename, 'result DATA: ', result);
-  
+
     const writeFilePath = path.join(writeDir, file_info.date + '-' + result.data.title.split(/\s/g).join('-') + '.md');
-  
+
     fs.writeFileSync(writeFilePath, result.runData.toString({
       encoding: 'utf-8'
     }), {
       encoding: 'utf-8'
     });
-  });  
+  });
 }
 
 // define a unified js process that does:
@@ -99,7 +105,7 @@ const processFile = (file, options) => {
         result.data = tree.data;
       })
       .processSync(file);
-  
+
     return result;
   } catch (error) {
     console.error('error on processing file', options.filenameinfo.name);
@@ -125,7 +131,7 @@ const getExtractor = (option) => {
     const firstHeading = select('root > heading:first-of-type', tree);
     // check if tree has a yaml or toml frontmatter
     const frontmatter = select('root > yaml', tree) || select('root > toml', tree);
-    
+
     // check if first heading is depth 1
     if(firstHeading.depth != 1 || frontmatter) {
       console.warn('has frontmatter or not have title heading. skipping');
@@ -136,7 +142,7 @@ const getExtractor = (option) => {
     }
     tree.data.title = getTextValueOfNode(firstHeading);
     tree.data.removeTarget.push(firstHeading);
-    
+
     // return tree
     return tree;
   })
