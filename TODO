@@ -1,20 +1,10 @@
-day-2022-07-22:
-  - [x] 블로그 정리 및 내일 할일 정리 2022-07-22 @started(22-07-22 21:34) @done(22-07-22 21:35) @lasted(1m47s)
-  - [x] pill @done(22-07-22 21:36)
-  job:
-    - [x] gdr daily @started(22-07-22 10:47) @done(22-07-22 11:16) @lasted(29m24s)
-    - [x] daily @done(22-07-22 13:12)
-    ✘ [ ] jb task - test jb manage table feat - make new acc on frog @cancelled(22-07-22 13:12)
-    - [x] jb task - test jb manage table feat - try test using log on frog @started(22-07-22 13:13) @done(22-07-22 20:13) @lasted(7h35s)
-    - [ ] update spec doc https://streami.atlassian.net/wiki/spaces/LAB/pages/1101234236
-    - [ ] blended price task
-    - [ ] GOP-15403 jb 19 - work on interface lambda logic 9
-    - [ ] GOP-18753 review
-    - [ ] GOP-15404 jb add dummy lambda 3
-    - [ ] GOP-18665 cs ticket 3 - krw
-    - [ ] GOP-17648 apply review 7
-  sport:
-    - [ ] exc
+day-2022-07-24:
+  - [ ] 블로그 정리 및 내일 할일 정리 2022-07-24
+  - [ ] pill
+  study:
+    - [ ] study clean architecture on rxjs 3 - db (redis?) @started(22-07-24 13:36)
+    - [ ] study clean architecture on rxjs 2 - console
+    - [ ] db study prep ch11 - 4
 
 day-2022-07-25:
   - [ ] 블로그 정리 및 내일 할일 정리 2022-07-25
@@ -32,11 +22,6 @@ day-2022-07-25:
     - [ ] exc
 
 study:
-  - [ ] db study prep ch11 - 4
-  - [ ] study clean architecture on rxjs 2 - console
-  - [ ] prepare next study - clean architecture
-  - [ ] prepare next study - data study
-  - [ ] study clean architecture on rxjs 3 - db (redis?)
   - [ ] study clean architecture on rxjs 4 - web (express)
 
 arb:
@@ -62,6 +47,12 @@ job:
   - [ ] local proto compile js setup
 
 Archive:
+  - [x] 블로그 정리 및 내일 할일 정리 2022-07-22 @started(22-07-22 21:34) @done(22-07-22 21:35) @lasted(1m47s) @project(day-2022-07-22)
+  - [x] pill @done(22-07-22 21:36) @project(day-2022-07-22)
+  - [x] gdr daily @started(22-07-22 10:47) @done(22-07-22 11:16) @lasted(29m24s) @project(day-2022-07-22.job)
+  - [x] daily @done(22-07-22 13:12) @project(day-2022-07-22.job)
+  ✘ [ ] jb task - test jb manage table feat - make new acc on frog @cancelled(22-07-22 13:12) @project(day-2022-07-22.job)
+  - [x] jb task - test jb manage table feat - try test using log on frog @started(22-07-22 13:13) @done(22-07-22 20:13) @lasted(7h35s) @project(day-2022-07-22.job)
   - [x] 블로그 정리 및 내일 할일 정리 2022-07-21 @done(22-07-22 10:47) @project(day-2022-07-21)
   - [x] pill @done(22-07-21 23:05) @project(day-2022-07-21)
   - [x] gdr daily @done(22-07-21 13:47) @project(day-2022-07-21.job)
