@@ -1,10 +1,11 @@
 day-2022-07-24:
-  - [ ] 블로그 정리 및 내일 할일 정리 2022-07-24
-  - [ ] pill
+  - [x] 블로그 정리 및 내일 할일 정리 2022-07-24 @started(22-07-25 07:20) @done(22-07-25 07:21) @lasted(1m28s)
+  - [x] pill @done(22-07-25 07:20)
   study:
-    - [ ] study clean architecture on rxjs 3 - db (redis?) @started(22-07-24 13:36)
+    - [x] study clean architecture on rxjs 3 - db (redis?) @started(22-07-24 13:36) @done(22-07-24 15:36) @lasted(2h10s)
+    - [x] db study prep ch11 - 4 @started(22-07-24 15:36) @done(22-07-24 19:16) @lasted(3h40m20s)
+    - [ ] db study prep ch11 - 5
     - [ ] study clean architecture on rxjs 2 - console
-    - [ ] db study prep ch11 - 4
 
 day-2022-07-25:
   - [ ] 블로그 정리 및 내일 할일 정리 2022-07-25
