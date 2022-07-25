@@ -1,21 +1,31 @@
-day-2022-07-24:
-  - [x] 블로그 정리 및 내일 할일 정리 2022-07-24 @started(22-07-25 07:20) @done(22-07-25 07:21) @lasted(1m28s)
-  - [x] pill @done(22-07-25 07:20)
-  study:
-    - [x] study clean architecture on rxjs 3 - db (redis?) @started(22-07-24 13:36) @done(22-07-24 15:36) @lasted(2h10s)
-    - [x] db study prep ch11 - 4 @started(22-07-24 15:36) @done(22-07-24 19:16) @lasted(3h40m20s)
-    - [ ] db study prep ch11 - 5
-    - [ ] study clean architecture on rxjs 2 - console
-
 day-2022-07-25:
-  - [ ] 블로그 정리 및 내일 할일 정리 2022-07-25
-  - [ ] pill
+  - [x] 블로그 정리 및 내일 할일 정리 2022-07-25 @started(22-07-25 23:12) @done(22-07-25 23:13) @lasted(1m52s)
+  - [x] pill @done(22-07-25 23:12)
   job:
-    - [ ] jb task - test jb manage table feat - apply fix, review request
+    - [x] jb task - test jb manage table feat - apply fix, review request @started(22-07-25 09:06) @done(22-07-25 12:31) @lasted(3h25m12s)
+    - [x] jb task - test jb manage table feat - request review @started(22-07-25 13:41) @done(22-07-25 13:55) @lasted(14m33s)
+    - [x] cs ticket - 19453 @started(22-07-25 14:06) @done(22-07-25 15:35) @lasted(1h29m30s)
+    - [x] cs ticket - 19475 @started(22-07-25 14:06) @done(22-07-25 16:01) @lasted(1h55m46s)
+    - [x] GOP-15403 jb 19 - work on interface lambda logic 9 @started(22-07-25 16:23) @done(22-07-25 17:00) @lasted(37m18s)
+    - [x] jb task - prepare test 1 @started(22-07-25 22:00) @done(22-07-25 22:36) @lasted(36m27s)
+    - [ ] jb task - prepare test 2
+    - [ ] GOP-18753 review
     - [ ] update spec doc https://streami.atlassian.net/wiki/spaces/LAB/pages/1101234236
     - [ ] blended price task
-    - [ ] GOP-15403 jb 19 - work on interface lambda logic 9
+    - [ ] GOP-15404 jb add dummy lambda 3
+    - [ ] GOP-18665 cs ticket 3 - krw
+    - [ ] GOP-17648 apply review 7
+  sport:
+    - [ ] exc
+
+day-2022-07-26:
+  - [ ] 블로그 정리 및 내일 할일 정리 2022-07-26
+  - [ ] pill
+  job:
+    - [ ] jb task - prepare test 2
     - [ ] GOP-18753 review
+    - [ ] update spec doc https://streami.atlassian.net/wiki/spaces/LAB/pages/1101234236
+    - [ ] blended price task
     - [ ] GOP-15404 jb add dummy lambda 3
     - [ ] GOP-18665 cs ticket 3 - krw
     - [ ] GOP-17648 apply review 7
@@ -23,6 +33,8 @@ day-2022-07-25:
     - [ ] exc
 
 study:
+  - [ ] db study prep ch11 - 5
+  - [ ] study clean architecture on rxjs 3 - console
   - [ ] study clean architecture on rxjs 4 - web (express)
 
 arb:
@@ -48,6 +60,10 @@ job:
   - [ ] local proto compile js setup
 
 Archive:
+  - [x] 블로그 정리 및 내일 할일 정리 2022-07-24 @started(22-07-25 07:20) @done(22-07-25 07:21) @lasted(1m28s) @project(day-2022-07-24)
+  - [x] pill @done(22-07-25 07:20) @project(day-2022-07-24)
+  - [x] study clean architecture on rxjs 3 - db (redis?) @started(22-07-24 13:36) @done(22-07-24 15:36) @lasted(2h10s) @project(day-2022-07-24.study)
+  - [x] db study prep ch11 - 4 @started(22-07-24 15:36) @done(22-07-24 19:16) @lasted(3h40m20s) @project(day-2022-07-24.study)
   - [x] 블로그 정리 및 내일 할일 정리 2022-07-22 @started(22-07-22 21:34) @done(22-07-22 21:35) @lasted(1m47s) @project(day-2022-07-22)
   - [x] pill @done(22-07-22 21:36) @project(day-2022-07-22)
   - [x] gdr daily @started(22-07-22 10:47) @done(22-07-22 11:16) @lasted(29m24s) @project(day-2022-07-22.job)
