@@ -1,14 +1,13 @@
-day-2022-07-26:
-  - [x] 블로그 정리 및 내일 할일 정리 2022-07-26 @started(22-07-27 08:16) @done(22-07-27 08:17) @lasted(1m17s)
-  - [x] pill @done(22-07-27 08:16)
+day-2022-07-27:
+  - [x] 블로그 정리 및 내일 할일 정리 2022-07-27 @started(22-07-28 09:08) @done(22-07-28 09:09) @lasted(1m12s)
+  - [x] pill @done(22-07-28 09:08)
   job:
-    - [x] jb task - test freeze jb @started(22-07-26 09:21) @done(22-07-26 13:37) @lasted(4h16m29s)
-    - [x] peer appraisal 1 @started(22-07-26 13:38) @done(22-07-26 14:23) @lasted(45m51s)
-    - [x] update spec doc https://streami.atlassian.net/wiki/spaces/LAB/pages/1101234236 @started(22-07-26 14:28) @done(22-07-26 15:01) @lasted(33m29s)
-    - [x] jb task - test updateUserStatus @started(22-07-26 15:33) @done(22-07-26 17:14) @lasted(1h41m20s)
-    - [x] test lambda split @started(22-07-26 17:14) @done(22-07-26 19:56) @lasted(2h42m15s)
+    - [x] jb task - prepare test 2 @started(22-07-27 08:19) @done(22-07-27 09:00) @lasted(41m42s)
+    - [x] daily @done(22-07-27 18:36)
+    - [x] jb task - handling @started(22-07-27 11:20) @done(22-07-27 18:36) @lasted(7h16m44s)
+    - [x] peer appraisal 2 @started(22-07-27 18:37) @done(22-07-27 20:22) @lasted(1h45m39s)
+    - [ ] jb task - handling 2
     - [ ] test lambda split 2
-    - [ ] jb task - prepare test 2
     - [ ] jb task - test freezeUser 2
     - [ ] blended price task - work on interface
     - [ ] GOP-18753 review
@@ -16,13 +15,14 @@ day-2022-07-26:
     - [ ] GOP-18665 cs ticket 3 - krw
     - [ ] GOP-17648 apply review 7
   sport:
-    - [ ] exc
+    - [x] exc @done(22-07-27 22:11)
 
-day-2022-07-27:
-  - [ ] 블로그 정리 및 내일 할일 정리 2022-07-27
+day-2022-07-28:
+  - [ ] 블로그 정리 및 내일 할일 정리 2022-07-28
   - [ ] pill
   job:
-    - [ ] jb task - prepare test 2
+    - [ ] jb task - handling 2
+    - [ ] test oms run
     - [ ] test lambda split 2
     - [ ] jb task - test freezeUser 2
     - [ ] blended price task - work on interface
@@ -61,6 +61,13 @@ job:
   - [ ] local proto compile js setup
 
 Archive:
+  - [x] 블로그 정리 및 내일 할일 정리 2022-07-26 @started(22-07-27 08:16) @done(22-07-27 08:17) @lasted(1m17s) @project(day-2022-07-26)
+  - [x] pill @done(22-07-27 08:16) @project(day-2022-07-26)
+  - [x] jb task - test freeze jb @started(22-07-26 09:21) @done(22-07-26 13:37) @lasted(4h16m29s) @project(day-2022-07-26.job)
+  - [x] peer appraisal 1 @started(22-07-26 13:38) @done(22-07-26 14:23) @lasted(45m51s) @project(day-2022-07-26.job)
+  - [x] update spec doc https://streami.atlassian.net/wiki/spaces/LAB/pages/1101234236 @started(22-07-26 14:28) @done(22-07-26 15:01) @lasted(33m29s) @project(day-2022-07-26.job)
+  - [x] jb task - test updateUserStatus @started(22-07-26 15:33) @done(22-07-26 17:14) @lasted(1h41m20s) @project(day-2022-07-26.job)
+  - [x] test lambda split @started(22-07-26 17:14) @done(22-07-26 19:56) @lasted(2h42m15s) @project(day-2022-07-26.job)
   - [x] 블로그 정리 및 내일 할일 정리 2022-07-25 @started(22-07-25 23:12) @done(22-07-25 23:13) @lasted(1m52s) @project(day-2022-07-25)
   - [x] pill @done(22-07-25 23:12) @project(day-2022-07-25)
   - [x] jb task - test jb manage table feat - apply fix, review request @started(22-07-25 09:06) @done(22-07-25 12:31) @lasted(3h25m12s) @project(day-2022-07-25.job)
