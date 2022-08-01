@@ -1,32 +1,29 @@
-day-2022-07-28:
-  - [x] 블로그 정리 및 내일 할일 정리 2022-07-28 @started(22-07-29 11:08) @done(22-07-29 11:13) @lasted(5m6s)
-  - [x] pill @done(22-07-29 11:08)
+day-2022-07-29:
+  - [x] 블로그 정리 및 내일 할일 정리 2022-07-29 @started(22-08-01 13:11) @done(22-08-01 13:12) @lasted(1m57s)
+  - [x] pill @done(22-08-01 13:11)
   job:
-    - [x] test oms run @started(22-07-28 09:55) @done(22-07-28 12:00) @lasted(2h5m44s)
-    - [x] try oms work @started(22-07-28 13:16) @done(22-07-28 13:42) @lasted(26m15s)
-    - [x] jb task - handling 2 @started(22-07-28 12:00) @done(22-07-28 22:08) @lasted(10h8m12s)
+    - [x] daily @done(22-07-29 11:50)
+    - [x] blended pirce task - add user blended price 1 @started(22-07-29 14:09) @done(22-07-29 15:07) @lasted(58m22s)
+    - [x] apply jb task review @started(22-07-29 15:07) @done(22-07-29 18:40) @lasted(3h33m42s)
+    - [ ] apply jb task review
+    - [ ] blended price task - work on interface
     - [ ] test lambda split 2
     - [ ] jb task - test freezeUser 2
-    - [ ] blended price task - work on interface
-    - [ ] GOP-18753 review
     - [ ] GOP-15404 jb add dummy lambda 3
     - [ ] GOP-18665 cs ticket 3 - krw
     - [ ] GOP-17648 apply review 7
   sport:
-    - [x] functional study @started(22-07-28 12:00) @done(22-07-28 12:54) @lasted(54m42s)
     - [ ] exc
 
-day-2022-07-29:
-  - [ ] 블로그 정리 및 내일 할일 정리 2022-07-29
+day-2022-08-01:
+  - [ ] 블로그 정리 및 내일 할일 정리 2022-08-01
   - [ ] pill
   job:
-    - [ ] daily
-    - [ ] blended pirce task - add user blended price
+    - [ ] blended pirce task - add user blended price 2
+    - [ ] apply jb task review
+    - [ ] jb task - test freezeUser 2
     - [ ] blended price task - work on interface
     - [ ] test lambda split 2
-    - [ ] jb task - test freezeUser 2
-    - [ ] GOP-18753 review
-    - [ ] GOP-15404 jb add dummy lambda 3
     - [ ] GOP-18665 cs ticket 3 - krw
     - [ ] GOP-17648 apply review 7
   sport:
@@ -60,6 +57,12 @@ job:
   - [ ] local proto compile js setup
 
 Archive:
+  - [x] 블로그 정리 및 내일 할일 정리 2022-07-28 @started(22-07-29 11:08) @done(22-07-29 11:13) @lasted(5m6s) @project(day-2022-07-28)
+  - [x] pill @done(22-07-29 11:08) @project(day-2022-07-28)
+  - [x] test oms run @started(22-07-28 09:55) @done(22-07-28 12:00) @lasted(2h5m44s) @project(day-2022-07-28.job)
+  - [x] try oms work @started(22-07-28 13:16) @done(22-07-28 13:42) @lasted(26m15s) @project(day-2022-07-28.job)
+  - [x] jb task - handling 2 @started(22-07-28 12:00) @done(22-07-28 22:08) @lasted(10h8m12s) @project(day-2022-07-28.job)
+  - [x] functional study @started(22-07-28 12:00) @done(22-07-28 12:54) @lasted(54m42s) @project(day-2022-07-28.sport)
   - [x] 블로그 정리 및 내일 할일 정리 2022-07-27 @started(22-07-28 09:08) @done(22-07-28 09:09) @lasted(1m12s) @project(day-2022-07-27)
   - [x] pill @done(22-07-28 09:08) @project(day-2022-07-27)
   - [x] jb task - prepare test 2 @started(22-07-27 08:19) @done(22-07-27 09:00) @lasted(41m42s) @project(day-2022-07-27.job)
