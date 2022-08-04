@@ -1,15 +1,13 @@
-day-2022-08-02:
-  - [x] 블로그 정리 및 내일 할일 정리 2022-08-02 @started(22-08-02 23:55) @done(22-08-02 23:57) @lasted(2m21s)
-  - [x] pill @done(22-08-02 23:55)
+day-2022-08-03:
+  - [x] 블로그 정리 및 내일 할일 정리 2022-08-03 @started(22-08-03 23:26) @done(22-08-03 23:27) @lasted(1m23s)
+  - [x] pill @done(22-08-03 23:27)
   job:
-    - [x] blended pirce task - add user blended price 3 @started(22-08-02 09:55) @done(22-08-02 11:46) @lasted(1h51m4s)
-    - [x] apply jb task review - investigate query @started(22-08-02 13:41) @done(22-08-02 16:42) @lasted(3h1m41s)
-    - [x] fix jb util @started(22-08-02 16:48) @done(22-08-02 19:45) @lasted(2h57m29s)
-    - [x] update password @started(22-08-02 22:50) @done(22-08-02 23:14) @lasted(24m25s)
-    - [x] lambda split apply review @done(22-08-02 23:14)
-    - [x] blended price task - deploy oms @started(22-08-02 23:15) @done(22-08-02 23:55) @lasted(40m45s)
-    - [ ] blended price task - test oms
-    - [ ] blended price task - add user blended price 4
+    - [x] lambda split - request review (not tested) @done(22-08-03 09:12)
+    - [x] blended price task - test oms @started(22-08-03 09:12) @done(22-08-03 11:14) @lasted(2h2m30s)
+    - [x] daily @started(22-08-03 11:14) @done(22-08-03 11:30) @lasted(16m28s)
+    - [x] blended price task - test oms 2 @started(22-08-03 13:00) @done(22-08-03 16:14) @lasted(3h14m56s)
+    - [x] story point @started(22-08-03 16:15) @done(22-08-03 16:49) @lasted(34m41s)
+    - [x] blended price task - add user blended price 4 @started(22-08-03 21:28) @done(22-08-03 23:26) @lasted(1h58m25s)
     - [ ] jb task - test freezeUser 2
     - [ ] blended price task - work on interface
     - [ ] GOP-18665 cs ticket 3 - krw
@@ -17,15 +15,13 @@ day-2022-08-02:
   sport:
     - [ ] exc
 
-day-2022-08-03:
-  - [ ] 블로그 정리 및 내일 할일 정리 2022-08-03
+day-2022-08-04:
+  - [ ] 블로그 정리 및 내일 할일 정리 2022-08-04
   - [ ] pill
   job:
-    - [ ] lambda split - request review (not tested)
-    - [ ] blended price task - test oms
-    - [ ] blended price task - add user blended price 4
-    - [ ] jb task - test freezeUser 2
-    - [ ] blended price task - work on interface
+    - [ ] blended price task - request blended price review
+    - [ ] blended price task - add reset feat & work on interface
+    - [ ] jb task - remind
     - [ ] GOP-18665 cs ticket 3 - krw
     - [ ] GOP-17648 apply review 7
   sport:
@@ -59,6 +55,14 @@ job:
   - [ ] local proto compile js setup
 
 Archive:
+  - [x] 블로그 정리 및 내일 할일 정리 2022-08-02 @started(22-08-02 23:55) @done(22-08-02 23:57) @lasted(2m21s) @project(day-2022-08-02)
+  - [x] pill @done(22-08-02 23:55) @project(day-2022-08-02)
+  - [x] blended pirce task - add user blended price 3 @started(22-08-02 09:55) @done(22-08-02 11:46) @lasted(1h51m4s) @project(day-2022-08-02.job)
+  - [x] apply jb task review - investigate query @started(22-08-02 13:41) @done(22-08-02 16:42) @lasted(3h1m41s) @project(day-2022-08-02.job)
+  - [x] fix jb util @started(22-08-02 16:48) @done(22-08-02 19:45) @lasted(2h57m29s) @project(day-2022-08-02.job)
+  - [x] update password @started(22-08-02 22:50) @done(22-08-02 23:14) @lasted(24m25s) @project(day-2022-08-02.job)
+  - [x] lambda split apply review @done(22-08-02 23:14) @project(day-2022-08-02.job)
+  - [x] blended price task - deploy oms @started(22-08-02 23:15) @done(22-08-02 23:55) @lasted(40m45s) @project(day-2022-08-02.job)
   - [x] 블로그 정리 및 내일 할일 정리 2022-08-01 @started(22-08-01 23:42) @done(22-08-01 23:43) @lasted(1m14s) @project(day-2022-08-01)
   - [x] pill @done(22-08-01 23:42) @project(day-2022-08-01)
   - [x] blended pirce task - add user blended price 2 @started(22-08-01 13:21) @done(22-08-01 19:40) @lasted(6h19m49s) @project(day-2022-08-01.job)
