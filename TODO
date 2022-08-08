@@ -1,37 +1,32 @@
-day-2022-08-04:
-  - [x] 블로그 정리 및 내일 할일 정리 2022-08-04 @started(22-08-05 09:31) @done(22-08-05 09:44) @lasted(13m50s)
-  - [x] pill @done(22-08-05 09:31)
+day-2022-08-08:
+  - [x] 블로그 정리 및 내일 할일 정리 2022-08-08 @started(22-08-08 23:24) @done(22-08-08 23:25) @lasted(1m25s)
+  - [x] pill @done(22-08-08 23:32)
   job:
-    - [x] sprint planning @started(22-08-04 13:38) @done(22-08-04 14:20) @lasted(42m58s)
-    - [x] pio BE review @started(22-08-04 15:48) @done(22-08-04 16:35) @lasted(47m53s)
-    - [x] susi @started(22-08-04 16:35) @done(22-08-04 16:58) @lasted(23m27s)
-    - [x] blended price task - request blended price review @done(22-08-04 17:58)
-    - [x] land jb tasks @started(22-08-04 18:25) @done(22-08-04 20:03) @lasted(1h38m31s)
-    - [x] test jb freeze feat @done(22-08-05 09:31)
-    - [ ] jb task - remind
-    - [ ] blended price task - add reset feat & work on interface
-    - [ ] GOP-18665 cs ticket 3 - krw
-    - [ ] GOP-17648 apply review 7
-  study:
-    - [x] functional study @started(22-08-04 12:04) @done(22-08-04 13:37) @lasted(1h33m53s)
-  sport:
-    - [ ] exc
-
-day-2022-08-05:
-  - [ ] 블로그 정리 및 내일 할일 정리 2022-08-05
-  - [ ] pill
-  job:
-    - [ ] blended price task - apply blended price review
-    - [ ] land jb bug fix
-    - [ ] jb task - remind
-    - [ ] blended price task - add reset feat & work on interface
-    - [ ] GOP-18665 cs ticket 3 - krw
+    - [x] 정산 @started(22-08-08 12:43) @done(22-08-08 13:16) @lasted(33m18s)
+    ✘ [ ] blended price task - add reset feat & work on interface @started(22-08-08 13:29) @cancelled(22-08-08 19:01) @wasted(5h32m49s)
+    - [x] blended price task - fix bug, rollback qa @started(22-08-08 13:29) @done(22-08-08 19:02) @lasted(5h33m8s)
+    - [x] register test user on dev @started(22-08-08 19:02) @done(22-08-08 19:29) @lasted(27m56s)
+    - [x] apply verify crypto address review @done(22-08-08 23:16)
+    - [x] register test user on dev @done(22-08-08 23:16)
     - [ ] GOP-17648 apply review 7
   study:
     - [ ] db study prep ch11 - 5
   sport:
     - [ ] exc
 
+day-2022-08-09:
+  - [ ] 블로그 정리 및 내일 할일 정리 2022-08-09
+  - [ ] pill
+  job:
+    - [ ] register test user on dev - add asset, trade
+    - [ ] blended price task - retest add-user-blended-price feat
+    - [ ] blended price task - add reset feat & work on interface
+    - [ ] remind verify-crypto-address update
+    - [ ] GOP-17648 apply review 7
+  study:
+    - [ ] db study prep ch11 - 5
+  sport:
+    - [ ] exc
 
 study:
   - [ ] study clean architecture on rxjs 3 - console
@@ -60,6 +55,21 @@ job:
   - [ ] local proto compile js setup
 
 Archive:
+  - [x] pill @done(22-08-08 12:42) @project(day-2022-08-05)
+  - [x] blended price task - apply blended price review @started(22-08-05 09:47) @done(22-08-05 10:41) @lasted(54m9s) @project(day-2022-08-05.job)
+  - [x] land jb bug fix @started(22-08-05 10:41) @done(22-08-05 10:44) @lasted(3m1s) @project(day-2022-08-05.job)
+  - [x] daily @done(22-08-05 12:43) @project(day-2022-08-05.job)
+  - [x] blended price task - apply review 2 @started(22-08-05 12:43) @done(22-08-05 17:15) @lasted(4h32m47s) @project(day-2022-08-05.job)
+  - [x] blended price task - add reset feat & work on interface @started(22-08-05 17:15) @done(22-08-05 17:50) @lasted(35m9s) @project(day-2022-08-05.job)
+  - [x] 블로그 정리 및 내일 할일 정리 2022-08-04 @started(22-08-05 09:31) @done(22-08-05 09:44) @lasted(13m50s) @project(day-2022-08-04)
+  - [x] pill @done(22-08-05 09:31) @project(day-2022-08-04)
+  - [x] sprint planning @started(22-08-04 13:38) @done(22-08-04 14:20) @lasted(42m58s) @project(day-2022-08-04.job)
+  - [x] pio BE review @started(22-08-04 15:48) @done(22-08-04 16:35) @lasted(47m53s) @project(day-2022-08-04.job)
+  - [x] susi @started(22-08-04 16:35) @done(22-08-04 16:58) @lasted(23m27s) @project(day-2022-08-04.job)
+  - [x] blended price task - request blended price review @done(22-08-04 17:58) @project(day-2022-08-04.job)
+  - [x] land jb tasks @started(22-08-04 18:25) @done(22-08-04 20:03) @lasted(1h38m31s) @project(day-2022-08-04.job)
+  - [x] test jb freeze feat @done(22-08-05 09:31) @project(day-2022-08-04.job)
+  - [x] functional study @started(22-08-04 12:04) @done(22-08-04 13:37) @lasted(1h33m53s) @project(day-2022-08-04.study)
   - [x] 블로그 정리 및 내일 할일 정리 2022-08-03 @started(22-08-03 23:26) @done(22-08-03 23:27) @lasted(1m23s) @project(day-2022-08-03)
   - [x] pill @done(22-08-03 23:27) @project(day-2022-08-03)
   - [x] lambda split - request review (not tested) @done(22-08-03 09:12) @project(day-2022-08-03.job)
