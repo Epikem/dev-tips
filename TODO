@@ -1,19 +1,52 @@
 day-2022-08-09:
-  - [ ] 블로그 정리 및 내일 할일 정리 2022-08-09
-  - [ ] pill
+  - [x] 블로그 정리 및 내일 할일 정리 2022-08-09 @started(22-08-10 09:14) @done(22-08-10 09:16) @lasted(2m48s)
+  - [x] pill @done(22-08-10 09:14)
   job:
     - [x] register test user on dev - add asset, trade @done(22-08-09 09:18) @fail
     - [x] blended price task - retest add-user-blended-price feat @started(22-08-09 09:18) @done(22-08-09 13:14) @lasted(3h56m37s)
     - [x] blended price task - add reset feat & work on interface @started(22-08-09 13:14) @done(22-08-09 18:06) @lasted(4h52m13s)
     - [x] fix python lambda version @started(22-08-09 19:25) @done(22-08-09 20:04) @lasted(39m45s)
     - [x] apply verify-crypto-address review @started(22-08-09 20:30) @done(22-08-09 20:40) @lasted(10m1s)
-    - [ ] apply verify-crypto-address review
     - [ ] 19969 fix python lambda version - request review
     - [ ] blended price task - retest add-user-blended-price feat 2
   study:
     - [x] db study @done(22-08-09 20:25)
-    - [ ] algo study
+    - [x] algo study @done(22-08-10 09:14)
     - [ ] func study
+    - [ ] db study prep ch11 - 5
+  sport:
+    - [ ] exc
+
+day-2022-08-10:
+  - [x] 블로그 정리 및 내일 할일 정리 2022-08-10 @started(22-08-10 23:15) @done(22-08-10 23:16) @lasted(1m33s)
+  - [x] pill @done(22-08-10 23:15)
+  job:
+    - [x] 19969 fix python lambda version - request review @done(22-08-10 10:07)
+    - [x] blended price task - apply review @started(22-08-10 12:10) @done(22-08-10 15:58) @lasted(3h48m13s)
+    - [x] story point meeting @started(22-08-10 16:01) @done(22-08-10 17:39) @lasted(1h38m58s)
+    - [x] 18688 resume signup send kakao noti - analyze 1 @started(22-08-10 19:25) @done(22-08-10 20:30) @lasted(1h5m26s)
+    - [x] blended price task - retest add-user-blended-price feat 2 @started(22-08-10 17:55) @done(22-08-10 20:30) @lasted(2h35m37s)
+    - [x] blended price task - retest add-user-blended-price feat 3 @started(22-08-10 22:56) @done(22-08-10 23:15) @lasted(19m4s)
+    - [ ] 18688 resume signup send kakao noti - analyze2
+    - [ ] apply verify-crypto-address review
+  study:
+    - [x] func study @started(22-08-10 21:27) @done(22-08-10 21:54) @lasted(27m4s)
+    - [x] func study2 @started(22-08-10 22:24) @done(22-08-10 22:54) @lasted(30m17s)
+    - [ ] db study prep ch11 - 5
+  sport:
+    - [ ] exc
+
+day-2022-08-11:
+  - [ ] 블로그 정리 및 내일 할일 정리 2022-08-11
+  - [ ] pill
+  job:
+    - [ ] user blended price task - request review
+    - [ ] reset blended price task - apply review
+    - [ ] 18688 resume signup send kakao noti - analyze2
+    - [ ] apply verify-crypto-address review
+  study:
+    - [ ] func study
+    - [ ] clean architecture study
     - [ ] db study prep ch11 - 5
   sport:
     - [ ] exc
