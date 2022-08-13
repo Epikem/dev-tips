@@ -1,6 +1,6 @@
 day-2022-08-11:
-  - [ ] 블로그 정리 및 내일 할일 정리 2022-08-11
-  - [ ] pill
+  - [x] 블로그 정리 및 내일 할일 정리 2022-08-11 @started(22-08-13 07:12) @done(22-08-13 07:13) @lasted(1m50s)
+  - [x] pill @done(22-08-13 07:12)
   job:
     - [x] reset blended price task - apply review @started(22-08-11 09:24) @done(22-08-11 09:49) @lasted(25m37s)
     - [x] user blended task - update doc @started(22-08-11 09:49) @done(22-08-11 10:18) @lasted(29m30s)
@@ -17,6 +17,23 @@ day-2022-08-11:
     - [ ] db study prep ch11 - 5
   sport:
     - [ ] exc
+
+day-2022-08-13:
+  - [ ] 블로그 정리 및 내일 할일 정리 2022-08-13
+  - [ ] pill
+  study:
+    - [ ] leet code
+  sport:
+    - [ ] exc
+
+day-2022-08-14:
+  - [ ] 블로그 정리 및 내일 할3 정리 2022-08-13
+  - [ ] pill
+  study:
+    - [ ] db study prep ch11 - 5
+  sport:
+    - [ ] exc
+  
 
 study:
   - [ ] study clean architecture on rxjs 3 - console
