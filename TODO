@@ -1,25 +1,5 @@
-day-2022-08-11:
-  - [x] 블로그 정리 및 내일 할일 정리 2022-08-11 @started(22-08-13 07:12) @done(22-08-13 07:13) @lasted(1m50s)
-  - [x] pill @done(22-08-13 07:12)
-  job:
-    - [x] reset blended price task - apply review @started(22-08-11 09:24) @done(22-08-11 09:49) @lasted(25m37s)
-    - [x] user blended task - update doc @started(22-08-11 09:49) @done(22-08-11 10:18) @lasted(29m30s)
-    - [x] user blended price task - request review @started(22-08-11 10:20) @done(22-08-11 10:26) @lasted(6m50s)
-    - [x] 18688 resume signup send kakao noti - analyze2 @started(22-08-11 10:51) @done(22-08-11 11:56) @lasted(1h5m3s)
-    - [x] 18688 resume signup send kakao noti - analyze3 @started(22-08-11 13:12) @done(22-08-11 13:43) @lasted(31m9s)
-    - [x] sprint planning @started(22-08-11 13:43) @done(22-08-11 14:32) @lasted(49m51s)
-    - [x] 19969 - land bug ticket @started(22-08-11 15:03) @done(22-08-11 15:18) @lasted(15m25s)
-    - [x] 18688 resume signup send kakao noti - analyze4 @done(22-08-11 20:48)
-    - [ ] apply verify-crypto-address review
-  study:
-    - [x] func study @started(22-08-11 11:57) @done(22-08-11 13:12) @lasted(1h15m4s)
-    - [ ] clean architecture study
-    - [ ] db study prep ch11 - 5
-  sport:
-    - [ ] exc
-
 day-2022-08-13:
-  - [ ] 블로그 정리 및 내일 할일 정리 2022-08-13
+  ✘ [ ] 블로그 정리 및 내일 할일 정리 2022-08-13 @cancelled(22-08-15 19:08)
   - [ ] pill
   study:
     - [ ] leet code
@@ -27,15 +7,77 @@ day-2022-08-13:
     - [ ] exc
 
 day-2022-08-14:
-  - [ ] 블로그 정리 및 내일 할3 정리 2022-08-13
+  ✘ [ ] 블로그 정리 및 내일 할3 정리 2022-08-13 @cancelled(22-08-15 19:08)
   - [ ] pill
   study:
     - [ ] db study prep ch11 - 5
   sport:
     - [ ] exc
-  
+
+day-2022-08-15:
+  - [x] 블로그 정리 및 내일 할일 정리 2022-08-15 @done(22-08-16 09:02)
+  - [x] pill @done(22-08-16 09:02)
+  study:
+    - [ ] func study
+    - [ ] db study prep ch11 - 5
+    - [ ] clean architecture study
+    - [ ] leet study
+  sport:
+    - [x] exc 20-15-10-h8 @started(22-08-15 19:08) @done(22-08-15 19:17) @lasted(9m51s)
+
+day-2022-08-16:
+  - [x] 블로그 정리 및 내일 할일 정리 2022-08-16 @started(22-08-18 11:50) @done(22-08-18 11:51) @lasted(1m6s)
+  - [x] pill @done(22-08-18 11:50)
+  job:
+    - [x] ask mark about ecs tag @done(22-08-16 09:59)
+    - [x] design kakao noti feat @started(22-08-16 09:59) @done(22-08-16 11:15) @lasted(1h16m29s)
+    - [x] daily @started(22-08-16 11:18) @done(22-08-16 11:36) @lasted(18m49s)
+    - [x] blended price bug @started(22-08-16 13:39) @done(22-08-16 23:09) @lasted(9h30m41s)
+    - [ ] apply blended price review
+    - [ ] create kakao noti design meeting
+    - [ ] apply verify-crypto-address review
+  study:
+    - [x] db study @started(22-08-16 12:01) @done(22-08-16 12:49) @lasted(48m45s)
+  sport:
+    - [ ] exc
+
+day-2022-08-17:
+  - [x] 블로그 정리 및 내일 할일 정리 2022-08-17 @started(22-08-18 22:40) @done(22-08-18 22:41) @lasted(1m45s)
+  - [x] pill @done(22-08-18 22:40)
+  job:
+    - [x] fix blended price for client @started(22-08-18 13:20) @done(22-08-18 14:03) @lasted(43m5s)
+    - [x] retrospective @started(22-08-18 14:03) @done(22-08-18 15:01) @lasted(58m33s)
+    - [x] townhall @started(22-08-18 15:26) @done(22-08-18 17:01) @lasted(1h35m39s)
+    - [x] fix blended price for client2 @started(22-08-18 15:50) @done(22-08-18 17:01) @lasted(1h11m46s)
+    - [x] apply verify-crypto-address review @started(22-08-18 17:02) @done(22-08-18 19:56) @lasted(2h54m6s)
+    - [x] fix blended price for client3 @started(22-08-18 19:34) @done(22-08-18 19:56) @lasted(22m4s)
+    - [x] apply verify-crypto-address review2 @started(22-08-18 21:59) @done(22-08-18 22:39) @lasted(40m49s)
+    - [ ] research deserialization bug
+    - [ ] apply blended price review
+    - [ ] create kakao noti design meeting
+  study:
+    - [x] func study 3-4 @started(22-08-18 11:50) @done(22-08-18 13:07) @lasted(1h17m5s)
+  sport:
+    - [ ] exc
+
+day-2022-08-18:
+  - [ ] 블로그 정리 및 내일 할일 정리 2022-08-18
+  - [ ] pill
+  job:
+    - [ ] test verify-crypto-address
+    - [ ] research deserialization bug
+    - [ ] apply blended price review
+    - [ ] create kakao noti design meeting
+  study:
+    - [x] func study 3-4 @started(22-08-18 11:50) @done(22-08-18 13:07) @lasted(1h17m5s)
+  sport:
+    - [ ] exc
 
 study:
+  - [ ] func study
+  - [ ] db study prep ch11 - 5
+  - [ ] clean architecture study
+  - [ ] leet study
   - [ ] study clean architecture on rxjs 3 - console
   - [ ] study clean architecture on rxjs 4 - web (express)
 
