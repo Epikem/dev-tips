@@ -41,8 +41,8 @@ day-2022-08-16:
   sport:
     - [ ] exc
 
-day-2022-08-17:
-  - [x] 블로그 정리 및 내일 할일 정리 2022-08-17 @started(22-08-18 22:40) @done(22-08-18 22:41) @lasted(1m45s)
+day-2022-08-18:
+  - [x] 블로그 정리 및 내일 할일 정리 2022-08-18 @started(22-08-18 22:40) @done(22-08-18 22:41) @lasted(1m45s)
   - [x] pill @done(22-08-18 22:40)
   job:
     - [x] fix blended price for client @started(22-08-18 13:20) @done(22-08-18 14:03) @lasted(43m5s)
@@ -60,16 +60,14 @@ day-2022-08-17:
   sport:
     - [ ] exc
 
-day-2022-08-18:
-  - [ ] 블로그 정리 및 내일 할일 정리 2022-08-18
+day-2022-08-19:
+  - [ ] 블로그 정리 및 내일 할일 정리 2022-08-19
   - [ ] pill
   job:
     - [ ] test verify-crypto-address
     - [ ] research deserialization bug
     - [ ] apply blended price review
     - [ ] create kakao noti design meeting
-  study:
-    - [x] func study 3-4 @started(22-08-18 11:50) @done(22-08-18 13:07) @lasted(1h17m5s)
   sport:
     - [ ] exc
 
