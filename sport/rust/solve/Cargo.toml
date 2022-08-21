@@ -3,7 +3,21 @@ name = "solve"
 version = "0.1.0"
 authors = ["epikem <epikem1@gmail.com>"]
 edition = "2018"
+default-run = "solve"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
+rand = "0.8.5"
+
+[[bin]]
+name = "solve"
+test = false
+bench = false
+path = "src/main.rs"
+
+[[bin]]
+name = "test"
+test = false
+bench = false
+path = "src/bin/test.rs"

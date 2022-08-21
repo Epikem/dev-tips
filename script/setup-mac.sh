@@ -23,4 +23,8 @@ brew install gpg2
 brew install git-secret
 brew install shellcheck
 
-
+# install rustup: https://www.rust-lang.org/tools/install
+# (interactive script)
+# > curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
+# (automatic script)
+curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh -s -- -y
