@@ -1,25 +1,15 @@
-day-2022-08-19:
-  - [x] 블로그 정리 및 내일 할일 정리 2022-08-19 @started(22-08-19 23:00) @done(22-08-19 23:07) @lasted(7m)
-  - [x] pill @done(22-08-19 23:00)
-  job:
-    - [x] research deserialization bug @started(22-08-19 09:38) @done(22-08-19 12:29) @lasted(2h51m20s)
-    - [x] test verify-crypto-address @started(22-08-19 11:09) @done(22-08-19 12:29) @lasted(1h20m21s)
-    - [x] scrum retrospective @started(22-08-19 13:40) @done(22-08-19 15:26) @lasted(1h46m22s)
-    - [x] deploy staging/qa @started(22-08-19 13:03) @done(22-08-19 15:57) @lasted(2h54m12s)
-    - [x] test verify-crypto-address2 @started(22-08-19 16:39) @done(22-08-19 20:09) @lasted(3h30m50s)
-    - [x] research deserialization bug2 @started(22-08-19 16:39) @done(22-08-19 20:09) @lasted(3h30m53s)
-    - [x] research deserialization bug3 @started(22-08-19 22:21) @done(22-08-19 22:57) @lasted(36m18s)
-    - [ ] apply blended price review
-    - [ ] create kakao noti design meeting
-  sport:
-    - [ ] exc
-
-day-2022-08-20:
-  - [ ] 블로그 정리 및 내일 할일 정리 2022-08-20
+day-2022-08-24:
+  - [ ] 블로그 정리 및 내일 할일 정리 2022-08-24
   - [ ] pill
   job:
-    - [ ] apply blended price review
+    - [x] apply verify crypto review @started(22-08-24 09:09) @done(22-08-24 09:58) @lasted(49m41s)
+    - [x] kakao noti design @started(22-08-24 10:11) @done(22-08-24 10:43) @lasted(32m33s)
+    - [x] daily @started(22-08-24 10:43) @done(22-08-24 10:50) @lasted(7m31s)
+    - [x] daily2 @started(22-08-24 11:13) @done(22-08-24 11:29) @lasted(16m33s)
+    - [ ] kakao noti design2
     - [ ] create kakao noti design meeting
+    - [ ] apply blended price review3
+    - [ ] fix re-broken blended price feat
   sport:
     - [ ] exc
 
@@ -58,6 +48,26 @@ job:
   - [ ] local proto compile js setup
 
 Archive:
+  - [x] 블로그 정리 및 내일 할일 정리 2022-08-22 @started(22-08-23 09:11) @done(22-08-23 09:12) @lasted(1m42s) @project(day-2022-08-22)
+  - [x] pill @done(22-08-23 09:11) @project(day-2022-08-22)
+  - [x] remind verify crypto address review @done(22-08-22 14:08) @project(day-2022-08-22.job)
+  - [x] remind blended price review @done(22-08-22 14:08) @project(day-2022-08-22.job)
+  - [x] apply blended price review @started(22-08-22 15:27) @done(22-08-22 20:45) @lasted(5h18m19s) @project(day-2022-08-22.job)
+  - [x] 블로그 정리 및 내일 할일 정리 2022-08-23 @started(22-08-24 09:08) @done(22-08-24 09:57) @lasted(49m30s) @project(day-2022-08-23)
+  - [x] pill @done(22-08-24 09:08) @project(day-2022-08-23)
+  - [x] apply blended price review2 @started(22-08-23 09:13) @done(22-08-23 10:45) @lasted(1h32m34s) @project(day-2022-08-23.job)
+  - [x] daily @started(22-08-23 10:45) @done(22-08-23 11:44) @lasted(59m10s) @project(day-2022-08-23.job)
+  - [x] fix re-broken blended price feat @done(22-08-23 16:52) @project(day-2022-08-23.job)
+  - [x] func book study @done(22-08-24 09:08) @project(day-2022-08-23.study)
+  - [x] 블로그 정리 및 내일 할일 정리 2022-08-19 @started(22-08-19 23:00) @done(22-08-19 23:07) @lasted(7m) @project(day-2022-08-19)
+  - [x] pill @done(22-08-19 23:00) @project(day-2022-08-19)
+  - [x] research deserialization bug @started(22-08-19 09:38) @done(22-08-19 12:29) @lasted(2h51m20s) @project(day-2022-08-19.job)
+  - [x] test verify-crypto-address @started(22-08-19 11:09) @done(22-08-19 12:29) @lasted(1h20m21s) @project(day-2022-08-19.job)
+  - [x] scrum retrospective @started(22-08-19 13:40) @done(22-08-19 15:26) @lasted(1h46m22s) @project(day-2022-08-19.job)
+  - [x] deploy staging/qa @started(22-08-19 13:03) @done(22-08-19 15:57) @lasted(2h54m12s) @project(day-2022-08-19.job)
+  - [x] test verify-crypto-address2 @started(22-08-19 16:39) @done(22-08-19 20:09) @lasted(3h30m50s) @project(day-2022-08-19.job)
+  - [x] research deserialization bug2 @started(22-08-19 16:39) @done(22-08-19 20:09) @lasted(3h30m53s) @project(day-2022-08-19.job)
+  - [x] research deserialization bug3 @started(22-08-19 22:21) @done(22-08-19 22:57) @lasted(36m18s) @project(day-2022-08-19.job)
   ✘ [ ] 블로그 정리 및 내일 할일 정리 2022-08-13 @cancelled(22-08-15 19:08) @project(day-2022-08-13)
   ✘ [ ] 블로그 정리 및 내일 할3 정리 2022-08-13 @cancelled(22-08-15 19:08) @project(day-2022-08-14)
   - [x] 블로그 정리 및 내일 할일 정리 2022-08-15 @done(22-08-16 09:02) @project(day-2022-08-15)
