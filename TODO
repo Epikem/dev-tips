@@ -1,5 +1,5 @@
 day-2022-08-24:
-  - [ ] 블로그 정리 및 내일 할일 정리 2022-08-24
+  ✘ [ ] 블로그 정리 및 내일 할일 정리 2022-08-24 @cancelled(22-08-28 15:58)
   - [ ] pill
   job:
     - [x] apply verify crypto review @started(22-08-24 09:09) @done(22-08-24 09:58) @lasted(49m41s)
@@ -13,9 +13,13 @@ day-2022-08-24:
   sport:
     - [ ] exc
 
+day-2022-08-28:
+  - [ ] 블로그 정리 및 내일 할일 정리 2022-08-28
+  study:
+    - [ ] db study prep ch11 - 5
+
 study:
   - [ ] func study
-  - [ ] db study prep ch11 - 5
   - [ ] clean architecture study
   - [ ] leet study
   - [ ] study clean architecture on rxjs 3 - console
