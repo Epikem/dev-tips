@@ -1,22 +1,7 @@
-day-2022-08-24:
-  ✘ [ ] 블로그 정리 및 내일 할일 정리 2022-08-24 @cancelled(22-08-28 15:58)
-  - [ ] pill
-  job:
-    - [x] apply verify crypto review @started(22-08-24 09:09) @done(22-08-24 09:58) @lasted(49m41s)
-    - [x] kakao noti design @started(22-08-24 10:11) @done(22-08-24 10:43) @lasted(32m33s)
-    - [x] daily @started(22-08-24 10:43) @done(22-08-24 10:50) @lasted(7m31s)
-    - [x] daily2 @started(22-08-24 11:13) @done(22-08-24 11:29) @lasted(16m33s)
-    - [ ] kakao noti design2
-    - [ ] create kakao noti design meeting
-    - [ ] apply blended price review3
-    - [ ] fix re-broken blended price feat
-  sport:
-    - [ ] exc
-
 day-2022-08-28:
   - [ ] 블로그 정리 및 내일 할일 정리 2022-08-28
   study:
-    - [ ] db study prep ch11 - 5
+    - [x] db study prep ch11 - 5 @started(22-08-28 15:59) @done(22-08-28 18:50) @lasted(2h51m47s)
 
 study:
   - [ ] func study
@@ -52,6 +37,11 @@ job:
   - [ ] local proto compile js setup
 
 Archive:
+  ✘ [ ] 블로그 정리 및 내일 할일 정리 2022-08-24 @cancelled(22-08-28 15:58) @project(day-2022-08-24)
+  - [x] apply verify crypto review @started(22-08-24 09:09) @done(22-08-24 09:58) @lasted(49m41s) @project(day-2022-08-24.job)
+  - [x] kakao noti design @started(22-08-24 10:11) @done(22-08-24 10:43) @lasted(32m33s) @project(day-2022-08-24.job)
+  - [x] daily @started(22-08-24 10:43) @done(22-08-24 10:50) @lasted(7m31s) @project(day-2022-08-24.job)
+  - [x] daily2 @started(22-08-24 11:13) @done(22-08-24 11:29) @lasted(16m33s) @project(day-2022-08-24.job)
   - [x] 블로그 정리 및 내일 할일 정리 2022-08-22 @started(22-08-23 09:11) @done(22-08-23 09:12) @lasted(1m42s) @project(day-2022-08-22)
   - [x] pill @done(22-08-23 09:11) @project(day-2022-08-22)
   - [x] remind verify crypto address review @done(22-08-22 14:08) @project(day-2022-08-22.job)
