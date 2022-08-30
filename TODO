@@ -16,6 +16,13 @@ day-2022-08-29:
   sport:
     - [ ] exc
 
+day-2022-08-30:
+  - [ ] 블로그 정리 및 내일 할일 정리 2022-08-29
+  - [ ] pill
+  job:
+    - [x] code review @started(22-08-30 13:45) @done(22-08-30 14:16) @lasted(31m26s)
+    - [x] test crypto address feat @started(22-08-30 14:34) @done(22-08-30 18:17) @lasted(3h43m38s)
+
 study:
   - [ ] func study
   - [ ] clean architecture study
