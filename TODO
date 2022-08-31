@@ -17,11 +17,39 @@ day-2022-08-29:
     - [ ] exc
 
 day-2022-08-30:
-  - [ ] 블로그 정리 및 내일 할일 정리 2022-08-29
-  - [ ] pill
+  - [x] 블로그 정리 및 내일 할일 정리 2022-08-30 @started(22-08-31 09:36) @done(22-08-31 09:38) @lasted(2m49s)
+  - [x] pill @done(22-08-31 09:36)
   job:
     - [x] code review @started(22-08-30 13:45) @done(22-08-30 14:16) @lasted(31m26s)
     - [x] test crypto address feat @started(22-08-30 14:34) @done(22-08-30 18:17) @lasted(3h43m38s)
+    - [x] pair programming @done(22-08-31 09:37)
+
+day-2022-08-31:
+  - [x] 블로그 정리 및 내일 할일 정리 2022-08-31 @started(22-08-31 23:42) @done(22-08-31 23:43) @lasted(1m52s)
+  - [x] pill @done(22-08-31 23:42)
+  job:
+    - [x] remove cvc pair on staging @started(22-08-31 09:41) @done(22-08-31 10:34) @lasted(53m31s)
+    - [x] 티켓 정리 @started(22-08-31 11:12) @done(22-08-31 11:37) @lasted(25m6s)
+    - [x] 티켓 정리2 @started(22-08-31 13:02) @done(22-08-31 13:23) @lasted(21m54s)
+    ✘ [ ] cs ticket - investigate limit order @started(22-08-31 13:41) @cancelled(22-08-31 14:17) @wasted(36m19s)
+    - [x] sprint planning @started(22-08-31 13:28) @done(22-08-31 14:58) @lasted(1h30m14s)
+    - [x] cs ticket - deregister @started(22-08-31 13:28) @done(22-08-31 14:58) @lasted(1h30m18s)
+    - [x] wrap up crypto address bug ticket @started(22-08-31 14:17) @done(22-08-31 15:11) @lasted(54m33s)
+    - [x] create kakao noti review @done(22-08-31 15:11)
+    - [x] blended price bug @started(22-08-31 22:14) @done(22-08-31 22:56) @lasted(42m41s)
+    - [x] discuss about step kakao noti @done(22-08-31 23:11)
+    - [x] story point estimation @done(22-08-31 23:12)
+    - [ ] kakao noti review
+    - [ ] kakao noti pair?
+
+day-2022-09-02:
+  - [ ] 블로그 정리 및 내일 할일 정리 2022-09-02
+  - [ ] pill
+  job:
+    - [ ] gop-20578 update wsa api doc
+    - [ ] request gop-20578 review
+    - [ ] work on kakao noti
+    - [ ] kakao noti pair?
 
 study:
   - [ ] func study
