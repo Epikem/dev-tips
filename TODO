@@ -43,13 +43,29 @@ day-2022-08-31:
     - [ ] kakao noti pair?
 
 day-2022-09-02:
-  - [ ] 블로그 정리 및 내일 할일 정리 2022-09-02
+  - [x] 블로그 정리 및 내일 할일 정리 2022-09-02 @started(22-09-02 23:15) @done(22-09-02 23:15) @lasted(52s)
+  - [x] pill @done(22-09-02 23:14)
+  job:
+    - [x] gop-20578 update wsa api doc1 @started(22-09-02 09:28) @done(22-09-02 10:41) @lasted(1h13m27s)
+    - [x] daily @started(22-09-02 10:41) @done(22-09-02 11:32) @lasted(51m50s)
+    - [x] gop-20578 update relay api2 @started(22-09-02 12:23) @done(22-09-02 13:34) @lasted(1h11m17s)
+    - [x] retrospective @started(22-09-02 13:23) @done(22-09-02 15:34) @lasted(2h11m8s)
+    - [x] gop-20578 update relay api3 @started(22-09-02 15:44) @done(22-09-02 16:29) @lasted(45m17s)
+    - [x] work on kakao noti @started(22-09-02 16:29) @done(22-09-02 17:50) @lasted(1h21m17s)
+    - [x] fix blended price api @started(22-09-02 17:52) @done(22-09-02 18:40) @lasted(48m32s)
+    - [x] gop-20578 update balance relay api3 @started(22-09-02 21:47) @done(22-09-02 23:14) @lasted(1h27m7s)
+    - [ ] request gop-20578 review
+    - [ ] kakao noti pair?
+
+day-2022-09-03:
+  - [ ] 블로그 정리 및 내일 할일 정리 2022-09-03
   - [ ] pill
   job:
-    - [ ] gop-20578 update wsa api doc
-    - [ ] request gop-20578 review
     - [ ] work on kakao noti
+    - [ ] request gop-20578 review
     - [ ] kakao noti pair?
+  study:
+    - [ ] prepare db study
 
 study:
   - [ ] func study
