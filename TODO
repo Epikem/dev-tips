@@ -1,67 +1,31 @@
-day-2022-08-28:
-  - [ ] 블로그 정리 및 내일 할일 정리 2022-08-28
-  study:
-    - [x] db study prep ch11 - 5 @started(22-08-28 15:59) @done(22-08-28 18:50) @lasted(2h51m47s)
-
-day-2022-08-29:
-  - [ ] 블로그 정리 및 내일 할일 정리 2022-08-29
-  - [ ] pill
-  job:
-    - [x] kakao noti design @started(22-08-29 14:22) @done(22-08-29 18:19) @lasted(3h57m49s)
-    - [x] research docker lambda @started(22-08-29 19:08) @done(22-08-29 19:58) @lasted(50m21s)
-    - [ ] handle jb down
-    - [ ] create kakao noti design meeting
-  study:
-    - [x] prepare db study @started(22-08-29 21:22) @done(22-08-29 23:05) @lasted(1h43m15s)
-  sport:
-    - [ ] exc
-
-day-2022-08-30:
-  - [x] 블로그 정리 및 내일 할일 정리 2022-08-30 @started(22-08-31 09:36) @done(22-08-31 09:38) @lasted(2m49s)
-  - [x] pill @done(22-08-31 09:36)
-  job:
-    - [x] code review @started(22-08-30 13:45) @done(22-08-30 14:16) @lasted(31m26s)
-    - [x] test crypto address feat @started(22-08-30 14:34) @done(22-08-30 18:17) @lasted(3h43m38s)
-    - [x] pair programming @done(22-08-31 09:37)
-
-day-2022-08-31:
-  - [x] 블로그 정리 및 내일 할일 정리 2022-08-31 @started(22-08-31 23:42) @done(22-08-31 23:43) @lasted(1m52s)
-  - [x] pill @done(22-08-31 23:42)
-  job:
-    - [x] remove cvc pair on staging @started(22-08-31 09:41) @done(22-08-31 10:34) @lasted(53m31s)
-    - [x] 티켓 정리 @started(22-08-31 11:12) @done(22-08-31 11:37) @lasted(25m6s)
-    - [x] 티켓 정리2 @started(22-08-31 13:02) @done(22-08-31 13:23) @lasted(21m54s)
-    ✘ [ ] cs ticket - investigate limit order @started(22-08-31 13:41) @cancelled(22-08-31 14:17) @wasted(36m19s)
-    - [x] sprint planning @started(22-08-31 13:28) @done(22-08-31 14:58) @lasted(1h30m14s)
-    - [x] cs ticket - deregister @started(22-08-31 13:28) @done(22-08-31 14:58) @lasted(1h30m18s)
-    - [x] wrap up crypto address bug ticket @started(22-08-31 14:17) @done(22-08-31 15:11) @lasted(54m33s)
-    - [x] create kakao noti review @done(22-08-31 15:11)
-    - [x] blended price bug @started(22-08-31 22:14) @done(22-08-31 22:56) @lasted(42m41s)
-    - [x] discuss about step kakao noti @done(22-08-31 23:11)
-    - [x] story point estimation @done(22-08-31 23:12)
-    - [ ] kakao noti review
-    - [ ] kakao noti pair?
-
-day-2022-09-02:
-  - [x] 블로그 정리 및 내일 할일 정리 2022-09-02 @started(22-09-02 23:15) @done(22-09-02 23:15) @lasted(52s)
-  - [x] pill @done(22-09-02 23:14)
-  job:
-    - [x] gop-20578 update wsa api doc1 @started(22-09-02 09:28) @done(22-09-02 10:41) @lasted(1h13m27s)
-    - [x] daily @started(22-09-02 10:41) @done(22-09-02 11:32) @lasted(51m50s)
-    - [x] gop-20578 update relay api2 @started(22-09-02 12:23) @done(22-09-02 13:34) @lasted(1h11m17s)
-    - [x] retrospective @started(22-09-02 13:23) @done(22-09-02 15:34) @lasted(2h11m8s)
-    - [x] gop-20578 update relay api3 @started(22-09-02 15:44) @done(22-09-02 16:29) @lasted(45m17s)
-    - [x] work on kakao noti @started(22-09-02 16:29) @done(22-09-02 17:50) @lasted(1h21m17s)
-    - [x] fix blended price api @started(22-09-02 17:52) @done(22-09-02 18:40) @lasted(48m32s)
-    - [x] gop-20578 update balance relay api3 @started(22-09-02 21:47) @done(22-09-02 23:14) @lasted(1h27m7s)
-    - [ ] request gop-20578 review
-    - [ ] kakao noti pair?
-
 day-2022-09-03:
   - [ ] 블로그 정리 및 내일 할일 정리 2022-09-03
   - [ ] pill
   job:
     - [ ] work on kakao noti
+    - [ ] request gop-20578 review
+    - [ ] kakao noti pair?
+  study:
+    - [ ] prepare db study
+
+day-2022-09-05:
+  - [x] 블로그 정리 및 내일 할일 정리 2022-09-05 @started(22-09-06 10:05) @done(22-09-06 10:06) @lasted(1m21s)
+  - [x] pill @done(22-09-06 10:05)
+  job:
+    - [x] work on kakao noti @started(22-09-05 09:40) @done(22-09-05 10:46) @lasted(1h6m18s)
+    - [x] daily @started(22-09-05 10:46) @done(22-09-05 11:30) @lasted(44m59s)
+    - [x] work on kakao noti2 @started(22-09-05 13:01) @done(22-09-05 18:01) @lasted(5h52s)
+    - [ ] work on kakao noti3
+    - [ ] request gop-20578 review
+    - [ ] kakao noti pair?
+  study:
+    - [ ] prepare db study
+
+day-2022-09-06:
+  - [ ] 블로그 정리 및 내일 할일 정리 2022-09-06
+  - [ ] pill
+  job:
+    - [ ] work on kakao noti3
     - [ ] request gop-20578 review
     - [ ] kakao noti pair?
   study:
@@ -101,6 +65,38 @@ job:
   - [ ] local proto compile js setup
 
 Archive:
+  - [x] db study prep ch11 - 5 @started(22-08-28 15:59) @done(22-08-28 18:50) @lasted(2h51m47s) @project(day-2022-08-28.study)
+  - [x] kakao noti design @started(22-08-29 14:22) @done(22-08-29 18:19) @lasted(3h57m49s) @project(day-2022-08-29.job)
+  - [x] research docker lambda @started(22-08-29 19:08) @done(22-08-29 19:58) @lasted(50m21s) @project(day-2022-08-29.job)
+  - [x] prepare db study @started(22-08-29 21:22) @done(22-08-29 23:05) @lasted(1h43m15s) @project(day-2022-08-29.study)
+  - [x] 블로그 정리 및 내일 할일 정리 2022-08-30 @started(22-08-31 09:36) @done(22-08-31 09:38) @lasted(2m49s) @project(day-2022-08-30)
+  - [x] pill @done(22-08-31 09:36) @project(day-2022-08-30)
+  - [x] code review @started(22-08-30 13:45) @done(22-08-30 14:16) @lasted(31m26s) @project(day-2022-08-30.job)
+  - [x] test crypto address feat @started(22-08-30 14:34) @done(22-08-30 18:17) @lasted(3h43m38s) @project(day-2022-08-30.job)
+  - [x] pair programming @done(22-08-31 09:37) @project(day-2022-08-30.job)
+  - [x] 블로그 정리 및 내일 할일 정리 2022-08-31 @started(22-08-31 23:42) @done(22-08-31 23:43) @lasted(1m52s) @project(day-2022-08-31)
+  - [x] pill @done(22-08-31 23:42) @project(day-2022-08-31)
+  - [x] remove cvc pair on staging @started(22-08-31 09:41) @done(22-08-31 10:34) @lasted(53m31s) @project(day-2022-08-31.job)
+  - [x] 티켓 정리 @started(22-08-31 11:12) @done(22-08-31 11:37) @lasted(25m6s) @project(day-2022-08-31.job)
+  - [x] 티켓 정리2 @started(22-08-31 13:02) @done(22-08-31 13:23) @lasted(21m54s) @project(day-2022-08-31.job)
+  ✘ [ ] cs ticket - investigate limit order @started(22-08-31 13:41) @cancelled(22-08-31 14:17) @wasted(36m19s) @project(day-2022-08-31.job)
+  - [x] sprint planning @started(22-08-31 13:28) @done(22-08-31 14:58) @lasted(1h30m14s) @project(day-2022-08-31.job)
+  - [x] cs ticket - deregister @started(22-08-31 13:28) @done(22-08-31 14:58) @lasted(1h30m18s) @project(day-2022-08-31.job)
+  - [x] wrap up crypto address bug ticket @started(22-08-31 14:17) @done(22-08-31 15:11) @lasted(54m33s) @project(day-2022-08-31.job)
+  - [x] create kakao noti review @done(22-08-31 15:11) @project(day-2022-08-31.job)
+  - [x] blended price bug @started(22-08-31 22:14) @done(22-08-31 22:56) @lasted(42m41s) @project(day-2022-08-31.job)
+  - [x] discuss about step kakao noti @done(22-08-31 23:11) @project(day-2022-08-31.job)
+  - [x] story point estimation @done(22-08-31 23:12) @project(day-2022-08-31.job)
+  - [x] 블로그 정리 및 내일 할일 정리 2022-09-02 @started(22-09-02 23:15) @done(22-09-02 23:15) @lasted(52s) @project(day-2022-09-02)
+  - [x] pill @done(22-09-02 23:14) @project(day-2022-09-02)
+  - [x] gop-20578 update wsa api doc1 @started(22-09-02 09:28) @done(22-09-02 10:41) @lasted(1h13m27s) @project(day-2022-09-02.job)
+  - [x] daily @started(22-09-02 10:41) @done(22-09-02 11:32) @lasted(51m50s) @project(day-2022-09-02.job)
+  - [x] gop-20578 update relay api2 @started(22-09-02 12:23) @done(22-09-02 13:34) @lasted(1h11m17s) @project(day-2022-09-02.job)
+  - [x] retrospective @started(22-09-02 13:23) @done(22-09-02 15:34) @lasted(2h11m8s) @project(day-2022-09-02.job)
+  - [x] gop-20578 update relay api3 @started(22-09-02 15:44) @done(22-09-02 16:29) @lasted(45m17s) @project(day-2022-09-02.job)
+  - [x] work on kakao noti @started(22-09-02 16:29) @done(22-09-02 17:50) @lasted(1h21m17s) @project(day-2022-09-02.job)
+  - [x] fix blended price api @started(22-09-02 17:52) @done(22-09-02 18:40) @lasted(48m32s) @project(day-2022-09-02.job)
+  - [x] gop-20578 update balance relay api3 @started(22-09-02 21:47) @done(22-09-02 23:14) @lasted(1h27m7s) @project(day-2022-09-02.job)
   ✘ [ ] 블로그 정리 및 내일 할일 정리 2022-08-24 @cancelled(22-08-28 15:58) @project(day-2022-08-24)
   - [x] apply verify crypto review @started(22-08-24 09:09) @done(22-08-24 09:58) @lasted(49m41s) @project(day-2022-08-24.job)
   - [x] kakao noti design @started(22-08-24 10:11) @done(22-08-24 10:43) @lasted(32m33s) @project(day-2022-08-24.job)
