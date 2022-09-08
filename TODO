@@ -1,22 +1,8 @@
-day-2022-09-07:
-  - [x] 블로그 정리 및 내일 할일 정리 2022-09-07 @started(22-09-08 09:25) @done(22-09-08 09:26) @lasted(1m17s)
-  - [x] pill @done(22-09-08 09:01)
-  job:
-    - [x] mysql db dump to local2 @started(22-09-07 09:10) @done(22-09-07 10:44) @lasted(1h34m43s)
-    - [x] setup admin @started(22-09-07 10:58) @done(22-09-07 14:22) @lasted(3h24m40s)
-    - [x] work on jb freeze fix1 @started(22-09-07 14:22) @done(22-09-07 16:16) @lasted(1h54m19s)
-    - [x] story point est. @started(22-09-07 16:16) @done(22-09-07 17:50) @lasted(1h34m40s)
-    - [ ] work on kakao noti4
-    - [ ] request gop-20578 review
-    - [ ] kakao noti pair?
-  study:
-    - [ ] prepare db study
-
 day-2022-09-08:
   - [ ] 블로그 정리 및 내일 할일 정리 2022-09-08
   - [ ] pill
   job:
-    - [ ] work on kakao noti4
+    - [x] work on kakao noti4 @started(22-09-08 09:28) @done(22-09-08 13:30) @lasted(4h2m44s)
     - [ ] request gop-20578 review
     - [ ] kakao noti pair?
   study:
@@ -56,6 +42,12 @@ job:
   - [ ] local proto compile js setup
 
 Archive:
+  - [x] 블로그 정리 및 내일 할일 정리 2022-09-07 @started(22-09-08 09:25) @done(22-09-08 09:26) @lasted(1m17s) @project(day-2022-09-07)
+  - [x] pill @done(22-09-08 09:01) @project(day-2022-09-07)
+  - [x] mysql db dump to local2 @started(22-09-07 09:10) @done(22-09-07 10:44) @lasted(1h34m43s) @project(day-2022-09-07.job)
+  - [x] setup admin @started(22-09-07 10:58) @done(22-09-07 14:22) @lasted(3h24m40s) @project(day-2022-09-07.job)
+  - [x] work on jb freeze fix1 @started(22-09-07 14:22) @done(22-09-07 16:16) @lasted(1h54m19s) @project(day-2022-09-07.job)
+  - [x] story point est. @started(22-09-07 16:16) @done(22-09-07 17:50) @lasted(1h34m40s) @project(day-2022-09-07.job)
   - [x] 블로그 정리 및 내일 할일 정리 2022-09-06 @started(22-09-07 09:03) @done(22-09-07 09:08) @lasted(5m21s) @project(day-2022-09-06)
   - [x] pill @done(22-09-07 09:03) @project(day-2022-09-06)
   - [x] work on kakao noti3 @started(22-09-06 10:33) @done(22-09-06 10:55) @lasted(22m53s) @project(day-2022-09-06.job)
