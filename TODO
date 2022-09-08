@@ -1,24 +1,21 @@
-day-2022-09-06:
-  - [x] 블로그 정리 및 내일 할일 정리 2022-09-06 @started(22-09-07 09:03) @done(22-09-07 09:08) @lasted(5m21s)
-  - [x] pill @done(22-09-07 09:03)
+day-2022-09-07:
+  - [x] 블로그 정리 및 내일 할일 정리 2022-09-07 @started(22-09-08 09:25) @done(22-09-08 09:26) @lasted(1m17s)
+  - [x] pill @done(22-09-08 09:01)
   job:
-    - [x] work on kakao noti3 @started(22-09-06 10:33) @done(22-09-06 10:55) @lasted(22m53s)
-    - [x] daily @started(22-09-06 10:55) @done(22-09-06 11:36) @lasted(41m8s)
-    - [x] pair review @started(22-09-06 13:08) @done(22-09-06 13:57) @lasted(49m54s)
-    - [x] cs tickets @started(22-09-06 14:05) @done(22-09-06 16:45) @lasted(2h40m54s)
-    - [x] mysql db dump to local @started(22-09-06 19:42) @done(22-09-06 20:35) @lasted(53m41s)
+    - [x] mysql db dump to local2 @started(22-09-07 09:10) @done(22-09-07 10:44) @lasted(1h34m43s)
+    - [x] setup admin @started(22-09-07 10:58) @done(22-09-07 14:22) @lasted(3h24m40s)
+    - [x] work on jb freeze fix1 @started(22-09-07 14:22) @done(22-09-07 16:16) @lasted(1h54m19s)
+    - [x] story point est. @started(22-09-07 16:16) @done(22-09-07 17:50) @lasted(1h34m40s)
     - [ ] work on kakao noti4
     - [ ] request gop-20578 review
     - [ ] kakao noti pair?
   study:
     - [ ] prepare db study
 
-day-2022-09-07:
-  - [ ] 블로그 정리 및 내일 할일 정리 2022-09-07
+day-2022-09-08:
+  - [ ] 블로그 정리 및 내일 할일 정리 2022-09-08
   - [ ] pill
   job:
-    - [ ] mysql db dump to local2
-    - [ ] work on jb freeze fix
     - [ ] work on kakao noti4
     - [ ] request gop-20578 review
     - [ ] kakao noti pair?
@@ -59,6 +56,13 @@ job:
   - [ ] local proto compile js setup
 
 Archive:
+  - [x] 블로그 정리 및 내일 할일 정리 2022-09-06 @started(22-09-07 09:03) @done(22-09-07 09:08) @lasted(5m21s) @project(day-2022-09-06)
+  - [x] pill @done(22-09-07 09:03) @project(day-2022-09-06)
+  - [x] work on kakao noti3 @started(22-09-06 10:33) @done(22-09-06 10:55) @lasted(22m53s) @project(day-2022-09-06.job)
+  - [x] daily @started(22-09-06 10:55) @done(22-09-06 11:36) @lasted(41m8s) @project(day-2022-09-06.job)
+  - [x] pair review @started(22-09-06 13:08) @done(22-09-06 13:57) @lasted(49m54s) @project(day-2022-09-06.job)
+  - [x] cs tickets @started(22-09-06 14:05) @done(22-09-06 16:45) @lasted(2h40m54s) @project(day-2022-09-06.job)
+  - [x] mysql db dump to local @started(22-09-06 19:42) @done(22-09-06 20:35) @lasted(53m41s) @project(day-2022-09-06.job)
   - [x] 블로그 정리 및 내일 할일 정리 2022-09-05 @started(22-09-06 10:05) @done(22-09-06 10:06) @lasted(1m21s) @project(day-2022-09-05)
   - [x] pill @done(22-09-06 10:05) @project(day-2022-09-05)
   - [x] work on kakao noti @started(22-09-05 09:40) @done(22-09-05 10:46) @lasted(1h6m18s) @project(day-2022-09-05.job)
