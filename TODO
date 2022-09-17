@@ -8,8 +8,31 @@ day-2022-09-08:
   study:
     - [ ] prepare db study
 
+day-2022-09-11:
+  ✘ [ ] 블로그 정리 및 내일 할일 정리 2022-09-11 @cancelled(22-09-17 09:42)
+  - [ ] pill
+  study:
+    - [ ] prepare db study ch 11
+
+day-2022-09-12:
+  ✘ [ ] 블로그 정리 및 내일 할일 정리 2022-09-11 @cancelled(22-09-17 09:42)
+  - [ ] pill
+  job:
+    - [ ] request gop-20578 review
+    - [ ] kakao noti pair?
+
+day-2022-09-17:
+  - [ ] 블로그 정리 및 내일 할일 정리 2022-09-17
+  - [x] pill @done(22-09-17 09:43)
+  job:
+    - [x] try local dev @done(22-09-17 09:43)
+  study:
+    - [x] nest study @started(22-09-17 12:23) @done(22-09-17 18:04) @lasted(5h41m14s)
+    - [ ] func study
+    - [ ] prepare func study ch 12
+
 study:
-  - [ ] func study
+  - [ ] prepare func study ch 15
   - [ ] clean architecture study
   - [ ] leet study
   - [ ] study clean architecture on rxjs 3 - console
