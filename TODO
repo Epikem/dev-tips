@@ -1,46 +1,22 @@
-day-2022-09-08:
-  - [ ] 블로그 정리 및 내일 할일 정리 2022-09-08
-  - [ ] pill
+day-2022-09-19:
+  - [ ] 블로그 정리 및 내일 할일 정리 2022-09-19
+  - [x] pill @done(22-09-19 10:41)
   job:
-    - [x] work on kakao noti4 @started(22-09-08 09:28) @done(22-09-08 13:30) @lasted(4h2m44s)
-    - [ ] request gop-20578 review
-    - [ ] kakao noti pair?
+    - [x] daily @done(22-09-19 12:46)
+    - [x] step noti test all & req review @started(22-09-19 12:46) @done(22-09-19 12:59) @lasted(13m43s)
+    - [x] discuss step noti on kyc redo meeting @started(22-09-19 12:59) @done(22-09-19 14:01) @lasted(1h2m34s)
+    - [x] step noti test all & req review2 @started(22-09-19 14:23) @done(22-09-19 19:06) @lasted(4h43m59s)
+    - [ ] try local dev
   study:
-    - [ ] prepare db study
-
-day-2022-09-11:
-  ✘ [ ] 블로그 정리 및 내일 할일 정리 2022-09-11 @cancelled(22-09-17 09:42)
-  - [ ] pill
-  study:
-    - [ ] prepare db study ch 11
-
-day-2022-09-12:
-  ✘ [ ] 블로그 정리 및 내일 할일 정리 2022-09-11 @cancelled(22-09-17 09:42)
-  - [ ] pill
-  job:
-    - [ ] request gop-20578 review
-    - [ ] kakao noti pair?
-
-day-2022-09-17:
-  - [ ] 블로그 정리 및 내일 할일 정리 2022-09-17
-  - [x] pill @done(22-09-17 09:43)
-  job:
-    - [x] try local dev @done(22-09-17 09:43)
-  study:
-    - [x] nest study @started(22-09-17 12:23) @done(22-09-17 18:04) @lasted(5h41m14s)
     - [ ] func study
     - [ ] prepare func study ch 12
 
-
-day-2022-09-17:
-  - [ ] 블로그 정리 및 내일 할일 정리 2022-09-17
+day-2022-09-20:
+  - [ ] 블로그 정리 및 내일 할일 정리 2022-09-20
   - [ ] pill
   job:
+    - [x] gen test @started(22-09-20 22:39) @done(22-09-20 23:35) @lasted(56m13s)
     - [ ] try local dev
-    - [ ] step noti test all & req review
-    - [ ] discuss step noti on kyc redo meeting
-      - [ ] one
-      - [ ] two
   study:
     - [ ] func study
     - [ ] prepare func study ch 12
@@ -78,7 +54,16 @@ job:
   - [ ] rdp post migration to local using secret
   - [ ] local proto compile js setup
 
+etc:
+  - [ ] apply lh gimpo @due(22-10-06)
+
 Archive:
+  - [x] work on kakao noti4 @started(22-09-08 09:28) @done(22-09-08 13:30) @lasted(4h2m44s) @project(day-2022-09-08.job)
+  ✘ [ ] 블로그 정리 및 내일 할일 정리 2022-09-11 @cancelled(22-09-17 09:42) @project(day-2022-09-11)
+  ✘ [ ] 블로그 정리 및 내일 할일 정리 2022-09-11 @cancelled(22-09-17 09:42) @project(day-2022-09-12)
+  - [x] pill @done(22-09-17 09:43) @project(day-2022-09-17)
+  - [x] try local dev @done(22-09-17 09:43) @project(day-2022-09-17.job)
+  - [x] nest study @started(22-09-17 12:23) @done(22-09-17 18:04) @lasted(5h41m14s) @project(day-2022-09-17.study)
   - [x] 블로그 정리 및 내일 할일 정리 2022-09-07 @started(22-09-08 09:25) @done(22-09-08 09:26) @lasted(1m17s) @project(day-2022-09-07)
   - [x] pill @done(22-09-08 09:01) @project(day-2022-09-07)
   - [x] mysql db dump to local2 @started(22-09-07 09:10) @done(22-09-07 10:44) @lasted(1h34m43s) @project(day-2022-09-07.job)
