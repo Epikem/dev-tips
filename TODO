@@ -21,6 +21,48 @@ day-2022-09-20:
     - [ ] func study
     - [ ] prepare func study ch 12
 
+day-2022-09-26:
+  - [ ] 블로그 정리 및 내일 할일 정리 2022-09-26
+  - [ ] pill
+  job:
+    - [x] gop-21294 ssx @started(22-09-26 13:27) @done(22-09-26 16:46) @lasted(3h19m10s)
+    - [x] cs ticket @started(22-09-26 16:46) @done(22-09-26 17:52) @lasted(1h6m56s)
+    - [x] oms ticket @started(22-09-26 18:02) @done(22-09-26 19:48) @lasted(1h46m5s)
+    - [ ] try local dev
+  study:
+    - [ ] func study
+    - [ ] prepare func study ch 12
+
+
+day-2022-09-28:
+  - [x] 블로그 정리 및 내일 할일 정리 2022-09-28 @started(22-09-29 09:11) @done(22-09-29 09:13) @lasted(2m25s)
+  - [x] pill @done(22-09-28 09:39)
+  job:
+    - [x] cs ticket bug fix @started(22-09-28 09:41) @done(22-09-28 11:02) @lasted(1h21m41s)
+    - [x] daily @started(22-09-28 11:16) @done(22-09-28 11:42) @lasted(26m25s)
+    - [x] apply step noti review @started(22-09-28 11:15) @done(22-09-28 13:21) @lasted(2h6m28s)
+    - [x] apply step noti review2 @started(22-09-28 13:54) @done(22-09-28 15:03) @lasted(1h9m58s)
+    - [x] apply step noti review3 @started(22-09-28 15:25) @done(22-09-28 15:55) @lasted(30m55s)
+    - [x] cs ticket1 @started(22-09-28 15:04) @done(22-09-28 16:02) @lasted(58m24s)
+    - [x] story point est @started(22-09-28 15:55) @done(22-09-28 16:42) @lasted(47m39s)
+    - [x] apply step noti review4 @done(22-09-29 00:38)
+    - [ ] cs ticket2
+    - [ ] try local dev
+  study:
+    - [ ] func study
+    - [ ] prepare func study ch 12
+
+day-2022-09-29:
+  - [ ] 블로그 정리 및 내일 할일 정리 2022-09-29
+  - [ ] pill
+  job:
+    - [ ] apply step noti review4
+    - [ ] cs ticket2
+    - [ ] try local dev
+  study:
+    - [ ] func study
+    - [ ] prepare func study ch 12
+
 study:
   - [ ] prepare func study ch 15
   - [ ] clean architecture study
