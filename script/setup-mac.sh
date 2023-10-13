@@ -1,26 +1,40 @@
 # for mac, zsh
 echo 'setopt interactivecomments' >> ~/.zshrc && source ~/.zshrc
 
-brew cask install rectangle
-brew cask install firefox
-brew cask install app-cleaner
-brew cask install zoomus
-brew cask install visual-studio-code
-brew cask install dropbox
-brew cask install java
-brew cask install anaconda
+# install brew, the script maybe interactive (need password and confirm) so need mDLp1i3o2i395^epi2
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 
+# - Run these two commands in your terminal to add Homebrew to your PATH:
+(echo; echo 'eval "$(/opt/homebrew/bin/brew shellenv)"') >> /Users/hyunwoolee/.zprofile
+eval "$(/opt/homebrew/bin/brew shellenv)"
+
+# dev tools
+brew install hyper
+brew install wget
+brew install pyenv
+brew install go-task/tap/go-task
 brew install graphviz
 brew install asciinema
 brew install gpg
+brew install tree
+brew install java
+brew install visual-studio-code
+brew install warp
 
-brew install wget
+# productivity tools
+brew install rectangle
+brew install firefox
+brew install app-cleaner
+brew install zoom
+brew install obsidian
+brew install dropbox
+brew install karabiner-elements
+# brew install anaconda
 
 # install oh-my-zsh
 # cannot install oh-my-zsh with brew
 sh -c "$(wget https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh -O -)"
 
-brew install hyper
 brew install macs-fan-control
 brew install scroll-reverser
 brew install gpg2
@@ -31,7 +45,7 @@ brew install podman
 brew install podman-compose
 brew install podman-desktop
 brew install fnm # or use setup script: curl -fsSL https://fnm.vercel.app/install | bash  (dependencies: curl, unzip)
-"$(fnm env --use-on-cd)" >> ~/.zshrc
+echo "eval \"\$(fnm env --use-on-cd)\"" >> ~/.zshrc
 source ~/.zshrc
 
 fnm install 20
@@ -44,23 +58,31 @@ git config --global core.editor 'code --wait'
 git config --global user.name "Hyunwoo Lee"
 git config --global user.email "epikem1@gmail.com"
 
-# get gpg signing key for user.signingKey
+# get gpg signing key for user.signingKey (need to generate one before run)
 SIGNING_KEY=$(gpg --list-secret-keys --keyid-format LONG | grep sec | awk '{print $2}' | awk -F'/' '{print $2}')
 
 # NOTE: manually install 'GPG indicator' extension in VSCode to unlock keys which passphrase is not empty
 
 git config --global user.gpgSign true
-git config --global user.signingKey "${GPG_KEY_ID}"
+git config --global user.signingKey "${SIGNING_KEY}"
 git config --global init.defaultBranch "main"
 git config --global commit.gpgSign true
 # git config --global commit.program gpg2
 
+# vscode extensions
+code --install-extension ms-vscode-remote.remote-ssh
 
 # install rustup: https://www.rust-lang.org/tools/install
 # (interactive script)
 # > curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
 # (automatic script)
 curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh -s -- -y
+source "$HOME/.cargo/env"
+
+# etc
+brew install discord
+brew install league-of-legends
+# required after install: (open /opt/homebrew/Caskroom/league-of-legends/1.0/Install\ League\ of\ Legends\ na.app)
 
 # 10688  cd install-sources
 # 10689  ls
