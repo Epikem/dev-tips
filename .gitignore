@@ -8,3 +8,4 @@ images
 *-p.md
 .gitsecret/keys/random_seed
 private
+.obsidian/workspace.json
