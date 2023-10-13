@@ -15,7 +15,7 @@ jobs:
   build:
     env:
       # YEAR: $(date +%Y)
-      YEAR: 2022
+      YEAR: 2023
       SOURCE_DIR: ../../TIL/
       TARGET_DIR: ./private/_posts/
 
