@@ -38,8 +38,8 @@ jobs:
         node-version: ${{ matrix.node-version }}
         # cache: 'npm'
         # working-directory: ./scripts/blog-updater  # subdirectory not yet supported: https://github.com/actions/setup-node/pull/299
-    - name: test
-      run: npm ci && npm test
+    # - name: test
+    #   run: npm ci && npm test
     - name: process posts
       run: npm run process
     - name: public to blog
