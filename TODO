@@ -1,38 +1,7 @@
-day-2022-09-30:
-  - [ ] 블로그 정리 및 내일 할일 정리 2022-09-30
-  - [ ] pill
-  job:
-    - [x] cs ticket3 - change transaction status @started(22-09-30 10:38) @done(22-09-30 11:30) @lasted(52m15s)
-    - [ ] cs ticket4 - change transaction status
-    - [ ] try local dev
-  study:
-    - [ ] func study
-    - [ ] prepare func study ch 12
-
-day-2022-11-03:
-  - [ ] 블로그 정리 및 내일 할일 정리 2022-11-03
-  - [ ] pill
-  job:
-    - [x] 이메일 테스트 @started(22-11-03 14:31) @done(22-11-03 19:44) @lasted(5h13m21s)
-
-day-2022-10-11:
-  ✘ [ ] 블로그 정리 및 내일 할일 정리 2022-10-11 @cancelled(22-12-30 13:07)
-  - [ ] pill
-  job:
-    - [ ] apply step noti review4
-    - [ ] GOP-21126 register email template
-    - [ ] try local dev
-  study:
-    - [ ] func study
-    - [ ] prepare func study ch 12
-
-day-2022-12-30:
-  - [ ] 블로그 정리 및 내일 할일 정리 2022-12-30
-  job:
-    - [x] salted hash 리뷰적용부분 테스트 @done(23-01-01 16:26)
+day-2023-10-14:
+  - [ ] 블로그 정리 및 내일 할일 정리 2023-10-14
 
 study:
-  - [ ] prepare func study ch 15
   - [ ] clean architecture study
   - [ ] leet study
   - [ ] study clean architecture on rxjs 3 - console
@@ -46,26 +15,6 @@ arb:
     - [ ] 출금수수료 작업 2
     - [ ] strategy logic 변경 반영
     - [ ] 직접 돌리기
-
-study:
-  - [ ] func study prep 12
-  - [ ] func study prep 15
-
-job:
-  - [ ] GOP-18688 @due(22-07-28)
-  - [ ] GOP-8059 create tickets
-  - [ ] 8장 스터디 - 2
-  - [ ] jb handle broken status
-  - [ ] add verify crypto address lambda
-  - [ ] GOP-15968 3 (wallet add not internal bug)
-  - [ ] GOP-15886 5 apply review
-  - [ ] sec - send firefox open request
-  - [ ] ws test
-  - [ ] rdp post migration to local using secret
-  - [ ] local proto compile js setup
-
-etc:
-  - [ ] apply lh gimpo @due(22-10-06)
 
 Archive:
   - [x] work on kakao noti4 @started(22-09-08 09:28) @done(22-09-08 13:30) @lasted(4h2m44s) @project(day-2022-09-08.job)
